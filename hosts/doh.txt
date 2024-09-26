@@ -1211,14 +1211,6 @@
 0.0.0.0 ns1.qquack.org
 0.0.0.0 dns.qrtz.club
 0.0.0.0 hostdare.qtxd.net
-0.0.0.0 dns.quad9.net
-0.0.0.0 dns-nosec.quad9.net
-0.0.0.0 dns10.quad9.net
-0.0.0.0 dns11.quad9.net
-0.0.0.0 dns12.quad9.net
-0.0.0.0 dns13.quad9.net
-0.0.0.0 dns9.quad9.net
-0.0.0.0 2.dnscrypt-cert.quad9.net
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
 0.0.0.0 dns.quiet.rocks
