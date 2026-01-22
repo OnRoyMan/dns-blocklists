@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:34 UTC
-# Version: 2026.0121.1434.09
+# Last modified: 22 Jan 2026 02:29 UTC
+# Version: 2026.0122.0229.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11676
+# Number of entries: 11682
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -4574,6 +4574,7 @@ local=/hdfilme.cloud/
 local=/hdfilme.cx/
 local=/hdfilme.food/
 local=/hdfilme.io/
+local=/hdfilme.press/
 local=/hdfilme.ru/
 local=/hdfilme.to/
 local=/hdfilme.top/
@@ -5412,6 +5413,7 @@ local=/justdubs.org/
 local=/justinwb.com/
 local=/juststream.mom/
 local=/jutone.com/
+local=/jvavav.com/
 local=/blog.jxzmz.org/
 local=/k-streaming.tv/
 local=/k2nblog.com/
@@ -9172,6 +9174,7 @@ local=/streamingcommunityz.guru/
 local=/streamingcommunityz.hair/
 local=/streamingcommunityz.help/
 local=/streamingcommunityz.info/
+local=/streamingcommunityz.international/
 local=/streamingcommunityz.irish/
 local=/streamingcommunityz.it/
 local=/streamingcommunityz.kim/
@@ -9942,6 +9945,7 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
+local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/
@@ -10123,6 +10127,7 @@ local=/tsearch.me/
 local=/tsecurity.de/
 local=/tsinghuaedu.online/
 local=/tsinghuaedu.ru/
+local=/tstream.site/
 local=/tsundere.pw/
 local=/tti.nu/
 local=/ttoktv.com/
@@ -11057,6 +11062,7 @@ local=/watch32.is/
 local=/watch32hd.co/
 local=/watch32hd.org/
 local=/watchamovie.today/
+local=/watchanimeworld.net/
 local=/watchasian.co/
 local=/watchcartoononline.com/
 local=/watchcartoononline.io/

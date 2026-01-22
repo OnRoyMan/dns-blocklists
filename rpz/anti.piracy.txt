@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769006040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769048940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Jan 2026 14:34 UTC
-; Version: 2026.0121.1434.09
+; Last modified: 22 Jan 2026 02:29 UTC
+; Version: 2026.0122.0229.25
 ; Syntax: RPZ
-; Number of entries: 23352
+; Number of entries: 23364
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1656,6 +1656,8 @@ tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
 *.torrentdownloads.cc CNAME .
+node02.torrentonline.cc CNAME .
+*.node02.torrentonline.cc CNAME .
 torrentproject.cc CNAME .
 *.torrentproject.cc CNAME .
 torrents9.cc CNAME .
@@ -5292,6 +5294,8 @@ justinwb.com CNAME .
 *.justinwb.com CNAME .
 jutone.com CNAME .
 *.jutone.com CNAME .
+jvavav.com CNAME .
+*.jvavav.com CNAME .
 k2nblog.com CNAME .
 *.k2nblog.com CNAME .
 kaitovault.com CNAME .
@@ -10782,6 +10786,8 @@ guardaserie.institute CNAME .
 *.guardaserie.institute CNAME .
 vegamovies.institute CNAME .
 *.vegamovies.institute CNAME .
+streamingcommunityz.international CNAME .
+*.streamingcommunityz.international CNAME .
 hdmovie2.investments CNAME .
 *.hdmovie2.investments CNAME .
 vegamovies.investments CNAME .
@@ -14732,6 +14738,8 @@ warrex.net CNAME .
 *.warrex.net CNAME .
 watch-tvseries.net CNAME .
 *.watch-tvseries.net CNAME .
+watchanimeworld.net CNAME .
+*.watchanimeworld.net CNAME .
 watchfilm.net CNAME .
 *.watchfilm.net CNAME .
 watchserieshd.net CNAME .
@@ -17640,6 +17648,8 @@ eurostreaming.poker CNAME .
 *.eurostreaming.poker CNAME .
 hdmovie2.poker CNAME .
 *.hdmovie2.poker CNAME .
+hdfilme.press CNAME .
+*.hdfilme.press CNAME .
 thepiratebay.press CNAME .
 *.thepiratebay.press CNAME .
 vegamovies.press CNAME .
@@ -19472,6 +19482,8 @@ torrent9.site CNAME .
 *.torrent9.site CNAME .
 torrentgalaxy-official.site CNAME .
 *.torrentgalaxy-official.site CNAME .
+tstream.site CNAME .
+*.tstream.site CNAME .
 vegamoviesog.site CNAME .
 *.vegamoviesog.site CNAME .
 viddseey.site CNAME .
