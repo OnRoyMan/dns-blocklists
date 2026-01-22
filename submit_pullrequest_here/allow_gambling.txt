@@ -1,4 +1,11 @@
 # Domains to be removed from the gambling list.
+
+*.spotify.com
+
+edu.cn
+mil.cn
+gov.cn
+
 *.1688.com
 *.activated.win
 *.akadns.net

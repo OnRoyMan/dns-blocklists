@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769077860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769094780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Jan 2026 10:31 UTC
-; Version: 2026.0122.1031.57
+; Last modified: 22 Jan 2026 15:13 UTC
+; Version: 2026.0122.1513.39
 ; Syntax: RPZ
-; Number of entries: 79888
+; Number of entries: 79876
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -22792,8 +22792,6 @@ casinos-seguros.com CNAME .
 *.casinos-seguros.com CNAME .
 casinos-sin-autoprohibicion.com CNAME .
 *.casinos-sin-autoprohibicion.com CNAME .
-casinos-vip.com CNAME .
-*.casinos-vip.com CNAME .
 casinos-wazamba.com CNAME .
 *.casinos-wazamba.com CNAME .
 casinos-zeus-ar.com CNAME .
@@ -32674,8 +32672,6 @@ lion4dmarshmallow.com CNAME .
 *.lion4dmarshmallow.com CNAME .
 lion88casino-australia.com CNAME .
 *.lion88casino-australia.com CNAME .
-liongroupfm.com CNAME .
-*.liongroupfm.com CNAME .
 lionslots.com CNAME .
 *.lionslots.com CNAME .
 lionsshopnfl.com CNAME .
@@ -41338,8 +41334,6 @@ scoredcasino.com CNAME .
 *.scoredcasino.com CNAME .
 scpokergame.com CNAME .
 *.scpokergame.com CNAME .
-scr111casino.com CNAME .
-*.scr111casino.com CNAME .
 scr66.com CNAME .
 *.scr66.com CNAME .
 scratch2cash.com CNAME .
@@ -43202,8 +43196,6 @@ sportytrader.com CNAME .
 *.sportytrader.com CNAME .
 sportzino.com CNAME .
 *.sportzino.com CNAME .
-spclient.wg.spotify.com CNAME .
-*.spclient.wg.spotify.com CNAME .
 spreadeaglebets.com CNAME .
 *.spreadeaglebets.com CNAME .
 spreadex.com CNAME .
@@ -61446,8 +61438,6 @@ casino-mad.org CNAME .
 *.casino-mad.org CNAME .
 casino-maxi-giris.org CNAME .
 *.casino-maxi-giris.org CNAME .
-casino-noir.org CNAME .
-*.casino-noir.org CNAME .
 casino-ohneoasis.org CNAME .
 *.casino-ohneoasis.org CNAME .
 casino-rank.org CNAME .
@@ -67972,8 +67962,6 @@ nongamstopcasino.site CNAME .
 *.nongamstopcasino.site CNAME .
 nuhunslot.site CNAME .
 *.nuhunslot.site CNAME .
-okegaspol.site CNAME .
-*.okegaspol.site CNAME .
 one-vanilla.site CNAME .
 *.one-vanilla.site CNAME .
 online-casino-sofortuberweisung.site CNAME .

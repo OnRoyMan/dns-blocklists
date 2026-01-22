@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 09:28 UTC
-# Version: 2026.0122.0928.02
+# Last modified: 22 Jan 2026 13:42 UTC
+# Version: 2026.0122.1342.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14208
+# Number of entries: 14204
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2966,7 +2966,6 @@ local=/dbpass.de/
 local=/dbrello.de/
 local=/dbw-handel.de/
 local=/dc-germania.com/
-local=/upcock.dchand.blog/
 local=/dcshoesaustria.at/
 local=/dcsresearch.com/
 local=/223.de.com/
@@ -4063,7 +4062,6 @@ local=/europharmx.com/
 local=/europillsonline.com/
 local=/euroshopping.store/
 local=/eurotone.shop/
-local=/eurotov.com/
 local=/eurshopping.com/
 local=/eurtrans.com/
 local=/eurvipsale.shop/
@@ -4637,7 +4635,6 @@ local=/forextradition.com/
 local=/formalot.com/
 local=/formanacupuncture.com/
 local=/formationy.com/
-local=/halfbe.formchain.shop/
 local=/oneact.formchain.shop/
 local=/formula-handel.de/
 local=/fornialegnaaccessori.com/
@@ -9471,7 +9468,6 @@ local=/onex-corporation.com/
 local=/onex-trade.com/
 local=/onfinery.com/
 local=/ongrowth.de/
-local=/emma.oninu.com/
 local=/onitech.de/
 local=/onitsukatiger.at/
 local=/onitsukatigerschuhe.de/

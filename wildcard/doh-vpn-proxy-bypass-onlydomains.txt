@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 10:38 UTC
-# Version: 2026.0122.1038.02
+# Last modified: 22 Jan 2026 15:20 UTC
+# Version: 2026.0122.1520.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 10128
+# Number of entries: 10127
 #
 000000555.xyz
 ss.0001.xyz
@@ -2938,7 +2938,6 @@ rcpc2.duckdns.org
 rexdns.duckdns.org
 sabeendns.duckdns.org
 salvadoserver.duckdns.org
-shadowbrowser.duckdns.org
 site-2.duckdns.org
 site-3.duckdns.org
 testapp-0-1-1.duckdns.org

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769074080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769089320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Jan 2026 09:28 UTC
-; Version: 2026.0122.0928.02
+; Last modified: 22 Jan 2026 13:42 UTC
+; Version: 2026.0122.1342.54
 ; Syntax: RPZ
-; Number of entries: 28416
+; Number of entries: 28408
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1094,8 +1094,6 @@ shopwithme.biz CNAME .
 *.shopwithme.biz CNAME .
 weinsteincorp.biz CNAME .
 *.weinsteincorp.biz CNAME .
-upcock.dchand.blog CNAME .
-*.upcock.dchand.blog CNAME .
 baybed.hairblue.blog CNAME .
 *.baybed.hairblue.blog CNAME .
 oneact.hairblue.blog CNAME .
@@ -6346,8 +6344,6 @@ europharmx.com CNAME .
 *.europharmx.com CNAME .
 europillsonline.com CNAME .
 *.europillsonline.com CNAME .
-eurotov.com CNAME .
-*.eurotov.com CNAME .
 eurshopping.com CNAME .
 *.eurshopping.com CNAME .
 eurtrans.com CNAME .
@@ -12332,8 +12328,6 @@ onex-trade.com CNAME .
 *.onex-trade.com CNAME .
 onfinery.com CNAME .
 *.onfinery.com CNAME .
-emma.oninu.com CNAME .
-*.emma.oninu.com CNAME .
 onitsukatigerschweiz.com CNAME .
 *.onitsukatigerschweiz.com CNAME .
 onitsukatigervogue.com CNAME .
@@ -26728,8 +26722,6 @@ fishneu.shop CNAME .
 *.fishneu.shop CNAME .
 flammenkunst.shop CNAME .
 *.flammenkunst.shop CNAME .
-halfbe.formchain.shop CNAME .
-*.halfbe.formchain.shop CNAME .
 oneact.formchain.shop CNAME .
 *.oneact.formchain.shop CNAME .
 freeteck.shop CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 10:31 UTC
-# Version: 2026.0122.1031.57
+# Last modified: 22 Jan 2026 15:13 UTC
+# Version: 2026.0122.1513.39
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 39944
+# Number of entries: 39938
 #
 *.000-online-casino.com
 *.0009casino.com
@@ -10791,7 +10791,6 @@
 *.casino-newlucky.com
 *.casino-ninewin.net
 *.casino-nirvana.com
-*.casino-noir.org
 *.casino-nomad-kz.ru
 *.casino-non-aams-che-pagano-subito.site
 *.casino-nova-scotia-online.com
@@ -12836,7 +12835,6 @@
 *.casinos-seguros.com
 *.casinos-sin-autoprohibicion.com
 *.casinos-vergleich.de
-*.casinos-vip.com
 *.casinos-wazamba.com
 *.casinos-zeus-ar.com
 *.casinos123.com
@@ -23837,7 +23835,6 @@
 *.lion4dmarshmallow.com
 *.lion88casino-australia.com
 *.lionexch.io
-*.liongroupfm.com
 *.lionslots.com
 *.lionsshopnfl.com
 *.liontotodaftar.xyz
@@ -27678,7 +27675,6 @@
 *.okebetsign.com
 *.okebetsite.com
 *.okegascoan.xyz
-*.okegaspol.site
 *.okejp.xyz
 *.okeoce.xyz
 *.okeplaylabrent.xyz
@@ -32919,7 +32915,6 @@
 *.scorpion.casino
 *.scotex.de
 *.scpokergame.com
-*.scr111casino.com
 *.scr66.com
 *.scratch2cash.com
 *.scratchcardbets.com
@@ -34688,7 +34683,6 @@
 *.sportytrader.com
 *.sportzino.com
 *.spotbet.cc
-*.spclient.wg.spotify.com
 *.spreadeaglebets.com
 *.spreadex.com
 *.spree.com

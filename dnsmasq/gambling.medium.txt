@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 10:31 UTC
-# Version: 2026.0122.1031.03
+# Last modified: 22 Jan 2026 15:12 UTC
+# Version: 2026.0122.1512.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 74972
+# Number of entries: 74966
 #
 local=/0-betsixty.com/
 local=/0-casino.info/
@@ -19242,7 +19242,6 @@ local=/casino-nitro.com/
 local=/casino-nixbet-fr.fr/
 local=/casino-nixbet-nl.nl/
 local=/casino-no-aams.net/
-local=/casino-noir.org/
 local=/casino-nomad-kz.ru/
 local=/casino-non-aams-che-pagano.net/
 local=/casino-non-aams-che-pagano.org/
@@ -23219,7 +23218,6 @@ local=/casinos-spinsy.fr/
 local=/casinos-top10.fun/
 local=/casinos-unique.com/
 local=/casinos-vergleich.de/
-local=/casinos-vip.com/
 local=/casinos-wazamba.com/
 local=/casinos-without-registrations.fi/
 local=/casinos-zeus-ar.com/
@@ -44380,7 +44378,6 @@ local=/lionelbets4.bond/
 local=/lionelbets5.bond/
 local=/lionex.net/
 local=/lionexch.io/
-local=/liongroupfm.com/
 local=/lionpoker.net/
 local=/lionslots.buzz/
 local=/lionslots.com/
@@ -51231,7 +51228,6 @@ local=/okebetsite.com/
 local=/okebos138-36.xyz/
 local=/okegas.fun/
 local=/okegascoan.xyz/
-local=/okegaspol.site/
 local=/okejp.xyz/
 local=/okeoce.xyz/
 local=/okeplaylabrent.xyz/
@@ -61813,7 +61809,6 @@ local=/scottcasino.com/
 local=/scottsdalecasinoresorts.com/
 local=/scottwritesstuff.com/
 local=/scpokergame.com/
-local=/scr111casino.com/
 local=/scr66.com/
 local=/scratch2cash.com/
 local=/scratchcardbets.com/
@@ -65262,7 +65257,6 @@ local=/sportybz.com/
 local=/sportytrader.com/
 local=/sportzino.com/
 local=/spotbet.cc/
-local=/spclient.wg.spotify.com/
 local=/spreadeaglebets.com/
 local=/spreadex.com/
 local=/spreadexcasinov.com/

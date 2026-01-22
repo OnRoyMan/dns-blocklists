@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 10:31 UTC
-# Version: 2026.0122.1031.57
+# Last modified: 22 Jan 2026 15:13 UTC
+# Version: 2026.0122.1513.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 39944
+# Number of entries: 39938
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -10791,7 +10791,6 @@ local=/casino-neospin.net/
 local=/casino-newlucky.com/
 local=/casino-ninewin.net/
 local=/casino-nirvana.com/
-local=/casino-noir.org/
 local=/casino-nomad-kz.ru/
 local=/casino-non-aams-che-pagano-subito.site/
 local=/casino-nova-scotia-online.com/
@@ -12836,7 +12835,6 @@ local=/casinos-robocat.com/
 local=/casinos-seguros.com/
 local=/casinos-sin-autoprohibicion.com/
 local=/casinos-vergleich.de/
-local=/casinos-vip.com/
 local=/casinos-wazamba.com/
 local=/casinos-zeus-ar.com/
 local=/casinos123.com/
@@ -23837,7 +23835,6 @@ local=/liobet.com/
 local=/lion4dmarshmallow.com/
 local=/lion88casino-australia.com/
 local=/lionexch.io/
-local=/liongroupfm.com/
 local=/lionslots.com/
 local=/lionsshopnfl.com/
 local=/liontotodaftar.xyz/
@@ -27678,7 +27675,6 @@ local=/oke63-9.com/
 local=/okebetsign.com/
 local=/okebetsite.com/
 local=/okegascoan.xyz/
-local=/okegaspol.site/
 local=/okejp.xyz/
 local=/okeoce.xyz/
 local=/okeplaylabrent.xyz/
@@ -32919,7 +32915,6 @@ local=/scoreshots.us/
 local=/scorpion.casino/
 local=/scotex.de/
 local=/scpokergame.com/
-local=/scr111casino.com/
 local=/scr66.com/
 local=/scratch2cash.com/
 local=/scratchcardbets.com/
@@ -34688,7 +34683,6 @@ local=/sportybz.com/
 local=/sportytrader.com/
 local=/sportzino.com/
 local=/spotbet.cc/
-local=/spclient.wg.spotify.com/
 local=/spreadeaglebets.com/
 local=/spreadex.com/
 local=/spree.com/
