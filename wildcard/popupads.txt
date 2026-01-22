@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 13:40 UTC
-# Version: 2026.0122.1340.22
+# Last modified: 22 Jan 2026 20:18 UTC
+# Version: 2026.0122.2018.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 59467
+# Number of entries: 59469
 #
 *.0.beer
 *.0.club
@@ -31985,7 +31985,8 @@
 *.kcjmivforjixu.online
 *.kcmstredk.com
 *.kcnereqedvlp.com
-*.kcolb.site
+*.js.kcolb.site
+*.mngr.kcolb.site
 *.kcqbrwygxixdh.site
 *.dciclc.kctnodd.top
 *.kcxljicqwzjfd.space
@@ -40690,7 +40691,8 @@
 *.pachegaimax.net
 *.pacificbank.asia
 *.pacificdentalcenterhuntingtonpark.com
-*.pacifics.sbs
+*.si.pacifics.sbs
+*.vi.pacifics.sbs
 *.pacifyinvalid.com
 *.packagebellysmoothly.com
 *.packerta.com
@@ -51310,7 +51312,6 @@
 *.terra8nb.com
 *.terraclicks.com
 *.terranostratapas.com
-*.terrapops.com
 *.terrapush.com
 *.terrasdsdstd.com
 *.terratraf.com
@@ -58690,7 +58691,8 @@
 *.yufrnpasmesines.com
 *.yugjwgg.top
 *.yuhuads.com
-*.yuhuan.cc
+*.59557com.yuhuan.cc
+*.wwwtk1976com.yuhuan.cc
 *.yuiiy.com
 *.yuintbradshed.com
 *.mv.yuitvr.com

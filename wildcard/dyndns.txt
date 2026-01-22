@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:31 UTC
-# Version: 2026.0121.1431.52
+# Last modified: 22 Jan 2026 22:42 UTC
+# Version: 2026.0122.2242.32
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1467
+# Number of entries: 1415
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -21,7 +21,6 @@
 *.16-b.it
 *.1cooldns.com
 *.1dumb.com
-*.2288.org
 *.24-7.ro
 *.25u.com
 *.2fine.de
@@ -31,35 +30,25 @@
 *.3-a.net
 *.32-b.it
 *.3322.net
-*.3322.org
 *.360digit.com
-*.3d-game.com
 *.3dxtras.com
 *.3n.cc
 *.3trust.com
 *.3utilities.com
 *.404.mn
-*.4cloud.click
 *.4dq.com
-*.4irc.com
 *.4khdcamera.com
 *.4mydomain.com
-*.4nmn.com
 *.4pu.com
 *.4twenty.us
 *.64-b.it
-*.6600.org
 *.688.org
-*.7766.org
 *.77qac.com
 *.77uam.com
 *.77ynd.com
 *.79ama.com
-*.8800.org
-*.8866.org
 *.88uan.com
 *.88zkt.com
-*.9966.org
 *.99tac.com
 *.abatek.com
 *.abmetalmecanica.com
@@ -109,7 +98,6 @@
 *.autoipset.com
 *.avandns.com
 *.ax.lt
-*.b0ne.com
 *.b0tnet.com
 *.b33r.us
 *.bad.mn
@@ -122,7 +110,6 @@
 *.barrell-of-knowledge.info
 *.baselinux.net
 *.bayipazar.com
-*.bbsindex.com
 *.beerprojects.com
 *.benjamin.it
 *.better-than.tv
@@ -158,7 +145,6 @@
 *.broke-it.net
 *.brweb.org
 *.bsn2bsn.com
-*.bumbleshrimp.com
 *.burlingtondrywall.com
 *.buyshouses.net
 *.byte4byte.com
@@ -183,7 +169,6 @@
 *.changeip.us
 *.charihoproducts.com
 *.charter.com
-*.chatnook.com
 *.chavo.biz
 *.checkor.com
 *.chickenkiller.com
@@ -212,7 +197,6 @@
 *.cnstefancelmare.ro
 *.changeip.co.uk
 *.dynamicdns.co.uk
-*.nav.co.id
 *.no-ip.co.uk
 *.coalnet.ru
 *.codns.com
@@ -222,9 +206,6 @@
 *.ddns.com.br
 *.ddns.com.co
 *.dynamicdns.com.co
-*.fedea.com.ar
-*.img.com.ar
-*.kalbas.com.vn
 *.winco.com.br
 *.compress.to
 *.compuinter.com
@@ -253,9 +234,7 @@
 *.damnserver.com
 *.dark-byte.net
 *.darksair.org
-*.darktech.org
 *.davidsagar.com
-*.ddns.cam
 *.ddns.info
 *.ddns.me
 *.ddns.mobi
@@ -277,7 +256,6 @@
 *.ddnss.org
 *.ddnssec.de
 *.de-a.org
-*.deaftone.com
 *.dearabba.org
 *.dedyn.io
 *.demosoftonline.com
@@ -286,7 +264,6 @@
 *.dhcp.biz
 *.dhis.org
 *.dhs.org
-*.didns.ru
 *.digikabel.hu
 *.digitalgroupe.com
 *.ditchyourip.com
@@ -296,7 +273,6 @@
 *.dnet.hu
 *.dnmcoffman.com
 *.dns.army
-*.dns.navy
 *.dns-auth.com
 *.dns-auth.net
 *.dns-cloud.net
@@ -328,7 +304,6 @@
 *.dnshome.icu
 *.dnsiskinky.com
 *.dnsking.ch
-*.dnslive.net
 *.dnsmax.com
 *.dnsname.org
 *.dnsnew.org
@@ -356,7 +331,6 @@
 *.drunkensailor.org
 *.dsmtp.com
 *.dtdns.com
-*.dtdns.org
 *.dubya.info
 *.dubya.net
 *.dubya.us
@@ -369,7 +343,6 @@
 *.dvr-ddns.com
 *.dvrcam.info
 *.dvrdns.org
-*.dvrlists.com
 *.dyn.ch
 *.dyn.com
 *.dyn.mk
@@ -454,7 +427,6 @@
 *.easydns.net
 *.easydns.org
 *.eating-organic.net
-*.eatuo.com
 *.echoparklake.com
 *.edns.biz
 *.effers.com
@@ -486,8 +458,6 @@
 *.est-mon-blogueur.com
 *.eth64.de
 *.etitrans.com
-*.etowns.net
-*.etowns.org
 *.eurotank.ro
 *.eva.hk
 *.everton.com
@@ -496,8 +466,6 @@
 *.ezua.com
 *.ezxdev.org
 *.f-parts.net
-*.f3322.net
-*.f3322.org
 *.fairuse.org
 *.falcongreen.com
 *.fantasyleague.cc
@@ -505,7 +473,6 @@
 *.farted.net
 *.fartit.com
 *.fatdiary.org
-*.fdns.uk
 *.fearpenguins.com
 *.feste-ip.net
 *.fin-tech.com
@@ -617,7 +584,6 @@
 *.gotdns.ch
 *.gotdns.com
 *.gotdns.org
-*.gotgeeks.com
 *.govt.hu
 *.gr8name.biz
 *.grandmasgossip.com
@@ -853,7 +819,6 @@
 *.kellserve.com
 *.kicks-ass.net
 *.kicks-ass.org
-*.kir22.ru
 *.klapa.eu
 *.knabrub.com
 *.knowsitall.info
@@ -917,7 +882,6 @@
 *.mefound.com
 *.melakaboy.com
 *.merseine.com
-*.merseine.nu
 *.merseine.org
 *.mett.ru
 *.mexsipel.net
@@ -965,7 +929,6 @@
 *.myaddr.io
 *.myaddr.tools
 *.mydad.info
-*.myddns.biz
 *.myddns.com
 *.myddns.me
 *.myddns.rocks
@@ -1006,7 +969,6 @@
 *.mysecuritycamera.net
 *.mysecuritycamera.org
 *.myserver.org
-*.mysynology.net
 *.myvnc.com
 *.mywebworld.info
 *.mywire.org
@@ -1035,7 +997,6 @@
 *.nflfan.org
 *.nhlfan.net
 *.no-domain.name
-*.no-ip.be
 *.no-ip.biz
 *.no-ip.ca
 *.no-ip.com
@@ -1091,7 +1052,6 @@
 *.onthewifi.com
 *.ooguy.com
 *.opior.com
-*.malam.or.id
 *.oray.com
 *.d-n-s.org.uk
 *.dynamicdns.org.uk
@@ -1106,7 +1066,6 @@
 *.partycenteronline.com
 *.patelmortgage.com
 *.paulkelly.org
-*.pcanywhere.net
 *.peachyweb.com
 *.pedie.info
 *.pendulumaudio.com
@@ -1190,7 +1149,6 @@
 *.sannon-stamm.com
 *.saves-the-whales.com
 *.scay.net
-*.scieron.com
 *.scottlewisonline.com
 *.scottstreit.com
 *.scrapitsoftware.com
@@ -1206,7 +1164,6 @@
 *.selfip.info
 *.selfip.net
 *.selfip.org
-*.sellclassics.com
 *.sells-for-less.com
 *.sells-for-u.com
 *.sells-it.net
@@ -1247,7 +1204,6 @@
 *.sexmistrz.pl
 *.sexxxy.biz
 *.shacknet.biz
-*.shacknet.nu
 *.shacknet.us
 *.shadir.com
 *.sharkltd.com
@@ -1269,7 +1225,6 @@
 *.slasdot.com
 *.sline.net
 *.sly.io
-*.slyip.com
 *.slyip.net
 *.smelly.cc
 *.sne.jp
@@ -1283,7 +1238,6 @@
 *.space-to-rent.com
 *.spacetechnology.net
 *.spdns.de
-*.spdns.org
 *.spdyn.de
 *.spectrumnet.bg
 *.spelar.se
@@ -1314,7 +1268,6 @@
 *.sundby.com
 *.surak.kz
 *.surfnet.ca
-*.suroot.com
 *.swtest.ru
 *.synoserver.com
 *.sysadminetworks.com
@@ -1386,9 +1339,6 @@
 *.usa.cc
 *.uzhi.ru
 *.v13clan.com
-*.v6.army
-*.v6.navy
-*.v6.rocks
 *.vankin.de
 *.vantechddns.com
 *.vantechdns.com
@@ -1420,7 +1370,6 @@
 *.webhop.me
 *.webhop.net
 *.webhop.org
-*.webok.net
 *.webredirect.org
 *.webs.vc
 *.westblade.com
@@ -1468,7 +1417,6 @@
 *.zaibar.ro
 *.zanity.net
 *.zapto.org
-*.ze.am
 *.zelslonik.info
 *.zneth.com
 *.zoneedit.com

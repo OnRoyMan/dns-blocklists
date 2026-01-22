@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 10:32 UTC
-# Version: 2026.0122.1032.19
+# Last modified: 22 Jan 2026 22:37 UTC
+# Version: 2026.0122.2237.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11683
+# Number of entries: 11684
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -349,6 +349,7 @@ local=/720pstream.nu/
 local=/720pstream.se/
 local=/72939229dww.com/
 local=/77help.ru/
+local=/786livetv.pro/
 local=/78964564.xyz/
 local=/7mag.net/
 local=/7movs.com/
@@ -685,9 +686,12 @@ local=/altadefinizionegratis.cloud/
 local=/altadefinizionegratis.cool/
 local=/altadefinizionegratis.cyou/
 local=/altadefinizionegratis.fit/
+local=/altadefinizionegratis.fun/
 local=/altadefinizionegratis.gold/
 local=/altadefinizionegratis.group/
+local=/altadefinizionegratis.hair/
 local=/altadefinizionegratis.help/
+local=/altadefinizionegratis.homes/
 local=/altadefinizionegratis.ink/
 local=/altadefinizionegratis.mom/
 local=/altadefinizionegratis.news/
@@ -700,6 +704,10 @@ local=/altadefinizionegratis.store/
 local=/altadefinizionegratis.today/
 local=/altadefinizionegratis.watch/
 local=/altadefinizioneita.me/
+local=/altadefinizionez.beer/
+local=/altadefinizionez.forum/
+local=/altadefinizionez.group/
+local=/altadefinizionez.pics/
 local=/altbinz.net/
 local=/alterupload.com/
 local=/alypum.beer/
@@ -1573,7 +1581,6 @@ local=/tracker.breizh.pm/
 local=/broadcasthe.net/
 local=/brodownload9s.com/
 local=/brokensilenze.net/
-local=/brokenstones.is/
 local=/brokenstones.me/
 local=/tracker.brokenstones.club/
 local=/brothers-of-usenet.net/
@@ -2507,7 +2514,6 @@ local=/ddlspot.com/
 local=/ddlvalley.me/
 local=/ddnbd.com/
 local=/ddnbd.fun/
-local=/asiatorrent.ddns.net/
 local=/houniao.ddns.net/
 local=/ddos.city/
 local=/ddos.kr/
@@ -2592,8 +2598,6 @@ local=/tube.dfnbd.net/
 local=/dfox.it/
 local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
-local=/tr-zhuqiy-1.dgj055.icu/
-local=/tr-zhuqiy-2.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -4211,7 +4215,6 @@ local=/get-host.net/
 local=/getapk.app/
 local=/getcomics.info/
 local=/getcomics.org/
-local=/ip.getcrazy.me/
 local=/getfbvid.com/
 local=/getfreegames.net/
 local=/getgamez.net/
@@ -4257,7 +4260,6 @@ local=/gigapeta.com/
 local=/gigapurbalingga.net/
 local=/gigapurbalinggaa.com/
 local=/gigatorrents.ws/
-local=/asiatorrent.giize.com/
 local=/gingadaddy.com/
 local=/git.ir/
 local=/tornado-torrent.gitlab.io/
@@ -4974,7 +4976,7 @@ local=/hianime.sx/
 local=/hianime.to/
 local=/hianimes.ro/
 local=/hicartoon.to/
-local=/hificode.in/
+local=/torrent.hificode.in/
 local=/tracker.hifimarket.in/
 local=/tracker.hifitechindia.com/
 local=/high-way.me/
@@ -8119,7 +8121,6 @@ local=/torrent.resonatingmedia.com/
 local=/respawn.ca/
 local=/restricted-stresser.info/
 local=/cdn.retget.ru/
-local=/pybittrack.retiolus.net/
 local=/retrogamechampion.com/
 local=/retrogametalk.com/
 local=/retrostic.com/
@@ -10445,7 +10446,6 @@ local=/uploda.sh/
 local=/uppit.com/
 local=/vidics.uproxy2.biz/
 local=/upstore.net/
-local=/0205.uptm.ch/
 local=/uptobox.com/
 local=/mp3juices-app.en.uptodown.com/
 local=/popcorn-time.en.uptodown.com/
@@ -11388,6 +11388,7 @@ local=/yamgo.com/
 local=/yams.tf/
 local=/yaplukon.org/
 local=/yaps.cc/
+local=/yarrlist.net/
 local=/yasdl.com/
 local=/yasir252.com/
 local=/yassflix.live/

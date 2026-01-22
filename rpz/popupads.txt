@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769089200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769113080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Jan 2026 13:40 UTC
-; Version: 2026.0122.1340.22
+; Last modified: 22 Jan 2026 20:18 UTC
+; Version: 2026.0122.2018.24
 ; Syntax: RPZ
-; Number of entries: 118934
+; Number of entries: 118938
 ;
 fixedfloat.ac CNAME .
 *.fixedfloat.ac CNAME .
@@ -1726,8 +1726,10 @@ ylg88.cc CNAME .
 *.ylg88.cc CNAME .
 ynzs.cc CNAME .
 *.ynzs.cc CNAME .
-yuhuan.cc CNAME .
-*.yuhuan.cc CNAME .
+59557com.yuhuan.cc CNAME .
+*.59557com.yuhuan.cc CNAME .
+wwwtk1976com.yuhuan.cc CNAME .
+*.wwwtk1976com.yuhuan.cc CNAME .
 z-library.cc CNAME .
 *.z-library.cc CNAME .
 alphadog.center CNAME .
@@ -73080,8 +73082,6 @@ terraclicks.com CNAME .
 *.terraclicks.com CNAME .
 terranostratapas.com CNAME .
 *.terranostratapas.com CNAME .
-terrapops.com CNAME .
-*.terrapops.com CNAME .
 terrapush.com CNAME .
 *.terrapush.com CNAME .
 terrasdsdstd.com CNAME .
@@ -102662,8 +102662,10 @@ ninase.sbs CNAME .
 *.ninase.sbs CNAME .
 osjdd4d.sbs CNAME .
 *.osjdd4d.sbs CNAME .
-pacifics.sbs CNAME .
-*.pacifics.sbs CNAME .
+si.pacifics.sbs CNAME .
+*.si.pacifics.sbs CNAME .
+vi.pacifics.sbs CNAME .
+*.vi.pacifics.sbs CNAME .
 pempia.sbs CNAME .
 *.pempia.sbs CNAME .
 pureelevation.sbs CNAME .
@@ -105518,8 +105520,10 @@ kbylvuaxsrtoi.site CNAME .
 *.kbylvuaxsrtoi.site CNAME .
 kchhccjmzipel.site CNAME .
 *.kchhccjmzipel.site CNAME .
-kcolb.site CNAME .
-*.kcolb.site CNAME .
+js.kcolb.site CNAME .
+*.js.kcolb.site CNAME .
+mngr.kcolb.site CNAME .
+*.mngr.kcolb.site CNAME .
 kcqbrwygxixdh.site CNAME .
 *.kcqbrwygxixdh.site CNAME .
 kczu-ohhuf.site CNAME .

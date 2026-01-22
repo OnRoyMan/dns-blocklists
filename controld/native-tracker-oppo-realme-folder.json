@@ -85,6 +85,13 @@
       }
     },
     {
+      "PK": "adx-op-sg.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "album-cn01a.ocloud.heytapmobi.com",
       "action": {
         "do": 0,

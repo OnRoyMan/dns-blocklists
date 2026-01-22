@@ -1,11 +1,4 @@
 # Domains to be removed from the gambling list.
-
-*.spotify.com
-
-edu.cn
-mil.cn
-gov.cn
-
 *.1688.com
 *.activated.win
 *.akadns.net
@@ -41,6 +34,7 @@ gov.cn
 *.qatarairways.com
 *.qq.com
 *.rokland.com
+*.spotify.com
 *.tebex.io
 *.trustpilot.com
 *.vip.com
@@ -77,6 +71,7 @@ dns.poker
 downloads.blissroms.org
 dpmp.cz
 easymarkets.com
+edu.cn
 eneba.com
 fantasyfootball247.co.uk
 fatalmodel.com
@@ -85,6 +80,7 @@ flro.org
 forexpros.com
 fpnpmcdn.net
 gamcare.org.uk
+gov.cn
 hipo.ro
 hltv.org
 interactivebrokers.com
@@ -103,6 +99,7 @@ lostmediawiki.com
 mega.io
 megaxus.com
 mexc.com
+mil.cn
 mlive.com
 monsterinsights.com
 northjersey.com

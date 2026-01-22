@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 13:40 UTC
-# Version: 2026.0122.1340.22
+# Last modified: 22 Jan 2026 20:18 UTC
+# Version: 2026.0122.2018.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 59467
+# Number of entries: 59469
 #
 local=/0.beer/
 local=/0.club/
@@ -31985,7 +31985,8 @@ local=/kchhccjmzipel.site/
 local=/kcjmivforjixu.online/
 local=/kcmstredk.com/
 local=/kcnereqedvlp.com/
-local=/kcolb.site/
+local=/js.kcolb.site/
+local=/mngr.kcolb.site/
 local=/kcqbrwygxixdh.site/
 local=/dciclc.kctnodd.top/
 local=/kcxljicqwzjfd.space/
@@ -40690,7 +40691,8 @@ local=/pacha-wui.com/
 local=/pachegaimax.net/
 local=/pacificbank.asia/
 local=/pacificdentalcenterhuntingtonpark.com/
-local=/pacifics.sbs/
+local=/si.pacifics.sbs/
+local=/vi.pacifics.sbs/
 local=/pacifyinvalid.com/
 local=/packagebellysmoothly.com/
 local=/packerta.com/
@@ -51310,7 +51312,6 @@ local=/terpenwordman.top/
 local=/terra8nb.com/
 local=/terraclicks.com/
 local=/terranostratapas.com/
-local=/terrapops.com/
 local=/terrapush.com/
 local=/terrasdsdstd.com/
 local=/terratraf.com/
@@ -58690,7 +58691,8 @@ local=/yueyinglighting.com/
 local=/yufrnpasmesines.com/
 local=/yugjwgg.top/
 local=/yuhuads.com/
-local=/yuhuan.cc/
+local=/59557com.yuhuan.cc/
+local=/wwwtk1976com.yuhuan.cc/
 local=/yuiiy.com/
 local=/yuintbradshed.com/
 local=/mv.yuitvr.com/
