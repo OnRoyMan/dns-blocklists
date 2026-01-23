@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769164560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769191920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Jan 2026 10:36 UTC
-; Version: 2026.0123.1036.25
+; Last modified: 23 Jan 2026 18:12 UTC
+; Version: 2026.0123.1812.50
 ; Syntax: RPZ
-; Number of entries: 23426
+; Number of entries: 23428
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -9362,6 +9362,8 @@ guardaserietv.fit CNAME .
 *.guardaserietv.fit CNAME .
 hdmovie2.fit CNAME .
 *.hdmovie2.fit CNAME .
+megakino1.fit CNAME .
+*.megakino1.fit CNAME .
 mkvcinemas.fit CNAME .
 *.mkvcinemas.fit CNAME .
 pelisflix20.fit CNAME .

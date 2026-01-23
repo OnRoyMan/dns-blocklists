@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jan 2026 10:36 UTC
-# Version: 2026.0123.1036.25
+# Last modified: 23 Jan 2026 18:12 UTC
+# Version: 2026.0123.1812.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11713
+# Number of entries: 11714
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -6247,6 +6247,7 @@ local=/megakino.ws/
 local=/megakino.wtf/
 local=/megakino.zone/
 local=/megakino1.co/
+local=/megakino1.fit/
 local=/megakinox.top/
 local=/megamanmaker.com/
 local=/megamodapk.com/

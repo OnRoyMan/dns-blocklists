@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jan 2026 10:34 UTC
-# Version: 2026.0123.1034.55
+# Last modified: 23 Jan 2026 18:16 UTC
+# Version: 2026.0123.1816.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 72847
+# Number of entries: 72836
 #
 local=/0-betsixty.com/
 local=/0-casino.info/
@@ -7582,7 +7582,6 @@ local=/aa9762.com/
 local=/aa99903.com/
 local=/aa9991.com/
 local=/aaa.poker/
-local=/aaa-bets.com/
 local=/aaabetsx.com/
 local=/aaabighoki.xyz/
 local=/aaad.win/
@@ -36489,7 +36488,6 @@ local=/hu-lemoncasino.org/
 local=/hu-shufflecasino.com/
 local=/hu-verdecasino.com/
 local=/huamu.cn/
-local=/huangyu888.com/
 local=/huatihuicasino.com/
 local=/huatihuilive-casino.com/
 local=/hubbetslotpg.com/
@@ -39843,7 +39841,6 @@ local=/kaasino-casino-uk.com/
 local=/kaasinocasino.cc/
 local=/kaazing.org/
 local=/kabartoto.shop/
-local=/kabayanhoki.shop/
 local=/kabehgolden.xyz/
 local=/kabehjaya.xyz/
 local=/kabehpadi.xyz/
@@ -40181,7 +40178,6 @@ local=/kebet.ai/
 local=/kebet.com/
 local=/kebonbet.net/
 local=/kebontoto.com/
-local=/kecapbango.cfd/
 local=/kecapmanis.site/
 local=/kedai69site.com/
 local=/kedaisimbok.xyz/
@@ -41136,7 +41132,6 @@ local=/konseycasino65.com/
 local=/konseycasino67.com/
 local=/konsument.se/
 local=/kontakgilabet88cs2.site/
-local=/kontra99.net/
 local=/kopi4dclone.xyz/
 local=/kopi4dtitik.xyz/
 local=/kopi89.info/
@@ -51555,8 +51550,6 @@ local=/papafa9.fit/
 local=/papafa9.shop/
 local=/papafa9.store/
 local=/papafaracik1000.site/
-local=/papafavip1.shop/
-local=/papafavip2.shop/
 local=/papafavip3.shop/
 local=/papafax1000.shop/
 local=/papatebu.xyz/
@@ -53776,7 +53769,6 @@ local=/planetcasinobn.com/
 local=/planetdodgetexas.com/
 local=/planetearthcasino.com/
 local=/planethollywoodhotelcasino.com/
-local=/planethollywoodresortcasino.com/
 local=/planetofbets.com/
 local=/planetofbets.net/
 local=/planetofbets.ng/
@@ -55386,7 +55378,6 @@ local=/pokershark.app/
 local=/pokershesh.com/
 local=/pokershine.com/
 local=/pokershq.com/
-local=/pokershroom.com/
 local=/pokersifu.com/
 local=/pokersimas.xyz/
 local=/pokersirkuit.com/
@@ -65855,7 +65846,6 @@ local=/top-casinos-deutschland.com/
 local=/top-casinos-gr.com/
 local=/top-casinos-online-portugal.com/
 local=/top-casinos-portugues.com/
-local=/top-casinos777.ru/
 local=/top-casinoss.ru/
 local=/top-cazino.ro/
 local=/top-champion-casino.top/
@@ -70968,7 +70958,6 @@ local=/winmaniacasino.com/
 local=/winmasters.buzz/
 local=/winmasters.com/
 local=/winmasters.ro/
-local=/winmate88casino.com/
 local=/winmaxxcasino.com/
 local=/winmega-casino-at.org/
 local=/winmetcasinobonus.nl/

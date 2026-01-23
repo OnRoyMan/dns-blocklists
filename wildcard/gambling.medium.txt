@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jan 2026 10:34 UTC
-# Version: 2026.0123.1034.55
+# Last modified: 23 Jan 2026 18:16 UTC
+# Version: 2026.0123.1816.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 72847
+# Number of entries: 72836
 #
 *.0-betsixty.com
 *.0-casino.info
@@ -7582,7 +7582,6 @@
 *.aa99903.com
 *.aa9991.com
 *.aaa.poker
-*.aaa-bets.com
 *.aaabetsx.com
 *.aaabighoki.xyz
 *.aaad.win
@@ -36489,7 +36488,6 @@
 *.hu-shufflecasino.com
 *.hu-verdecasino.com
 *.huamu.cn
-*.huangyu888.com
 *.huatihuicasino.com
 *.huatihuilive-casino.com
 *.hubbetslotpg.com
@@ -39843,7 +39841,6 @@
 *.kaasinocasino.cc
 *.kaazing.org
 *.kabartoto.shop
-*.kabayanhoki.shop
 *.kabehgolden.xyz
 *.kabehjaya.xyz
 *.kabehpadi.xyz
@@ -40181,7 +40178,6 @@
 *.kebet.com
 *.kebonbet.net
 *.kebontoto.com
-*.kecapbango.cfd
 *.kecapmanis.site
 *.kedai69site.com
 *.kedaisimbok.xyz
@@ -41136,7 +41132,6 @@
 *.konseycasino67.com
 *.konsument.se
 *.kontakgilabet88cs2.site
-*.kontra99.net
 *.kopi4dclone.xyz
 *.kopi4dtitik.xyz
 *.kopi89.info
@@ -51555,8 +51550,6 @@
 *.papafa9.shop
 *.papafa9.store
 *.papafaracik1000.site
-*.papafavip1.shop
-*.papafavip2.shop
 *.papafavip3.shop
 *.papafax1000.shop
 *.papatebu.xyz
@@ -53776,7 +53769,6 @@
 *.planetdodgetexas.com
 *.planetearthcasino.com
 *.planethollywoodhotelcasino.com
-*.planethollywoodresortcasino.com
 *.planetofbets.com
 *.planetofbets.net
 *.planetofbets.ng
@@ -55386,7 +55378,6 @@
 *.pokershesh.com
 *.pokershine.com
 *.pokershq.com
-*.pokershroom.com
 *.pokersifu.com
 *.pokersimas.xyz
 *.pokersirkuit.com
@@ -65855,7 +65846,6 @@
 *.top-casinos-gr.com
 *.top-casinos-online-portugal.com
 *.top-casinos-portugues.com
-*.top-casinos777.ru
 *.top-casinoss.ru
 *.top-cazino.ro
 *.top-champion-casino.top
@@ -70968,7 +70958,6 @@
 *.winmasters.buzz
 *.winmasters.com
 *.winmasters.ro
-*.winmate88casino.com
 *.winmaxxcasino.com
 *.winmega-casino-at.org
 *.winmetcasinobonus.nl

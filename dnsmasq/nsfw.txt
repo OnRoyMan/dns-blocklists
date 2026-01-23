@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jan 2026 10:38 UTC
-# Version: 2026.0123.1038.15
+# Last modified: 23 Jan 2026 19:46 UTC
+# Version: 2026.0123.1946.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 68945
+# Number of entries: 68941
 #
 local=/0-adult.biz/
 local=/0-porno.xyz/
@@ -11122,7 +11122,6 @@ local=/chaterba.com/
 local=/chaterotics.com/
 local=/chatforadult.com/
 local=/chatforhookups.com/
-local=/chatgaylibertin.com/
 local=/chatgpornt.com/
 local=/chatgrl.com/
 local=/chathostess.com/
@@ -18215,7 +18214,6 @@ local=/ervalifegayrimenkul.com/
 local=/eryamanavm.com/
 local=/eryamanda.com/
 local=/eryamankadin.com/
-local=/eryilmazgayrimenkul.com/
 local=/erzabellxxx.com/
 local=/erzincanalperen.com/
 local=/erzincanescorthot.com/
@@ -18641,7 +18639,6 @@ local=/essexbia.ca/
 local=/essexboardofelections.org/
 local=/essexbouncehouse.com/
 local=/essexbuildings.com/
-local=/essexcarbuyers.com/
 local=/essexcarslimited.com/
 local=/essexcert.xyz/
 local=/essexchocolatier.com/
@@ -20808,6 +20805,7 @@ local=/fratgayporn.com/
 local=/fratx.com/
 local=/frau-haug-redet-ueber-sex.com/
 local=/frauenbumsen.com/
+local=/fraulila.de/
 local=/frauporn.com/
 local=/frausexe.com/
 local=/fraxinellaporn.com/
@@ -50741,6 +50739,7 @@ local=/sexandsubmission.com/
 local=/sexandthecitymovie.com/
 local=/sexandthecityscripts.com/
 local=/sexandthesouthernbelle.com/
+local=/sexandu.ca/
 local=/sexanimalporn.site/
 local=/sexanimalvideo.shop/
 local=/sexanimalvideos.com/
@@ -51667,7 +51666,6 @@ local=/sexismisbad.net/
 local=/sexismisbad.shop/
 local=/sexismisbad.store/
 local=/sexistorii.com/
-local=/sexisur.com/
 local=/sexit.cc/
 local=/sexitorrent.com/
 local=/sexitubes.com/
@@ -52638,7 +52636,6 @@ local=/sexsnudes.com/
 local=/sexsofia.com/
 local=/sexsohbet.info/
 local=/sexsohbeti.xyz/
-local=/sexsolo.com/
 local=/sexsosedka.cc/
 local=/sexsosedka.fans/
 local=/sexsosedka.net/
@@ -62366,6 +62363,7 @@ local=/vipxxxx.com/
 local=/virajrajsingh.gay/
 local=/viralharami.com/
 local=/viralhubporn.com/
+local=/viralindians.com/
 local=/viralkand.com/
 local=/virallsma.store/
 local=/viralporn.com/
@@ -67302,7 +67300,6 @@ local=/xxxsot.com/
 local=/xxxspace.net/
 local=/xxxspace.top/
 local=/xxxspin.bet/
-local=/xxxspot.com/
 local=/xxxspot.top/
 local=/xxxspringealand.shop/
 local=/xxxsrx.com/
@@ -68149,7 +68146,6 @@ local=/yosexcams.com/
 local=/yosexcamsde.com/
 local=/yosexcamsgb.com/
 local=/yosexchat.com/
-local=/yosperm.sk/
 local=/yotporn.com/
 local=/yotubesexo.es/
 local=/you-free-porn.monster/

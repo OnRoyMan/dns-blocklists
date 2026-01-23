@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769164680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769197560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Jan 2026 10:38 UTC
-; Version: 2026.0123.1038.15
+; Last modified: 23 Jan 2026 19:46 UTC
+; Version: 2026.0123.1946.10
 ; Syntax: RPZ
-; Number of entries: 137890
+; Number of entries: 137882
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -4738,6 +4738,8 @@ ritchiesexcavating.ca CNAME .
 *.ritchiesexcavating.ca CNAME .
 semainesexeplus.ca CNAME .
 *.semainesexeplus.ca CNAME .
+sexandu.ca CNAME .
+*.sexandu.ca CNAME .
 sexologuefannycloutier.ca CNAME .
 *.sexologuefannycloutier.ca CNAME .
 sexpicture.ca CNAME .
@@ -23650,8 +23652,6 @@ chatforadult.com CNAME .
 *.chatforadult.com CNAME .
 chatforhookups.com CNAME .
 *.chatforhookups.com CNAME .
-chatgaylibertin.com CNAME .
-*.chatgaylibertin.com CNAME .
 chatgpornt.com CNAME .
 *.chatgpornt.com CNAME .
 chatgrl.com CNAME .
@@ -30310,8 +30310,6 @@ eryamanda.com CNAME .
 *.eryamanda.com CNAME .
 eryamankadin.com CNAME .
 *.eryamankadin.com CNAME .
-eryilmazgayrimenkul.com CNAME .
-*.eryilmazgayrimenkul.com CNAME .
 erzabellxxx.com CNAME .
 *.erzabellxxx.com CNAME .
 erzincanalperen.com CNAME .
@@ -30842,8 +30840,6 @@ essexbouncehouse.com CNAME .
 *.essexbouncehouse.com CNAME .
 essexbuildings.com CNAME .
 *.essexbuildings.com CNAME .
-essexcarbuyers.com CNAME .
-*.essexcarbuyers.com CNAME .
 essexcarslimited.com CNAME .
 *.essexcarslimited.com CNAME .
 essexchocolatier.com CNAME .
@@ -65774,8 +65770,6 @@ sexismisbad.com CNAME .
 *.sexismisbad.com CNAME .
 sexistorii.com CNAME .
 *.sexistorii.com CNAME .
-sexisur.com CNAME .
-*.sexisur.com CNAME .
 sexitorrent.com CNAME .
 *.sexitorrent.com CNAME .
 sexitubes.com CNAME .
@@ -66526,8 +66520,6 @@ sexsnudes.com CNAME .
 *.sexsnudes.com CNAME .
 sexsofia.com CNAME .
 *.sexsofia.com CNAME .
-sexsolo.com CNAME .
-*.sexsolo.com CNAME .
 sexsosedki.com CNAME .
 *.sexsosedki.com CNAME .
 sexsouls.com CNAME .
@@ -77310,6 +77302,8 @@ viralharami.com CNAME .
 *.viralharami.com CNAME .
 viralhubporn.com CNAME .
 *.viralhubporn.com CNAME .
+viralindians.com CNAME .
+*.viralindians.com CNAME .
 viralkand.com CNAME .
 *.viralkand.com CNAME .
 viralporn.com CNAME .
@@ -82224,8 +82218,6 @@ xxxsona.com CNAME .
 *.xxxsona.com CNAME .
 xxxsot.com CNAME .
 *.xxxsot.com CNAME .
-xxxspot.com CNAME .
-*.xxxspot.com CNAME .
 xxxsrx.com CNAME .
 *.xxxsrx.com CNAME .
 xxxssk.com CNAME .
@@ -84742,6 +84734,8 @@ flirtfair.de CNAME .
 *.flirtfair.de CNAME .
 for2333.de CNAME .
 *.for2333.de CNAME .
+fraulila.de CNAME .
+*.fraulila.de CNAME .
 free-sex-kostenlos.de CNAME .
 *.free-sex-kostenlos.de CNAME .
 freewebpics.de CNAME .
@@ -125552,8 +125546,6 @@ xxxlutz.sk CNAME .
 *.xxxlutz.sk CNAME .
 xxxlux.sk CNAME .
 *.xxxlux.sk CNAME .
-yosperm.sk CNAME .
-*.yosperm.sk CNAME .
 zoznamka-na-sex.sk CNAME .
 *.zoznamka-na-sex.sk CNAME .
 alxxnxxxxxsex.skin CNAME .

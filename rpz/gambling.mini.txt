@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769164500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769192220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Jan 2026 10:35 UTC
-; Version: 2026.0123.1035.52
+; Last modified: 23 Jan 2026 18:17 UTC
+; Version: 2026.0123.1817.44
 ; Syntax: RPZ
-; Number of entries: 77998
+; Number of entries: 77976
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -7104,8 +7104,6 @@ hipercasinouyelik.cfd CNAME .
 *.hipercasinouyelik.cfd CNAME .
 hipercasinovip.cfd CNAME .
 *.hipercasinovip.cfd CNAME .
-kecapbango.cfd CNAME .
-*.kecapbango.cfd CNAME .
 leon-casino-eyd7g.cfd CNAME .
 *.leon-casino-eyd7g.cfd CNAME .
 leon-casino-tmwo5.cfd CNAME .
@@ -11954,8 +11952,6 @@ aa888pg.com CNAME .
 *.aa888pg.com CNAME .
 aa9991.com CNAME .
 *.aa9991.com CNAME .
-aaa-bets.com CNAME .
-*.aaa-bets.com CNAME .
 aaajili357.com CNAME .
 *.aaajili357.com CNAME .
 aaajili52.com CNAME .
@@ -29058,8 +29054,6 @@ hu-shufflecasino.com CNAME .
 *.hu-shufflecasino.com CNAME .
 hu-verdecasino.com CNAME .
 *.hu-verdecasino.com CNAME .
-huangyu888.com CNAME .
-*.huangyu888.com CNAME .
 huatihuicasino.com CNAME .
 *.huatihuicasino.com CNAME .
 huatihuilive-casino.com CNAME .
@@ -37450,8 +37444,6 @@ planetearthcasino.com CNAME .
 *.planetearthcasino.com CNAME .
 planethollywoodhotelcasino.com CNAME .
 *.planethollywoodhotelcasino.com CNAME .
-planethollywoodresortcasino.com CNAME .
-*.planethollywoodresortcasino.com CNAME .
 planetofbets.com CNAME .
 *.planetofbets.com CNAME .
 planetsportbet.com CNAME .
@@ -38034,8 +38026,6 @@ pokershesh.com CNAME .
 *.pokershesh.com CNAME .
 pokershq.com CNAME .
 *.pokershq.com CNAME .
-pokershroom.com CNAME .
-*.pokershroom.com CNAME .
 pokersiteleri1001.com CNAME .
 *.pokersiteleri1001.com CNAME .
 pokersiteonlineguide.com CNAME .
@@ -46336,8 +46326,6 @@ winmaniacasino.com CNAME .
 *.winmaniacasino.com CNAME .
 winmasters.com CNAME .
 *.winmasters.com CNAME .
-winmate88casino.com CNAME .
-*.winmate88casino.com CNAME .
 winmi.com CNAME .
 *.winmi.com CNAME .
 winmy19.com CNAME .
@@ -56176,8 +56164,6 @@ kitamain.net CNAME .
 *.kitamain.net CNAME .
 kiu138.net CNAME .
 *.kiu138.net CNAME .
-kontra99.net CNAME .
-*.kontra99.net CNAME .
 kopislot88.net CNAME .
 *.kopislot88.net CNAME .
 koreacasinodafabet.net CNAME .
@@ -64882,8 +64868,6 @@ tonplaycasino-zerkalosite.ru CNAME .
 *.tonplaycasino-zerkalosite.ru CNAME .
 tonplaycasino-zerkalotg.ru CNAME .
 *.tonplaycasino-zerkalotg.ru CNAME .
-top-casinos777.ru CNAME .
-*.top-casinos777.ru CNAME .
 top-casinoss.ru CNAME .
 *.top-casinoss.ru CNAME .
 top-online-casino-melbet913.ru CNAME .
@@ -65554,8 +65538,6 @@ jililive.shop CNAME .
 *.jililive.shop CNAME .
 jwta4npoker.shop CNAME .
 *.jwta4npoker.shop CNAME .
-kabayanhoki.shop CNAME .
-*.kabayanhoki.shop CNAME .
 kompastoto3.shop CNAME .
 *.kompastoto3.shop CNAME .
 kottakkal.shop CNAME .
@@ -65612,10 +65594,6 @@ opaslotstar.shop CNAME .
 *.opaslotstar.shop CNAME .
 pandoraclassicfit.shop CNAME .
 *.pandoraclassicfit.shop CNAME .
-papafavip1.shop CNAME .
-*.papafavip1.shop CNAME .
-papafavip2.shop CNAME .
-*.papafavip2.shop CNAME .
 papafavip3.shop CNAME .
 *.papafavip3.shop CNAME .
 permata55a.shop CNAME .

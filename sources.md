@@ -227,8 +227,6 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracki
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
 https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
-https://raw.githubusercontent.com/SM443/BDIX-Piracy-Blocklist/main/bdix_piracy_websites_only-domains.txt
-https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
@@ -287,6 +285,5 @@ https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle
 https://www.void.gr/kargig/void-gr-filters.txt
 https://www.vzhh.de/themen/einkauf-reise-freizeit/online-shopping/fake-shop-liste-wenn-guenstig-richtig-teuer-wird
 https://www.watchlist-internet.at/liste-betruegerischer-shops/csv
-https://www.zoso.ro/pages/rolist2.txt
 https://www.zoso.ro/pages/rolist.txt
 ```
