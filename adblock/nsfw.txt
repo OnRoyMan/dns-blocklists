@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Jan 2026 22:39 UTC
-! Version: 2026.0122.2239.51
+! Last modified: 23 Jan 2026 02:32 UTC
+! Version: 2026.0123.0232.40
 ! Syntax: AdBlock
-! Number of entries: 69344
+! Number of entries: 69346
 !
 ||0-adult.biz^
 ||0-porno.xyz^
@@ -41850,10 +41850,12 @@
 ||pinaycum.net^
 ||pinaydeepweb.com^
 ||pinayfiles.net^
+||pinayflix.art^
 ||pinayflix.best^
 ||pinayflix.com^
 ||pinayflix.lol^
 ||pinayflix.me^
+||pinayflix.my^
 ||pinayflix.tv^
 ||pinayflix.xyz^
 ||pinayflix1.com^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769121540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769135520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Jan 2026 22:39 UTC
-; Version: 2026.0122.2239.51
+; Last modified: 23 Jan 2026 02:32 UTC
+; Version: 2026.0123.0232.40
 ; Syntax: RPZ
-; Number of entries: 138688
+; Number of entries: 138692
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -942,6 +942,8 @@ nyxsex.art CNAME .
 *.nyxsex.art CNAME .
 phimxxx.art CNAME .
 *.phimxxx.art CNAME .
+pinayflix.art CNAME .
+*.pinayflix.art CNAME .
 porkahd.art CNAME .
 *.porkahd.art CNAME .
 porndupe.art CNAME .
@@ -100972,6 +100974,8 @@ gayatravel.com.my CNAME .
 *.gayatravel.com.my CNAME .
 tonton.com.my CNAME .
 *.tonton.com.my CNAME .
+pinayflix.my CNAME .
+*.pinayflix.my CNAME .
 sluts.my CNAME .
 *.sluts.my CNAME .
 vlxx88.my CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 22:37 UTC
-# Version: 2026.0122.2237.58
+# Last modified: 23 Jan 2026 02:30 UTC
+# Version: 2026.0123.0230.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 11684
+# Number of entries: 11680
 #
 *.003396815.xyz
 *.0123456789nonexistent.com
@@ -246,7 +246,6 @@
 *.24urban.com
 *.24warez.ru
 *.250412.xyz
-*.2600.com
 *.266528.xyz
 *.2anime.xyz
 *.2bbit.com
@@ -2409,7 +2408,6 @@
 *.cutercounter.com
 *.cuteyhoneyflash.de
 *.tracker.cutie.dating
-*.tracker-de-2.cutie.dating
 *.cutiegirl.ru
 *.cwer.ru
 *.cwer.ws
@@ -4976,7 +4974,6 @@
 *.hianime.to
 *.hianimes.ro
 *.hicartoon.to
-*.torrent.hificode.in
 *.tracker.hifimarket.in
 *.tracker.hifitechindia.com
 *.high-way.me
@@ -5416,7 +5413,6 @@
 *.justinwb.com
 *.juststream.mom
 *.jutone.com
-*.jvavav.com
 *.blog.jxzmz.org
 *.k-streaming.tv
 *.k2nblog.com
