@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:43 UTC
-# Version: 2026.0121.1443.18
+# Last modified: 23 Jan 2026 09:01 UTC
+# Version: 2026.0123.0901.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 372
+# Number of entries: 373
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -368,6 +368,7 @@ local=/xlog16-tmp-normal-useast1a.tiktokv.com/
 local=/log-snssdk.tiktokv-us.com/
 local=/ads-ie.tiktokw.eu/
 local=/ads-ttp2.tiktokw.eu/
+local=/ads16-normal-useastred.tiktokw.eu/
 local=/analytics-ie.tiktokw.eu/
 local=/analytics-ipv6.tiktokw.us/
 local=/analytics-ttp2.tiktokw.eu/

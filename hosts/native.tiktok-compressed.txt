@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:43 UTC
-# Version: 2026.0121.1443.18
+# Last modified: 23 Jan 2026 09:01 UTC
+# Version: 2026.0123.0901.13
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 42
 #
@@ -50,5 +50,5 @@
 0.0.0.0 mcs.us.tiktokv.com mon.us.tiktokv.com mssdk.us.tiktokv.com rtc-logger.us.tiktokv.com rtc-logger-ttp2.us.tiktokv.com rtlog.us.tiktokv.com rtlog16-applog-useast5.us.tiktokv.com rtlog16-normal-useast8.us.tiktokv.com rtlog16-platform-useast5.us.tiktokv.com
 0.0.0.0 rtlog19-applog-useast5.us.tiktokv.com rtlog19-platform-useast5.us.tiktokv.com tnc16-normal-useast8.us.tiktokv.com tnc16-platform-useast5.us.tiktokv.com xlog16-normal-useast8.us.tiktokv.com xlog16-platform-useast5.us.tiktokv.com xlog.tiktokv.com xlog-ru.tiktokv.com xlog-va.tiktokv.com
 0.0.0.0 xlog-va-useast2a.tiktokv.com xlog16-normal-c-useast1a.tiktokv.com xlog16-normal-c-useast2a.tiktokv.com xlog16-normal-no1a.tiktokv.eu xlog16-platform-ycru.tiktokv.com xlog16-tmp-normal-useast1a.tiktokv.com log-snssdk.tiktokv-us.com ads-ie.tiktokw.eu ads-ttp2.tiktokw.eu
-0.0.0.0 analytics-ie.tiktokw.eu analytics-ipv6.tiktokw.us analytics-ttp2.tiktokw.eu analytics16-normal-no1a.tiktokw.eu analytics16-normal-useast5.tiktokw.us analytics16-normal-useast8.tiktokw.us analytics16-normal-useastred.tiktokw.eu location.tiktokw.us mcs.tiktokw.us
-0.0.0.0 mcs-ie.tiktokw.eu mcs-ie2.tiktokw.eu mssdk.tiktokw.eu mssdk.tiktokw.us h4g3z1-native.tiktok.web.app 
+0.0.0.0 ads16-normal-useastred.tiktokw.eu analytics-ie.tiktokw.eu analytics-ipv6.tiktokw.us analytics-ttp2.tiktokw.eu analytics16-normal-no1a.tiktokw.eu analytics16-normal-useast5.tiktokw.us analytics16-normal-useast8.tiktokw.us analytics16-normal-useastred.tiktokw.eu location.tiktokw.us
+0.0.0.0 mcs.tiktokw.us mcs-ie.tiktokw.eu mcs-ie2.tiktokw.eu mssdk.tiktokw.eu mssdk.tiktokw.us h4g3z1-native.tiktok.web.app 

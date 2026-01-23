@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Jan 2026 14:33 UTC
-! Version: 2026.0121.1433.41
+! Last modified: 23 Jan 2026 09:29 UTC
+! Version: 2026.0123.0929.57
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -5266,6 +5266,7 @@
 @@||myikoniq.info^
 @@||myip.kr^
 @@||myjq.info^
+@@||mykiemtienutet.life^
 @@||mylink.ar^
 @@||mylinkbio.com^
 @@||mylinkbr.com^

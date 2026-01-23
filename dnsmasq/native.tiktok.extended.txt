@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:44 UTC
-# Version: 2026.0121.1444.06
+# Last modified: 23 Jan 2026 09:00 UTC
+# Version: 2026.0123.0900.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 512
+# Number of entries: 516
 #
 local=/frontier23-normal-alisg.tiktokv.com.bpgslb.com/
 local=/frontier.byteoversea.com/
@@ -101,6 +101,7 @@ local=/mon-boot.tiktokv.com.edgekey.net/
 local=/mssdk-boot.tiktokv.com.edgekey.net/
 local=/mcs.us.tiktok.com.edgesuite.net/
 local=/mcs-ttp2.us.tiktok.com.edgesuite.net/
+local=/sf16-ads-format-sign.tiktokcdn.com.edgesuite.net/
 local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net/
 local=/mcs.us.tiktokv.com.edgesuite.net/
 local=/frontier.tiktokv-eu.com.edgesuite.net/
@@ -191,6 +192,8 @@ local=/mcs.us.tiktok.com/
 local=/mcs-ttp2.us.tiktok.com/
 local=/mssdk.us.tiktok.com/
 local=/mcs.tiktok-row.net/
+local=/sf16-ads-format-sign.tiktokcdn.com/
+local=/sf19-ads-format-sign.tiktokcdn.com/
 local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com/
 local=/ad.tiktokv.com/
 local=/ad.tiktokv.us/
@@ -498,6 +501,7 @@ local=/frontier.tiktokv-eu.com/
 local=/log-snssdk.tiktokv-us.com/
 local=/ads-ie.tiktokw.eu/
 local=/ads-ttp2.tiktokw.eu/
+local=/ads16-normal-useastred.tiktokw.eu/
 local=/analytics-ie.tiktokw.eu/
 local=/analytics-ipv6.tiktokw.us/
 local=/analytics-ttp2.tiktokw.eu/

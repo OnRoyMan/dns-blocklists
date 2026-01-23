@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Jan 2026 10:37 UTC
-! Version: 2026.0122.1037.54
+! Last modified: 23 Jan 2026 10:41 UTC
+! Version: 2026.0123.1041.35
 ! Syntax: AdBlock
-! Number of entries: 822
+! Number of entries: 823
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -702,6 +702,7 @@
 ||httpdns.n.shifen.com^
 ||do.shimul.me^
 ||adguard.shoupperuser.com^
+||signsservers.ru^
 ||sitdns.com^
 ||dns.skrep.eu^
 ||dns.smartguard.io^

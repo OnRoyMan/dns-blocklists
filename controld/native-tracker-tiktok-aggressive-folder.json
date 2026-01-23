@@ -64,6 +64,13 @@
       }
     },
     {
+      "PK": "ads16-normal-useastred.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-api.tiktok.com",
       "action": {
         "do": 0,
@@ -3053,6 +3060,20 @@
       }
     },
     {
+      "PK": "sf16-ads-format-sign.tiktokcdn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sf16-ads-format-sign.tiktokcdn.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sf16-telemetry-proxy-oci.tiktokcdn-us.com",
       "action": {
         "do": 0,
@@ -3061,6 +3082,13 @@
     },
     {
       "PK": "sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sf19-ads-format-sign.tiktokcdn.com",
       "action": {
         "do": 0,
         "status": 1

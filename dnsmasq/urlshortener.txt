@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:33 UTC
-# Version: 2026.0121.1433.41
+# Last modified: 23 Jan 2026 09:29 UTC
+# Version: 2026.0123.0929.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10031
+# Number of entries: 10032
 #
 local=/0.gp/
 local=/00m.in/
@@ -5394,6 +5394,7 @@ local=/myglamm.in/
 local=/myikoniq.info/
 local=/myip.kr/
 local=/myjq.info/
+local=/mykiemtienutet.life/
 local=/mylink.ar/
 local=/mylinkbio.com/
 local=/mylinkbr.com/

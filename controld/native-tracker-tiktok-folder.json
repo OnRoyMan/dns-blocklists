@@ -64,6 +64,13 @@
       }
     },
     {
+      "PK": "ads16-normal-useastred.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-api.tiktok.com",
       "action": {
         "do": 0,

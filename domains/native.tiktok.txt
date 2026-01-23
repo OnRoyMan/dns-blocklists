@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:43 UTC
-# Version: 2026.0121.1443.18
+# Last modified: 23 Jan 2026 09:01 UTC
+# Version: 2026.0123.0901.13
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 374
+# Number of entries: 375
 #
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
@@ -370,6 +370,7 @@ xlog16-tmp-normal-useast1a.tiktokv.com
 log-snssdk.tiktokv-us.com
 ads-ie.tiktokw.eu
 ads-ttp2.tiktokw.eu
+ads16-normal-useastred.tiktokw.eu
 analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu

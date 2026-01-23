@@ -212,6 +212,9 @@ https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domai
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
+https://raw.githubusercontent.com/sakib-m/BDIX-Piracy-Blocklist/refs/heads/main/bdix_piracy_websites_only-domains.txt
+https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-trackers.txt
+https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-websites.txt
 https://raw.githubusercontent.com/scamsniffer/scam-database/main/blacklist/domains.json
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic

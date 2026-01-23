@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:44 UTC
-# Version: 2026.0121.1444.06
+# Last modified: 23 Jan 2026 09:00 UTC
+# Version: 2026.0123.0900.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 514
+# Number of entries: 518
 #
 0.0.0.0 frontier23-normal-alisg.tiktokv.com.bpgslb.com
 0.0.0.0 frontier.byteoversea.com
@@ -101,6 +101,7 @@
 0.0.0.0 mssdk-boot.tiktokv.com.edgekey.net
 0.0.0.0 mcs.us.tiktok.com.edgesuite.net
 0.0.0.0 mcs-ttp2.us.tiktok.com.edgesuite.net
+0.0.0.0 sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 0.0.0.0 mcs.us.tiktokv.com.edgesuite.net
 0.0.0.0 frontier.tiktokv-eu.com.edgesuite.net
@@ -193,6 +194,8 @@
 0.0.0.0 mcs-ttp2.us.tiktok.com
 0.0.0.0 mssdk.us.tiktok.com
 0.0.0.0 mcs.tiktok-row.net
+0.0.0.0 sf16-ads-format-sign.tiktokcdn.com
+0.0.0.0 sf19-ads-format-sign.tiktokcdn.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us
@@ -500,6 +503,7 @@
 0.0.0.0 log-snssdk.tiktokv-us.com
 0.0.0.0 ads-ie.tiktokw.eu
 0.0.0.0 ads-ttp2.tiktokw.eu
+0.0.0.0 ads16-normal-useastred.tiktokw.eu
 0.0.0.0 analytics-ie.tiktokw.eu
 0.0.0.0 analytics-ipv6.tiktokw.us
 0.0.0.0 analytics-ttp2.tiktokw.eu
