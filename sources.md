@@ -285,5 +285,6 @@ https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle
 https://www.void.gr/kargig/void-gr-filters.txt
 https://www.vzhh.de/themen/einkauf-reise-freizeit/online-shopping/fake-shop-liste-wenn-guenstig-richtig-teuer-wird
 https://www.watchlist-internet.at/liste-betruegerischer-shops/csv
+https://www.zoso.ro/pages/rolist2.txt
 https://www.zoso.ro/pages/rolist.txt
 ```

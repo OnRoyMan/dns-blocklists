@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769197560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769222100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Jan 2026 19:46 UTC
-; Version: 2026.0123.1946.10
+; Last modified: 24 Jan 2026 02:35 UTC
+; Version: 2026.0124.0235.26
 ; Syntax: RPZ
-; Number of entries: 137882
+; Number of entries: 137884
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -4558,6 +4558,8 @@ sulasok.bz CNAME .
 *.sulasok.bz CNAME .
 tube.bz CNAME .
 *.tube.bz CNAME .
+vlxx.bz CNAME .
+*.vlxx.bz CNAME .
 xnxxx.bz CNAME .
 *.xnxxx.bz CNAME .
 yourmodels.bz CNAME .
@@ -6716,8 +6718,6 @@ asexok.cfd CNAME .
 *.asexok.cfd CNAME .
 babexxx.cfd CNAME .
 *.babexxx.cfd CNAME .
-basex.cfd CNAME .
-*.basex.cfd CNAME .
 beeg-x.cfd CNAME .
 *.beeg-x.cfd CNAME .
 bepmoingay.cfd CNAME .
@@ -62584,6 +62584,8 @@ refaceporn.com CNAME .
 *.refaceporn.com CNAME .
 refedbc.com CNAME .
 *.refedbc.com CNAME .
+reference-sexe.com CNAME .
+*.reference-sexe.com CNAME .
 referencexxx.com CNAME .
 *.referencexxx.com CNAME .
 referisexpanding.com CNAME .

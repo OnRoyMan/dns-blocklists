@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jan 2026 19:46 UTC
-# Version: 2026.0123.1946.10
+# Last modified: 24 Jan 2026 02:35 UTC
+# Version: 2026.0124.0235.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 68941
+# Number of entries: 68942
 #
 local=/0-adult.biz/
 local=/0-porno.xyz/
@@ -6700,7 +6700,6 @@ local=/baselessexpeditions.com/
 local=/basementescort.com/
 local=/basementuk.com/
 local=/basevids.com/
-local=/basex.cfd/
 local=/basexfoundation.org/
 local=/basexiistudios.com/
 local=/basexlab.online/
@@ -48335,6 +48334,7 @@ local=/reeperbahn.com/
 local=/reeyasharma.com/
 local=/refaceporn.com/
 local=/refedbc.com/
+local=/reference-sexe.com/
 local=/referencexxx.com/
 local=/referisexpanding.com/
 local=/reflectionsonthedance.com/
@@ -62554,6 +62554,7 @@ local=/vlsexgai.pro/
 local=/xxxlib.vlubvi.com/
 local=/vlxx.best/
 local=/vlxx.blog/
+local=/vlxx.bz/
 local=/vlxx.cc/
 local=/vlxx.gg/
 local=/vlxx.men/

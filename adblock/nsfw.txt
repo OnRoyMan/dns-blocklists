@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Jan 2026 19:46 UTC
-! Version: 2026.0123.1946.10
+! Last modified: 24 Jan 2026 02:35 UTC
+! Version: 2026.0124.0235.26
 ! Syntax: AdBlock
-! Number of entries: 68941
+! Number of entries: 68942
 !
 ||0-adult.biz^
 ||0-porno.xyz^
@@ -6701,7 +6701,6 @@
 ||basementescort.com^
 ||basementuk.com^
 ||basevids.com^
-||basex.cfd^
 ||basexfoundation.org^
 ||basexiistudios.com^
 ||basexlab.online^
@@ -48336,6 +48335,7 @@
 ||reeyasharma.com^
 ||refaceporn.com^
 ||refedbc.com^
+||reference-sexe.com^
 ||referencexxx.com^
 ||referisexpanding.com^
 ||reflectionsonthedance.com^
@@ -62555,6 +62555,7 @@
 ||xxxlib.vlubvi.com^
 ||vlxx.best^
 ||vlxx.blog^
+||vlxx.bz^
 ||vlxx.cc^
 ||vlxx.gg^
 ||vlxx.men^

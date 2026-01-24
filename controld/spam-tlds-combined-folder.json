@@ -6811,6 +6811,13 @@
       }
     },
     {
+      "PK": "thescore.bet",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "three60.degree",
       "action": {
         "do": 1,
