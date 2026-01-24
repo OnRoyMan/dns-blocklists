@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769248500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769277420 43200 3600 86400 300
   NS  localhost.
 ;
 1.0.218.230.rpz-ip CNAME .
@@ -14124,6 +14124,7 @@ $TTL 300
 154.210.208.249.rpz-ip CNAME .
 154.211.12.24.rpz-ip CNAME .
 154.211.13.102.rpz-ip CNAME .
+154.213.160.21.rpz-ip CNAME .
 154.213.165.38.rpz-ip CNAME .
 154.216.188.24.rpz-ip CNAME .
 154.219.104.36.rpz-ip CNAME .
@@ -17854,7 +17855,6 @@ $TTL 300
 176.65.134.22.rpz-ip CNAME .
 176.65.134.24.rpz-ip CNAME .
 176.65.134.3.rpz-ip CNAME .
-176.65.134.8.rpz-ip CNAME .
 176.65.138.24.rpz-ip CNAME .
 176.65.148.116.rpz-ip CNAME .
 176.65.148.13.rpz-ip CNAME .
@@ -26557,6 +26557,7 @@ $TTL 300
 209.38.99.180.rpz-ip CNAME .
 209.38.99.214.rpz-ip CNAME .
 209.38.99.236.rpz-ip CNAME .
+209.50.160.19.rpz-ip CNAME .
 209.50.227.155.rpz-ip CNAME .
 209.54.102.139.rpz-ip CNAME .
 209.54.103.183.rpz-ip CNAME .
@@ -27335,6 +27336,7 @@ $TTL 300
 216.25.253.179.rpz-ip CNAME .
 216.250.16.20.rpz-ip CNAME .
 216.250.252.216.rpz-ip CNAME .
+216.26.224.19.rpz-ip CNAME .
 216.45.53.140.rpz-ip CNAME .
 216.48.186.133.rpz-ip CNAME .
 216.63.240.22.rpz-ip CNAME .
@@ -35587,6 +35589,7 @@ $TTL 300
 45.249.247.86.rpz-ip CNAME .
 45.251.115.132.rpz-ip CNAME .
 45.251.72.2.rpz-ip CNAME .
+45.3.62.24.rpz-ip CNAME .
 45.32.133.19.rpz-ip CNAME .
 45.32.158.54.rpz-ip CNAME .
 45.32.250.246.rpz-ip CNAME .

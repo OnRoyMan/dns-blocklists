@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jan 2026 10:31 UTC
-# Version: 2026.0124.1031.59
+# Last modified: 24 Jan 2026 18:32 UTC
+# Version: 2026.0124.1832.34
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 70600
+# Number of entries: 70619
 #
 *.0-betsixty.com
 *.0-casino.info
@@ -366,6 +366,7 @@
 *.111acasino.com
 *.111gambling.com
 *.111hb88.com
+*.111yamanplus.com
 *.1121.casino
 *.1122betsb.com
 *.112betslots.com
@@ -459,6 +460,7 @@
 *.1185win.com
 *.118622f.com
 *.1188ultrabets.com
+*.1188yamanplus.com
 *.1189ultrabets.com
 *.118aa.vip
 *.1192ultrabets.com
@@ -3307,6 +3309,7 @@
 *.27xon.bet
 *.28-bets.com
 *.280022.com
+*.2806yamanplus.com
 *.281.casino
 *.2812zerkalo.casino
 *.282.casino
@@ -4371,6 +4374,7 @@
 *.562bets10.com
 *.562casinobeton.com
 *.563.casino
+*.5639yamanplus.com
 *.563casinobeton.com
 *.564bets10.com
 *.565.casino
@@ -5572,7 +5576,6 @@
 *.78winvncasino.com
 *.791bets10.com
 *.7921.casino
-*.792116.com
 *.794v.casino
 *.79654.cc
 *.797pgcasino.com
@@ -6424,6 +6427,7 @@
 *.881s.casino
 *.881wct.com
 *.88222288.com
+*.8826yamanplus.com
 *.8829g.com
 *.8832g.com
 *.884wct.com
@@ -7087,6 +7091,7 @@
 *.982bet.com
 *.982bet4.com
 *.982bet5.com
+*.9831.top
 *.983x.casino
 *.985.casino
 *.9851.casino
@@ -7200,6 +7205,7 @@
 *.99rated-bets.com
 *.99ratedcasino.com
 *.99riocasino.com
+*.99sagisagph.cc
 *.99sscasino.com
 *.99tg5c.com
 *.99tt.app
@@ -9408,8 +9414,6 @@
 *.asia68slot.org
 *.asia69.live
 *.asia777a.org
-*.asia89vip1.com
-*.asia89vip2.com
 *.asiabet.org
 *.asiacasinos88.com
 *.asiacasinos88.net
@@ -11085,6 +11089,7 @@
 *.bb999.club
 *.bb999.my
 *.bbb1688.org
+*.bbb39jl.com
 *.bbbhappy.com
 *.bbcasino.buzz
 *.bbets.buzz
@@ -11262,7 +11267,6 @@
 *.becasino.be
 *.becasino-belgium.be
 *.becasinobe.com
-*.becjordan.com
 *.beckament.net
 *.becomegambler.com
 *.becraftyworkshop.com
@@ -11852,7 +11856,6 @@
 *.bet165.bet
 *.bet168imember.online
 *.bet188.website
-*.bet1slots.com
 *.bet20.com
 *.bet20play.com
 *.bet24.com
@@ -15469,6 +15472,7 @@
 *.bkbet9000.com
 *.bkbih.org
 *.bkfonbet.com
+*.bki1hx.com
 *.bkkgaming88.com
 *.bkkpoker.vip
 *.bkmbet.com
@@ -15681,6 +15685,7 @@
 *.blitzcasino-france.com
 *.blitzcasinoru.ru
 *.blitzslots.uno
+*.blitzstar88.club
 *.blizz.io
 *.blockbet.gg
 *.blockbetcryptocasino.com
@@ -16881,6 +16886,7 @@
 *.buzzcasinof.com
 *.buzzluck.com
 *.bvbets.site
+*.bvm7lx.com
 *.bw-prm.com
 *.bw321casino.com
 *.bw777.app
@@ -29809,7 +29815,6 @@
 *.emailbets.com
 *.emakqqdisini.com
 *.emas138s.com
-*.emascorp.com
 *.emasslot168.com
 *.embedproxies.com
 *.emberfund.io
@@ -37162,6 +37167,7 @@
 *.jdpower.casino
 *.jdpower88.casino
 *.jdpower88.com
+*.jdpower88.me
 *.jdprime.casino
 *.jdprime88.casino
 *.jdtmb.com
@@ -37555,6 +37561,7 @@
 *.jlbetsign.com
 *.jlfffcasino.net
 *.jlfunslots.com
+*.jlhqp.me
 *.jlhqx.me
 *.jljl.asia
 *.jljl.club
@@ -37816,6 +37823,7 @@
 *.jokiwinsip.xyz
 *.jokowi.org
 *.jolijaunter.com
+*.jollibee143.com
 *.jollibee777.biz
 *.jollibeebetcasino.com
 *.jollibeebetslot.com
@@ -39006,6 +39014,7 @@
 *.kawanslot88.org
 *.kawasankita.com
 *.kawin77kk.com
+*.kawinph.com
 *.kayacasino.casino
 *.kayacasino.club
 *.kayacasino.online
@@ -39669,7 +39678,6 @@
 *.kkw1.bet
 *.kkwin.men
 *.kkwin.vin
-*.kkwinslots.com
 *.klarnacasinos.nl
 *.klasbahiscasino.club
 *.klasselotteriet.dk
@@ -43222,6 +43230,7 @@
 *.m358-casino.org
 *.m358th.com
 *.m3casinoa.com
+*.m3k7d9z.com
 *.m3totoprize.com
 *.m4vip.vip
 *.m4vipcasino.com
@@ -50793,6 +50802,7 @@
 *.ph888b.com
 *.ph8ag.vip
 *.ph8casino.org
+*.ph90vip5.com
 *.phalogenics.info
 *.phantom88.net
 *.pharaoh-slot-casino.com
@@ -50877,6 +50887,7 @@
 *.phmoba.org
 *.phmocasino.site
 *.phmodernbets.com
+*.phoenixplay88.net
 *.phompokervn.com
 *.phone-casino-uk.com
 *.phonevegas.buzz
@@ -51012,7 +51023,6 @@
 *.pickwincasino.org
 *.picnicbet.com
 *.picowincasino.com
-*.pie-hosted.com
 *.piggspeak.com
 *.piggybank.casino
 *.piggybetcasino.net
@@ -53928,7 +53938,6 @@
 *.pokiesurfcasino-au.com
 *.pokiesurfcasino-australia.com
 *.pokiesurfcasinoaustralia.com
-*.pokieswwcasino.com
 *.pokjarutbukateja.com
 *.pokobet-casino-nl.com
 *.pokoknyagasaja.click
@@ -58639,7 +58648,6 @@
 *.shinigami01.com
 *.shipgaz.com
 *.shiphappenscasinowear.com
-*.shipsandports.org
 *.shirazgrandhotelcasino.com
 *.shivaplay.in
 *.shiyishijie.com
@@ -60650,6 +60658,7 @@
 *.spelmani.com
 *.spentzer.com
 *.spermcomet.com
+*.spgiiagjsja.com
 *.spgtotosurabaya.xyz
 *.spgtototegal.xyz
 *.spicebingo.buzz
@@ -64594,6 +64603,7 @@
 *.ttt777.com
 *.ttt7777.com
 *.ttty698.com
+*.ttvip88.biz
 *.ttzslots.com
 *.tuan-poker.icu
 *.tuanmuda4d.com
@@ -69826,7 +69836,16 @@
 *.yakuza168.casino
 *.yakuza4dcasino.cc
 *.yallabet30.com
+*.yamanplus105.com
+*.yamanplus178.com
+*.yamanplus295.com
+*.yamanplus369.com
+*.yamanplus486.com
+*.yamanplus597.com
+*.yamanplus638.com
 *.yamanplus759.com
+*.yamanplus863.com
+*.yamanplus974.com
 *.yamei6688.com
 *.yanncasino.com
 *.yanncasino.net

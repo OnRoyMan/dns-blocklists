@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jan 2026 10:33 UTC
-# Version: 2026.0124.1033.45
+# Last modified: 24 Jan 2026 18:33 UTC
+# Version: 2026.0124.1833.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11512
+# Number of entries: 11511
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -3739,7 +3739,6 @@ local=/ns1.floads.com/
 local=/ns2.floads.com/
 local=/flood.to/
 local=/flowermangas.net/
-local=/litter.fluffykitten.moe/
 local=/fluxyrepacks.xyz/
 local=/vpn.flying-datacenter.de/
 local=/flynetbd.com/

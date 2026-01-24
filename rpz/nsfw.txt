@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769250900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769279700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Jan 2026 10:35 UTC
-; Version: 2026.0124.1035.36
+; Last modified: 24 Jan 2026 18:35 UTC
+; Version: 2026.0124.1835.42
 ; Syntax: RPZ
-; Number of entries: 136834
+; Number of entries: 136822
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -30022,8 +30022,6 @@ erotictanzania.com CNAME .
 *.erotictanzania.com CNAME .
 eroticteensphotos.com CNAME .
 *.eroticteensphotos.com CNAME .
-erotictube1cn.com CNAME .
-*.erotictube1cn.com CNAME .
 eroticup.com CNAME .
 *.eroticup.com CNAME .
 eroticvagrants.com CNAME .
@@ -77450,8 +77448,6 @@ wanchengtextile.com CNAME .
 *.wanchengtextile.com CNAME .
 wandering-voyeurs.com CNAME .
 *.wandering-voyeurs.com CNAME .
-wangxxx.com CNAME .
-*.wangxxx.com CNAME .
 wank-pal.com CNAME .
 *.wank-pal.com CNAME .
 wank6.com CNAME .
@@ -103130,8 +103126,6 @@ homegrownfreaks.net CNAME .
 *.homegrownfreaks.net CNAME .
 homeindiansex.net CNAME .
 *.homeindiansex.net CNAME .
-homemadepornvideo.net CNAME .
-*.homemadepornvideo.net CNAME .
 homeopsexperts.net CNAME .
 *.homeopsexperts.net CNAME .
 homeporno.net CNAME .
@@ -113670,8 +113664,6 @@ nontonhentai.org CNAME .
 *.nontonhentai.org CNAME .
 nordicmodelnow.org CNAME .
 *.nordicmodelnow.org CNAME .
-northantsadultlearning.org CNAME .
-*.northantsadultlearning.org CNAME .
 notfans.org CNAME .
 *.notfans.org CNAME .
 notsex.org CNAME .
@@ -135118,8 +135110,6 @@ cnhub.xyz CNAME .
 *.cnhub.xyz CNAME .
 cnia.xyz CNAME .
 *.cnia.xyz CNAME .
-cnxxx.xyz CNAME .
-*.cnxxx.xyz CNAME .
 codersexpress.xyz CNAME .
 *.codersexpress.xyz CNAME .
 comic3.xyz CNAME .
@@ -136276,8 +136266,6 @@ sexzoa53.xyz CNAME .
 *.sexzoa53.xyz CNAME .
 seyhaneskort.xyz CNAME .
 *.seyhaneskort.xyz CNAME .
-shemaleporn.xyz CNAME .
-*.shemaleporn.xyz CNAME .
 shemalepower.xyz CNAME .
 *.shemalepower.xyz CNAME .
 shemalez.xyz CNAME .
