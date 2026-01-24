@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Jan 2026 22:42 UTC
-! Version: 2026.0122.2242.32
+! Last modified: 24 Jan 2026 10:38 UTC
+! Version: 2026.0124.1038.10
 ! Syntax: AdBlock
-! Number of entries: 1415
+! Number of entries: 1411
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -419,7 +419,6 @@
 ||dynup.net^
 ||dynv4.net^
 ||dynv6.com^
-||dynv6.net^
 ||dyyndns.net^
 ||e-m-a-i-l.org^
 ||e-romagnoli.com^
@@ -827,7 +826,6 @@
 ||kozow.com^
 ||ksk-saratov.ru^
 ||kyrgyzstan.kg^
-||l5.ca^
 ||labradapr.com^
 ||laketahoesue.com^
 ||lan64.de^
@@ -849,7 +847,6 @@
 ||lflinkup.org^
 ||likes-pie.com^
 ||likescandy.com^
-||line.pm^
 ||linkin.tw^
 ||linkpc.net^
 ||linux-site.net^
@@ -1329,7 +1326,6 @@
 ||ufcfan.org^
 ||ufodns.com^
 ||ugo.si^
-||uk.ms^
 ||uk.to^
 ||undo.it^
 ||unibutton.com^

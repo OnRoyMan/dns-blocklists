@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:32 UTC
-# Version: 2026.0121.1432.22
+# Last modified: 24 Jan 2026 10:38 UTC
+# Version: 2026.0124.1038.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3469
+# Number of entries: 3453
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -128,7 +128,6 @@ local=/arches-srv1.8ws.net/
 local=/arches-srv2.8ws.net/
 local=/outie.8ws.net/
 local=/outiejr.8ws.net/
-local=/tokyo.92-m.com/
 local=/dns.920313.xyz/
 local=/de-passage.9273082020.ru/
 local=/jp.95576.app/
@@ -1162,14 +1161,12 @@ local=/adguard2.dsns.cloud/
 local=/dstruis.nl/
 local=/dns.dualhosting.eu/
 local=/yukito.duanzx.top/
-local=/ad1guard.duckdns.org/
 local=/adgrm.duckdns.org/
 local=/adguardpi.duckdns.org/
 local=/andryk111.duckdns.org/
 local=/armm.duckdns.org/
 local=/baksabal.duckdns.org/
 local=/blamb.duckdns.org/
-local=/cdzopi.duckdns.org/
 local=/derekcastle.duckdns.org/
 local=/dirrectumrx.duckdns.org/
 local=/dorkanddoodle.duckdns.org/
@@ -1177,17 +1174,11 @@ local=/eweyo.duckdns.org/
 local=/gcpddns.duckdns.org/
 local=/genielee.duckdns.org/
 local=/home27.duckdns.org/
-local=/homejerem.duckdns.org/
 local=/hrsm12181.duckdns.org/
-local=/jfeoks.duckdns.org/
 local=/jonzalvo.duckdns.org/
 local=/jurre-home.duckdns.org/
-local=/kalwat.duckdns.org/
 local=/kiwifunke.duckdns.org/
-local=/kolobok2.duckdns.org/
 local=/krafty31.duckdns.org/
-local=/krtekvpn.duckdns.org/
-local=/ldaman.duckdns.org/
 local=/leoadguard.duckdns.org/
 local=/mipelinusa.duckdns.org/
 local=/morgenegg.duckdns.org/
@@ -1211,9 +1202,7 @@ local=/ts653d.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/unixfox.duckdns.org/
-local=/vpich.duckdns.org/
 local=/wired-guardian.duckdns.org/
-local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
 local=/x-o-x.duckdns.org/
 local=/x861g.duckdns.org/
@@ -1228,7 +1217,6 @@ local=/dns.dyn1.de/
 local=/akhilkalwakurthy.dyndns.org/
 local=/ueni.dyndns.org/
 local=/roucious.dyndns-remote.com/
-local=/resolver2.dyndnsinternetguide.com/
 local=/rafi.dynns.com/
 local=/ccadguard.dynu.net/
 local=/adguard.ekhozie.dynu.net/
@@ -1236,7 +1224,6 @@ local=/flyloadguard.dynu.net/
 local=/oostelbos.dynu.com/
 local=/quangdo92.dynu.net/
 local=/saomai.dynu.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/adg.dz.ax/
 local=/az.dz4fun.top/
@@ -2550,8 +2537,6 @@ local=/dns-ovh.panszelescik.pl/
 local=/dns.pari.network/
 local=/pashagame456.com/
 local=/paskam.xyz/
-local=/a.passcloud.xyz/
-local=/i.passcloud.xyz/
 local=/dns.pastorov.ru/
 local=/wg.pastorov.ru/
 local=/nas.patrick-antoine.fr/
@@ -3279,7 +3264,6 @@ local=/aqua.is.my.waifu.cz/
 local=/darkness.is.my.waifu.cz/
 local=/megumin.is.my.waifu.cz/
 local=/yunyun.is.my.waifu.cz/
-local=/dns.wakgood.net/
 local=/dns.walker.id/
 local=/wallpap.eu/
 local=/adguard.wallura.eu/

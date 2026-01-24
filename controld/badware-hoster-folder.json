@@ -1191,13 +1191,6 @@
       }
     },
     {
-      "PK": "arabcause.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "arabinn.club",
       "action": {
         "do": 0,
@@ -1213,13 +1206,6 @@
     },
     {
       "PK": "argentpropertiesvb.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "arizonafun.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3844,13 +3830,6 @@
       }
     },
     {
-      "PK": "finlandway.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "firearms.com",
       "action": {
         "do": 0,
@@ -4873,13 +4852,6 @@
       }
     },
     {
-      "PK": "hundredtrue.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "hupont.hu",
       "action": {
         "do": 0,
@@ -5686,13 +5658,6 @@
     },
     {
       "PK": "lovestoblog.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "loxblog.com",
       "action": {
         "do": 0,
         "status": 1
@@ -8206,13 +8171,6 @@
     },
     {
       "PK": "verifypass.pw",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "veritafinancebank.com",
       "action": {
         "do": 0,
         "status": 1

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 15:22 UTC
-# Version: 2026.0121.1522.18
+# Last modified: 24 Jan 2026 09:55 UTC
+# Version: 2026.0124.0955.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1317
+# Number of entries: 1311
 #
 local=/000a.de/
 local=/000space.com/
@@ -176,11 +176,9 @@ local=/angelfire.com/
 local=/anschauen.in/
 local=/anschiessen.de/
 local=/ar.gp/
-local=/arabcause.shop/
 local=/arabinn.club/
 local=/arcadepages.com/
 local=/argentpropertiesvb.com/
-local=/arizonafun.shop/
 local=/arrangiert.de/
 local=/artsold.top/
 local=/asia.cm/
@@ -568,7 +566,6 @@ local=/fileave.com/
 local=/filme.lc/
 local=/financecryptoworld.com/
 local=/findarea.shop/
-local=/finlandway.shop/
 local=/firearms.com/
 local=/firm.nu/
 local=/fishmeet.shop/
@@ -714,7 +711,6 @@ local=/hu.gp/
 local=/hu.kg/
 local=/humorme.info/
 local=/hund.in/
-local=/hundredtrue.shop/
 local=/hupont.hu/
 local=/hyderabadadda.com/
 local=/hyip.com/
@@ -829,7 +825,6 @@ local=/look.in/
 local=/lovable.app/
 local=/loveslife.biz/
 local=/lovestoblog.com/
-local=/loxblog.com/
 local=/lspmr.org/
 local=/lu.kg/
 local=/luzzati.com/
@@ -1188,7 +1183,6 @@ local=/v0r.org/
 local=/vastserve.com/
 local=/ve.gp/
 local=/verifypass.pw/
-local=/veritafinancebank.com/
 local=/verkniffen.de/
 local=/videopaul.shop/
 local=/virtue.nu/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769008920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769248500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Jan 2026 15:22 UTC
-; Version: 2026.0121.1522.18
+; Last modified: 24 Jan 2026 09:55 UTC
+; Version: 2026.0124.0955.23
 ; Syntax: RPZ
-; Number of entries: 2634
+; Number of entries: 2622
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -744,8 +744,6 @@ logdown.com CNAME .
 *.logdown.com CNAME .
 lovestoblog.com CNAME .
 *.lovestoblog.com CNAME .
-loxblog.com CNAME .
-*.loxblog.com CNAME .
 luzzati.com CNAME .
 *.luzzati.com CNAME .
 maddsites.com CNAME .
@@ -918,8 +916,6 @@ usclargo.com CNAME .
 *.usclargo.com CNAME .
 vastserve.com CNAME .
 *.vastserve.com CNAME .
-veritafinancebank.com CNAME .
-*.veritafinancebank.com CNAME .
 w3spaces.com CNAME .
 *.w3spaces.com CNAME .
 wallinside.com CNAME .
@@ -2366,10 +2362,6 @@ surge.sh CNAME .
 *.surge.sh CNAME .
 airself.shop CNAME .
 *.airself.shop CNAME .
-arabcause.shop CNAME .
-*.arabcause.shop CNAME .
-arizonafun.shop CNAME .
-*.arizonafun.shop CNAME .
 asiaal.shop CNAME .
 *.asiaal.shop CNAME .
 bizmovie.shop CNAME .
@@ -2390,8 +2382,6 @@ ebuykind.shop CNAME .
 *.ebuykind.shop CNAME .
 findarea.shop CNAME .
 *.findarea.shop CNAME .
-finlandway.shop CNAME .
-*.finlandway.shop CNAME .
 fishmeet.shop CNAME .
 *.fishmeet.shop CNAME .
 georgiatwo.shop CNAME .
@@ -2402,8 +2392,6 @@ harise.shop CNAME .
 *.harise.shop CNAME .
 hotloss.shop CNAME .
 *.hotloss.shop CNAME .
-hundredtrue.shop CNAME .
-*.hundredtrue.shop CNAME .
 kyoce.shop CNAME .
 *.kyoce.shop CNAME .
 nikoha.shop CNAME .

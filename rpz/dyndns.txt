@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769121720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769251080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Jan 2026 22:42 UTC
-; Version: 2026.0122.2242.32
+; Last modified: 24 Jan 2026 10:38 UTC
+; Version: 2026.0124.1038.10
 ; Syntax: RPZ
-; Number of entries: 2830
+; Number of entries: 2822
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -134,8 +134,6 @@ homenode.ca CNAME .
 *.homenode.ca CNAME .
 jcor.ca CNAME .
 *.jcor.ca CNAME .
-l5.ca CNAME .
-*.l5.ca CNAME .
 nard.ca CNAME .
 *.nard.ca CNAME .
 netmask.ca CNAME .
@@ -1812,8 +1810,6 @@ onionsallyear.mobi CNAME .
 *.onionsallyear.mobi CNAME .
 ddns.ms CNAME .
 *.ddns.ms CNAME .
-uk.ms CNAME .
-*.uk.ms CNAME .
 pics.mu CNAME .
 *.pics.mu CNAME .
 lee.mx CNAME .
@@ -1946,8 +1942,6 @@ dynup.net CNAME .
 *.dynup.net CNAME .
 dynv4.net CNAME .
 *.dynv4.net CNAME .
-dynv6.net CNAME .
-*.dynv6.net CNAME .
 dyyndns.net CNAME .
 *.dyyndns.net CNAME .
 easydns.net CNAME .
@@ -2550,8 +2544,6 @@ sexmistrz.pl CNAME .
 *.sexmistrz.pl CNAME .
 run.place CNAME .
 *.run.place CNAME .
-line.pm CNAME .
-*.line.pm CNAME .
 cloudns.pro CNAME .
 *.cloudns.pro CNAME .
 dyndns.pro CNAME .

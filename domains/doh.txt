@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:32 UTC
-# Version: 2026.0121.1432.22
+# Last modified: 24 Jan 2026 10:38 UTC
+# Version: 2026.0124.1038.35
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3947
+# Number of entries: 3931
 #
 ss.0001.xyz
 003153.xyz
@@ -143,7 +143,6 @@ arches-srv1.8ws.net
 arches-srv2.8ws.net
 outie.8ws.net
 outiejr.8ws.net
-tokyo.92-m.com
 dns.920313.xyz
 de-passage.9273082020.ru
 jp.95576.app
@@ -1392,14 +1391,12 @@ dstruis.nl
 www.dstruis.nl
 dns.dualhosting.eu
 yukito.duanzx.top
-ad1guard.duckdns.org
 adgrm.duckdns.org
 adguardpi.duckdns.org
 andryk111.duckdns.org
 armm.duckdns.org
 baksabal.duckdns.org
 blamb.duckdns.org
-cdzopi.duckdns.org
 derekcastle.duckdns.org
 dirrectumrx.duckdns.org
 dorkanddoodle.duckdns.org
@@ -1407,17 +1404,11 @@ eweyo.duckdns.org
 gcpddns.duckdns.org
 genielee.duckdns.org
 home27.duckdns.org
-homejerem.duckdns.org
 hrsm12181.duckdns.org
-jfeoks.duckdns.org
 jonzalvo.duckdns.org
 jurre-home.duckdns.org
-kalwat.duckdns.org
 kiwifunke.duckdns.org
-kolobok2.duckdns.org
 krafty31.duckdns.org
-krtekvpn.duckdns.org
-ldaman.duckdns.org
 leoadguard.duckdns.org
 mipelinusa.duckdns.org
 morgenegg.duckdns.org
@@ -1441,9 +1432,7 @@ ts653d.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
 unixfox.duckdns.org
-vpich.duckdns.org
 wired-guardian.duckdns.org
-wisehomeguard.duckdns.org
 workcavestl.duckdns.org
 x-o-x.duckdns.org
 x861g.duckdns.org
@@ -1459,7 +1448,6 @@ dns.dyn1.de
 akhilkalwakurthy.dyndns.org
 ueni.dyndns.org
 roucious.dyndns-remote.com
-resolver2.dyndnsinternetguide.com
 rafi.dynns.com
 ccadguard.dynu.net
 adguard.ekhozie.dynu.net
@@ -1467,7 +1455,6 @@ flyloadguard.dynu.net
 oostelbos.dynu.com
 quangdo92.dynu.net
 saomai.dynu.com
-gustamadh.dynv6.net
 dns.dynx.pro
 adg.dz.ax
 az.dz4fun.top
@@ -2942,8 +2929,6 @@ dns.pari.network
 pashagame456.com
 paskam.xyz
 rumsk.paskam.xyz
-a.passcloud.xyz
-i.passcloud.xyz
 dns.pastorov.ru
 wg.pastorov.ru
 nas.patrick-antoine.fr
@@ -3743,7 +3728,6 @@ aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
-dns.wakgood.net
 dns.walker.id
 wallpap.eu
 adguard.wallura.eu

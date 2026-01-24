@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 22:42 UTC
-# Version: 2026.0122.2242.32
+# Last modified: 24 Jan 2026 10:38 UTC
+# Version: 2026.0124.1038.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1415
+# Number of entries: 1411
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -418,7 +418,6 @@ local=/dynuddns.net/
 local=/dynup.net/
 local=/dynv4.net/
 local=/dynv6.com/
-local=/dynv6.net/
 local=/dyyndns.net/
 local=/e-m-a-i-l.org/
 local=/e-romagnoli.com/
@@ -826,7 +825,6 @@ local=/kompaniet.nu/
 local=/kozow.com/
 local=/ksk-saratov.ru/
 local=/kyrgyzstan.kg/
-local=/l5.ca/
 local=/labradapr.com/
 local=/laketahoesue.com/
 local=/lan64.de/
@@ -848,7 +846,6 @@ local=/lflinkup.net/
 local=/lflinkup.org/
 local=/likes-pie.com/
 local=/likescandy.com/
-local=/line.pm/
 local=/linkin.tw/
 local=/linkpc.net/
 local=/linux-site.net/
@@ -1328,7 +1325,6 @@ local=/udp64.de/
 local=/ufcfan.org/
 local=/ufodns.com/
 local=/ugo.si/
-local=/uk.ms/
 local=/uk.to/
 local=/undo.it/
 local=/unibutton.com/

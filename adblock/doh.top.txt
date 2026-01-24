@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Jan 2026 10:41 UTC
-! Version: 2026.0123.1041.35
+! Last modified: 24 Jan 2026 10:39 UTC
+! Version: 2026.0124.1039.02
 ! Syntax: AdBlock
 ! Number of entries: 823
 !
@@ -309,7 +309,6 @@
 ||droyd.top^
 ||agh.dshubham.xyz^
 ||jurre-home.duckdns.org^
-||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
@@ -549,6 +548,7 @@
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
+||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^

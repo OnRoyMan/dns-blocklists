@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:32 UTC
-# Version: 2026.0121.1432.22
+# Last modified: 24 Jan 2026 10:38 UTC
+# Version: 2026.0124.1038.35
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3947
+# Number of entries: 3931
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -143,7 +143,6 @@
 0.0.0.0 arches-srv2.8ws.net
 0.0.0.0 outie.8ws.net
 0.0.0.0 outiejr.8ws.net
-0.0.0.0 tokyo.92-m.com
 0.0.0.0 dns.920313.xyz
 0.0.0.0 de-passage.9273082020.ru
 0.0.0.0 jp.95576.app
@@ -1392,14 +1391,12 @@
 0.0.0.0 www.dstruis.nl
 0.0.0.0 dns.dualhosting.eu
 0.0.0.0 yukito.duanzx.top
-0.0.0.0 ad1guard.duckdns.org
 0.0.0.0 adgrm.duckdns.org
 0.0.0.0 adguardpi.duckdns.org
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 armm.duckdns.org
 0.0.0.0 baksabal.duckdns.org
 0.0.0.0 blamb.duckdns.org
-0.0.0.0 cdzopi.duckdns.org
 0.0.0.0 derekcastle.duckdns.org
 0.0.0.0 dirrectumrx.duckdns.org
 0.0.0.0 dorkanddoodle.duckdns.org
@@ -1407,17 +1404,11 @@
 0.0.0.0 gcpddns.duckdns.org
 0.0.0.0 genielee.duckdns.org
 0.0.0.0 home27.duckdns.org
-0.0.0.0 homejerem.duckdns.org
 0.0.0.0 hrsm12181.duckdns.org
-0.0.0.0 jfeoks.duckdns.org
 0.0.0.0 jonzalvo.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
-0.0.0.0 kalwat.duckdns.org
 0.0.0.0 kiwifunke.duckdns.org
-0.0.0.0 kolobok2.duckdns.org
 0.0.0.0 krafty31.duckdns.org
-0.0.0.0 krtekvpn.duckdns.org
-0.0.0.0 ldaman.duckdns.org
 0.0.0.0 leoadguard.duckdns.org
 0.0.0.0 mipelinusa.duckdns.org
 0.0.0.0 morgenegg.duckdns.org
@@ -1441,9 +1432,7 @@
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
-0.0.0.0 vpich.duckdns.org
 0.0.0.0 wired-guardian.duckdns.org
-0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
 0.0.0.0 x-o-x.duckdns.org
 0.0.0.0 x861g.duckdns.org
@@ -1459,7 +1448,6 @@
 0.0.0.0 akhilkalwakurthy.dyndns.org
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 roucious.dyndns-remote.com
-0.0.0.0 resolver2.dyndnsinternetguide.com
 0.0.0.0 rafi.dynns.com
 0.0.0.0 ccadguard.dynu.net
 0.0.0.0 adguard.ekhozie.dynu.net
@@ -1467,7 +1455,6 @@
 0.0.0.0 oostelbos.dynu.com
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -2942,8 +2929,6 @@
 0.0.0.0 pashagame456.com
 0.0.0.0 paskam.xyz
 0.0.0.0 rumsk.paskam.xyz
-0.0.0.0 a.passcloud.xyz
-0.0.0.0 i.passcloud.xyz
 0.0.0.0 dns.pastorov.ru
 0.0.0.0 wg.pastorov.ru
 0.0.0.0 nas.patrick-antoine.fr
@@ -3743,7 +3728,6 @@
 0.0.0.0 darkness.is.my.waifu.cz
 0.0.0.0 megumin.is.my.waifu.cz
 0.0.0.0 yunyun.is.my.waifu.cz
-0.0.0.0 dns.wakgood.net
 0.0.0.0 dns.walker.id
 0.0.0.0 wallpap.eu
 0.0.0.0 adguard.wallura.eu
