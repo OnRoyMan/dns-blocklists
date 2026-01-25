@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769279700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769308260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Jan 2026 18:35 UTC
-; Version: 2026.0124.1835.42
+; Last modified: 25 Jan 2026 02:31 UTC
+; Version: 2026.0125.0231.54
 ; Syntax: RPZ
-; Number of entries: 136822
+; Number of entries: 136832
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -39564,6 +39564,8 @@ hiqqu.com CNAME .
 *.hiqqu.com CNAME .
 hiralsharma.com CNAME .
 *.hiralsharma.com CNAME .
+hirestripperslasvegas.com CNAME .
+*.hirestripperslasvegas.com CNAME .
 hispajav.com CNAME .
 *.hispajav.com CNAME .
 hispajotes.com CNAME .
@@ -96356,6 +96358,8 @@ chinesepussy.link CNAME .
 *.chinesepussy.link CNAME .
 colmek.link CNAME .
 *.colmek.link CNAME .
+davalka.link CNAME .
+*.davalka.link CNAME .
 deephot.link CNAME .
 *.deephot.link CNAME .
 desiporn.link CNAME .
@@ -119854,6 +119858,8 @@ joporn.ru CNAME .
 *.joporn.ru CNAME .
 jsgadget.ru CNAME .
 *.jsgadget.ru CNAME .
+justgroove.ru CNAME .
+*.justgroove.ru CNAME .
 k1no.ru CNAME .
 *.k1no.ru CNAME .
 ka4nem.ru CNAME .
@@ -119920,6 +119926,8 @@ krasexpert.ru CNAME .
 *.krasexpert.ru CNAME .
 krasivie-telki.ru CNAME .
 *.krasivie-telki.ru CNAME .
+kraskedr.ru CNAME .
+*.kraskedr.ru CNAME .
 krimpai.ru CNAME .
 *.krimpai.ru CNAME .
 kripto365.ru CNAME .
@@ -130956,6 +130964,8 @@ mailonline.co.uk CNAME .
 *.mailonline.co.uk CNAME .
 manchester-elite.co.uk CNAME .
 *.manchester-elite.co.uk CNAME .
+manchestercheapescorts.co.uk CNAME .
+*.manchestercheapescorts.co.uk CNAME .
 manchesterescorts.co.uk CNAME .
 *.manchesterescorts.co.uk CNAME .
 manchesterescortsdirectory.co.uk CNAME .

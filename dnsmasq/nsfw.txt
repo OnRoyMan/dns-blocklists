@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jan 2026 18:35 UTC
-# Version: 2026.0124.1835.42
+# Last modified: 25 Jan 2026 02:31 UTC
+# Version: 2026.0125.0231.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 68411
+# Number of entries: 68416
 #
 local=/0-adult.biz/
 local=/0-porno.xyz/
@@ -12311,6 +12311,7 @@ local=/magayad.co.il/
 local=/mailonline.co.uk/
 local=/makelove.co.il/
 local=/manchester-elite.co.uk/
+local=/manchestercheapescorts.co.uk/
 local=/manchesterescorts.co.uk/
 local=/manchesterescortsdirectory.co.uk/
 local=/manchestersugarbabes.co.uk/
@@ -14624,6 +14625,7 @@ local=/daughterswap.com/
 local=/daughtertraining.com/
 local=/davalka.cc/
 local=/davalka.click/
+local=/davalka.link/
 local=/davalka.online/
 local=/davalka.top/
 local=/davalki.cc/
@@ -26408,6 +26410,7 @@ local=/hippievids.com/
 local=/hiprofileescortindelhi.com/
 local=/hiqqu.com/
 local=/hiralsharma.com/
+local=/hirestripperslasvegas.com/
 local=/hislut.net/
 local=/hisoporna.me/
 local=/hispajav.com/
@@ -30785,6 +30788,7 @@ local=/justfullporn.net/
 local=/justgay.chat/
 local=/justgaye.com/
 local=/justgirls.in/
+local=/justgroove.ru/
 local=/justhindixxx.com/
 local=/justicehentai.com/
 local=/justimg.com/
@@ -31770,6 +31774,7 @@ local=/krasexpert.online/
 local=/krasexpert.ru/
 local=/krasivie-telki.ru/
 local=/krasivoe-porno.com/
+local=/kraskedr.ru/
 local=/krasnodar-prostitutki.su/
 local=/krasnodarochki.net/
 local=/krasnodarwsm.com/

@@ -582,6 +582,13 @@
       }
     },
     {
+      "PK": "bolero.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bolt.new",
       "action": {
         "do": 1,
@@ -618,6 +625,13 @@
     },
     {
       "PK": "breeze.dating",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "brexx.bar",
       "action": {
         "do": 1,
         "status": 1
@@ -1429,6 +1443,13 @@
       }
     },
     {
+      "PK": "einhorn.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "elgaucho.asia",
       "action": {
         "do": 1,
@@ -1521,6 +1542,13 @@
     },
     {
       "PK": "epson.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ethics.bar",
       "action": {
         "do": 1,
         "status": 1
@@ -2080,6 +2108,13 @@
       }
     },
     {
+      "PK": "hai.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "hal.science",
       "action": {
         "do": 1,
@@ -2151,6 +2186,13 @@
     },
     {
       "PK": "henssler.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "herz.bar",
       "action": {
         "do": 1,
         "status": 1
@@ -3096,6 +3138,13 @@
     },
     {
       "PK": "metahub.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metro.bar",
       "action": {
         "do": 1,
         "status": 1
@@ -4286,6 +4335,13 @@
     },
     {
       "PK": "reddit-doesnt-like-this.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "reit.bar",
       "action": {
         "do": 1,
         "status": 1

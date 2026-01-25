@@ -735,6 +735,13 @@
       }
     },
     {
+      "PK": "bolero.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bolt.new",
       "action": {
         "do": 1,
@@ -799,6 +806,13 @@
     },
     {
       "PK": "breeze.dating",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "brexx.bar",
       "action": {
         "do": 1,
         "status": 1
@@ -1967,6 +1981,13 @@
       }
     },
     {
+      "PK": "einhorn.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "elgaucho.asia",
       "action": {
         "do": 1,
@@ -2089,6 +2110,13 @@
       "PK": "*.esq",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ethics.bar",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -2912,6 +2940,13 @@
       }
     },
     {
+      "PK": "hai.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.hair",
       "action": {
         "do": 0,
@@ -3018,6 +3053,13 @@
     },
     {
       "PK": "henssler.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "herz.bar",
       "action": {
         "do": 1,
         "status": 1
@@ -4208,6 +4250,13 @@
     },
     {
       "PK": "metahub.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metro.bar",
       "action": {
         "do": 1,
         "status": 1
@@ -5736,6 +5785,13 @@
       "PK": "*.rehab",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "reit.bar",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
