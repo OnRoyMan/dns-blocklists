@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jan 2026 18:33 UTC
-# Version: 2026.0124.1833.56
+# Last modified: 25 Jan 2026 18:36 UTC
+# Version: 2026.0125.1836.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11511
+# Number of entries: 11525
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -78,6 +78,7 @@ local=/101istj.online/
 local=/101istj.ru/
 local=/101istp.online/
 local=/101istp.ru/
+local=/1080-kino.com/
 local=/10drives.com/
 local=/10hitmovies.click/
 local=/10kol.tv/
@@ -124,8 +125,10 @@ local=/123movies.review/
 local=/123movies.sale/
 local=/123movies.sc/
 local=/123movies.st/
+local=/123movies.support/
 local=/123movies.to/
 local=/123movies.top/
+local=/123movies.watch/
 local=/123movies.website/
 local=/123movies.wine/
 local=/123movies.work/
@@ -154,6 +157,7 @@ local=/123movieshubz.com/
 local=/123moviesme.online/
 local=/123moviesme.org/
 local=/123moviesnew.site/
+local=/123moviesonline.biz/
 local=/123moviess.gdn/
 local=/123moviess.net/
 local=/123moviess.ru/
@@ -443,6 +447,8 @@ local=/acg.rip/
 local=/bt.acg.gg/
 local=/tracker.acg.gg/
 local=/acgnx.se/
+local=/opentracker.acgnx.com/
+local=/acgnxtracker.com/
 local=/acgsou.com/
 local=/open.acgtracker.com/
 local=/acid-play.com/
@@ -504,6 +510,7 @@ local=/aklivetv.com/
 local=/t.al.uy/
 local=/alabout.com/
 local=/alagoz.beer/
+local=/tracker.alaskantf.com/
 local=/aletorrenty.pl/
 local=/alexlan.org/
 local=/alfafile.net/
@@ -537,6 +544,7 @@ local=/allfreesoftware.org/
 local=/allhd.tv/
 local=/alliance4creativity.com/
 local=/allin1.cx/
+local=/allinonedownloadzz.site/
 local=/allkey.org/
 local=/allmacworlds.com/
 local=/allmanga.to/
@@ -606,6 +614,7 @@ local=/altadefinizione.id/
 local=/altadefinizione.info/
 local=/altadefinizione.io/
 local=/altadefinizione.it/
+local=/altadefinizione.lat/
 local=/altadefinizione.li/
 local=/altadefinizione.life/
 local=/altadefinizione.live/
@@ -693,6 +702,7 @@ local=/altadefinizionez.group/
 local=/altadefinizionez.pics/
 local=/altbinz.net/
 local=/alterupload.com/
+local=/tracker.altrosky.nl/
 local=/alypum.beer/
 local=/amaderforum.net/
 local=/amaderftp.net/
@@ -863,12 +873,14 @@ local=/anizone.to/
 local=/ankergames.net/
 local=/ankeschwarz.net/
 local=/annas-archive.cc/
+local=/annas-archive.gs/
 local=/annas-archive.li/
 local=/anonboot.com/
 local=/anonsecurityteam.com/
 local=/private.anonseed.com/
 local=/anonymous-stresser.net/
 local=/anonymouse.org/
+local=/anonymouse.pl/
 local=/anosbd.com/
 local=/ansktracker.net/
 local=/antbd.com/
@@ -895,6 +907,7 @@ local=/apk4free.net/
 local=/apk4free.org/
 local=/apk4fun.com/
 local=/apkals.com/
+local=/apkandroid.ru/
 local=/apkaward.com/
 local=/apkbeyond.org/
 local=/apkbigs.com/
@@ -1071,6 +1084,7 @@ local=/audiobookbay.net/
 local=/audiobookbay.nl/
 local=/audiobookbay.se/
 local=/audiobookol.com/
+local=/audiobooks.cloud/
 local=/audiobooksbee.com/
 local=/audiobookss.com/
 local=/audionews.org/

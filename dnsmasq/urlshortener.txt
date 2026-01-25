@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jan 2026 09:28 UTC
-# Version: 2026.0124.0928.43
+# Last modified: 25 Jan 2026 17:29 UTC
+# Version: 2026.0125.1729.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10003
+# Number of entries: 10012
 #
 local=/0.gp/
 local=/00m.in/
@@ -30,6 +30,7 @@ local=/0987.win/
 local=/0a.sk/
 local=/0a0.uk/
 local=/0bs.de/
+local=/0i.is/
 local=/0ln.eu/
 local=/0ln.io/
 local=/0o.lv/
@@ -104,6 +105,7 @@ local=/1ll.us/
 local=/1ly.ru/
 local=/1mm.kr/
 local=/1nk.co/
+local=/1nom.org/
 local=/1o.pl/
 local=/1o2.ir/
 local=/1oe9.one/
@@ -139,6 +141,7 @@ local=/1xfn.tech/
 local=/1xregister.vip/
 local=/1z.lc/
 local=/1zr.in/
+local=/1zx.ir/
 local=/2.gd/
 local=/2.gp/
 local=/2.ht/
@@ -196,6 +199,7 @@ local=/2shorter.com/
 local=/2tea.ch/
 local=/2tf.net/
 local=/2tiny.in/
+local=/2to.info/
 local=/2tu.us/
 local=/2u.gg/
 local=/2u.lc/
@@ -213,7 +217,9 @@ local=/2ya.com/
 local=/3.cn/
 local=/3.ly/
 local=/301.link/
+local=/301.nz/
 local=/301.tv/
+local=/301l.ir/
 local=/302.pl/
 local=/30na.ma/
 local=/30t.me/
@@ -449,6 +455,7 @@ local=/aboutmywebsite.com/
 local=/abr.ai/
 local=/abr.to/
 local=/abre.ae/
+local=/abre.ai/
 local=/abre.pub/
 local=/abrir.link/
 local=/abroad-links.com/
@@ -482,6 +489,7 @@ local=/acer.co/
 local=/acer.link/
 local=/aces.mp/
 local=/aces.so/
+local=/acessa.app/
 local=/acessaurl.com/
 local=/acesso.bio/
 local=/acg.kr/
@@ -571,6 +579,7 @@ local=/agll.ink/
 local=/agmd.win/
 local=/agoz.me/
 local=/agphosting.com/
+local=/agr.my/
 local=/agrd.io/
 local=/agroforestri.id/
 local=/agrolink.me/

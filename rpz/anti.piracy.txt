@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769279580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769366160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Jan 2026 18:33 UTC
-; Version: 2026.0124.1833.56
+; Last modified: 25 Jan 2026 18:36 UTC
+; Version: 2026.0125.1836.21
 ; Syntax: RPZ
-; Number of entries: 23022
+; Number of entries: 23050
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -778,6 +778,8 @@ streamingcommunityz.bio CNAME .
 *.streamingcommunityz.bio CNAME .
 vegamovies.bio CNAME .
 *.vegamovies.bio CNAME .
+123moviesonline.biz CNAME .
+*.123moviesonline.biz CNAME .
 altadefinizionegratis.biz CNAME .
 *.altadefinizionegratis.biz CNAME .
 amedia.biz CNAME .
@@ -1970,6 +1972,8 @@ cb01.clothing CNAME .
 *.5movies.cloud CNAME .
 altadefinizionegratis.cloud CNAME .
 *.altadefinizionegratis.cloud CNAME .
+audiobooks.cloud CNAME .
+*.audiobooks.cloud CNAME .
 bedro.cloud CNAME .
 *.bedro.cloud CNAME .
 cineblog01.cloud CNAME .
@@ -2560,6 +2564,8 @@ tracker.0x7c0.com CNAME .
 *.1-2-3movies.com CNAME .
 100520.com CNAME .
 *.100520.com CNAME .
+1080-kino.com CNAME .
+*.1080-kino.com CNAME .
 10drives.com CNAME .
 *.10drives.com CNAME .
 10mbit.com CNAME .
@@ -2730,6 +2736,10 @@ abnzb.com CNAME .
 *.abnzb.com CNAME .
 abrokegamer.com CNAME .
 *.abrokegamer.com CNAME .
+opentracker.acgnx.com CNAME .
+*.opentracker.acgnx.com CNAME .
+acgnxtracker.com CNAME .
+*.acgnxtracker.com CNAME .
 acgsou.com CNAME .
 *.acgsou.com CNAME .
 open.acgtracker.com CNAME .
@@ -2784,6 +2794,8 @@ aklivetv.com CNAME .
 *.aklivetv.com CNAME .
 alabout.com CNAME .
 *.alabout.com CNAME .
+tracker.alaskantf.com CNAME .
+*.tracker.alaskantf.com CNAME .
 alfanotv.com CNAME .
 *.alfanotv.com CNAME .
 alifanet.com CNAME .
@@ -9818,6 +9830,8 @@ kinox.group CNAME .
 *.kinox.group CNAME .
 vegamovies.group CNAME .
 *.vegamovies.group CNAME .
+annas-archive.gs CNAME .
+*.annas-archive.gs CNAME .
 3ds.hacks.guide CNAME .
 *.3ds.hacks.guide CNAME .
 dood.guru CNAME .
@@ -11250,6 +11264,8 @@ skymovieshd.land CNAME .
 *.skymovieshd.land CNAME .
 tantifilm.land CNAME .
 *.tantifilm.land CNAME .
+altadefinizione.lat CNAME .
+*.altadefinizione.lat CNAME .
 cb01.lat CNAME .
 *.cb01.lat CNAME .
 cineby.lat CNAME .
@@ -14700,6 +14716,8 @@ wearethereal.ninja CNAME .
 *.1movies.nl CNAME .
 1shows.nl CNAME .
 *.1shows.nl CNAME .
+tracker.altrosky.nl CNAME .
+*.tracker.altrosky.nl CNAME .
 audiobookbay.nl CNAME .
 *.audiobookbay.nl CNAME .
 bmovies.nl CNAME .
@@ -17154,6 +17172,8 @@ alltube.pl CNAME .
 *.alltube.pl CNAME .
 alltube-tv.pl CNAME .
 *.alltube-tv.pl CNAME .
+anonymouse.pl CNAME .
+*.anonymouse.pl CNAME .
 auratorrent.pl CNAME .
 *.auratorrent.pl CNAME .
 bajeczki24.pl CNAME .
@@ -18190,6 +18210,8 @@ antenasports.ru CNAME .
 *.antenasports.ru CNAME .
 antennasport.ru CNAME .
 *.antennasport.ru CNAME .
+apkandroid.ru CNAME .
+*.apkandroid.ru CNAME .
 appstorrent.ru CNAME .
 *.appstorrent.ru CNAME .
 arenda123.ru CNAME .
@@ -19042,6 +19064,8 @@ streamingcommunity.singles CNAME .
 *.33seriestreaming.site CNAME .
 tracker.52pt.site CNAME .
 *.tracker.52pt.site CNAME .
+allinonedownloadzz.site CNAME .
+*.allinonedownloadzz.site CNAME .
 altadefinizione01.site CNAME .
 *.altadefinizione01.site CNAME .
 ambassadorddl.site CNAME .
@@ -19618,6 +19642,8 @@ wawacity.su CNAME .
 *.wawacity.su CNAME .
 vegamovies.supplies CNAME .
 *.vegamovies.supplies CNAME .
+123movies.support CNAME .
+*.123movies.support CNAME .
 cb01.support CNAME .
 *.cb01.support CNAME .
 streamingcommunity.support CNAME .
@@ -22014,6 +22040,8 @@ hdmovie2.wang CNAME .
 *.hdmovie2.wang CNAME .
 streamingcommunity.wang CNAME .
 *.streamingcommunity.wang CNAME .
+123movies.watch CNAME .
+*.123movies.watch CNAME .
 altadefinizionegratis.watch CNAME .
 *.altadefinizionegratis.watch CNAME .
 batmanstream.watch CNAME .

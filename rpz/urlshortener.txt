@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769246880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769362140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Jan 2026 09:28 UTC
-; Version: 2026.0124.0928.43
+; Last modified: 25 Jan 2026 17:29 UTC
+; Version: 2026.0125.1729.37
 ; Syntax: RPZ
-; Number of entries: 20006
+; Number of entries: 20024
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -127,6 +127,8 @@ tns.agency CNAME .
 *.4ja.ai CNAME .
 abr.ai CNAME .
 *.abr.ai CNAME .
+abre.ai CNAME .
+*.abre.ai CNAME .
 bcns.ai CNAME .
 *.bcns.ai CNAME .
 beacons.ai CNAME .
@@ -311,6 +313,8 @@ web.a.app CNAME .
 *.web.a.app CNAME .
 a8s.app CNAME .
 *.a8s.app CNAME .
+acessa.app CNAME .
+*.acessa.app CNAME .
 aiurl.app CNAME .
 *.aiurl.app CNAME .
 alter-kpi.app CNAME .
@@ -10293,6 +10297,8 @@ go.zordo.in CNAME .
 *.2it.info CNAME .
 2my.info CNAME .
 *.2my.info CNAME .
+2to.info CNAME .
+*.2to.info CNAME .
 4extra.info CNAME .
 *.4extra.info CNAME .
 5rwv.info CNAME .
@@ -11325,6 +11331,8 @@ zuitte.io CNAME .
 *.1fy.ir CNAME .
 1o2.ir CNAME .
 *.1o2.ir CNAME .
+1zx.ir CNAME .
+*.1zx.ir CNAME .
 20l.ir CNAME .
 *.20l.ir CNAME .
 24link.ir CNAME .
@@ -11333,6 +11341,8 @@ zuitte.io CNAME .
 *.2ad.ir CNAME .
 2w3.ir CNAME .
 *.2w3.ir CNAME .
+301l.ir CNAME .
+*.301l.ir CNAME .
 4eq.ir CNAME .
 *.4eq.ir CNAME .
 7g7.ir CNAME .
@@ -11447,6 +11457,8 @@ zrpl.ir CNAME .
 *.zrpl.ir CNAME .
 zurl.ir CNAME .
 *.zurl.ir CNAME .
+0i.is CNAME .
+*.0i.is CNAME .
 1s.is CNAME .
 *.1s.is CNAME .
 2m.is CNAME .
@@ -14895,6 +14907,8 @@ x10.mx CNAME .
 *.1url.my CNAME .
 350.my CNAME .
 *.350.my CNAME .
+agr.my CNAME .
+*.agr.my CNAME .
 ah.my CNAME .
 *.ah.my CNAME .
 aka.my CNAME .
@@ -15817,6 +15831,8 @@ yuk.nu CNAME .
 *.yuk.nu CNAME .
 13k.nz CNAME .
 *.13k.nz CNAME .
+301.nz CNAME .
+*.301.nz CNAME .
 ierp.co.nz CNAME .
 *.ierp.co.nz CNAME .
 xx.co.nz CNAME .
@@ -16029,6 +16045,8 @@ sah.ooo CNAME .
 *.173ch1.org CNAME .
 1ir.org CNAME .
 *.1ir.org CNAME .
+1nom.org CNAME .
+*.1nom.org CNAME .
 3dsecure.org CNAME .
 *.3dsecure.org CNAME .
 a.6mqw.org CNAME .

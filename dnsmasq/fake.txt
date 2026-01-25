@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jan 2026 09:27 UTC
-# Version: 2026.0125.0927.30
+# Last modified: 25 Jan 2026 17:27 UTC
+# Version: 2026.0125.1727.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13880
+# Number of entries: 13890
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -43,6 +43,7 @@ local=/24usefultoolsstore.com/
 local=/eu.2bagsvalley.cn/
 local=/2bgreen.at/
 local=/2cequipements.com/
+local=/2f-kanzlei.com/
 local=/2rad-outlet.com/
 local=/2smart4me.de/
 local=/2wheelshero.com/
@@ -109,6 +110,7 @@ local=/accelerateg.com/
 local=/acceleratet.com/
 local=/acceptablt.com/
 local=/log.acces-btpanda.com/
+local=/acces-gestionparticulier.com/
 local=/access-eurnxt.com/
 local=/accessoiresrabatt.com/
 local=/accessories-world.club/
@@ -187,6 +189,7 @@ local=/adventureactivities.club/
 local=/adventuregearup.com/
 local=/advisabled.com/
 local=/adviseaffair.com/
+local=/advisorgroup.it/
 local=/aedes.shop/
 local=/aeg-solutions.com/
 local=/aegidien-apotheke.de/
@@ -302,9 +305,11 @@ local=/alessoria.de/
 local=/alfcasino1.com/
 local=/alfdever.com/
 local=/alfinanz.ch/
+local=/alfonline.de/
 local=/alfonsa.de/
 local=/alfonsoquintas.com/
 local=/alfrescodurable.com/
+local=/algexia.pro/
 local=/algo-crypto.com/
 local=/algo-robot.co/
 local=/algopro.us/
@@ -316,6 +321,7 @@ local=/alicevintage.com/
 local=/alidropnuig.com/
 local=/alinatonce.com/
 local=/alioth.club/
+local=/aliveeshop.com/
 local=/aliveffect.com/
 local=/all-festivals.com/
 local=/all4tech.site/
@@ -527,6 +533,7 @@ local=/angusz.com/
 local=/anhaenger-von-thule.de/
 local=/anhaengerkauf24.com/
 local=/anhaengermarkt.com/
+local=/anhaengers.online/
 local=/anhaengerverleih-mania.de/
 local=/anhanger.net/
 local=/anhanger-handler.com/
@@ -751,6 +758,7 @@ local=/asomch.com/
 local=/asphaltgoldde.live/
 local=/aspierhireworksde.com/
 local=/aspierhireworksde.works/
+local=/asse-groupe.com/
 local=/assemblytoolprada.com/
 local=/assess-health.com/
 local=/asset-ace.org/
@@ -794,6 +802,7 @@ local=/atrendse.cc/
 local=/nyhead.atsearch.shop/
 local=/attenberger-elektronik.de/
 local=/attentivek.com/
+local=/attiremen.com/
 local=/attraktivgarten.com/
 local=/atuiomane.de/
 local=/atusale.shop/
@@ -830,6 +839,7 @@ local=/ausgewalhtheim.de/
 local=/ausgnadeeur.shop/
 local=/auspitz-shop.com/
 local=/aussiecarsupplies.com/
+local=/australiannewstoday.com/
 local=/austria-deals.com/
 local=/austria-myhermes.cc/
 local=/austria-partner.at/
