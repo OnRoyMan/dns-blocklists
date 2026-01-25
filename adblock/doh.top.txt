@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Jan 2026 10:39 UTC
-! Version: 2026.0124.1039.02
+! Last modified: 25 Jan 2026 10:39 UTC
+! Version: 2026.0125.1039.02
 ! Syntax: AdBlock
-! Number of entries: 823
+! Number of entries: 842
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -42,6 +42,7 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
+||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
@@ -86,6 +87,7 @@
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||atris.cyou^
+||dohtrial.att.net^
 ||secure.avastdns.com^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
@@ -120,6 +122,7 @@
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
 ||dot-de.blahdns.com^
+||dot-fi.blahdns.com^
 ||dot-jp.blahdns.com^
 ||dot-sg.blahdns.com^
 ||us1.blissdns.net^
@@ -136,6 +139,7 @@
 ||stratus.bugz.fr^
 ||c-dns.com^
 ||dns.caliph.dev^
+||callies-online.site^
 ||doh.captnemo.in^
 ||dns.caspervk.net^
 ||catdns.org^
@@ -155,6 +159,7 @@
 ||canadianshield.cira.ca^
 ||dns.circl.lu^
 ||cleanbrowsing.org^
+||cloudbenders.fun^
 ||dns.cloudflare.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -187,6 +192,7 @@
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||cubedns.com^
+||nanopi.cybergroove.net^
 ||dns.cynthialabs.net^
 ||dns.d94.xyz^
 ||mail.data.haus^
@@ -217,6 +223,7 @@
 ||dns-free.link^
 ||dns1.dns-ga.de^
 ||dns.dns-over-https.com^
+||dns0.eu^
 ||doh.dns4all.eu^
 ||doq.dns4all.eu^
 ||doq64.dns4all.eu^
@@ -242,6 +249,7 @@
 ||geg01.dnscry.pt^
 ||gru01.dnscry.pt^
 ||gva01.dnscry.pt^
+||haf01.dnscry.pt^
 ||han01.dnscry.pt^
 ||ist01.dnscry.pt^
 ||kiv01.dnscry.pt^
@@ -262,6 +270,7 @@
 ||omr01.dnscry.pt^
 ||pdx01.dnscry.pt^
 ||phl01.dnscry.pt^
+||phx01.dnscry.pt^
 ||sea01.dnscry.pt^
 ||sgn01.dnscry.pt^
 ||sin03.dnscry.pt^
@@ -287,6 +296,7 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
+||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||dnspod.com^
 ||doh.asia.dnswarden.com^
@@ -309,6 +319,7 @@
 ||droyd.top^
 ||agh.dshubham.xyz^
 ||jurre-home.duckdns.org^
+||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
@@ -362,6 +373,7 @@
 ||us-ny.foxyfy.net^
 ||us-sj.foxyfy.net^
 ||dns.froth.zone^
+||dns.furrydns.de^
 ||doh.futa.gg^
 ||dns.futuredns.me^
 ||cluster-0.gac.edu^
@@ -372,6 +384,7 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -415,6 +428,7 @@
 ||ads.hunga1k47.com^
 ||doth.huque.com^
 ||dns.huseynov.work^
+||i-puppy.ru^
 ||dns.iamanuragh.in^
 ||dns.iamninja.ru^
 ||ib.systems^
@@ -464,6 +478,7 @@
 ||dns.karadag.me^
 ||adguard.kasbot.net^
 ||dns.kastner-online.de^
+||kavkaz.monster^
 ||dns.kawa.tf^
 ||doh.kel.pe^
 ||dns.kernel-error.de^
@@ -485,6 +500,7 @@
 ||leecurrylawfirm.com^
 ||yarp.lefolgoc.net^
 ||lelux.fi^
+||lewsha.lol^
 ||doh.libredns.gr^
 ||dot.libredns.gr^
 ||loadlow.me^
@@ -497,6 +513,7 @@
 ||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
 ||lukscasino-929-tr.xyz^
+||dns.marasov.id^
 ||dns.marbledfennec.net^
 ||adguard.marto.si^
 ||masters-of-cloud.de^
@@ -529,6 +546,7 @@
 ||myatris.sbs^
 ||adblock.mydns.network^
 ||dns.n23.io^
+||najiakeji.top^
 ||chungocoai.name.vn^
 ||dns.narl.app^
 ||de-fra-w-p-1.nashkan.net^
@@ -699,6 +717,7 @@
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||d2.shabi.icu^
 ||shalenkov.dev^
+||free.shecan.ir^
 ||httpdns.n.shifen.com^
 ||do.shimul.me^
 ||adguard.shoupperuser.com^

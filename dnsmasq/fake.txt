@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jan 2026 17:28 UTC
-# Version: 2026.0124.1728.24
+# Last modified: 25 Jan 2026 09:27 UTC
+# Version: 2026.0125.0927.30
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 13880
 #
@@ -303,6 +303,7 @@ local=/alfcasino1.com/
 local=/alfdever.com/
 local=/alfinanz.ch/
 local=/alfonsa.de/
+local=/alfonsoquintas.com/
 local=/alfrescodurable.com/
 local=/algo-crypto.com/
 local=/algo-robot.co/
@@ -4592,7 +4593,6 @@ local=/fredperryonlineshop.de/
 local=/free-maket.com/
 local=/freeacy.com/
 local=/freemobile24.de/
-local=/freeseem.com/
 local=/freesmarttools.com/
 local=/freeteck.shop/
 local=/freevouchercode.org/
@@ -4625,7 +4625,6 @@ local=/frieda-taschen.de/
 local=/friedaskitchen.de/
 local=/friedberg-mode.de/
 local=/friedrich-betz.de/
-local=/friendlyk.com/
 local=/friluftsbillig.com/
 local=/friluftsrabatt.com/
 local=/friluftsshopde.com/
@@ -5002,7 +5001,6 @@ local=/gesundheits-apo.com/
 local=/gesundheitsbucher.com/
 local=/gesundmedizinische.com/
 local=/get-adel.de/
-local=/get-akusoli.com/
 local=/get-curaball.com/
 local=/get-huusk.com/
 local=/get-hydrogenwaterbottle.com/
@@ -9088,7 +9086,6 @@ local=/obstbaumpflanzen.com/
 local=/obstbaumwelt.com/
 local=/ocayo.de/
 local=/occasionak.com/
-local=/occasionk.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
 local=/octapustravel.com/
@@ -9926,6 +9923,7 @@ local=/potenzmittelbestellen.at/
 local=/potenzmittelonlinekaufen.org/
 local=/potsdampal.de/
 local=/pottery-classes.org/
+local=/potterytoolsandequipments.com/
 local=/potwex.com/
 local=/powderxpirit.at/
 local=/power-laden.store/
@@ -10626,6 +10624,7 @@ local=/royaldebank.com/
 local=/royaldiam.com/
 local=/royalinspire.com/
 local=/royals-fund.io/
+local=/royaura.shop/
 local=/royusionalty.com/
 local=/rra-time.com/
 local=/rromaakt.de/
@@ -11307,6 +11306,7 @@ local=/smartlightingshop.com/
 local=/smartmarket26.com/
 local=/smartplantivy.com/
 local=/smartrade.cm/
+local=/smartsolve.ai/
 local=/smartsteamershop.com/
 local=/smartundgeizig.de/
 local=/smileclothing.com/

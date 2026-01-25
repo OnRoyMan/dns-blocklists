@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jan 2026 10:38 UTC
-# Version: 2026.0124.1038.10
+# Last modified: 25 Jan 2026 10:37 UTC
+# Version: 2026.0125.1037.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1411
+# Number of entries: 1412
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -418,6 +418,7 @@
 *.dynup.net
 *.dynv4.net
 *.dynv6.com
+*.dynv6.net
 *.dyyndns.net
 *.e-m-a-i-l.org
 *.e-romagnoli.com

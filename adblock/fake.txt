@@ -6,8 +6,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Jan 2026 17:28 UTC
-! Version: 2026.0124.1728.24
+! Last modified: 25 Jan 2026 09:27 UTC
+! Version: 2026.0125.0927.30
 ! Syntax: AdBlock
 ! Number of entries: 13880
 !
@@ -304,6 +304,7 @@
 ||alfdever.com^
 ||alfinanz.ch^
 ||alfonsa.de^
+||alfonsoquintas.com^
 ||alfrescodurable.com^
 ||algo-crypto.com^
 ||algo-robot.co^
@@ -4593,7 +4594,6 @@
 ||free-maket.com^
 ||freeacy.com^
 ||freemobile24.de^
-||freeseem.com^
 ||freesmarttools.com^
 ||freeteck.shop^
 ||freevouchercode.org^
@@ -4626,7 +4626,6 @@
 ||friedaskitchen.de^
 ||friedberg-mode.de^
 ||friedrich-betz.de^
-||friendlyk.com^
 ||friluftsbillig.com^
 ||friluftsrabatt.com^
 ||friluftsshopde.com^
@@ -5003,7 +5002,6 @@
 ||gesundheitsbucher.com^
 ||gesundmedizinische.com^
 ||get-adel.de^
-||get-akusoli.com^
 ||get-curaball.com^
 ||get-huusk.com^
 ||get-hydrogenwaterbottle.com^
@@ -9089,7 +9087,6 @@
 ||obstbaumwelt.com^
 ||ocayo.de^
 ||occasionak.com^
-||occasionk.com^
 ||ocinboutique.de^
 ||octa-trade.com^
 ||octapustravel.com^
@@ -9927,6 +9924,7 @@
 ||potenzmittelonlinekaufen.org^
 ||potsdampal.de^
 ||pottery-classes.org^
+||potterytoolsandequipments.com^
 ||potwex.com^
 ||powderxpirit.at^
 ||power-laden.store^
@@ -10627,6 +10625,7 @@
 ||royaldiam.com^
 ||royalinspire.com^
 ||royals-fund.io^
+||royaura.shop^
 ||royusionalty.com^
 ||rra-time.com^
 ||rromaakt.de^
@@ -11308,6 +11307,7 @@
 ||smartmarket26.com^
 ||smartplantivy.com^
 ||smartrade.cm^
+||smartsolve.ai^
 ||smartsteamershop.com^
 ||smartundgeizig.de^
 ||smileclothing.com^
