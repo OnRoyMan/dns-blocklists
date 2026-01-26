@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 09:32 UTC
-# Version: 2026.0126.0932.02
+# Last modified: 26 Jan 2026 17:30 UTC
+# Version: 2026.0126.1730.54
 # Syntax: Domains (without subdomains)
-# Number of entries: 10020
+# Number of entries: 10023
 #
 0.gp
 00m.in
@@ -3054,6 +3054,7 @@ getshort.in
 getshorter.com
 getsmallurl.com
 getsterlink.com
+getthot.com
 gettolink.net
 gettr.im
 geturls.net
@@ -3080,6 +3081,7 @@ gi.lt
 gibi.link
 gigalink.me
 gigaz.in
+gigbridge.app
 gil.re
 giosous.com
 gir.gg
@@ -3118,6 +3120,7 @@ globargains.com
 glol.in
 glolin.com
 gloshukadamiava2.live
+glowin88.site
 glss.co
 gma.abc
 gmh.bz

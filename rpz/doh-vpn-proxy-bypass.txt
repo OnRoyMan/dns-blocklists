@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769414520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769452980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Jan 2026 08:02 UTC
-; Version: 2026.0126.0802.35
+; Last modified: 26 Jan 2026 18:43 UTC
+; Version: 2026.0126.1843.08
 ; Syntax: RPZ
-; Number of entries: 19470
+; Number of entries: 19474
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4057,6 +4057,8 @@ wg-aghome.freemyip.com CNAME .
 *.wg-aghome.freemyip.com CNAME .
 zuk.freemyip.com CNAME .
 *.zuk.freemyip.com CNAME .
+freeopenproxy.com CNAME .
+*.freeopenproxy.com CNAME .
 freeplanetvpn.com CNAME .
 *.freeplanetvpn.com CNAME .
 freeproxyaccess.com CNAME .
@@ -12631,6 +12633,8 @@ papi.fusionsai.net CNAME .
 *.papi.fusionsai.net CNAME .
 us.future-world.net CNAME .
 *.us.future-world.net CNAME .
+callllllllllcu.galaxybbs.net CNAME .
+*.callllllllllcu.galaxybbs.net CNAME .
 lunarhistory.galaxybbs.net CNAME .
 *.lunarhistory.galaxybbs.net CNAME .
 proxy.gamecove.net CNAME .

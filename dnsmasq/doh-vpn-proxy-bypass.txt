@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 08:02 UTC
-# Version: 2026.0126.0802.35
+# Last modified: 26 Jan 2026 18:43 UTC
+# Version: 2026.0126.1843.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9735
+# Number of entries: 9737
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -3915,6 +3915,7 @@ local=/wg-aghome.freemyip.com/
 local=/zuk.freemyip.com/
 local=/freenetproject.org/
 local=/freenomisratelimitingme.cf/
+local=/freeopenproxy.com/
 local=/freeopenvpn.org/
 local=/freeplace.info/
 local=/freeplanetvpn.com/
@@ -4026,6 +4027,7 @@ local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/bolt.galacticrouter.xyz/
 local=/galacticsurf.boats/
+local=/callllllllllcu.galaxybbs.net/
 local=/lunarhistory.galaxybbs.net/
 local=/sd.galaxysoft.ro/
 local=/myapps.instructure.com.galitec.es/

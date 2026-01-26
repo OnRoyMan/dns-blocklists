@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Jan 2026 09:32 UTC
-! Version: 2026.0126.0932.02
+! Last modified: 26 Jan 2026 17:30 UTC
+! Version: 2026.0126.1730.54
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2980,6 +2980,7 @@
 @@||getshorter.com^
 @@||getsmallurl.com^
 @@||getsterlink.com^
+@@||getthot.com^
 @@||gettolink.net^
 @@||gettr.im^
 @@||geturls.net^
@@ -3006,6 +3007,7 @@
 @@||gibi.link^
 @@||gigalink.me^
 @@||gigaz.in^
+@@||gigbridge.app^
 @@||gil.re^
 @@||giosous.com^
 @@||gir.gg^
@@ -3043,6 +3045,7 @@
 @@||glol.in^
 @@||glolin.com^
 @@||gloshukadamiava2.live^
+@@||glowin88.site^
 @@||glss.co^
 @@||gma.abc^
 @@||gmh.bz^

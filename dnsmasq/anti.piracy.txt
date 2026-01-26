@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 10:36 UTC
-# Version: 2026.0126.1036.41
+# Last modified: 26 Jan 2026 18:37 UTC
+# Version: 2026.0126.1837.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11560
+# Number of entries: 11568
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -2023,6 +2023,7 @@ local=/cloudatacdn.com/
 local=/tracker.cloudbase.store/
 local=/cloudblink91.xyz/
 local=/cloudboxes.io/
+local=/d33f51dyacx7bd.cloudfront.net/
 local=/cloudtorrents.com/
 local=/cloudvideo.tv/
 local=/hd.club.tw/
@@ -4214,6 +4215,7 @@ local=/gidonline.one/
 local=/gidonline.site/
 local=/gidonline.vip/
 local=/gidonline.ws/
+local=/gidonline.xyz/
 local=/gidonline-film.ru/
 local=/gidonline2.com/
 local=/gidonlinehd.online/
@@ -4441,6 +4443,7 @@ local=/guardaserietv.sale/
 local=/guardaserietv.sbs/
 local=/guardaserietv.top/
 local=/guardaserietv.world/
+local=/guiks.net/
 local=/gun-land.net/
 local=/gunsnroses.us/
 local=/gustatv.to/
@@ -4766,6 +4769,7 @@ local=/hdmovie2.rentals/
 local=/hdmovie2.repair/
 local=/hdmovie2.republican/
 local=/hdmovie2.rest/
+local=/hdmovie2.reviews/
 local=/hdmovie2.rocks/
 local=/hdmovie2.rodeo/
 local=/hdmovie2.sale/
@@ -4786,6 +4790,7 @@ local=/hdmovie2.ski/
 local=/hdmovie2.skin/
 local=/hdmovie2.soccer/
 local=/hdmovie2.software/
+local=/hdmovie2.solar/
 local=/hdmovie2.solutions/
 local=/hdmovie2.space/
 local=/hdmovie2.spot/
@@ -4984,6 +4989,7 @@ local=/v74853.hosted-by-vdsina.com/
 local=/webstresser-free.hostthegame.com/
 local=/hostxy.com/
 local=/hotaudiobooks.com/
+local=/hotcamsplays.life/
 local=/hotne.ws/
 local=/retracker.hotplug.ru/
 local=/house-of-usenet.com/
@@ -5017,6 +5023,7 @@ local=/hydrahd.com/
 local=/hydrax.is/
 local=/hydrostress.com/
 local=/hyperproxy.net/
+local=/hypertor.com/
 local=/hypertorrent.com/
 local=/i-b.co/
 local=/i123movies.club/
@@ -9598,6 +9605,7 @@ local=/tiansha.net/
 local=/tianxingjian.wiki/
 local=/tienichmaytinh.com/
 local=/tigerblack.net/
+local=/tii.la/
 local=/tikmovies.com/
 local=/time-popcorn.com/
 local=/time-popcorn.info/

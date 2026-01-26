@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769423760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769452620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Jan 2026 10:36 UTC
-; Version: 2026.0126.1036.41
+; Last modified: 26 Jan 2026 18:37 UTC
+; Version: 2026.0126.1837.42
 ; Syntax: RPZ
-; Number of entries: 23120
+; Number of entries: 23136
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -5036,6 +5036,8 @@ hydrahd.com CNAME .
 *.hydrahd.com CNAME .
 hydrostress.com CNAME .
 *.hydrostress.com CNAME .
+hypertor.com CNAME .
+*.hypertor.com CNAME .
 hypertorrent.com CNAME .
 *.hypertorrent.com CNAME .
 i1apk.com CNAME .
@@ -11280,6 +11282,8 @@ series9.la CNAME .
 *.series9.la CNAME .
 seriesflix.la CNAME .
 *.seriesflix.la CNAME .
+tii.la CNAME .
+*.tii.la CNAME .
 watch-series.la CNAME .
 *.watch-series.la CNAME .
 watchcartoonsonline.la CNAME .
@@ -11438,6 +11442,8 @@ guardaserie.life CNAME .
 *.guardaserie.life CNAME .
 guardaserietv.life CNAME .
 *.guardaserietv.life CNAME .
+hotcamsplays.life CNAME .
+*.hotcamsplays.life CNAME .
 mlwbd.life CNAME .
 *.mlwbd.life CNAME .
 moviesjoy.life CNAME .
@@ -13086,6 +13092,8 @@ citytorrent.net CNAME .
 *.citytorrent.net CNAME .
 cjoint.net CNAME .
 *.cjoint.net CNAME .
+d33f51dyacx7bd.cloudfront.net CNAME .
+*.d33f51dyacx7bd.cloudfront.net CNAME .
 cmovieshd.net CNAME .
 *.cmovieshd.net CNAME .
 cnetworkbd.net CNAME .
@@ -13470,6 +13478,8 @@ gratflix.net CNAME .
 *.gratflix.net CNAME .
 guardaserie.net CNAME .
 *.guardaserie.net CNAME .
+guiks.net CNAME .
+*.guiks.net CNAME .
 gun-land.net CNAME .
 *.gun-land.net CNAME .
 hack64.net CNAME .
@@ -17976,6 +17986,8 @@ guardaserie.restaurant CNAME .
 *.123movies.review CNAME .
 cb01.review CNAME .
 *.cb01.review CNAME .
+hdmovie2.reviews CNAME .
+*.hdmovie2.reviews CNAME .
 33seriestreaming.rip CNAME .
 *.33seriestreaming.rip CNAME .
 acg.rip CNAME .
@@ -19392,6 +19404,8 @@ guardaserie.social CNAME .
 *.guardaserie.social CNAME .
 hdmovie2.software CNAME .
 *.hdmovie2.software CNAME .
+hdmovie2.solar CNAME .
+*.hdmovie2.solar CNAME .
 altadefinizione.solutions CNAME .
 *.altadefinizione.solutions CNAME .
 bollyflix.solutions CNAME .
@@ -22826,6 +22840,8 @@ gdrivedl.xyz CNAME .
 *.gdrivedl.xyz CNAME .
 gdrivemovies.xyz CNAME .
 *.gdrivemovies.xyz CNAME .
+gidonline.xyz CNAME .
+*.gidonline.xyz CNAME .
 gmovies.xyz CNAME .
 *.gmovies.xyz CNAME .
 guardaserie.xyz CNAME .

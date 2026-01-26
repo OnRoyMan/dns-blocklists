@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 10:41 UTC
-# Version: 2026.0126.1041.13
+# Last modified: 26 Jan 2026 18:42 UTC
+# Version: 2026.0126.1842.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1413
+# Number of entries: 1417
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -501,6 +501,7 @@ local=/freedynamicdns.org/
 local=/freemyip.com/
 local=/freesa.org/
 local=/freetcp.com/
+local=/freewww.biz/
 local=/freewww.info/
 local=/freshdns.com/
 local=/from-ak.com/
@@ -586,6 +587,7 @@ local=/gotdns.ch/
 local=/gotdns.com/
 local=/gotdns.org/
 local=/govt.hu/
+local=/gr8domain.biz/
 local=/gr8name.biz/
 local=/grandmasgossip.com/
 local=/green-heroes.com/
@@ -614,6 +616,7 @@ local=/hamshack.info/
 local=/happyforever.com/
 local=/happyminecraft.com/
 local=/hatenboer.org/
+local=/hbmc.net/
 local=/health-carereform.com/
 local=/forgot.her.name/
 local=/here-for-more.info/
@@ -666,6 +669,7 @@ local=/hunnur.com/
 local=/iamallama.com/
 local=/ics.tw/
 local=/ideasciviles.com/
+local=/idigo.org/
 local=/idleplay.net/
 local=/4040.idv.tw/
 local=/ieserver.net/

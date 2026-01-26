@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Jan 2026 10:41 UTC
-! Version: 2026.0126.1041.13
+! Last modified: 26 Jan 2026 18:42 UTC
+! Version: 2026.0126.1842.07
 ! Syntax: AdBlock
-! Number of entries: 1413
+! Number of entries: 1417
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -502,6 +502,7 @@
 ||freemyip.com^
 ||freesa.org^
 ||freetcp.com^
+||freewww.biz^
 ||freewww.info^
 ||freshdns.com^
 ||from-ak.com^
@@ -587,6 +588,7 @@
 ||gotdns.com^
 ||gotdns.org^
 ||govt.hu^
+||gr8domain.biz^
 ||gr8name.biz^
 ||grandmasgossip.com^
 ||green-heroes.com^
@@ -615,6 +617,7 @@
 ||happyforever.com^
 ||happyminecraft.com^
 ||hatenboer.org^
+||hbmc.net^
 ||health-carereform.com^
 ||forgot.her.name^
 ||here-for-more.info^
@@ -667,6 +670,7 @@
 ||iamallama.com^
 ||ics.tw^
 ||ideasciviles.com^
+||idigo.org^
 ||idleplay.net^
 ||4040.idv.tw^
 ||ieserver.net^

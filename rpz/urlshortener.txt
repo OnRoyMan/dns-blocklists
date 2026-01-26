@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769419920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769448600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Jan 2026 09:32 UTC
-; Version: 2026.0126.0932.02
+; Last modified: 26 Jan 2026 17:30 UTC
+; Version: 2026.0126.1730.54
 ; Syntax: RPZ
-; Number of entries: 20040
+; Number of entries: 20046
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -357,6 +357,8 @@ grey-sphere-536600.framer.app CNAME .
 *.grey-sphere-536600.framer.app CNAME .
 gacor.app CNAME .
 *.gacor.app CNAME .
+gigbridge.app CNAME .
+*.gigbridge.app CNAME .
 gosnip.app CNAME .
 *.gosnip.app CNAME .
 hisc.app CNAME .
@@ -4493,6 +4495,8 @@ getsmallurl.com CNAME .
 *.getsmallurl.com CNAME .
 getsterlink.com CNAME .
 *.getsterlink.com CNAME .
+getthot.com CNAME .
+*.getthot.com CNAME .
 ghntinyurl.com CNAME .
 *.ghntinyurl.com CNAME .
 ghs.com CNAME .
@@ -17719,6 +17723,8 @@ firelinks.site CNAME .
 *.firelinks.site CNAME .
 gglink.site CNAME .
 *.gglink.site CNAME .
+glowin88.site CNAME .
+*.glowin88.site CNAME .
 hisweb.site CNAME .
 *.hisweb.site CNAME .
 hoki1dana.site CNAME .
