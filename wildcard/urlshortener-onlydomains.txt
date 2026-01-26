@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jan 2026 17:29 UTC
-# Version: 2026.0125.1729.37
+# Last modified: 26 Jan 2026 01:29 UTC
+# Version: 2026.0126.0129.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 10012
+# Number of entries: 10017
 #
 0.gp
 00m.in
@@ -1248,6 +1248,7 @@ ble.pl
 bleenk.co
 ai.blendnow.com
 blinkbreeze.com
+blinkmelink.com
 blinko.me
 blinkurl.in
 blip.tv
@@ -1378,6 +1379,7 @@ brq.link
 brst.link
 brtv.vip
 brx.im
+brzu.net
 bs303.com
 bschlack.link
 bsg.news
@@ -1514,6 +1516,7 @@ carnalflicks.online
 caro.sl
 cart.mn
 cartisbikur.com
+casashort.live
 cash4share.com
 link.cashcard.id
 cashncut.com
@@ -1835,6 +1838,7 @@ xmeets-ubabe.co.uk
 xx.co.nz
 yop.co.za
 coachingtree.com
+coachstudio.org
 coba.la
 s.coccoc.com
 cockroa.ch
@@ -5596,6 +5600,7 @@ nlc.mobi
 nmrk.re
 nmw.news
 nn.nf
+link.nn.ru
 nnd.media
 l.nniq.co
 nnm.hu

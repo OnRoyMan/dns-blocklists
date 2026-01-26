@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jan 2026 17:29 UTC
-# Version: 2026.0125.1729.37
+# Last modified: 26 Jan 2026 01:29 UTC
+# Version: 2026.0126.0129.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10012
+# Number of entries: 10017
 #
 local=/0.gp/
 local=/00m.in/
@@ -1248,6 +1248,7 @@ local=/ble.pl/
 local=/bleenk.co/
 local=/ai.blendnow.com/
 local=/blinkbreeze.com/
+local=/blinkmelink.com/
 local=/blinko.me/
 local=/blinkurl.in/
 local=/blip.tv/
@@ -1378,6 +1379,7 @@ local=/brq.link/
 local=/brst.link/
 local=/brtv.vip/
 local=/brx.im/
+local=/brzu.net/
 local=/bs303.com/
 local=/bschlack.link/
 local=/bsg.news/
@@ -1514,6 +1516,7 @@ local=/carnalflicks.online/
 local=/caro.sl/
 local=/cart.mn/
 local=/cartisbikur.com/
+local=/casashort.live/
 local=/cash4share.com/
 local=/link.cashcard.id/
 local=/cashncut.com/
@@ -1835,6 +1838,7 @@ local=/xmeets-ubabe.co.uk/
 local=/xx.co.nz/
 local=/yop.co.za/
 local=/coachingtree.com/
+local=/coachstudio.org/
 local=/coba.la/
 local=/s.coccoc.com/
 local=/cockroa.ch/
@@ -5596,6 +5600,7 @@ local=/nlc.mobi/
 local=/nmrk.re/
 local=/nmw.news/
 local=/nn.nf/
+local=/link.nn.ru/
 local=/nnd.media/
 local=/l.nniq.co/
 local=/nnm.hu/

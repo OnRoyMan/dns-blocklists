@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jan 2026 17:29 UTC
-! Version: 2026.0125.1729.37
+! Last modified: 26 Jan 2026 01:29 UTC
+! Version: 2026.0126.0129.51
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1208,6 +1208,7 @@
 @@||bleenk.co^
 @@||ai.blendnow.com^
 @@||blinkbreeze.com^
+@@||blinkmelink.com^
 @@||blinko.me^
 @@||blinkurl.in^
 @@||blip.tv^
@@ -1334,6 +1335,7 @@
 @@||brst.link^
 @@||brtv.vip^
 @@||brx.im^
+@@||brzu.net^
 @@||bs303.com^
 @@||bschlack.link^
 @@||bsg.news^
@@ -1785,6 +1787,7 @@
 @@||xx.co.nz^
 @@||yop.co.za^
 @@||coachingtree.com^
+@@||coachstudio.org^
 @@||coba.la^
 @@||s.coccoc.com^
 @@||cockroa.ch^
@@ -5462,6 +5465,7 @@
 @@||nmrk.re^
 @@||nmw.news^
 @@||nn.nf^
+@@||link.nn.ru^
 @@||nnd.media^
 @@||l.nniq.co^
 @@||nnm.hu^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769362140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769390940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Jan 2026 17:29 UTC
-; Version: 2026.0125.1729.37
+; Last modified: 26 Jan 2026 01:29 UTC
+; Version: 2026.0126.0129.51
 ; Syntax: RPZ
-; Number of entries: 20024
+; Number of entries: 20034
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3661,6 +3661,8 @@ ai.blendnow.com CNAME .
 *.ai.blendnow.com CNAME .
 blinkbreeze.com CNAME .
 *.blinkbreeze.com CNAME .
+blinkmelink.com CNAME .
+*.blinkmelink.com CNAME .
 blipnut.com CNAME .
 *.blipnut.com CNAME .
 blkstats.com CNAME .
@@ -13213,6 +13215,8 @@ builthow.live CNAME .
 *.builthow.live CNAME .
 cabletv.live CNAME .
 *.cabletv.live CNAME .
+casashort.live CNAME .
+*.casashort.live CNAME .
 cgvoice.live CNAME .
 *.cgvoice.live CNAME .
 clotplaynews.live CNAME .
@@ -15089,6 +15093,8 @@ brianrecommends.net CNAME .
 *.brianrecommends.net CNAME .
 brndly.net CNAME .
 *.brndly.net CNAME .
+brzu.net CNAME .
+*.brzu.net CNAME .
 bulangiul.net CNAME .
 *.bulangiul.net CNAME .
 byteplay.net CNAME .
@@ -16109,6 +16115,8 @@ link.chanrobotics.org CNAME .
 *.link.chanrobotics.org CNAME .
 go.circex.org CNAME .
 *.go.circex.org CNAME .
+coachstudio.org CNAME .
+*.coachstudio.org CNAME .
 convertcase.org CNAME .
 *.convertcase.org CNAME .
 coreprob.coreprobation.org CNAME .
@@ -17341,6 +17349,8 @@ ln-s.ru CNAME .
 *.ln-s.ru CNAME .
 lplink.ru CNAME .
 *.lplink.ru CNAME .
+link.nn.ru CNAME .
+*.link.nn.ru CNAME .
 nnna.ru CNAME .
 *.nnna.ru CNAME .
 oqp.ru CNAME .

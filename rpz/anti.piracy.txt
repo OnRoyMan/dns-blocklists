@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769366160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769395800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Jan 2026 18:36 UTC
-; Version: 2026.0125.1836.21
+; Last modified: 26 Jan 2026 02:50 UTC
+; Version: 2026.0126.0250.21
 ; Syntax: RPZ
-; Number of entries: 23050
+; Number of entries: 23084
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -802,6 +802,8 @@ casacinema.biz CNAME .
 *.casacinema.biz CNAME .
 cbo1.biz CNAME .
 *.cbo1.biz CNAME .
+cineblog01.biz CNAME .
+*.cineblog01.biz CNAME .
 coexist.biz CNAME .
 *.coexist.biz CNAME .
 cpasbien-torrent.biz CNAME .
@@ -1114,6 +1116,8 @@ bflix.bz CNAME .
 *.bflix.bz CNAME .
 cmovieshd.bz CNAME .
 *.cmovieshd.bz CNAME .
+coflix.bz CNAME .
+*.coflix.bz CNAME .
 cpasbien.bz CNAME .
 *.cpasbien.bz CNAME .
 dood.bz CNAME .
@@ -3268,6 +3272,8 @@ bitlord.com CNAME .
 *.bitlord.com CNAME .
 bitnation.com CNAME .
 *.bitnation.com CNAME .
+bitnetbd.com CNAME .
+*.bitnetbd.com CNAME .
 bitoogle.com CNAME .
 *.bitoogle.com CNAME .
 bitseduce.com CNAME .
@@ -3496,6 +3502,8 @@ bravoapk.com CNAME .
 *.bravoapk.com CNAME .
 breedsoft.com CNAME .
 *.breedsoft.com CNAME .
+brocoflix.com CNAME .
+*.brocoflix.com CNAME .
 brodownload9s.com CNAME .
 *.brodownload9s.com CNAME .
 brothersitbd.com CNAME .
@@ -3526,6 +3534,8 @@ btcyberstorm.com CNAME .
 *.btcyberstorm.com CNAME .
 btdig.com CNAME .
 *.btdig.com CNAME .
+btmet.com CNAME .
+*.btmet.com CNAME .
 btmon.com CNAME .
 *.btmon.com CNAME .
 btnext.com CNAME .
@@ -3548,6 +3558,8 @@ bvlist.com CNAME .
 *.bvlist.com CNAME .
 bwtorrents.com CNAME .
 *.bwtorrents.com CNAME .
+bytecollectors.com CNAME .
+*.bytecollectors.com CNAME .
 byxatab.com CNAME .
 *.byxatab.com CNAME .
 c1live.com CNAME .
@@ -3608,6 +3620,8 @@ ciligou0.com CNAME .
 *.ciligou0.com CNAME .
 cineblog01.com CNAME .
 *.cineblog01.com CNAME .
+cinebloom.com CNAME .
+*.cinebloom.com CNAME .
 cineez.com CNAME .
 *.cineez.com CNAME .
 cinefound.com CNAME .
@@ -10658,6 +10672,8 @@ streamingcommunityz.international CNAME .
 *.streamingcommunityz.international CNAME .
 hdmovie2.investments CNAME .
 *.hdmovie2.investments CNAME .
+streamingcommunityz.investments CNAME .
+*.streamingcommunityz.investments CNAME .
 vegamovies.investments CNAME .
 *.vegamovies.investments CNAME .
 123putlocker.io CNAME .
@@ -12544,6 +12560,8 @@ vegamovies.moi CNAME .
 *.123movies.mom CNAME .
 altadefinizionegratis.mom CNAME .
 *.altadefinizionegratis.mom CNAME .
+cineblog01.mom CNAME .
+*.cineblog01.mom CNAME .
 flemmix.mom CNAME .
 *.flemmix.mom CNAME .
 fullymaza.mom CNAME .
@@ -13010,6 +13028,8 @@ cash2day4u.net CNAME .
 *.cash2day4u.net CNAME .
 castradio.net CNAME .
 *.castradio.net CNAME .
+cat-a-cat.net CNAME .
+*.cat-a-cat.net CNAME .
 cb01.net CNAME .
 *.cb01.net CNAME .
 cdnstreame.net CNAME .
@@ -15374,6 +15394,8 @@ bdix.org CNAME .
 *.bdix.org CNAME .
 beatrice-raws.org CNAME .
 *.beatrice-raws.org CNAME .
+beemp3s.org CNAME .
+*.beemp3s.org CNAME .
 bigfangroup.org CNAME .
 *.bigfangroup.org CNAME .
 bigtorrent.org CNAME .
@@ -17122,6 +17144,8 @@ vegamovies.pics CNAME .
 *.vegamovies.pics CNAME .
 vegamovles.pics CNAME .
 *.vegamovles.pics CNAME .
+cb01.pictures CNAME .
+*.cb01.pictures CNAME .
 hdhub4u.pictures CNAME .
 *.hdhub4u.pictures CNAME .
 ilgeniodellostreaming.pictures CNAME .
@@ -17836,6 +17860,8 @@ altadefinizione.red CNAME .
 *.altadefinizione.red CNAME .
 btkitty.red CNAME .
 *.btkitty.red CNAME .
+casacinema.red CNAME .
+*.casacinema.red CNAME .
 cb01.red CNAME .
 *.cb01.red CNAME .
 cineblog01.red CNAME .
@@ -18252,6 +18278,8 @@ casacinema.ru CNAME .
 *.casacinema.ru CNAME .
 ch3oh.ru CNAME .
 *.ch3oh.ru CNAME .
+cineby.ru CNAME .
+*.cineby.ru CNAME .
 cn101.ru CNAME .
 *.cn101.ru CNAME .
 kissanime.com.ru CNAME .
@@ -19768,6 +19796,8 @@ vegamovies.tax CNAME .
 *.vegamovies.tax CNAME .
 cb01.taxi CNAME .
 *.cb01.taxi CNAME .
+cineblog01.taxi CNAME .
+*.cineblog01.taxi CNAME .
 eurostreaming.taxi CNAME .
 *.eurostreaming.taxi CNAME .
 filmapik.taxi CNAME .
@@ -21034,6 +21064,8 @@ cinemitas.tv CNAME .
 *.cinemitas.tv CNAME .
 cinevid.tv CNAME .
 *.cinevid.tv CNAME .
+citysonic.tv CNAME .
+*.citysonic.tv CNAME .
 clientsportals.tv CNAME .
 *.clientsportals.tv CNAME .
 cloudvideo.tv CNAME .
@@ -22202,6 +22234,8 @@ cb01.work CNAME .
 *.cb01.work CNAME .
 cineby.work CNAME .
 *.cineby.work CNAME .
+cinevood.work CNAME .
+*.cinevood.work CNAME .
 hdmovie2.work CNAME .
 *.hdmovie2.work CNAME .
 multimovies.work CNAME .
