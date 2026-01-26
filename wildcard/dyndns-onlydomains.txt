@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jan 2026 10:37 UTC
-# Version: 2026.0125.1037.52
+# Last modified: 26 Jan 2026 10:41 UTC
+# Version: 2026.0126.1041.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 1412
+# Number of entries: 1413
 #
 0000000000000000000000.com
 0rg.us
@@ -461,6 +461,7 @@ etitrans.com
 eurotank.ro
 eva.hk
 everton.com
+evils.in
 expired-dns.com
 ez-ip.net
 ezua.com

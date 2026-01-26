@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769395800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769423760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Jan 2026 02:50 UTC
-; Version: 2026.0126.0250.21
+; Last modified: 26 Jan 2026 10:36 UTC
+; Version: 2026.0126.1036.41
 ; Syntax: RPZ
-; Number of entries: 23084
+; Number of entries: 23120
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -374,6 +374,8 @@ tracker.army CNAME .
 *.123unblock.art CNAME .
 dood.art CNAME .
 *.dood.art CNAME .
+doodstream.art CNAME .
+*.doodstream.art CNAME .
 eurekaddl.art CNAME .
 *.eurekaddl.art CNAME .
 indoxx1.art CNAME .
@@ -1158,6 +1160,8 @@ unblockit.bz CNAME .
 *.unblockit.bz CNAME .
 vipbox.bz CNAME .
 *.vipbox.bz CNAME .
+digitalmusicians.ca CNAME .
+*.digitalmusicians.ca CNAME .
 tvnihon.dragoneye.ca CNAME .
 *.tvnihon.dragoneye.ca CNAME .
 egydead.ca CNAME .
@@ -1200,6 +1204,8 @@ altadefinizione.cam CNAME .
 *.altadefinizione.cam CNAME .
 doodstream.cam CNAME .
 *.doodstream.cam CNAME .
+eurostreamings.cam CNAME .
+*.eurostreamings.cam CNAME .
 film-streaming-ita.cam CNAME .
 *.film-streaming-ita.cam CNAME .
 flemmix.cam CNAME .
@@ -1382,6 +1388,8 @@ ebook-land.cc CNAME .
 *.ebook-land.cc CNAME .
 emp3juices.cc CNAME .
 *.emp3juices.cc CNAME .
+eurostreaming.cc CNAME .
+*.eurostreaming.cc CNAME .
 extratorrent.cc CNAME .
 *.extratorrent.cc CNAME .
 fanqtv.cc CNAME .
@@ -3752,6 +3760,8 @@ crackfind.com CNAME .
 *.crackfind.com CNAME .
 crackhell.com CNAME .
 *.crackhell.com CNAME .
+crackhomes.com CNAME .
+*.crackhomes.com CNAME .
 crackingpatching.com CNAME .
 *.crackingpatching.com CNAME .
 crackingpremium.com CNAME .
@@ -3780,6 +3790,8 @@ crackserialpro.com CNAME .
 *.crackserialpro.com CNAME .
 crackserver.com CNAME .
 *.crackserver.com CNAME .
+cracksfiles.com CNAME .
+*.cracksfiles.com CNAME .
 crackslink.com CNAME .
 *.crackslink.com CNAME .
 cracksnow.com CNAME .
@@ -4070,6 +4082,8 @@ dizipall32.com CNAME .
 *.dizipall32.com CNAME .
 djconway.com CNAME .
 *.djconway.com CNAME .
+djleak.com CNAME .
+*.djleak.com CNAME .
 bt.dl1234.com CNAME .
 *.bt.dl1234.com CNAME .
 dl4free.com CNAME .
@@ -11412,6 +11426,8 @@ doodstream.life CNAME .
 *.doodstream.life CNAME .
 filmsrip.life CNAME .
 *.filmsrip.life CNAME .
+filmstreaming-de.life CNAME .
+*.filmstreaming-de.life CNAME .
 flixtor.life CNAME .
 *.flixtor.life CNAME .
 gnula.life CNAME .
@@ -11712,6 +11728,8 @@ tantifilm.living CNAME .
 *.tantifilm.living CNAME .
 pirate.lk CNAME .
 *.pirate.lk CNAME .
+fmovies.llc CNAME .
+*.fmovies.llc CNAME .
 gidonline.llc CNAME .
 *.gidonline.llc CNAME .
 hdmovie2.llc CNAME .
@@ -12082,6 +12100,8 @@ fbdown.me CNAME .
 *.fbdown.me CNAME .
 fiberx.me CNAME .
 *.fiberx.me CNAME .
+filestream.me CNAME .
+*.filestream.me CNAME .
 flixtor.me CNAME .
 *.flixtor.me CNAME .
 flixwave.me CNAME .
@@ -15054,6 +15074,8 @@ eurostreamings.online CNAME .
 *.eurostreamings.online CNAME .
 fbiwarning.online CNAME .
 *.fbiwarning.online CNAME .
+filmeflix.online CNAME .
+*.filmeflix.online CNAME .
 filmpertutti.online CNAME .
 *.filmpertutti.online CNAME .
 filmstreaming.online CNAME .
@@ -15658,6 +15680,8 @@ dreamingtree.org CNAME .
 *.dreamingtree.org CNAME .
 cutscloud.duckdns.org CNAME .
 *.cutscloud.duckdns.org CNAME .
+kamikazee.duckdns.org CNAME .
+*.kamikazee.duckdns.org CNAME .
 rekcart.duckdns.org CNAME .
 *.rekcart.duckdns.org CNAME .
 thinking.duckdns.org CNAME .
@@ -15720,6 +15744,8 @@ kingtam.eu.org CNAME .
 *.1cc.kr.eu.org CNAME .
 tracker.maya.no.eu.org CNAME .
 *.tracker.maya.no.eu.org CNAME .
+tracker.novaopcj.eu.org CNAME .
+*.tracker.novaopcj.eu.org CNAME .
 torrent.eu.org CNAME .
 *.torrent.eu.org CNAME .
 1.tracker.eu.org CNAME .
@@ -18292,6 +18318,8 @@ cwer.ru CNAME .
 *.cwer.ru CNAME .
 cyberwares.ru CNAME .
 *.cyberwares.ru CNAME .
+tracker.cypherpunks.ru CNAME .
+*.tracker.cypherpunks.ru CNAME .
 bingoportal.da.ru CNAME .
 *.bingoportal.da.ru CNAME .
 dizcompany.ru CNAME .
@@ -19122,6 +19150,8 @@ elamigos.site CNAME .
 *.elamigos.site CNAME .
 embedcanais.site CNAME .
 *.embedcanais.site CNAME .
+europixhd.site CNAME .
+*.europixhd.site CNAME .
 eurostreamings.site CNAME .
 *.eurostreamings.site CNAME .
 filmguro.site CNAME .
@@ -19960,6 +19990,8 @@ anilinkz.to CNAME .
 *.anilinkz.to CNAME .
 animag.to CNAME .
 *.animag.to CNAME .
+anime-hood.to CNAME .
+*.anime-hood.to CNAME .
 animedao.to CNAME .
 *.animedao.to CNAME .
 animekai.to CNAME .
@@ -21114,6 +21146,8 @@ ettv.tv CNAME .
 *.ettv.tv CNAME .
 eurostreaming.tv CNAME .
 *.eurostreaming.tv CNAME .
+exkinoray.tv CNAME .
+*.exkinoray.tv CNAME .
 fawesome.tv CNAME .
 *.fawesome.tv CNAME .
 fbstream.tv CNAME .
@@ -22128,6 +22162,8 @@ extraflix.website CNAME .
 *.extraflix.website CNAME .
 fitgirl-repacks.website CNAME .
 *.fitgirl-repacks.website CNAME .
+fmovies.website CNAME .
+*.fmovies.website CNAME .
 fzmovies.website CNAME .
 *.fzmovies.website CNAME .
 guardaserie.website CNAME .

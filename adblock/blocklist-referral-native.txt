@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jan 2026 09:15 UTC
-! Version: 2026.0125.0915.25
+! Last modified: 26 Jan 2026 09:18 UTC
+! Version: 2026.0126.0918.03
 ! Syntax: AdBlock
-! Number of entries: 1409
+! Number of entries: 1411
 !
 ||1-aclk.net^
 ||1aurl.io^
@@ -512,6 +512,8 @@
 ||s7.exacttarget.com^
 ||s8.exacttarget.com^
 ||s91.exacttarget.com^
+||server.exacttarget.com^
+||smtp1.exacttarget.com^
 ||stage.exacttarget.com^
 ||cl.exct.net^
 ||click.idprotect.experian.com^

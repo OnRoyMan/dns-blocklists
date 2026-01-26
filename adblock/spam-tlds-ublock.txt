@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jan 2026 02:36 UTC
-! Version: 2026.0125.0236.18
+! Last modified: 26 Jan 2026 10:36 UTC
+! Version: 2026.0126.1036.11
 ! Syntax: uBlock
 ! Number of latin TLDs: 284 - non-latin TLDs: 151
 !
@@ -133,7 +133,7 @@
 ||golf^$doc
 ||gq^$doc,domain=~inege.gq
 ||gratis^$doc
-||green^$doc,domain=~mastodon.green|~tilde.green
+||green^$doc,domain=~mastodon.green|~tilde.green|~treebal.green
 ||guide^$doc,domain=~cfw.guide|~discordjs.guide|~hacks.guide|~homebrew.guide|~opensource.guide|~ripped.guide|~site.guide|~wii.guide|~wisely.guide|~zig.guide
 ||guru^$doc,domain=~bahn.guru|~base64.guru|~crontab.guru|~greenlight.guru|~jav.guru|~ludwig.guru|~mags.guru|~tilde.guru|~watcher.guru|~webcal.guru
 ||hair^$doc

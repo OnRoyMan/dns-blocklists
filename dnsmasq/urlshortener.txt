@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 01:29 UTC
-# Version: 2026.0126.0129.51
+# Last modified: 26 Jan 2026 09:32 UTC
+# Version: 2026.0126.0932.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10017
+# Number of entries: 10020
 #
 local=/0.gp/
 local=/00m.in/
@@ -2036,6 +2036,7 @@ local=/cuanbio.com/
 local=/cuer.io/
 local=/cuk.one/
 local=/cukbaray.com/
+local=/cul.ke/
 local=/cultm.ac/
 local=/culy.top/
 local=/cuoinamdiedm.life/
@@ -2421,6 +2422,7 @@ local=/dswurl.de/
 local=/dsyixm.com/
 local=/dtdg.co/
 local=/dti.io/
+local=/dtl.la/
 local=/dtsx.io/
 local=/duakale.me/
 local=/dub.co/
@@ -2703,6 +2705,7 @@ local=/ezylnk.com/
 local=/ezyurl.co/
 local=/ezyurl.net/
 local=/f-ast.me/
+local=/f-internal.info/
 local=/f-n.link/
 local=/f0rk.in/
 local=/f1.tf/

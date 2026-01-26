@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Jan 2026 01:29 UTC
-! Version: 2026.0126.0129.51
+! Last modified: 26 Jan 2026 09:32 UTC
+! Version: 2026.0126.0932.02
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1984,6 +1984,7 @@
 @@||cuer.io^
 @@||cuk.one^
 @@||cukbaray.com^
+@@||cul.ke^
 @@||cultm.ac^
 @@||culy.top^
 @@||cuoinamdiedm.life^
@@ -2358,6 +2359,7 @@
 @@||dsyixm.com^
 @@||dtdg.co^
 @@||dti.io^
+@@||dtl.la^
 @@||dtsx.io^
 @@||duakale.me^
 @@||dub.co^
@@ -2635,6 +2637,7 @@
 @@||ezyurl.co^
 @@||ezyurl.net^
 @@||f-ast.me^
+@@||f-internal.info^
 @@||f-n.link^
 @@||f0rk.in^
 @@||f1.tf^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jan 2026 10:37 UTC
-# Version: 2026.0125.1037.52
+# Last modified: 26 Jan 2026 10:41 UTC
+# Version: 2026.0126.1041.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1412
+# Number of entries: 1413
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -461,6 +461,7 @@ local=/etitrans.com/
 local=/eurotank.ro/
 local=/eva.hk/
 local=/everton.com/
+local=/evils.in/
 local=/expired-dns.com/
 local=/ez-ip.net/
 local=/ezua.com/

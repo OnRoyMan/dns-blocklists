@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jan 2026 09:55 UTC
-# Version: 2026.0124.0955.23
+# Last modified: 26 Jan 2026 09:59 UTC
+# Version: 2026.0126.0959.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1311
+# Number of entries: 1312
 #
 local=/000a.de/
 local=/000space.com/
@@ -484,6 +484,7 @@ local=/domain.lc/
 local=/members.domaindlx.com/
 local=/doodlekit.com/
 local=/dot.tk/
+local=/downfall.shop/
 local=/download.ac/
 local=/download.sh/
 local=/downloaden24.de/

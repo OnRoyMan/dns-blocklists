@@ -3249,6 +3249,13 @@
       }
     },
     {
+      "PK": "downfall.shop",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "download.ac",
       "action": {
         "do": 0,

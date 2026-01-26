@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769390940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769419920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Jan 2026 01:29 UTC
-; Version: 2026.0126.0129.51
+; Last modified: 26 Jan 2026 09:32 UTC
+; Version: 2026.0126.0932.02
 ; Syntax: RPZ
-; Number of entries: 20034
+; Number of entries: 20040
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -10351,6 +10351,8 @@ easybio.info CNAME .
 *.easybio.info CNAME .
 edmno1.info CNAME .
 *.edmno1.info CNAME .
+f-internal.info CNAME .
+*.f-internal.info CNAME .
 fooji.info CNAME .
 *.fooji.info CNAME .
 fwdme.info CNAME .
@@ -11811,6 +11813,8 @@ yourl.jp CNAME .
 *.yourl.jp CNAME .
 crwdstr.ke CNAME .
 *.crwdstr.ke CNAME .
+cul.ke CNAME .
+*.cul.ke CNAME .
 liy.ke CNAME .
 *.liy.ke CNAME .
 lnk.ke CNAME .
@@ -11939,6 +11943,8 @@ coba.la CNAME .
 *.coba.la CNAME .
 dow.la CNAME .
 *.dow.la CNAME .
+dtl.la CNAME .
+*.dtl.la CNAME .
 hubs.la CNAME .
 *.hubs.la CNAME .
 krazy.la CNAME .

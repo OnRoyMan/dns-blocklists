@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Jan 2026 01:28 UTC
-! Version: 2026.0126.0128.08
+! Last modified: 26 Jan 2026 09:30 UTC
+! Version: 2026.0126.0930.07
 ! Syntax: AdBlock
-! Number of entries: 13920
+! Number of entries: 13947
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1591,7 +1591,6 @@
 ||bl-heizoel.de^
 ||black-shepp-gastroservice.com^
 ||blackbull-markets.net^
-||blackfridaymegastore.com^
 ||blackgurlzsmagickloset.com^
 ||bladebasics.com^
 ||blagabo.com^
@@ -2696,12 +2695,14 @@
 ||cosmozone.de^
 ||cosplayshow.com^
 ||cosplayverkauf.com^
+||cotsrabatt.de^
 ||cottline.com^
 ||cottonshoesshop.com^
 ||cottonwears.com^
 ||couchtischeschranke.com^
 ||counterpain.net^
 ||counterpartw.com^
+||countryparcel.com^
 ||countsheepy.com^
 ||coursados.com^
 ||courtesya.com^
@@ -2810,6 +2811,7 @@
 ||curablity.com^
 ||at.curalise.com^
 ||de.curalise.com^
+||curiosi.shop^
 ||curotoshop.com^
 ||currext.com^
 ||curriculumt.com^
@@ -2864,9 +2866,14 @@
 ||daily-jewelry123.com^
 ||daily-option.com^
 ||dailydroppedprice.com^
+||dailyexpressnewstoday.com^
+||dailyheraldnewstoday.com^
 ||dailyjoy.shop^
+||dailymirrornewstoday.com^
 ||dailyrosy.com^
 ||dailysmilezone.com^
+||dailystarnewstoday.com^
+||dailytelegraphnewstoday.com^
 ||dainesemotorrad.com^
 ||meinheimdeko.dajpwf.ink^
 ||dalaline.com^
@@ -2882,6 +2889,7 @@
 ||dan-job-de.com^
 ||dana-berlin.de^
 ||dancardi.de^
+||dando.xyz^
 ||dangelapanelli.com^
 ||danggood.de^
 ||dangotech.de^
@@ -2924,6 +2932,7 @@
 ||davidbeckershop.de^
 ||davidkimboyle.net^
 ||davinci-wear.com^
+||davishop.de^
 ||dawahandel.de^
 ||daysgiftrewards.com^
 ||dazalle.com^
@@ -3075,6 +3084,7 @@
 ||deinrufretter.com^
 ||deinthuleshop.de^
 ||deinwennbuch.shop^
+||dekarcheck.com^
 ||dekhujoshop.com^
 ||dekoobjektrabatt.com^
 ||dekoration-store.com^
@@ -3187,6 +3197,7 @@
 ||deuducht.de^
 ||deuhr.de^
 ||deutmart.de^
+||deutsch-markt.com^
 ||deutschapotheke.com^
 ||deutsche-backwaren-manufaktur.com^
 ||deutsche-fahrrader.com^
@@ -3202,6 +3213,7 @@
 ||deutschland-heizoelpreis.de^
 ||deutschlandsonas.de^
 ||deutschlandticket.website^
+||deutschlandtourbooking.com^
 ||devado.de^
 ||developmeny.com^
 ||handschellen.deveri.de^
@@ -3288,6 +3300,7 @@
 ||discoverculture.com^
 ||discoversm.com^
 ||discustsion.com^
+||disdisbuy.com^
 ||diskrete-apotheke.de^
 ||disneykinder.de^
 ||distanceg.com^
@@ -3311,12 +3324,14 @@
 ||dlandtechnik.com^
 ||deinheimgartenpro.dlegwu.fit^
 ||dliene.com^
+||dmbmanagement.de^
 ||dmlhrhnv.shop^
 ||dmrbremsbelag.com^
 ||dmsmax.com^
 ||dnaen.shop^
 ||dno-handel23.de^
 ||docjohnson-schritte.com^
+||docsmartensdeutschland.de^
 ||doctriney.com^
 ||documentarp.com^
 ||doehlers.com^
@@ -3355,6 +3370,7 @@
 ||dopeeesti.com^
 ||dopesale.vip^
 ||dopeskijacke.at^
+||dopesnowstore.shop^
 ||dopesnowsuomi.com^
 ||dopplergunstig.com^
 ||dorat.de^
@@ -3404,6 +3420,7 @@
 ||dresdnererlebniswelteu.shop^
 ||dressfat.com^
 ||dressshirtsblouses.com^
+||drezia.com^
 ||drgillmaier.de^
 ||drheimer.com^
 ||drift-store.com^
@@ -3466,15 +3483,18 @@
 ||durona.de^
 ||duros.de^
 ||duschenexperte.com^
+||dutchnewstoday.com^
 ||dutut.com^
 ||dutztechh.shop^
 ||duzeces.com^
 ||dvdsblurays.com^
 ||dvepare.com^
 ||dwelldome.com^
+||dwnewstoday.com^
 ||dxvape.com^
 ||dyn-amo.com^
 ||dynamic-store.com^
+||dynamodeal.de^
 ||dynamos.at^
 ||dyshopvip.com^
 ||dyynnafitsale.shop^
@@ -3518,6 +3538,7 @@
 ||easyca.ca^
 ||easyfiles.io^
 ||easygestions.com^
+||easymove-eu.com^
 ||easyoel.net^
 ||easyrenthomez.com^
 ||easyxp.com^
@@ -3710,6 +3731,7 @@
 ||eletrotrevo.com^
 ||elevengk.com^
 ||elevista.de^
+||elevus.de^
 ||elfbarsvape.com^
 ||elimando.com^
 ||elipinks.com^
@@ -3756,6 +3778,7 @@
 ||emamold.com^
 ||emaschmuck.com^
 ||emba24.de^
+||embertime.com^
 ||embrellar.de^
 ||emeingarten24.com^
 ||emeingarten24h.com^
@@ -3770,6 +3793,7 @@
 ||emmafrey.ch^
 ||emmamartrituals.shop^
 ||emmaschneider.de^
+||emmay.de^
 ||emmerthal-tierarzt.de^
 ||de.emmiol.com^
 ||emobilityzubehoer.com^
@@ -3797,9 +3821,12 @@
 ||energyhood.de^
 ||enfunpro.com^
 ||engel-garten23.de^
+||engelbert.shop^
+||engelsherz.com^
 ||engerer-handel.de^
 ||engineeringh.com^
 ||engwe-ebike.com^
+||engwe-ebike.de^
 ||engweebike.de^
 ||eniam.com^
 ||enjoybooteshop.com^
@@ -3880,6 +3907,7 @@
 ||ertops2021.com^
 ||ervain.shop^
 ||esalesson.de^
+||esbboisdechauffage.com^
 ||esblle.com^
 ||escortevenly.com^
 ||eshop-univers.com^
@@ -3912,6 +3940,7 @@
 ||estate-view.com^
 ||estatesbyaj.com^
 ||estilobrasilofertas.com^
+||estimatem.com^
 ||estrategen.de^
 ||esyqefp.top^
 ||etcydecor.de^
@@ -3941,6 +3970,7 @@
 ||eu-arcteryx.com^
 ||eu-class.com^
 ||eu-first.com^
+||eu-med-mart.com^
 ||eu-meds.online^
 ||eu-sezane.com^
 ||eu-top-meds.com^
@@ -4045,6 +4075,7 @@
 ||exango.org^
 ||exceptionalg.com^
 ||exchangeo.fr^
+||exchangesage.com^
 ||excitingmarkets.com^
 ||exclusivekicks.shop^
 ||exclusiveskis.com^
@@ -4136,6 +4167,7 @@
 ||fahrradinsel.com^
 ||fahrradkassettede.com^
 ||fahrradkleinteile.com^
+||fahrradladen-hoffmann.de^
 ||fahrradladen-neu.com^
 ||fahrradladende.com^
 ||fahrradprodukt.com^
@@ -4185,6 +4217,7 @@
 ||familienmobil24.de^
 ||familienschatze.com^
 ||family-pills.com^
+||familyhistoryjamaica.com^
 ||famore.shop^
 ||famore-fashion.com^
 ||famoufactory.com^
@@ -4230,6 +4263,7 @@
 ||fashionhaus-klund.de^
 ||fashionivora.de^
 ||fashionlink.store^
+||fashionphilede.vip^
 ||fashionphilliplim.com^
 ||fashionrevel.com^
 ||fashionvila.com^
@@ -4345,6 +4379,7 @@
 ||figulax.de^
 ||figuredart.shop^
 ||figurenverkauf.com^
+||figurinestoys.com^
 ||filamniceent.com^
 ||fillamoda.com^
 ||fillethumn.com^
@@ -4379,6 +4414,7 @@
 ||finaurex.com^
 ||webtrader.finaurex.org^
 ||finaxanlage.de^
+||fincacheck.com^
 ||fincas-und-villen.com^
 ||finchmarkets.com^
 ||findedeinrad.de^
@@ -6115,7 +6151,6 @@
 ||hotel-ds.com^
 ||hotel-marketing-advertising.com^
 ||hotelaustralien.de^
-||hotelinphuket.net^
 ||hotelladen.com^
 ||hotels-colombo.com^
 ||hotels-colorado.net^
@@ -6386,7 +6421,6 @@
 ||inetzteil.de^
 ||inexpensivy.com^
 ||inferright.com^
-||inferutmati.com^
 ||infineink.com^
 ||infinitediamond.com^
 ||infinitrade.com^
@@ -6498,7 +6532,6 @@
 ||investmaza.com^
 ||investmentswiss.com^
 ||investsecuritiesgroup.com^
-||invisiblen.com^
 ||invisishieldlab.com^
 ||invitationy.com^
 ||invogue.at^
@@ -7826,7 +7859,6 @@
 ||main-mokassin.de^
 ||mainet.business^
 ||maingoldfrankfurt.com^
-||maintainel.com^
 ||maintenanceh.com^
 ||mainz-mode.de^
 ||maiser-markt.de^
@@ -9274,7 +9306,6 @@
 ||oncloudxoutletmall.com^
 ||one-clean.de^
 ||one-fashions.com^
-||oneafteranoth.com^
 ||onecozyday.com^
 ||onegentle.com^
 ||oneglobal-advr.com^
@@ -10122,7 +10153,6 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
-||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^
@@ -11345,7 +11375,6 @@
 ||smartmarket26.com^
 ||smartplantivy.com^
 ||smartrade.cm^
-||smartsolve.ai^
 ||smartsteamershop.com^
 ||smartundgeizig.de^
 ||smileclothing.com^
@@ -11887,7 +11916,6 @@
 ||superheizung.de^
 ||superia.shop^
 ||superie.de^
-||superiorwilderdog.com^
 ||supermarktdeutschland.com^
 ||supermarkteonline.com^
 ||supermeds24.com^
@@ -13344,7 +13372,6 @@
 ||watchesoff5gc.vip^
 ||watchesreplica.is^
 ||watchesstore.co^
-||watchfaceshub.com^
 ||watchharbor.de^
 ||watchvestvermittlung.com^
 ||watermotionod.com^
