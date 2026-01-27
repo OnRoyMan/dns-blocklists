@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769510220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769539080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Jan 2026 10:37 UTC
-; Version: 2026.0127.1037.41
+; Last modified: 27 Jan 2026 18:38 UTC
+; Version: 2026.0127.1838.37
 ; Syntax: RPZ
-; Number of entries: 23196
+; Number of entries: 23212
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1836,8 +1836,6 @@ newalbumreleases.unblockit.ch CNAME .
 *.newalbumreleases.unblockit.ch CNAME .
 0205.uptm.ch CNAME .
 *.0205.uptm.ch CNAME .
-voe.ch CNAME .
-*.voe.ch CNAME .
 watchfreemovies.ch CNAME .
 *.watchfreemovies.ch CNAME .
 zamunda.ch CNAME .
@@ -2146,6 +2144,8 @@ tracker.ptsbao.club CNAME .
 *.tracker.ptsbao.club CNAME .
 old.pubfilms.club CNAME .
 *.old.pubfilms.club CNAME .
+rg-mechanics.club CNAME .
+*.rg-mechanics.club CNAME .
 isk.richardsw.club CNAME .
 *.isk.richardsw.club CNAME .
 rips.club CNAME .
@@ -6594,6 +6594,8 @@ relizua.com CNAME .
 *.relizua.com CNAME .
 reloadedsteam.com CNAME .
 *.reloadedsteam.com CNAME .
+renrencili.com CNAME .
+*.renrencili.com CNAME .
 requestcracks.com CNAME .
 *.requestcracks.com CNAME .
 reqzone.com CNAME .
@@ -6744,6 +6746,8 @@ searchcracks.com CNAME .
 *.searchcracks.com CNAME .
 securedgen.com CNAME .
 *.securedgen.com CNAME .
+tracker.seedceo.com CNAME .
+*.tracker.seedceo.com CNAME .
 seedforspeed.com CNAME .
 *.seedforspeed.com CNAME .
 seedpeer.com CNAME .
@@ -10536,6 +10540,8 @@ psytorrents.info CNAME .
 *.psytorrents.info CNAME .
 publicdomaintorrents.info CNAME .
 *.publicdomaintorrents.info CNAME .
+putlockertv.info CNAME .
+*.putlockertv.info CNAME .
 repack.info CNAME .
 *.repack.info CNAME .
 rintor.info CNAME .
@@ -10572,6 +10578,8 @@ small-games.info CNAME .
 *.small-games.info CNAME .
 soft4all.info CNAME .
 *.soft4all.info CNAME .
+sourcetv.info CNAME .
+*.sourcetv.info CNAME .
 speednetbd.info CNAME .
 *.speednetbd.info CNAME .
 speedshare.info CNAME .
@@ -11692,6 +11700,8 @@ projapoti.live CNAME .
 *.projapoti.live CNAME .
 rangdhanu.live CNAME .
 *.rangdhanu.live CNAME .
+rarbg.live CNAME .
+*.rarbg.live CNAME .
 realstation.live CNAME .
 *.realstation.live CNAME .
 redditmlbstreams.live CNAME .
@@ -16682,6 +16692,8 @@ soapgate.org CNAME .
 *.soapgate.org CNAME .
 socceron.org CNAME .
 *.socceron.org CNAME .
+softddl.org CNAME .
+*.softddl.org CNAME .
 softlinkers.org CNAME .
 *.softlinkers.org CNAME .
 softmp3.org CNAME .
@@ -20496,6 +20508,8 @@ soap2dayx.to CNAME .
 *.soap2dayx.to CNAME .
 solarmoviez.to CNAME .
 *.solarmoviez.to CNAME .
+solidtorrents.to CNAME .
+*.solidtorrents.to CNAME .
 sportlemons.to CNAME .
 *.sportlemons.to CNAME .
 sportsonline.to CNAME .
@@ -23034,6 +23048,8 @@ rainwhisper40.xyz CNAME .
 *.rainwhisper40.xyz CNAME .
 redditsoccerstreams.xyz CNAME .
 *.redditsoccerstreams.xyz CNAME .
+redwarez.xyz CNAME .
+*.redwarez.xyz CNAME .
 rivestream.xyz CNAME .
 *.rivestream.xyz CNAME .
 tracker.sakurato.xyz CNAME .

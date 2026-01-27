@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jan 2026 10:37 UTC
-# Version: 2026.0127.1037.41
+# Last modified: 27 Jan 2026 18:38 UTC
+# Version: 2026.0127.1838.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11598
+# Number of entries: 11606
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -7889,6 +7889,7 @@ local=/putlockersflix.com/
 local=/putlockersfm.com/
 local=/putlockerstoworld2.com/
 local=/putlockert.com/
+local=/putlockertv.info/
 local=/putlockertv.onl/
 local=/putlockerwatch.com/
 local=/puzo.org/
@@ -7969,6 +7970,7 @@ local=/rarbg.cc/
 local=/rarbg.com/
 local=/rarbg.gg/
 local=/rarbg.is/
+local=/rarbg.live/
 local=/rarbg.to/
 local=/rarbg.tw/
 local=/rarbg2018.org/
@@ -8051,6 +8053,7 @@ local=/redskunk.org/
 local=/redstream.online/
 local=/redump.org/
 local=/redvido.com/
+local=/redwarez.xyz/
 local=/dpiui.reedlan.com/
 local=/reelsdownload.co/
 local=/reevown.com/
@@ -8065,6 +8068,7 @@ local=/relizua.com/
 local=/reloadedsteam.com/
 local=/reminiapk.io/
 local=/tracker.renfei.net/
+local=/renrencili.com/
 local=/repack.info/
 local=/repack-byrutor.org/
 local=/repack-igruha.net/
@@ -8097,6 +8101,7 @@ local=/rezi.one/
 local=/rezka.ag/
 local=/ezis-amarftp.rf.gd/
 local=/store.rg-adguard.net/
+local=/rg-mechanics.club/
 local=/rg-mechanics.org/
 local=/rgfootball.net/
 local=/bt.rghost.net/
@@ -8318,6 +8323,7 @@ local=/seed.lt/
 local=/seedboxco.net/
 local=/seedboxes.cc/
 local=/seedboxs.me/
+local=/tracker.seedceo.com/
 local=/seeders-paradise.org/
 local=/seedforspeed.com/
 local=/seedit.org/
@@ -8690,6 +8696,7 @@ local=/soft98.ir/
 local=/softarchive.is/
 local=/softarchive.ws/
 local=/softasm.com/
+local=/softddl.org/
 local=/softhome.ru/
 local=/softiq.ru/
 local=/softlay.com/
@@ -8739,6 +8746,7 @@ local=/solarmoviez.ru/
 local=/solarmoviez.to/
 local=/solidsoftwaretools.com/
 local=/solidtorrents.net/
+local=/solidtorrents.to/
 local=/solidz.com/
 local=/some-stuffs.com/
 local=/somosmovies.com/
@@ -8751,6 +8759,7 @@ local=/sosulki.net/
 local=/soul-anime.us/
 local=/soundpark.space/
 local=/bnbteasytracker.sourceforge.net/
+local=/sourcetv.info/
 local=/southparkstudios.com/
 local=/southparkx.net/
 local=/sov101.ru/
@@ -10827,7 +10836,6 @@ local=/vodlocker.to/
 local=/vodly.to/
 local=/vodnerilo.com/
 local=/voe.ae/
-local=/voe.ch/
 local=/voe.dk/
 local=/voe.es/
 local=/voe.mobi/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769506320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769535060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Jan 2026 09:32 UTC
-; Version: 2026.0127.0932.02
+; Last modified: 27 Jan 2026 17:31 UTC
+; Version: 2026.0127.1731.36
 ; Syntax: RPZ
-; Number of entries: 20062
+; Number of entries: 20084
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -251,6 +251,8 @@ shkurt.al CNAME .
 *.shkurt.al CNAME .
 short.al CNAME .
 *.short.al CNAME .
+sosh.al CNAME .
+*.sosh.al CNAME .
 sosi.al CNAME .
 *.sosi.al CNAME .
 sosy.al CNAME .
@@ -6167,6 +6169,8 @@ riot.com CNAME .
 *.riot.com CNAME .
 ritmarket.com CNAME .
 *.ritmarket.com CNAME .
+rizchi.com CNAME .
+*.rizchi.com CNAME .
 rlkeps.com CNAME .
 *.rlkeps.com CNAME .
 rmmlink.com CNAME .
@@ -6419,6 +6423,8 @@ shortenlinkurl.com CNAME .
 *.shortenlinkurl.com CNAME .
 shortenpay.com CNAME .
 *.shortenpay.com CNAME .
+shortenpro.com CNAME .
+*.shortenpro.com CNAME .
 shortenworld.com CNAME .
 *.shortenworld.com CNAME .
 shortenx.com CNAME .
@@ -6669,6 +6675,8 @@ snappshort.com CNAME .
 *.snappshort.com CNAME .
 snappyshort.com CNAME .
 *.snappyshort.com CNAME .
+snappyurl.com CNAME .
+*.snappyurl.com CNAME .
 snapybio.com CNAME .
 *.snapybio.com CNAME .
 snapylink.com CNAME .
@@ -10149,6 +10157,8 @@ shlom.in CNAME .
 *.shlom.in CNAME .
 shortearner.in CNAME .
 *.shortearner.in CNAME .
+shortico.in CNAME .
+*.shortico.in CNAME .
 shortin.in CNAME .
 *.shortin.in CNAME .
 shortlyurl.in CNAME .
@@ -10605,6 +10615,8 @@ rcl.ink CNAME .
 *.rcl.ink CNAME .
 rool.ink CNAME .
 *.rool.ink CNAME .
+rpd.ink CNAME .
+*.rpd.ink CNAME .
 shavel.ink CNAME .
 *.shavel.ink CNAME .
 shly.ink CNAME .
@@ -11445,6 +11457,8 @@ rizy.ir CNAME .
 *.rizy.ir CNAME .
 sarmadinst.ir CNAME .
 *.sarmadinst.ir CNAME .
+sibly.ir CNAME .
+*.sibly.ir CNAME .
 slby.ir CNAME .
 *.slby.ir CNAME .
 tinylink.ir CNAME .
@@ -13011,6 +13025,8 @@ sinkto.link CNAME .
 *.sinkto.link CNAME .
 sla.link CNAME .
 *.sla.link CNAME .
+slicethis.link CNAME .
+*.slicethis.link CNAME .
 slnig.link CNAME .
 *.slnig.link CNAME .
 smallu.link CNAME .
@@ -16037,6 +16053,8 @@ megapay.online CNAME .
 *.megapay.online CNAME .
 mjp88.online CNAME .
 *.mjp88.online CNAME .
+recruitings.online CNAME .
+*.recruitings.online CNAME .
 shortpals.online CNAME .
 *.shortpals.online CNAME .
 skippy.online CNAME .
@@ -17475,6 +17493,8 @@ doods.sbs CNAME .
 *.doods.sbs CNAME .
 retireetravelcare.sbs CNAME .
 *.retireetravelcare.sbs CNAME .
+shortlink.sbs CNAME .
+*.shortlink.sbs CNAME .
 shortly.sbs CNAME .
 *.shortly.sbs CNAME .
 grc.sc CNAME .
@@ -17519,6 +17539,8 @@ pym.se CNAME .
 *.pym.se CNAME .
 qra.se CNAME .
 *.qra.se CNAME .
+slnk.se CNAME .
+*.slnk.se CNAME .
 wts2.smhi.se CNAME .
 *.wts2.smhi.se CNAME .
 wts3.smhi.se CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jan 2026 09:32 UTC
-# Version: 2026.0127.0932.02
+# Last modified: 27 Jan 2026 17:31 UTC
+# Version: 2026.0127.1731.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10031
+# Number of entries: 10042
 #
 local=/0.gp/
 local=/00m.in/
@@ -6574,6 +6574,7 @@ local=/bio.recards.net/
 local=/reco.to/
 local=/reco.yt/
 local=/reconis.co/
+local=/recruitings.online/
 local=/recut.in/
 local=/red.ht/
 local=/redaz.in/
@@ -6695,6 +6696,7 @@ local=/ritea.id/
 local=/ritmarket.com/
 local=/rivablu.net/
 local=/riz.cz/
+local=/rizchi.com/
 local=/rizy.ir/
 local=/rj99.art/
 local=/rj99.site/
@@ -6740,6 +6742,7 @@ local=/rounash.com/
 local=/routecontent.com/
 local=/rows.com/
 local=/rozhl.as/
+local=/rpd.ink/
 local=/rpf.io/
 local=/rplg.co/
 local=/rptl.io/
@@ -7187,6 +7190,7 @@ local=/shortenme.me/
 local=/shortenn.org/
 local=/shortenn.site/
 local=/shortenpay.com/
+local=/shortenpro.com/
 local=/shortenr.de/
 local=/shortenurl.app/
 local=/shortenurl.org/
@@ -7210,6 +7214,7 @@ local=/shortfy.pro/
 local=/shortgo.me/
 local=/shorti.me/
 local=/shorti.uk/
+local=/shortico.in/
 local=/shortie.io/
 local=/shortify.pro/
 local=/shortifyapi.com/
@@ -7235,6 +7240,7 @@ local=/shortlink.cz/
 local=/shortlink.gr/
 local=/shortlink.is/
 local=/shortlink.one/
+local=/shortlink.sbs/
 local=/shortlink.uk/
 local=/shortlink1.com/
 local=/shortlink88.xyz/
@@ -7464,6 +7470,7 @@ local=/shy.si/
 local=/shycmedi.com/
 local=/shylnk.com/
 local=/sia.re/
+local=/sibly.ir/
 local=/sic.onl/
 local=/sicax.net/
 local=/sicepat.link/
@@ -7555,6 +7562,7 @@ local=/slby.ir/
 local=/sld.one/
 local=/slecastle.com/
 local=/slice.partners/
+local=/slicethis.link/
 local=/slidesha.re/
 local=/slimeteam.live/
 local=/slimlink.com/
@@ -7565,6 +7573,7 @@ local=/slinkurl.com/
 local=/tools.slipstick.com/
 local=/slitcy.com/
 local=/slnig.link/
+local=/slnk.se/
 local=/slot633.gg/
 local=/slotamina.com/
 local=/slpre.com/
@@ -7644,6 +7653,7 @@ local=/snapiturl.com/
 local=/snaplinks.me/
 local=/snappshort.com/
 local=/snappyshort.com/
+local=/snappyurl.com/
 local=/snapt.io/
 local=/snapurl.org/
 local=/snapurl.xyz/
@@ -7715,6 +7725,7 @@ local=/sophy.ca/
 local=/sor.bz/
 local=/sorc.me/
 local=/sorkale.me/
+local=/sosh.al/
 local=/sosi.al/
 local=/sosy.al/
 local=/sou.nu/

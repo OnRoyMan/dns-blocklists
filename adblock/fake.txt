@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Jan 2026 09:30 UTC
-! Version: 2026.0127.0930.15
+! Last modified: 27 Jan 2026 17:29 UTC
+! Version: 2026.0127.1729.52
 ! Syntax: AdBlock
-! Number of entries: 14043
+! Number of entries: 14068
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1100,6 +1100,7 @@
 ||barrelecraft.store^
 ||baruttibikes.com^
 ||baryman.com^
+||barzubehoerhaus.com^
 ||base-eu.com^
 ||baseballoutlet.pl^
 ||baseballretail.com^
@@ -2109,6 +2110,7 @@
 ||cascade-luzern.shop^
 ||cascosoffroad.com^
 ||caseetepen.com^
+||baybed.cashglass.shop^
 ||casira.de^
 ||casiva.de^
 ||casoum.net^
@@ -7767,6 +7769,7 @@
 ||lpriu.shop^
 ||lpservhub.com^
 ||lpteel.com^
+||adl.lreubk.shop^
 ||ls-rasenmeher.de^
 ||lse-client.com^
 ||lsvhandel.com^
@@ -10287,6 +10290,7 @@
 ||puremotionedge.com^
 ||purku.top^
 ||purprints.com^
+||purprints.net^
 ||pushup.at^
 ||pv-analyse.com^
 ||gartenmuster.pvnlvp.ink^
@@ -10362,9 +10366,11 @@
 ||rabatthaustiers.com^
 ||rabattlampen.com^
 ||rabattlloyd.de^
+||rabattloewe.de^
 ||rabattschuh.com^
 ||rabattschuhs.com^
 ||rabattsfahrrads.com^
+||rabattski.com^
 ||rabattskiausrustung.com^
 ||rabattsport.de^
 ||rabattzelte.com^
@@ -10570,6 +10576,7 @@
 ||reproccial.com^
 ||repsfuse.com^
 ||repstop.xyz^
+||republicofchinatoday.com^
 ||repuhren.de^
 ||resellalcool.com^
 ||resemblancey.com^
@@ -10580,6 +10587,7 @@
 ||respeaonsct.com^
 ||restchess.com^
 ||restliss.com^
+||restockssuomi.com^
 ||retailbbq.com^
 ||retailchemy.com^
 ||retentionh.com^
@@ -10589,6 +10597,7 @@
 ||retrotrikots.de^
 ||retrowinegeschaft.com^
 ||retter-de.shop^
+||reuterstoday.com^
 ||reveilove.com^
 ||revenuescompany.com^
 ||reviewpunt.nl^
@@ -10623,6 +10632,7 @@
 ||rhineritz.de^
 ||rhodeshotel24.com^
 ||ri-lieeoodu.com^
+||ribeiraoautoparts.com^
 ||ricadihotelspage.com^
 ||ricasrucksack.com^
 ||ricemly.com^
@@ -10727,6 +10737,7 @@
 ||rolex-replica.to^
 ||rolexwanduhr.de^
 ||rolexyeals.com^
+||rolla.store^
 ||rolladenmeister.at^
 ||rolladenreparatur.at^
 ||rollandbois.com^
@@ -10739,6 +10750,7 @@
 ||romantichosp.com^
 ||romavi.de^
 ||romebridal.com^
+||romeooo.com^
 ||romy-dortmund.de^
 ||ronado.de^
 ||ronakhome.com^
@@ -10746,6 +10758,7 @@
 ||ronovia.de^
 ||ronpalleschilawoffice.com^
 ||ronstanstore.com^
+||rontis.de^
 ||roof-tube.com^
 ||roomosa.homes^
 ||root-shop.at^
@@ -10811,6 +10824,7 @@
 ||ruhepolemet.de^
 ||ruhigermond.de^
 ||ruhmvollsteuer.com^
+||ruhrgenuss.de^
 ||rukaoutdoors.com^
 ||rumoexpress.com^
 ||runaivete.com^
@@ -10819,6 +10833,8 @@
 ||rundummobil.de^
 ||runons.club^
 ||russellnbromleycanada.com^
+||russiannewstoday.com^
+||russmohl.de^
 ||rutherford.life^
 ||ruthmode.de^
 ||rutlsganicr.com^
@@ -11018,6 +11034,7 @@
 ||schlaftabletten-rezeptfrei.org^
 ||schlagschrauberfive.com^
 ||schlauchegeschaft.com^
+||schleichsite.com^
 ||schloss-pichler.at^
 ||schluchsee-ferienwohnung.de^
 ||schluesseldienst-hilfe.at^
@@ -11087,12 +11104,14 @@
 ||schwarzrunen.de^
 ||schwarzundlang.de^
 ||schweibenprofi.com^
+||schweizch.com^
 ||schweizer-modewelt.com^
 ||schwfoto.com^
 ||scilulustore.com^
 ||scootbike.de^
 ||scooter-chip.de^
 ||scorecope.com^
+||scotlandnewstoday.com^
 ||scottsummer.shop^
 ||screenacy.co^
 ||screenfreedays.com^
@@ -11100,6 +11119,7 @@
 ||screenwithenvy.de^
 ||scremorques.com^
 ||scubapro-sale.shop^
+||scuffers-austria.com^
 ||sculpturk.com^
 ||sdhguy.com^
 ||sdk-transport.com^
@@ -11269,6 +11289,7 @@
 ||shop-root.de^
 ||shop-root.eu^
 ||shop-teekanne.com^
+||shop-tool.com^
 ||shop-toolbox.com^
 ||shop-verano.com^
 ||shop-virium.com^
@@ -11372,6 +11393,7 @@
 ||siliconvalleywelpen.de^
 ||silimex24.de^
 ||silkbers.com^
+||silkstocking.de^
 ||silux.shop^
 ||silverbinary.com^
 ||simpfit.com^
@@ -11470,6 +11492,7 @@
 ||smartrade.cm^
 ||smartsteamershop.com^
 ||smartundgeizig.de^
+||smeg-de.com^
 ||smileclothing.com^
 ||smilestyle.at^
 ||smitdeals.de^
@@ -11517,6 +11540,7 @@
 ||soft-handel.de^
 ||soft-lizenz.de^
 ||softelektro.com^
+||softpulse.digital^
 ||softritualsco.shop^
 ||software-onsale.com^
 ||softwarebilliger1.de^
@@ -11543,6 +11567,7 @@
 ||solarpowerde.com^
 ||solarpvwerkzeug.com^
 ||solarspeichersysteme.com^
+||solarszellen.de^
 ||solartechnik-direct.de^
 ||solarwind-shop.com^
 ||solaryn.de^
