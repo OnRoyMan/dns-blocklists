@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769448600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769506320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Jan 2026 17:30 UTC
-; Version: 2026.0126.1730.54
+; Last modified: 27 Jan 2026 09:32 UTC
+; Version: 2026.0127.0932.02
 ; Syntax: RPZ
-; Number of entries: 20046
+; Number of entries: 20062
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2795,6 +2795,8 @@ pojonews.co CNAME .
 *.pojonews.co CNAME .
 politi.co CNAME .
 *.politi.co CNAME .
+popfeed.co CNAME .
+*.popfeed.co CNAME .
 prgress.co CNAME .
 *.prgress.co CNAME .
 prjsi.co CNAME .
@@ -8431,6 +8433,8 @@ lnk.mcla.edu CNAME .
 *.lnk.mcla.edu CNAME .
 mlc-wels.edu CNAME .
 *.mlc-wels.edu CNAME .
+app.myotherapy.edu CNAME .
+*.app.myotherapy.edu CNAME .
 nus.edu CNAME .
 *.nus.edu CNAME .
 go.osu.edu CNAME .
@@ -11393,12 +11397,16 @@ ilk.ir CNAME .
 *.ilk.ir CNAME .
 khtm.ir CNAME .
 *.khtm.ir CNAME .
+kkon.ir CNAME .
+*.kkon.ir CNAME .
 kuta.ir CNAME .
 *.kuta.ir CNAME .
 l1k.ir CNAME .
 *.l1k.ir CNAME .
 li2li.ir CNAME .
 *.li2li.ir CNAME .
+go.liara.ir CNAME .
+*.go.liara.ir CNAME .
 ln24.ir CNAME .
 *.ln24.ir CNAME .
 m7p.ir CNAME .
@@ -15301,6 +15309,8 @@ link1s.net CNAME .
 *.link1s.net CNAME .
 link4.net CNAME .
 *.link4.net CNAME .
+linkabc.net CNAME .
+*.linkabc.net CNAME .
 linkcut.net CNAME .
 *.linkcut.net CNAME .
 linkinto.net CNAME .
@@ -16849,6 +16859,8 @@ linkel.pro CNAME .
 *.linkel.pro CNAME .
 linkpad.pro CNAME .
 *.linkpad.pro CNAME .
+linkshare.pro CNAME .
+*.linkshare.pro CNAME .
 loginmaxwin.pro CNAME .
 *.loginmaxwin.pro CNAME .
 lowrihouston.pro CNAME .
@@ -17057,6 +17069,8 @@ piee.pw CNAME .
 *.piee.pw CNAME .
 pkg.pw CNAME .
 *.pkg.pw CNAME .
+prz.pw CNAME .
+*.prz.pw CNAME .
 psce.pw CNAME .
 *.psce.pw CNAME .
 qdl.pw CNAME .
@@ -17271,6 +17285,8 @@ jz.rs CNAME .
 *.jz.rs CNAME .
 kk.rs CNAME .
 *.kk.rs CNAME .
+kut.rs CNAME .
+*.kut.rs CNAME .
 p1.rs CNAME .
 *.p1.rs CNAME .
 qd.rs CNAME .

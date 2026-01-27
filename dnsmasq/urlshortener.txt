@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 17:30 UTC
-# Version: 2026.0126.1730.54
+# Last modified: 27 Jan 2026 09:32 UTC
+# Version: 2026.0127.0932.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10023
+# Number of entries: 10031
 #
 local=/0.gp/
 local=/00m.in/
@@ -4064,6 +4064,7 @@ local=/kkc.tech/
 local=/kkday.me/
 local=/kkne.ws/
 local=/kko.to/
+local=/kkon.ir/
 local=/kkstre.am/
 local=/hi.kktv.to/
 local=/kku.digital/
@@ -4161,6 +4162,7 @@ local=/kurly.it/
 local=/kurv.gr/
 local=/kurz.jetzt/
 local=/kurzelinks.de/
+local=/kut.rs/
 local=/kuta.ir/
 local=/kutlink.com/
 local=/kutt.in/
@@ -4279,6 +4281,7 @@ local=/li2.ai/
 local=/li2li.ir/
 local=/lia.nz/
 local=/lialink.net/
+local=/go.liara.ir/
 local=/lib.ac/
 local=/lib.cx/
 local=/libertify.net/
@@ -4383,6 +4386,7 @@ local=/link4earn.com/
 local=/link4u.uk/
 local=/link888.me/
 local=/linka.li/
+local=/linkabc.net/
 local=/linkable.id/
 local=/linkable.to/
 local=/linkaff.com/
@@ -4581,6 +4585,7 @@ local=/linksfire.net/
 local=/linksflow.bio/
 local=/linksfly.net/
 local=/linkshaft.com/
+local=/linkshare.pro/
 local=/linksharing.app/
 local=/linkshort.co/
 local=/linkshort.eu/
@@ -5412,6 +5417,7 @@ local=/mymst.co/
 local=/mynaughtylink.com/
 local=/mynb8.com/
 local=/myof.uk/
+local=/app.myotherapy.edu/
 local=/myown.bio/
 local=/myown.click/
 local=/l.mypad.in/
@@ -6165,6 +6171,7 @@ local=/politi.co/
 local=/polrproject.org/
 local=/link.polygongroup.com/
 local=/go.pomona.rocks/
+local=/popfeed.co/
 local=/popm.ch/
 local=/go.popoway.cloud/
 local=/poprl.com/
@@ -6257,6 +6264,7 @@ local=/proxyug.com/
 local=/prt.nu/
 local=/prunepath.com/
 local=/prvt.mobi/
+local=/prz.pw/
 local=/psafe.com/
 local=/psafe.ly/
 local=/psce.pw/

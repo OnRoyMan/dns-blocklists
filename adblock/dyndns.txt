@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Jan 2026 18:42 UTC
-! Version: 2026.0126.1842.07
+! Last modified: 27 Jan 2026 10:42 UTC
+! Version: 2026.0127.1042.19
 ! Syntax: AdBlock
-! Number of entries: 1417
+! Number of entries: 1420
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -681,6 +681,7 @@
 ||imagetemplate.com^
 ||imagetemplate.net^
 ||imexsac.com^
+||imprendum.com^
 ||in-the-band.net^
 ||independentonline.ro^
 ||indevs.in^
@@ -1000,6 +1001,7 @@
 ||networkoutpost.com^
 ||nflfan.org^
 ||nhlfan.net^
+||ninth.biz^
 ||no-domain.name^
 ||no-ip.biz^
 ||no-ip.ca^
@@ -1025,6 +1027,7 @@
 ||now-dns.net^
 ||now-dns.org^
 ||nowddns.com^
+||ns01.biz^
 ||ns01.info^
 ||ns01.us^
 ||ns02.biz^

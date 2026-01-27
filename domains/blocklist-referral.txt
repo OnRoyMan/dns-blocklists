@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 17:17 UTC
-# Version: 2026.0126.1717.12
+# Last modified: 27 Jan 2026 09:18 UTC
+# Version: 2026.0127.0918.38
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1812
+# Number of entries: 1814
 #
 1-aclk.net
 1aurl.io
@@ -449,6 +449,7 @@ fff97757.click.convertkit-mail2.com
 el2.convertkit-mail2.com
 open.convertkit-mail2.com
 13924f41.open.convertkit-mail2.com
+18f44d8a.open.convertkit-mail2.com
 2ec4c185.open.convertkit-mail2.com
 31b4b92d.open.convertkit-mail2.com
 364e31b5.open.convertkit-mail2.com
@@ -853,6 +854,7 @@ adservice.google.at
 adservice.google.ca
 adservice.google.ch
 adservice.google.com
+adservice.google.cz
 adservice.google.de
 adservice.google.dk
 adservice.google.es

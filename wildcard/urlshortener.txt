@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 17:30 UTC
-# Version: 2026.0126.1730.54
+# Last modified: 27 Jan 2026 09:32 UTC
+# Version: 2026.0127.0932.02
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10023
+# Number of entries: 10031
 #
 *.0.gp
 *.00m.in
@@ -4064,6 +4064,7 @@
 *.kkday.me
 *.kkne.ws
 *.kko.to
+*.kkon.ir
 *.kkstre.am
 *.hi.kktv.to
 *.kku.digital
@@ -4161,6 +4162,7 @@
 *.kurv.gr
 *.kurz.jetzt
 *.kurzelinks.de
+*.kut.rs
 *.kuta.ir
 *.kutlink.com
 *.kutt.in
@@ -4279,6 +4281,7 @@
 *.li2li.ir
 *.lia.nz
 *.lialink.net
+*.go.liara.ir
 *.lib.ac
 *.lib.cx
 *.libertify.net
@@ -4383,6 +4386,7 @@
 *.link4u.uk
 *.link888.me
 *.linka.li
+*.linkabc.net
 *.linkable.id
 *.linkable.to
 *.linkaff.com
@@ -4581,6 +4585,7 @@
 *.linksflow.bio
 *.linksfly.net
 *.linkshaft.com
+*.linkshare.pro
 *.linksharing.app
 *.linkshort.co
 *.linkshort.eu
@@ -5412,6 +5417,7 @@
 *.mynaughtylink.com
 *.mynb8.com
 *.myof.uk
+*.app.myotherapy.edu
 *.myown.bio
 *.myown.click
 *.l.mypad.in
@@ -6165,6 +6171,7 @@
 *.polrproject.org
 *.link.polygongroup.com
 *.go.pomona.rocks
+*.popfeed.co
 *.popm.ch
 *.go.popoway.cloud
 *.poprl.com
@@ -6257,6 +6264,7 @@
 *.prt.nu
 *.prunepath.com
 *.prvt.mobi
+*.prz.pw
 *.psafe.com
 *.psafe.ly
 *.psce.pw

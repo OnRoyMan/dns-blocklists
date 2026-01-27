@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 10:41 UTC
-# Version: 2026.0126.1041.40
+# Last modified: 27 Jan 2026 10:42 UTC
+# Version: 2026.0127.1042.51
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3959
+# Number of entries: 3960
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1446,6 +1446,7 @@
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
+0.0.0.0 vpich.duckdns.org
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org

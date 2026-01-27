@@ -5,7 +5,8 @@
 dai.google.com
 
 # https://github.com/hagezi/dns-blocklists/issues/8632
-*.fb.html-load.com
+# AdShield: Many websites do not work when blocked via DNS. The ads can only be blocked via content blockers.
+*.html-load.com
 
 # https://github.com/hagezi/dns-blocklists/issues/8404
 # https://github.com/hagezi/dns-blocklists/issues/8563

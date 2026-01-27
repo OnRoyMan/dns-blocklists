@@ -659,6 +659,13 @@
       }
     },
     {
+      "PK": "buergerspital.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bunkr.red",
       "action": {
         "do": 1,
@@ -1192,6 +1199,13 @@
     },
     {
       "PK": "deltarune.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "derweinladen.shop",
       "action": {
         "do": 1,
         "status": 1
@@ -5664,6 +5678,20 @@
       }
     },
     {
+      "PK": "weinbibliothek.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "weinwunder.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "welocal.world",
       "action": {
         "do": 1,
@@ -5693,6 +5721,13 @@
     },
     {
       "PK": "wii.guide",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "winefactory.shop",
       "action": {
         "do": 1,
         "status": 1
