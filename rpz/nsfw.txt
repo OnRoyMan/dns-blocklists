@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769618640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769640360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Jan 2026 16:44 UTC
-; Version: 2026.0128.1644.20
+; Last modified: 28 Jan 2026 22:46 UTC
+; Version: 2026.0128.2246.45
 ; Syntax: RPZ
-; Number of entries: 137874
+; Number of entries: 137908
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -3982,6 +3982,8 @@ paqueravizinha.com.br CNAME .
 *.paqueravizinha.com.br CNAME .
 paradisegirl.com.br CNAME .
 *.paradisegirl.com.br CNAME .
+pecattus.com.br CNAME .
+*.pecattus.com.br CNAME .
 pegandofogo.com.br CNAME .
 *.pegandofogo.com.br CNAME .
 perfumesexclusivos.com.br CNAME .
@@ -7684,6 +7686,8 @@ hyllxxx.click CNAME .
 *.hyllxxx.click CNAME .
 ideasfuelmovement.click CNAME .
 *.ideasfuelmovement.click CNAME .
+idella.click CNAME .
+*.idella.click CNAME .
 imelda1.click CNAME .
 *.imelda1.click CNAME .
 indianpornvideos.click CNAME .
@@ -37540,6 +37544,8 @@ gyutto.com CNAME .
 *.gyutto.com CNAME .
 gzgayw.com CNAME .
 *.gzgayw.com CNAME .
+gzhljy.com CNAME .
+*.gzhljy.com CNAME .
 gzpbsk.com CNAME .
 *.gzpbsk.com CNAME .
 h-ani.com CNAME .
@@ -80796,6 +80802,8 @@ xn--l3cj1a4d8czbd.com CNAME .
 *.xn--l3cj1a4d8czbd.com CNAME .
 xn--l3cmwb9e3d4b.com CNAME .
 *.xn--l3cmwb9e3d4b.com CNAME .
+xn--l3cvjt8dtd6b.com CNAME .
+*.xn--l3cvjt8dtd6b.com CNAME .
 xn--livraisonreprogramme-t2b.com CNAME .
 *.xn--livraisonreprogramme-t2b.com CNAME .
 xn--mgbf7fdim.com CNAME .
@@ -90504,6 +90512,8 @@ xporn.host CNAME .
 *.xporn.host CNAME .
 xxxkk.host CNAME .
 *.xxxkk.host CNAME .
+hiwebxseries.hot CNAME .
+*.hiwebxseries.hot CNAME .
 javhd.hot CNAME .
 *.javhd.hot CNAME .
 fap.house CNAME .
@@ -92776,6 +92786,8 @@ inthecrack.in CNAME .
 *.inthecrack.in CNAME .
 kamababa.io.in CNAME .
 *.kamababa.io.in CNAME .
+masa49.io.in CNAME .
+*.masa49.io.in CNAME .
 isec2017.in CNAME .
 *.isec2017.in CNAME .
 isexychat.in CNAME .
@@ -93716,6 +93728,8 @@ udaipurescort.in CNAME .
 *.udaipurescort.in CNAME .
 ulyseaseximlogix.in CNAME .
 *.ulyseaseximlogix.in CNAME .
+uncutdesire.in CNAME .
+*.uncutdesire.in CNAME .
 utkalbhawangaya.in CNAME .
 *.utkalbhawangaya.in CNAME .
 vanishkajain.in CNAME .
@@ -103418,6 +103432,8 @@ filmfreakcentral.net CNAME .
 *.filmfreakcentral.net CNAME .
 filmoclips.net CNAME .
 *.filmoclips.net CNAME .
+filmyzillaa.net CNAME .
+*.filmyzillaa.net CNAME .
 financetermsexplained.net CNAME .
 *.financetermsexplained.net CNAME .
 find-hookups.net CNAME .
@@ -111102,6 +111118,8 @@ topsexviet.one CNAME .
 *.topsexviet.one CNAME .
 tranny.one CNAME .
 *.tranny.one CNAME .
+truyennguoilon.one CNAME .
+*.truyennguoilon.one CNAME .
 ttxx.one CNAME .
 *.ttxx.one CNAME .
 tube8-porno.one CNAME .
@@ -113400,6 +113418,8 @@ cyborgsex.org CNAME .
 *.cyborgsex.org CNAME .
 daftsex.org CNAME .
 *.daftsex.org CNAME .
+dallasmustangs.org CNAME .
+*.dallasmustangs.org CNAME .
 damduc.org CNAME .
 *.damduc.org CNAME .
 damndirtycommie.org CNAME .
@@ -120288,6 +120308,8 @@ sexyshop.co.rs CNAME .
 *.sexyshop.co.rs CNAME .
 druzenje.rs CNAME .
 *.druzenje.rs CNAME .
+force.rs CNAME .
+*.force.rs CNAME .
 dgkanal.in.rs CNAME .
 *.dgkanal.in.rs CNAME .
 koreni.rs CNAME .
@@ -122670,6 +122692,8 @@ xxnxx.run CNAME .
 *.xxnxx.run CNAME .
 xxxvideos.run CNAME .
 *.xxxvideos.run CNAME .
+mkvfun.sale CNAME .
+*.mkvfun.sale CNAME .
 redtube.sale CNAME .
 *.redtube.sale CNAME .
 viet69.sale CNAME .
@@ -127350,12 +127374,16 @@ alxxnxxxsex.top CNAME .
 *.alxxnxxxsex.top CNAME .
 alxxnxxxxxsex.top CNAME .
 *.alxxnxxxxxsex.top CNAME .
+am1235.top CNAME .
+*.am1235.top CNAME .
 am1302.top CNAME .
 *.am1302.top CNAME .
 am1431.top CNAME .
 *.am1431.top CNAME .
 am1432.top CNAME .
 *.am1432.top CNAME .
+am1435.top CNAME .
+*.am1435.top CNAME .
 am1685.top CNAME .
 *.am1685.top CNAME .
 am2254.top CNAME .
@@ -131992,6 +132020,8 @@ myshemale.co.uk CNAME .
 *.myshemale.co.uk CNAME .
 naiad-vip-escort.co.uk CNAME .
 *.naiad-vip-escort.co.uk CNAME .
+nakedwives.co.uk CNAME .
+*.nakedwives.co.uk CNAME .
 neverhood.co.uk CNAME .
 *.neverhood.co.uk CNAME .
 newhamadultlearning.co.uk CNAME .
@@ -132068,6 +132098,8 @@ raspberryfieldsexclusive.co.uk CNAME .
 *.raspberryfieldsexclusive.co.uk CNAME .
 raystevenson.co.uk CNAME .
 *.raystevenson.co.uk CNAME .
+readysteadygallop.co.uk CNAME .
+*.readysteadygallop.co.uk CNAME .
 real-sexcontacts.co.uk CNAME .
 *.real-sexcontacts.co.uk CNAME .
 realcouples.co.uk CNAME .
@@ -135804,6 +135836,8 @@ youx.xxx CNAME .
 *.030072942.xyz CNAME .
 030072949.xyz CNAME .
 *.030072949.xyz CNAME .
+030072957.xyz CNAME .
+*.030072957.xyz CNAME .
 030072995.xyz CNAME .
 *.030072995.xyz CNAME .
 056615383.xyz CNAME .
