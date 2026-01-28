@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769421540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769594400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Jan 2026 09:59 UTC
-; Version: 2026.0126.0959.01
+; Last modified: 28 Jan 2026 10:00 UTC
+; Version: 2026.0128.1000.30
 ; Syntax: RPZ
-; Number of entries: 2624
+; Number of entries: 2626
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -916,6 +916,8 @@ usclargo.com CNAME .
 *.usclargo.com CNAME .
 vastserve.com CNAME .
 *.vastserve.com CNAME .
+veritafinancebank.com CNAME .
+*.veritafinancebank.com CNAME .
 w3spaces.com CNAME .
 *.w3spaces.com CNAME .
 wallinside.com CNAME .

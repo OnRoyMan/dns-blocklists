@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Jan 2026 10:43 UTC
-! Version: 2026.0127.1043.20
+! Last modified: 28 Jan 2026 10:45 UTC
+! Version: 2026.0128.1045.39
 ! Syntax: AdBlock
-! Number of entries: 845
+! Number of entries: 866
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -42,11 +42,11 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
-||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
 ||abpvn.org^
+||resolver2.absolight.net^
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
@@ -56,6 +56,7 @@
 ||dns-unfiltered.adguard.com^
 ||adguard-dns.com^
 ||ahadns.net^
+||blitz.ahadns.com^
 ||blitz-setup.ahadns.com^
 ||dns.akbxr.com^
 ||dns.albony.xyz^
@@ -87,7 +88,6 @@
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||atris.cyou^
-||dohtrial.att.net^
 ||secure.avastdns.com^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
@@ -101,7 +101,9 @@
 ||bazooki-infra.dev^
 ||httpdns.bcelive.com^
 ||dns.beardic.cn^
+||antivirus.bebasid.com^
 ||dns.bebasid.com^
+||internetsehat.bebasid.com^
 ||dns.belnet.be^
 ||dns.bermeitinger.eu^
 ||bestwon203.com^
@@ -113,6 +115,7 @@
 ||nvi-dns.bitdefender.net^
 ||ore-dns.bitdefender.net^
 ||tky-dns.bitdefender.net^
+||dns.bitgeek.in^
 ||adguard.bitteeinbyte.de^
 ||dns-tls.bitwiseshift.net^
 ||doh.blahdns.com^
@@ -128,6 +131,7 @@
 ||us1.blissdns.net^
 ||example.doh.blockerdns.com^
 ||dns.blokada.org^
+||rfree2.blue-shield.at^
 ||bluemood.me^
 ||dns.bmwhocking.com^
 ||d.bod.lol^
@@ -154,6 +158,7 @@
 ||cfdjb.org^
 ||ibuki.cgnat.net^
 ||chaos-system.de^
+||dns.chenu.ch^
 ||dns.christerwaren.fi^
 ||dns.chunghwamc.com^
 ||doh.cippapp.com^
@@ -395,6 +400,7 @@
 ||dns.api.test.globuscs.info^
 ||dns.glorydns.com^
 ||moph.go.th^
+||privacydns.go6lab.si^
 ||doh-primary-pool.goodbyegambling.com^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -493,6 +499,7 @@
 ||dart.kpsn.org^
 ||hdns.ksyun.com^
 ||dns.l337.site^
+||doh.lacontrevoie.fr^
 ||landerbrauver.ru^
 ||lastentarvike.fi^
 ||eu1.dns.lavate.ch^
@@ -533,6 +540,7 @@
 ||netcup.mismat.ch^
 ||httpdns.browser.miui.com^
 ||dnstls.mobik.com^
+||dns.molinero.dev^
 ||naganohara-yoimiya.momokko.moe^
 ||morbitzer.de^
 ||msr177.com^
@@ -572,6 +580,7 @@
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
+||dns.nick-slowinski.de^
 ||nickcan.xyz^
 ||doh-own-recursion.nicolas-dorriere.fr^
 ||doh-random-upstream.nicolas-dorriere.fr^
@@ -582,6 +591,7 @@
 ||sink.nolo.ltd^
 ||dns.paulo.nom.za^
 ||dns1.nordvpn.com^
+||dns.novali.date^
 ||ns3.com^
 ||ntwrkh.pro^
 ||dns.nullgate.net^
@@ -618,6 +628,7 @@
 ||dns.pari.network^
 ||pashagame456.com^
 ||dns.pccoach.nl^
+||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
 ||pepetio.xyz^
 ||dns.pernika.net^
@@ -645,9 +656,11 @@
 ||dns.psociety.de^
 ||publicdnsserver.com^
 ||dns.pumpkinvrar.com^
+||dns.pumplex.com^
 ||puredns.org^
 ||dns-privacy.puregeni.us^
 ||doh.pyry.me^
+||doh.qis.io^
 ||dns.qq.com^
 ||httpdns.kg.qq.com^
 ||dns.weixin.qq.com^
@@ -660,6 +673,7 @@
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
+||dns13.quad9.net^
 ||dns9.quad9.net^
 ||dns.quickline.ch^
 ||doh.quickline.ch^
@@ -669,6 +683,7 @@
 ||dog.dns.qwer.pw^
 ||r1bnc.com^
 ||dns.rabbitdns.org^
+||family.rabbitdns.org^
 ||security.rabbitdns.org^
 ||dns.api.rackspacecloud.com^
 ||ns.ral9005.org^
@@ -691,6 +706,7 @@
 ||dns.roedel.cloud^
 ||dns.ronc.ru^
 ||dns.rotunneling.net^
+||o.rsaikat.com^
 ||adguard.ruby.ci^
 ||dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
@@ -716,6 +732,7 @@
 ||dns.seia.io^
 ||adguard.senthil.us^
 ||dns1.serdcebolit.ru^
+||dns.sev.monster^
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||d2.shabi.icu^
 ||shalenkov.dev^
@@ -757,6 +774,7 @@
 ||dns1.techniverse.net^
 ||dns.technologycage.com^
 ||dns.technostriker.com^
+||rx.techomespace.com^
 ||homenet.telecomitalia.it^
 ||dns.telekom.de^
 ||de.teradns.org^
@@ -765,6 +783,7 @@
 ||dns.thebuckners.org^
 ||dns.thegoodsource.net^
 ||dns.therifleman.name^
+||dns.thiz.top^
 ||doh.tiar.app^
 ||dot.tiar.app^
 ||jp.tiar.app^
@@ -830,6 +849,7 @@
 ||ns2.wuyouss.com^
 ||ns3.wuyouss.com^
 ||wyx.cloud^
+||doh.xcom.pro^
 ||xenergy.cc^
 ||doh.xfinity.com^
 ||dot.xfinity.com^
@@ -841,6 +861,7 @@
 ||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||common.dot.dns.yandex.net^
+||family.dot.dns.yandex.net^
 ||safe.dot.dns.yandex.net^
 ||dns.yatima.tv^
 ||lion.yazilimatolye.com^

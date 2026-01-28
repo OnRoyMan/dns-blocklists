@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jan 2026 10:42 UTC
-# Version: 2026.0127.1042.51
+# Last modified: 28 Jan 2026 10:45 UTC
+# Version: 2026.0128.1045.10
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 3960
 #
@@ -1446,7 +1446,6 @@
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
-0.0.0.0 vpich.duckdns.org
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
@@ -3567,6 +3566,7 @@
 0.0.0.0 doh.tiarap.org
 0.0.0.0 jp.tiarap.org
 0.0.0.0 adguard.tigrex.net
+0.0.0.0 tigrons.ru
 0.0.0.0 dns.timboeh.me
 0.0.0.0 timedns.net
 0.0.0.0 ad.timefine.org

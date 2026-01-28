@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jan 2026 10:42 UTC
-# Version: 2026.0127.1042.19
+# Last modified: 28 Jan 2026 10:44 UTC
+# Version: 2026.0128.1044.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1420
+# Number of entries: 1421
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -1270,6 +1270,7 @@ local=/stuff-4-sale.org/
 local=/stuff-4-sale.us/
 local=/stufftoread.com/
 local=/stughead.com/
+local=/stuns.org/
 local=/sumibi.org/
 local=/sundby.com/
 local=/surak.kz/

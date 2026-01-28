@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769535060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769592720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Jan 2026 17:31 UTC
-; Version: 2026.0127.1731.36
+; Last modified: 28 Jan 2026 09:32 UTC
+; Version: 2026.0128.0932.16
 ; Syntax: RPZ
-; Number of entries: 20084
+; Number of entries: 20110
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1003,6 +1003,8 @@ read.bi CNAME .
 *.read.bi CNAME .
 scr.bi CNAME .
 *.scr.bi CNAME .
+zum.bi CNAME .
+*.zum.bi CNAME .
 cutit.bid CNAME .
 *.cutit.bid CNAME .
 short.bid CNAME .
@@ -1811,6 +1813,8 @@ teil.cc CNAME .
 *.teil.cc CNAME .
 texn.cc CNAME .
 *.texn.cc CNAME .
+tiis.cc CNAME .
+*.tiis.cc CNAME .
 tini.cc CNAME .
 *.tini.cc CNAME .
 tinky.cc CNAME .
@@ -3049,6 +3053,8 @@ wfly.co CNAME .
 *.wfly.co CNAME .
 curt.wiz.co CNAME .
 *.curt.wiz.co CNAME .
+wjcf.co CNAME .
+*.wjcf.co CNAME .
 wl.co CNAME .
 *.wl.co CNAME .
 wm0.co CNAME .
@@ -7611,6 +7617,8 @@ visiyta.com CNAME .
 *.visiyta.com CNAME .
 vivoldi.com CNAME .
 *.vivoldi.com CNAME .
+vkik.com CNAME .
+*.vkik.com CNAME .
 vklinks.com CNAME .
 *.vklinks.com CNAME .
 vloggi.com CNAME .
@@ -8407,6 +8415,8 @@ smo.do CNAME .
 *.smo.do CNAME .
 thedo.do CNAME .
 *.thedo.do CNAME .
+tiny.do CNAME .
+*.tiny.do CNAME .
 wejdz.do CNAME .
 *.wejdz.do CNAME .
 zln.do CNAME .
@@ -10217,6 +10227,8 @@ swipez.in CNAME .
 *.swipez.in CNAME .
 t2k.in CNAME .
 *.t2k.in CNAME .
+tapz.in CNAME .
+*.tapz.in CNAME .
 tecn.in CNAME .
 *.tecn.in CNAME .
 teeny.in CNAME .
@@ -10511,6 +10523,8 @@ ttdt.info CNAME .
 *.ttdt.info CNAME .
 unclic.info CNAME .
 *.unclic.info CNAME .
+url-shortener.info CNAME .
+*.url-shortener.info CNAME .
 urlchecker.info CNAME .
 *.urlchecker.info CNAME .
 urli.info CNAME .
@@ -11465,6 +11479,8 @@ tinylink.ir CNAME .
 *.tinylink.ir CNAME .
 tnu.ir CNAME .
 *.tnu.ir CNAME .
+trezurl.ir CNAME .
+*.trezurl.ir CNAME .
 tribn.ir CNAME .
 *.tribn.ir CNAME .
 ttr.ir CNAME .
@@ -11481,6 +11497,8 @@ xo0.ir CNAME .
 *.xo0.ir CNAME .
 yon.ir CNAME .
 *.yon.ir CNAME .
+yourl.ir CNAME .
+*.yourl.ir CNAME .
 yun.ir CNAME .
 *.yun.ir CNAME .
 zrpl.ir CNAME .
@@ -11951,6 +11969,8 @@ wru.kr CNAME .
 *.wru.kr CNAME .
 zez.kr CNAME .
 *.zez.kr CNAME .
+znz.kr CNAME .
+*.znz.kr CNAME .
 zrr.kr CNAME .
 *.zrr.kr CNAME .
 click.krd CNAME .
@@ -13405,6 +13425,8 @@ truongthanhlen.live CNAME .
 *.truongthanhlen.live CNAME .
 unc.live CNAME .
 *.unc.live CNAME .
+update-info-saudi-a.live CNAME .
+*.update-info-saudi-a.live CNAME .
 urlshortenerr.live CNAME .
 *.urlshortenerr.live CNAME .
 v2g.live CNAME .
@@ -15679,6 +15701,8 @@ zd.net CNAME .
 *.zd.net CNAME .
 short.zeeraa.net CNAME .
 *.short.zeeraa.net CNAME .
+zeurl.net CNAME .
+*.zeurl.net CNAME .
 zeusurl.net CNAME .
 *.zeusurl.net CNAME .
 zip.net CNAME .
@@ -20051,6 +20075,8 @@ trpd.xyz CNAME .
 *.trpd.xyz CNAME .
 ubbk.xyz CNAME .
 *.ubbk.xyz CNAME .
+unesa.xyz CNAME .
+*.unesa.xyz CNAME .
 url-s.xyz CNAME .
 *.url-s.xyz CNAME .
 url647.xyz CNAME .

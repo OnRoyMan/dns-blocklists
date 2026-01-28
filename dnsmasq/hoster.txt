@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jan 2026 09:59 UTC
-# Version: 2026.0126.0959.01
+# Last modified: 28 Jan 2026 10:00 UTC
+# Version: 2026.0128.1000.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1312
+# Number of entries: 1313
 #
 local=/000a.de/
 local=/000space.com/
@@ -1184,6 +1184,7 @@ local=/v0r.org/
 local=/vastserve.com/
 local=/ve.gp/
 local=/verifypass.pw/
+local=/veritafinancebank.com/
 local=/verkniffen.de/
 local=/videopaul.shop/
 local=/virtue.nu/

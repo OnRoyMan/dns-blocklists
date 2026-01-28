@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jan 2026 17:31 UTC
-# Version: 2026.0127.1731.36
+# Last modified: 28 Jan 2026 09:32 UTC
+# Version: 2026.0128.0932.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10042
+# Number of entries: 10055
 #
 local=/0.gp/
 local=/00m.in/
@@ -8038,6 +8038,7 @@ local=/tapthelink.click/
 local=/tapto.bio/
 local=/my.taptoconnect.app/
 local=/tapurl.net/
+local=/tapz.in/
 local=/targeterpro.com/
 local=/tatt.at/
 local=/tau.lu/
@@ -8213,6 +8214,7 @@ local=/tiger388.life/
 local=/tiger77.monster/
 local=/tigerlink.me/
 local=/tighturl.com/
+local=/tiis.cc/
 local=/tik.la/
 local=/tik.lat/
 local=/tik.lol/
@@ -8239,6 +8241,7 @@ local=/tinu.be/
 local=/tinurl.pro/
 local=/tiny.ae/
 local=/tiny.cc/
+local=/tiny.do/
 local=/tiny.ee/
 local=/tiny.lt/
 local=/tiny.ms/
@@ -8491,6 +8494,7 @@ local=/treelinked.com/
 local=/trenddynamo.com/
 local=/tres.at/
 local=/treszki.com/
+local=/trezurl.ir/
 local=/tri.ps/
 local=/trib.al/
 local=/trib.in/
@@ -8735,6 +8739,7 @@ local=/underswo.de/
 local=/undrarmr.co/
 local=/unelma.io/
 local=/unesa.me/
+local=/unesa.xyz/
 local=/uni.cf/
 local=/uni.ms/
 local=/go.unibw.de/
@@ -8766,6 +8771,7 @@ local=/uom.link/
 local=/uorbursarysupport.com/
 local=/uos.cc/
 local=/up.to/
+local=/update-info-saudi-a.live/
 local=/upld.in/
 local=/share.uplifted.ai/
 local=/uplifter.ai/
@@ -8815,6 +8821,7 @@ local=/url-s.xyz/
 local=/url-sh.fr/
 local=/url-short.me/
 local=/url-shortener.in/
+local=/url-shortener.info/
 local=/url-shortener.me/
 local=/url-shortening.com/
 local=/url-solutions.com/
@@ -9335,6 +9342,7 @@ local=/vix.cx/
 local=/vk.cc/
 local=/vk.sv/
 local=/vkei.eu/
+local=/vkik.com/
 local=/vklinks.com/
 local=/vl.am/
 local=/vla.lu/
@@ -9577,6 +9585,7 @@ local=/witly.online/
 local=/wiwir.cc/
 local=/curt.wiz.co/
 local=/wizardsinvest.ru/
+local=/wjcf.co/
 local=/wkf.ms/
 local=/wkpwr.be/
 local=/wl.co/
@@ -9852,6 +9861,7 @@ local=/yourateus.net/
 local=/yourcs.us/
 local=/youris.bio/
 local=/youris.pro/
+local=/yourl.ir/
 local=/yourl.jp/
 local=/yourl.pro/
 local=/yourls.ch/
@@ -9935,6 +9945,7 @@ local=/zenurl.in/
 local=/zephb.com/
 local=/zeroshort.xyz/
 local=/zetir.com/
+local=/zeurl.net/
 local=/zeus4d.mom/
 local=/zeusurl.com/
 local=/zeusurl.net/
@@ -9992,6 +10003,7 @@ local=/znly.in/
 local=/znt.bz/
 local=/znv.cc/
 local=/znym.co/
+local=/znz.kr/
 local=/zo.cm/
 local=/zobzob.com/
 local=/link.zodia.studio/
@@ -10034,6 +10046,7 @@ local=/zuitte.com/
 local=/zuitte.io/
 local=/zuki.ie/
 local=/zulu.bio/
+local=/zum.bi/
 local=/zuplo.link/
 local=/zurb.us/
 local=/zurins.uk/

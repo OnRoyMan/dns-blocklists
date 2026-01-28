@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jan 2026 10:42 UTC
-# Version: 2026.0127.1042.51
+# Last modified: 28 Jan 2026 10:45 UTC
+# Version: 2026.0128.1045.10
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3480
 #
@@ -1216,7 +1216,6 @@ local=/ts653d.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/unixfox.duckdns.org/
-local=/vpich.duckdns.org/
 local=/wired-guardian.duckdns.org/
 local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
@@ -3132,6 +3131,7 @@ local=/jp.tiar.app/
 local=/doh.tiarap.org/
 local=/jp.tiarap.org/
 local=/adguard.tigrex.net/
+local=/tigrons.ru/
 local=/dns.timboeh.me/
 local=/timedns.net/
 local=/ad.timefine.org/

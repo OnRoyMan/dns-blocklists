@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Jan 2026 17:31 UTC
-! Version: 2026.0127.1731.36
+! Last modified: 28 Jan 2026 09:32 UTC
+! Version: 2026.0128.0932.16
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -7854,6 +7854,7 @@
 @@||tapto.bio^
 @@||my.taptoconnect.app^
 @@||tapurl.net^
+@@||tapz.in^
 @@||targeterpro.com^
 @@||tatt.at^
 @@||tau.lu^
@@ -8026,6 +8027,7 @@
 @@||tiger77.monster^
 @@||tigerlink.me^
 @@||tighturl.com^
+@@||tiis.cc^
 @@||tik.la^
 @@||tik.lat^
 @@||tik.lol^
@@ -8051,6 +8053,7 @@
 @@||tinurl.pro^
 @@||tiny.ae^
 @@||tiny.cc^
+@@||tiny.do^
 @@||tiny.ee^
 @@||tiny.lt^
 @@||tiny.ms^
@@ -8299,6 +8302,7 @@
 @@||trenddynamo.com^
 @@||tres.at^
 @@||treszki.com^
+@@||trezurl.ir^
 @@||tri.ps^
 @@||trib.al^
 @@||trib.in^
@@ -8536,6 +8540,7 @@
 @@||underswo.de^
 @@||undrarmr.co^
 @@||unelma.io^
+@@||unesa.xyz^
 @@||uni.cf^
 @@||uni.ms^
 @@||go.unibw.de^
@@ -8567,6 +8572,7 @@
 @@||uorbursarysupport.com^
 @@||uos.cc^
 @@||up.to^
+@@||update-info-saudi-a.live^
 @@||upld.in^
 @@||share.uplifted.ai^
 @@||uplifter.ai^
@@ -8615,6 +8621,7 @@
 @@||url-sh.fr^
 @@||url-short.me^
 @@||url-shortener.in^
+@@||url-shortener.info^
 @@||url-shortening.com^
 @@||url-solutions.com^
 @@||url11xx.com^
@@ -9127,6 +9134,7 @@
 @@||vk.cc^
 @@||vk.sv^
 @@||vkei.eu^
+@@||vkik.com^
 @@||vklinks.com^
 @@||vl.am^
 @@||vla.lu^
@@ -9368,6 +9376,7 @@
 @@||wiwir.cc^
 @@||curt.wiz.co^
 @@||wizardsinvest.ru^
+@@||wjcf.co^
 @@||wkf.ms^
 @@||wkpwr.be^
 @@||wl.co^
@@ -9637,6 +9646,7 @@
 @@||yourcs.us^
 @@||youris.bio^
 @@||youris.pro^
+@@||yourl.ir^
 @@||yourl.jp^
 @@||yourl.pro^
 @@||yourls.ch^
@@ -9718,6 +9728,7 @@
 @@||zephb.com^
 @@||zeroshort.xyz^
 @@||zetir.com^
+@@||zeurl.net^
 @@||zeus4d.mom^
 @@||zeusurl.com^
 @@||zeusurl.net^
@@ -9774,6 +9785,7 @@
 @@||znt.bz^
 @@||znv.cc^
 @@||znym.co^
+@@||znz.kr^
 @@||zo.cm^
 @@||zobzob.com^
 @@||link.zodia.studio^
@@ -9814,6 +9826,7 @@
 @@||zuitte.io^
 @@||zuki.ie^
 @@||zulu.bio^
+@@||zum.bi^
 @@||zuplo.link^
 @@||zurb.us^
 @@||zurins.uk^
