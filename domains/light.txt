@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jan 2026 10:10 UTC
-# Version: 2026.0128.1010.34
+# Last modified: 28 Jan 2026 16:12 UTC
+# Version: 2026.0128.1612.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 105914
+# Number of entries: 105988
 #
 0.beer
 www.0.beer
@@ -70,7 +70,6 @@ ca7ef4f8d6.0213499675.com
 02725.cfd
 02951.cfd
 0296.yokohama
-02993.cfd
 02e4eb45f3.com
 02eeb1c223036b090c4b8b69c8c9b95b.info
 02ip.ru
@@ -148,7 +147,6 @@ fd02872655.05b9daf35c.com
 084f24a4cfdd0b4391a6eca964caf87f.info
 8669dcc54e.08675bd78b.com
 086970ac0bcbca1101f6309907b6fa0d.com
-08713.cfd
 08719.cfd
 087b15fc2a72dcfd24d01d8534cda3f5.net
 087o.com
@@ -582,6 +580,7 @@ match.p4p.1688.com
 16mu3tfz.com
 16systems.com
 16thmission.com
+16xxq8lb4g.com
 17-c-live.com
 1706fab772.com
 1706gmail.com
@@ -592,7 +591,6 @@ match.p4p.1688.com
 17324768.cfd
 17324772.cfd
 17509.cfd
-17627.cfd
 17648.cfd
 177a6b7d14d6.com
 177a6b7d14d6.xyz
@@ -884,13 +882,11 @@ m.2020mustang.com
 2026ochnikvip.shop
 20330.cfd
 go.2038.pro
-20405.cfd
 20481293813612.cfd
 20540b079082.info
 206873fc877ad5eec54395492a966822.com
 206ads.com
 20710.cfd
-20762.cfd
 207c7175f0.com
 207cbcf6adeb5af82119afde00fa8769.xyz
 2083236893b.com
@@ -916,7 +912,6 @@ afftracknc.21.partners
 afftracknv.21.partners
 afftrackuc.21.partners
 21181.cfd
-21276.cfd
 2144.cn
 215719.cfd
 21projekt.de
@@ -932,10 +927,8 @@ static.21wiz.com
 gam.2222.ro
 views.2222.ro
 2226668ad1.top
-22483.cfd
 22491.cfd
 224oztn8dq.com
-22542.cfd
 2255abf5a50067e7.top
 225cb301f9.com
 22694.cfd
@@ -1096,7 +1089,6 @@ cdn.254a.com
 25788.cfd
 25829.cfd
 2585a669880cff74e65df4e760859b13.net
-25907.cfd
 259a18047b.com
 25c7caf52e924c84.top
 25cb5b8c74.top
@@ -1116,7 +1108,6 @@ cdn.254a.com
 9c998d0309.26a840907b.com
 26b88702007e.site
 27-theproject.com
-27081.cfd
 273462374623.cfd
 27370.cfd
 2740f6604db1440e.com
@@ -1138,7 +1129,6 @@ c0d0bfbb90.27aa17ec94.com
 287c2f860a86b6255886c499795e98b3.com
 28811.cfd
 28899ec622.cc
-28a0578796.com
 28c27fc5f37b.com
 28c27fc5f37b.xyz
 28d764aa61308075.top
@@ -1149,7 +1139,6 @@ metrics.28yearslater.movie
 hit.28yw0a.ru
 29-google.com
 2909eeedfe7e7965c91cb8067da55f73bf6713cf4b139d46ce02f3a8da202a6.link
-29105.cfd
 2910gmail.com
 29143.cfd
 292da1bf7362f9fc8f47e9420b12d70e.com
@@ -1173,7 +1162,6 @@ hit.28yw0a.ru
 2acaa9bce64743bb279c4091b9e7789e.com
 2annalea.com
 2b7957acc9.com
-2ba5dbc5be.com
 2bbd3ae259eae999.com
 2c15c618900997a6b8fa1092a38674cc63324950.xyz
 2c15d65300206ae1cc361f62fc3b612a.com
@@ -4768,6 +4756,7 @@ tjxhomegoods.112.2o7.net
 tmobusuxp.112.2o7.net
 toyotaeuropelexglobalprod.112.2o7.net
 toyotaeuropetoyglobalprod.112.2o7.net
+dnsbl.test.toyotaeuropetoyglobalprod.112.2o7.net
 traderjoes.112.2o7.net
 trane.112.2o7.net
 tranetranetechnologies.112.2o7.net
@@ -4869,7 +4858,6 @@ www.3000toys.com
 analytics.300624.com
 300daytravel.com
 300tangshi.com
-30118.cfd
 302br.net
 view.atdmt.com.10428.9023.302br.net
 view.atdmt.com.26812.9201.302br.net
@@ -4966,7 +4954,6 @@ ssc-cms.33across.com
 c.345ddz.com
 d.345ddz.com
 p.345ddz.com
-34634.cfd
 347f86a814e9a040ddfdfb633ea3621f.com
 34944.cfd
 34c021c47cc924.click
@@ -5107,6 +5094,7 @@ ice.360yield-basic.com
 36317c645e5b.com
 36317c645e5b.xyz
 363dd5b0b2.com
+365-nexivox.com
 36573e499a1ce1b9b38d4215dc8c6acf.com
 365dmp.com
 mm.365dmp.com
@@ -5131,7 +5119,6 @@ bettingads.365scores.com
 36c5b5bf98f899a63842c1d1c7d9b109.com
 36dfdbf82170e91f.top
 373-legal-office.com
-37372.cfd
 374d6fd612ada2326d7ea767849bdab4.top
 376fc67b8c76dd3078c83cc9c0a37a56.com
 377-google.com
@@ -5153,7 +5140,6 @@ bettingads.365scores.com
 37fd1b39d12b7ab58338f653c773d411.org
 37ff63d80f.com
 37wan.com
-38118.cfd
 38160.cfd
 38167473.xyz
 www.38167473.xyz
@@ -5494,7 +5480,6 @@ xml.4armn.com
 4cc0970ebc6582e67dce230b03a99235faf9c4bb.xyz
 4cceecae67df3ecbcbde8f726542a869.com
 4cf0b4b5c8eb76ccab7e72cf29fc1ce48cbfd5b7837dde85ee7a40ec323f08d.link
-4cf2957bbe.com
 4cfcfad193052798.top
 4cinsights.com
 4cloud.click
@@ -5520,7 +5505,6 @@ xmlfeedparser.4dsply.com
 4everland.app
 4f11a5c289e8f9ab8b37a9e757fcd9f910f4e6faec2246a05a176f9a05b47a1.link
 4f6ddc21446.luxe
-4fb54eeb7f1d078a1e55310475e40cc8.top
 4fb58ae25e.com
 4felts.com
 4frwr2r.lat
@@ -5663,7 +5647,6 @@ taichi.51y5.net
 go.5211game.com
 pt.5211game.com
 52121aca1d.com
-52143.cfd
 52154cdd64.com
 521pokemon.com
 522-google.com
@@ -5776,7 +5759,6 @@ www.58686728.xyz
 587a960dc6a958929ad3bd0b5a97104a.xyz
 58848a5dcf.com
 588w66g4rp22tbrqvuf81j4q8.cfd
-58967.cfd
 58993b8081473abf.com
 58zmjp8xzunu6lr25nyk.cfd
 59071d887d60.top
@@ -6145,7 +6127,6 @@ cdn.60ah.com
 analytics.60millions-mag.com
 61028.cfd
 61147.cfd
-611d76c87e67e16742326d072062bce7.top
 61206.cfd
 61327.cfd
 61378.cfd
@@ -6240,7 +6221,6 @@ umami.6513006.xyz
 65dcd27cd1fdcb0001de2fee.click
 65dd85e023acbb833a57d0c912243457.com
 661321.xyz
-66180.cfd
 66198.cfd
 663fe070b193.com
 66661.cfd
@@ -6350,7 +6330,6 @@ v2.6888.site
 6942d3e948cc.space
 69499.cfd
 6960f3be21d4967de2cdece441aa1609.today
-69676.cfd
 6969-chat.tv
 69691.cfd
 697accdffa.com
@@ -6501,10 +6480,8 @@ cbf6ad5f4e.73660f6efb.com
 744gmail.com
 746cf53c01bd5b50e128d6d9218011e1.site
 747-live-app.com
-74708.cfd
 74882a393e4e902b23d4cf6962a6d91f.com
 74sr.com
-75082.cfd
 75349.cfd
 755-google.com
 759ab27ae5bf8001c4e11b3c74630688.com
@@ -6513,7 +6490,6 @@ cbf6ad5f4e.73660f6efb.com
 75baa3dc66628eef.com
 75ef266af7e4aa6006b9a7a63d789d997d48f146d3fd4cec12aa71a0258f161.link
 7601838b63100aeb86bb540994612054.network
-76021.cfd
 7606b66bee.com
 761d23432b74c3a1c455b22c2b5b3db4.com
 76236osm1.ru
@@ -6535,12 +6511,10 @@ cbf6ad5f4e.73660f6efb.com
 7700-google.com
 77119.cc
 7717c264c45f0f32d6d0867c7550b5aa.com
-77219.cfd
 77353369.cfd
 77662222aa1.sbs
 77662222aa2.sbs
 77662222aa3.sbs
-77675.cfd
 77680.cfd
 7768697465686f757365.com
 77705.cfd
@@ -6563,7 +6537,6 @@ cbf6ad5f4e.73660f6efb.com
 7825b426244.beer
 57cff0f0ca.782c161d89.com
 7844cf234e.com
-78515.cfd
 7855b15e168d67abe69db6a6935cab12.com
 78587924.xyz
 www.78587924.xyz
@@ -6573,7 +6546,6 @@ www.78587924.xyz
 789ubet.com
 79-google.com
 79025.cfd
-79087.cfd
 790e74d0c5.com
 79125.cfd
 79334.cfd
@@ -6641,7 +6613,6 @@ serve.7kprtners.com
 vd.7vid.net
 pa.7w.ro
 7wbhey3.lol
-7wj8uj.lat
 7x4r.com
 7yearsago.org
 7zip.cloud
@@ -6658,7 +6629,6 @@ pa.7w.ro
 80faadeb63.com
 80xy.com
 81-google.com
-81062.cfd
 811-google.com
 8111000a11.shop
 8111000a12.shop
@@ -6890,7 +6860,6 @@ af03df3f77.8e6c021d8f.com
 8fdmj67f5e.com
 8fe2118c53a7.com
 8fe2118c53a7.xyz
-8glhu7mf3o25317gwjx.rest
 typedoc-plausible.8hob.io
 8jfbt5va3r.com
 s.8jfbt5va3r.com
@@ -6911,10 +6880,13 @@ axp.8newsnow.com
 9008d096c393f5fc34dbd97fa4311bf8.com
 900mzuroper.com
 901839.click
+90190.xyz
+90202.xyz
 90205.xyz
+90219.xyz
 9021d5d4965703c7b290eecb842ca303068f86c26bc18c1e38c020b942a98ec.link
+90253.xyz
 904117922e83f6c1c13096ded9807cd5eb4eace6a57ec190659b5dbfd67e16a.link
-90420.xyz
 90424.xyz
 90428.xyz
 90430.xyz
@@ -6980,7 +6952,6 @@ f0fdae6be7.9357f4ba72.com
 93c63d092f59fdc9.com
 93d3e7fc8398a2b68822d65273613c2ace35b7fa60ba987d326c9f6b277302f.link
 940dab6db63af591e24d1ce12eebf458.info
-94155.cfd
 94157b169e11.top
 94157b169e11.xyz
 941654321a.vip
@@ -6998,7 +6969,6 @@ f0fdae6be7.9357f4ba72.com
 9483b8a70421ba3b0a2e23e019161cf8.website
 94c6196e704c636e0de5bd4c1ba2fb34.com
 95016.cfd
-95123.cfd
 95134cecf5.com
 952837f372f2.cyou
 952985ofo29.sbs
@@ -7070,7 +7040,6 @@ analytics.95516.com
 96bddca475afbcd2.top
 96d2c00b3e.com
 9db2354806.96d2c00b3e.com
-9731ae86ee711ef55c76cf074bc51576.top
 97778ed292.com
 mgs.97778ed292.com
 9800.com
@@ -7543,7 +7512,6 @@ c.aaxads.com
 aayandelivery.com
 aayoqdsmvcf.com
 ab0a9de01a.com
-ab0c2e9694.com
 ab1145b758c30.com
 ab1abad1d0c2a.com
 ab266372fa.top
@@ -7795,25 +7763,10 @@ account-access.shop
 account-activation.info
 account-activity-mail.ru
 account-ae.fr
-account-apple-auth.com
-account-apple-buy.com
 account-apple-code.com
-account-apple-icloudid.com
-account-apple-icloudsafe.com
-account-apple-icloudsecurelink.com
-account-apple-idicloud.com
-account-apple-idsafe.com
-account-apple-idsecure.com
-account-apple-mail.com
 account-apple-safe.com
-account-apple-safeicloud.com
-account-apple-safeid.com
-account-apple-safeidlink.com
 account-apple-secure.com
-account-apple-secureicloud.com
-account-apple-secureid.com
 account-apple-secureidlink.com
-account-apple-store.com
 account-applesupport.com
 account-bilpanda.com
 account-bitstamp.net
@@ -8529,6 +8482,7 @@ addthisedge.com
 stats.addtoany.com
 adducpyren.rest
 s10.adduplex.com
+addusdsteam.com
 addynamix.com
 addynamo.com
 adecn.com
@@ -11640,6 +11594,7 @@ e.aimerce.ai
 aimingmusclecontent.com
 aimioffice.cn
 aimmoment.com
+aimorganix.com
 analytics.aimroas.com
 track.aimroas.com
 aimroute.digital
@@ -13779,7 +13734,6 @@ rcm-it.amazon.it
 telemetry.taskei.amazon.dev
 amazon-acount.com
 amazon-ad-system.com
-amazon-ads.pro
 aax.amazon-adsystem.com
 aax-dtb-cf.amazon-adsystem.com
 aax-dtb-mobile-geo.amazon-adsystem.com
@@ -14280,7 +14234,6 @@ metrics.amiparis.com
 amipoddoja.store
 aml-beast.com
 aml-botz.org
-aml-pure.app
 amlcheck.lol
 amlcheck.tv
 amlendra.site
@@ -14454,6 +14407,7 @@ anaveragegirl.xyz
 anbanet.com
 anbiz.com
 ancadailyoffice.app
+ancestorheadquarters.com
 smetrics.ancestry.com
 ancienchaccon.com
 ancienshalite.qpon
@@ -14570,7 +14524,6 @@ anodiunder.rest
 anoglobal.sbs
 anonim-rituals.shop
 anontimes.com
-anonymcasino.casino
 anonymco.com
 anonymised.io
 account.anonymised.io
@@ -14773,6 +14726,7 @@ adx.apicgate.com
 apicit.net
 apidevst.com
 analytics.apify.com
+apiingtu.today
 apiiqavex.digital
 apim-godaddy-poc.com
 analytics.apineural.com
@@ -14863,6 +14817,7 @@ app-promo.com
 app-rush.com
 app-stock.com
 app-syrup.finance
+app-upshotcards.com
 app-vision.xyz
 app-web-whatsapp.com
 app-wpsoffice.com
@@ -14947,7 +14902,6 @@ tracking.appgefahren.de
 matomo.appgeo.com
 analytics.apphero.co
 analytics.apphq.co
-apphyperllquid.xyz
 appia.com
 imps.appia.com
 prlds.appia.com
@@ -15004,7 +14958,6 @@ static-rtb2.applabs.live
 sdkapicdn.applanga.com
 apple.nu
 apple.rich
-apple.security
 advertising.apple.com
 api-adservices.apple.com
 books-analytics-events.apple.com
@@ -15163,7 +15116,6 @@ appollo-plus.com
 apppleheaddd.jp
 apprenti-auteuil.fr
 mob2.bpt.apprevork.com
-approve-ebay.online
 apprupt.com
 eventtracker.dsa.apps.schwarz
 apps-ayuda.com
@@ -25026,6 +24978,7 @@ service.matomo.aws.assaabloy.com
 assaiengle.qpon
 assaleupyr.rest
 assasdrive.rest
+assasuniversite.fr
 asse-groupe.com
 assel-office.org
 assemblyexchange.com
@@ -25073,6 +25026,7 @@ assonattri.rest
 asstok.com
 www.asstok.com
 assur-ameli.com
+assurance-financiere.xyz
 assured-tool.com
 assurepathdelivery.org
 astarsbuilding.com
@@ -25624,6 +25578,7 @@ sdata.avid.com
 sgtm.avid.com
 avipreview.com
 analytics.avito.com
+cs.avito.ru
 stats.avito.ru
 avitusgroup.sbs
 avjbjbeywarjj.top
@@ -27305,7 +27260,6 @@ update.bfmsa.com
 s.update.bfmsa.com
 utiq.bfmtv.com
 bfpartners.click
-bfsdrop.top
 bfxytxdpnk.com
 bfzsttbzhragt.online
 bg-mezonet.info
@@ -27600,6 +27554,7 @@ bigrourg.net
 bigsaletuib.top
 bigsauron.ru
 vdlln.bigskyresort.com
+bigstarplpick.shop
 bigstoreminigames.space
 bigwww.com
 matomo.bihk.de
@@ -27872,6 +27827,7 @@ www.bitcoincoin.xyz
 bitcoineer.de
 bitcoinera.cloud
 bitcoinhyper-claim.info
+bitcoinhyperclaim.top
 bitcoinmusk.org
 bitcoinplay.org
 bitcoinprime.info
@@ -28055,6 +28011,7 @@ engine.bliink.io
 tag.bliink.io
 s.blinds.com
 jumbo.blinkit.com
+blinksbobblepadding.com
 logs.blip.net
 blirtmitered.shop
 blismedia.com
@@ -28442,7 +28399,6 @@ api.countly-preprod.bmwusa.com
 bmyogxbku.com
 www.bmyogxbku.com
 rum-reporter-prod.exp.bn.nr
-bnb-bsc.com
 bnbfamilyoffice.com
 bncloudfl.com
 cdn.bncloudfl.com
@@ -28708,6 +28664,7 @@ v3.bootcss.com
 v4.bootcss.com
 v5.bootcss.com
 vitejs.bootcss.com
+boothmythevergreen.com
 hfda78aa77hkj.bootsfuehrerscheinx.de
 bootstraplugin.com
 analytics.boozt.com
@@ -29718,7 +29675,6 @@ gst.pulse.buyatoyota.com
 buybanklogin.org
 buyflashusdt.club
 tracking.buygoods.com
-buys-delivery.ru
 buysellads.com
 buysellads.net
 cdn-s2s.buysellads.net
@@ -35150,7 +35106,6 @@ matomo.christopeit-sport.com
 telemetry.chrobinson.com
 chromahearth.cfd
 chromegoogle.cn
-chromewebextensions.online
 u566.chron.com
 c.u566.chron.com
 c950.chronicle.com
@@ -35551,6 +35506,7 @@ clevernt.com
 ui.clevernt.com
 developers.cleverpush.com
 geoip-api.cleverpush.com
+liveapi.cleverpush.com
 static.clevertap.com
 cleverwebserver.com
 assets.cleverwebserver.com
@@ -36236,42 +36192,6 @@ utiq.cnetfrance.fr
 cnew.fr
 cnb.cnews.ru
 cnhv.co
-cnic-probe-aws-asia-tokyo-live-1769385601.online
-cnic-probe-aws-asia-tokyo-live-1769467201.xyz
-cnic-probe-aws-asia-tokyo-live-1769467801.xyz
-cnic-probe-aws-asia-tokyo-live-1769469301.xyz
-cnic-probe-aws-asia-tokyo-live-1769470201.xyz
-cnic-probe-aws-asia-tokyo-live-1769470202.online
-cnic-probe-aws-asia-tokyo-live-1769470501.xyz
-cnic-probe-aws-asia-tokyo-live-1769470502.online
-cnic-probe-aws-asia-tokyo-live-1769472601.online
-cnic-probe-aws-asia-tokyo-live-1769474701.online
-cnic-probe-aws-eu-frankfurt-live-1769466901.xyz
-cnic-probe-aws-eu-frankfurt-live-1769469901.xyz
-cnic-probe-aws-eu-frankfurt-live-1769471401.online
-cnic-probe-aws-eu-frankfurt-live-1769471401.xyz
-cnic-probe-aws-eu-frankfurt-live-1769472302.online
-cnic-probe-aws-north-america-oregon-live-1769386802.online
-cnic-probe-aws-north-america-oregon-live-1769387701.online
-cnic-probe-aws-north-america-oregon-live-1769388302.online
-cnic-probe-aws-north-america-oregon-live-1769467501.xyz
-cnic-probe-aws-north-america-oregon-live-1769468401.xyz
-cnic-probe-aws-north-america-oregon-live-1769468701.xyz
-cnic-probe-aws-north-america-oregon-live-1769472002.online
-cnic-probe-aws-north-america-oregon-live-1769472901.online
-cnic-probe-aws-north-america-oregon-live-1769473501.online
-cnic-probe-aws-north-america-oregon-live-1769473801.online
-cnic-probe-aws-north-america-vir-live-1769468101.xyz
-cnic-probe-aws-north-america-vir-live-1769470801.online
-cnic-probe-aws-north-america-vir-live-1769470801.xyz
-cnic-probe-aws-north-america-vir-live-1769474101.online
-cnic-probe-aws-oceania-sydney-live-1769469001.xyz
-cnic-probe-aws-oceania-sydney-live-1769469601.xyz
-cnic-probe-aws-oceania-sydney-live-1769471101.online
-cnic-probe-aws-oceania-sydney-live-1769471101.xyz
-cnic-probe-aws-oceania-sydney-live-1769471701.online
-cnic-probe-aws-oceania-sydney-live-1769473202.online
-cnic-probe-aws-oceania-sydney-live-1769474401.online
 webcert.cnmstl.net
 zion-telemetry.api.cnn.io
 zion-telemetry-nonprod.api.cnn.io
@@ -36328,7 +36248,6 @@ cntxcdm.com
 amp.cntxcdm.com
 cnvlink.com
 counter.cnw.cz
-cnwucnf.top
 cnzz.net
 c.cnzz.com
 ei.cnzz.com
@@ -37103,6 +37022,7 @@ coinhive.com
 coinimp.com
 www.coinimp.com
 coinlifee.com
+coinlur.com
 coinmate.global
 coinmedia.co
 coinomiwallet.cc
@@ -37115,7 +37035,6 @@ cointent.com
 cointraffic.io
 appsha1.cointraffic.io
 coinurl.com
-coinusbase.top
 coinvault.live
 coinverti.com
 coinvestfx.com
@@ -37239,6 +37158,7 @@ columnstoodth.com
 uts.104.com.tw
 adm.10jqka.com.cn
 stat.10jqka.com.cn
+1linch.com.co
 anh.24h.com.vn
 thongke.24h.com.vn
 30edu.com.cn
@@ -37368,6 +37288,7 @@ amazon-windowshop.com.cn
 analytics.com.ng
 infos.anz.com.au
 apis.com.br
+app-1inch.com.co
 securemetrics.apple.com.cn
 tracking.apprubeus.com.br
 analytics.apps.com.tr
@@ -38021,7 +37942,9 @@ com-elonmusk.info
 com-en-us.services
 com-receive.live
 com-send.live
+com-swapaccount.info
 com-v5.com
+com-verifyactivity.info
 com-x2rewards.cc
 tracker.comagic.ru
 analytics.comalatech.io
@@ -38219,7 +38142,6 @@ config.config-factory.com
 confirm-airdrop.live
 confirm-ebay.sale
 confirm-ebay-account.today
-confirmation-id235.com
 confirmation-id289.com
 confirmation-id4374522.com
 confirmation-id4374622.com
@@ -38230,8 +38152,6 @@ confirmation-id72.com
 confirmation-id73.com
 confirmation-id74.com
 confirmation-id75.com
-confirmation-id77.com
-confirmation-id78.com
 confirmation-id785.com
 confirmation-id79.com
 confirmation-id799.com
@@ -39894,6 +39814,7 @@ analytics.cryptocosmicapp.com
 cryptohotinfo.com
 cryptokeying.com
 cryptominded.com
+cryptomus-payment.com
 analytics.cryptool.org
 cryptopunks.sale
 cryptoreviewblogger.com
@@ -40035,6 +39956,7 @@ culinar9sync.com
 culotteuta.qpon
 culpnannies.rest
 culterwhether.com
+cultivated-guitar.com
 culturaltracking.ru
 analytics.cultureamp.com
 in.analytics.cultureamp.com
@@ -40106,7 +40028,6 @@ cdn2.customads.co
 trk.customads.co
 customer.guru
 cdp-eu.customer.io
-customerheip-apple.com
 customerlabs.co
 cdn.js.customerlabs.co
 io.v2.customerlabs.co
@@ -40888,6 +40809,7 @@ ddgjwrj.cc
 a.ddli.jp
 r1.ddlnk.net
 ddna.live
+ddnamecauma.com
 dbm-metrics-intake.ddog-gov.com
 matomo.ddr-rezepte.de
 tracker.ddswd.de
@@ -41055,6 +40977,7 @@ api.deeplink.dev
 deepmetrix.com
 deepnewsjuly.com
 deepnode.live
+deepnode-ai.app
 deepoffice.cn
 deepsathegoh.com
 deepseekv3-trader.com
@@ -41444,6 +41367,7 @@ baz.demdex.net
 bbg.demdex.net
 bbvabancomer.demdex.net
 bbvaco.demdex.net
+bbvamx.demdex.net
 bbvape.demdex.net
 bbvave.demdex.net
 bca.demdex.net
@@ -42505,7 +42429,6 @@ dhl-excel.com
 dhl-globalforwarding.com
 dhl-kurir.com
 dhl-monplanning.com
-dhl-passageprogramme.com
 dhl-plans.com
 dhl-report-delivery.com
 dhl-reschedule.cfd
@@ -43019,7 +42942,6 @@ disloyalmoviesfavor.com
 dismantlepenantiterrorist.com
 dismiduali.rest
 dismisscomplicatedfoolproof.com
-disneato.com
 disnehydro.rest
 disney-plus-poland.com
 disney-plus-tv.com
@@ -43254,7 +43176,6 @@ ab.dns-finder.com
 analytics.dns-shop.kz
 analytics.dns-shop.ru
 analytics.dnscale.eu
-dnscloudflare.online
 dnscloudflare.ru
 dnsdelegation.io
 h.dnsdelegation.io
@@ -44422,6 +44343,7 @@ fls.doubleclick.net
 12716976.fls.doubleclick.net
 12718554.fls.doubleclick.net
 12719679.fls.doubleclick.net
+12721951.fls.doubleclick.net
 12722117.fls.doubleclick.net
 12722399.fls.doubleclick.net
 12727458.fls.doubleclick.net
@@ -45003,6 +44925,7 @@ fls.doubleclick.net
 14737266.fls.doubleclick.net
 14737489.fls.doubleclick.net
 14739081.fls.doubleclick.net
+14739183.fls.doubleclick.net
 14739544.fls.doubleclick.net
 14741597.fls.doubleclick.net
 14741787.fls.doubleclick.net
@@ -45171,6 +45094,7 @@ fls.doubleclick.net
 15137088.fls.doubleclick.net
 15143947.fls.doubleclick.net
 15145304.fls.doubleclick.net
+15153720.fls.doubleclick.net
 15155299.fls.doubleclick.net
 15156047.fls.doubleclick.net
 15156519.fls.doubleclick.net
@@ -45264,6 +45188,7 @@ fls.doubleclick.net
 15359291.fls.doubleclick.net
 15359423.fls.doubleclick.net
 15371306.fls.doubleclick.net
+15375658.fls.doubleclick.net
 15375840.fls.doubleclick.net
 15381264.fls.doubleclick.net
 15391405.fls.doubleclick.net
@@ -45448,6 +45373,7 @@ fls.doubleclick.net
 15920098.fls.doubleclick.net
 15932550.fls.doubleclick.net
 15933156.fls.doubleclick.net
+15933294.fls.doubleclick.net
 15933795.fls.doubleclick.net
 15942343.fls.doubleclick.net
 15942443.fls.doubleclick.net
@@ -45472,6 +45398,7 @@ fls.doubleclick.net
 16056639.fls.doubleclick.net
 16060190.fls.doubleclick.net
 16077647.fls.doubleclick.net
+16083637.fls.doubleclick.net
 16085971.fls.doubleclick.net
 16089813.fls.doubleclick.net
 16090788.fls.doubleclick.net
@@ -45496,6 +45423,7 @@ fls.doubleclick.net
 16219310.fls.doubleclick.net
 16233666.fls.doubleclick.net
 16240012.fls.doubleclick.net
+16245128.fls.doubleclick.net
 16263114.fls.doubleclick.net
 16275679.fls.doubleclick.net
 16276252.fls.doubleclick.net
@@ -45565,6 +45493,7 @@ fls.doubleclick.net
 2754094.fls.doubleclick.net
 2761768.fls.doubleclick.net
 2768331.fls.doubleclick.net
+2773371.fls.doubleclick.net
 2789293.fls.doubleclick.net
 2826032.fls.doubleclick.net
 2834457.fls.doubleclick.net
@@ -47300,6 +47229,7 @@ fls.doubleclick.net
 998766.fls.doubleclick.net
 dc-11667651.fls.doubleclick.net
 dc-15772160.fls.doubleclick.net
+dc-9045885.fls.doubleclick.net
 false.fls.doubleclick.net
 to-be-done.fls.doubleclick.net
 undefined.fls.doubleclick.net
@@ -47674,6 +47604,7 @@ droolyepacme.shop
 drop-asterdex.com
 drop-flock.xyz
 dropalcoholnarrow.com
+dropalert.fun
 dropbox.lol
 dropbox.xin
 beacon.dropbox.com
@@ -49755,6 +49686,7 @@ emiratesdeliveryg.com
 emiratesdeliveryh.com
 emiratesdeliveryj.com
 emiratesdeliverys.com
+emirctsxspost.com
 emkarto.fun
 emlsend.com
 emltrk.com
@@ -50298,7 +50230,6 @@ espleestrick.com
 espmp-agfr.net
 espmp-nifr.net
 log.espn.com
-pinpoint.espn.com
 mawean.espoo.fi
 advx.esprimo.com
 push.esputnik.com
@@ -50332,7 +50263,6 @@ as00.estara.com
 ociglb.estara.com
 ocias00.ociglb.estara.com
 estat.com
-estederm.ru
 esteemcountryside.com
 esteemfurytooth.com
 esteems.store
@@ -50377,6 +50307,7 @@ ethereul.trade
 ethereum-eprex-system.com
 ethereum-pocket.com
 ethereumads.com
+ethereumbillboard.com
 etherglow.cfd
 etherholders.com
 kta.etherscan.com
@@ -50384,6 +50315,7 @@ ethfortnite.com
 ethgasfoundation.app
 ethgasfoundation.net
 ethgasfoundatoin.xyz
+ethgasfoundetion.org
 ethgasfounudation.org
 ethgasfourdation.org
 ethical-simple.com
@@ -50614,7 +50546,6 @@ p8.evorra.net
 api.p8.evorra.net
 evpxl9a8h.com
 evrgreen-dynamics.com
-evri-delivery.top
 promo.evvnt.com
 prod.promo.evvnt.com
 cdn.prod.promo.evvnt.com
@@ -51616,6 +51547,7 @@ fevilsor5.net
 few-politics.com
 fewcents.co
 fewjuice.com
+fewmat.pl
 fewoqhnxv.com
 oy.fewteraurums.com
 fezzysugg.com
@@ -51668,6 +51600,7 @@ fhrhakpangapt.space
 fhvfd.com
 mercadeo.promerica.fi.cr
 fi-bau.com
+fi-quantexai.com
 fiafydmfzzsul.space
 fibgreenunofficial.com
 fibo.guru
@@ -52032,6 +51965,7 @@ flashbannernow.com
 ads.flashbid.io
 flashdeliveryes.com
 flashnetic.com
+flashstakesol.com
 ad-events.flashtalking.com
 adstudio-asset-lib.flashtalking.com
 cdn.flashtalking.com
@@ -52342,6 +52276,7 @@ followmurmuringsquealing.com
 folusho.com
 e.fomo.com
 stats.fomo.com
+fondationsorbonneuniversite.fr
 matomo.fondazionecni.org
 fondleaegipan.shop
 adserver.fondsprofessionell.com
@@ -55272,10 +55207,12 @@ safeframe.googlesyndication.com
 00ddda0e4a2f363e0bfab67704e14c46.safeframe.googlesyndication.com
 00f0105480ba563049ee75cb17ccdd25.safeframe.googlesyndication.com
 00f8aac0cee898f3af9664dbf286cba4.safeframe.googlesyndication.com
+012821af05ea88ac12bdaf777be81ad0.safeframe.googlesyndication.com
 01356484b0f72a39854c36e79e4e98f6.safeframe.googlesyndication.com
 013ebd4d13ec5421b7116fa61489b67e.safeframe.googlesyndication.com
 0140b39d959172c09f428d58361e12b8.safeframe.googlesyndication.com
 014b63700f8126ad9c8f9a8613ff3840.safeframe.googlesyndication.com
+015e82a9081ca623aef1194bacd5810b.safeframe.googlesyndication.com
 0181fab8f309237cd624fdd006d39d9b.safeframe.googlesyndication.com
 018a0f1e9620e9c43003b233f78783a7.safeframe.googlesyndication.com
 019d749ec81260b8cad6dda864dd542b.safeframe.googlesyndication.com
@@ -55326,10 +55263,12 @@ safeframe.googlesyndication.com
 06ffaf341bb7b62a2b7a6d8c7efe10e8.safeframe.googlesyndication.com
 07102bb0036bc0c93e171479b7926845.safeframe.googlesyndication.com
 0756f5ad91b083b04bd9714d64305354.safeframe.googlesyndication.com
+079ef5d15fcc2b5414a8e3905d59bfcf.safeframe.googlesyndication.com
 07a3f430566c3e5c6e9c03eca5a1ffe3.safeframe.googlesyndication.com
 07acae9f3cee1746d18c3cb83f0c2e6a.safeframe.googlesyndication.com
 07adee9e7d1cb931259c3f0c73d03d2e.safeframe.googlesyndication.com
 07b0c2d4279df8a83fe94da3b484fffa.safeframe.googlesyndication.com
+07b28105fac59cb35152b94a14e89c6a.safeframe.googlesyndication.com
 07ba48f8e8bb773f0cb5e37989e5390b.safeframe.googlesyndication.com
 07be76eba28e5d63bebe5f528c9cb018.safeframe.googlesyndication.com
 07c57a36087255c1088d26644cb09195.safeframe.googlesyndication.com
@@ -55346,6 +55285,7 @@ safeframe.googlesyndication.com
 09078f63ccf0206bc5b65ce3760d656a.safeframe.googlesyndication.com
 0928d2574b29a27a1b39d2c79a200f6f.safeframe.googlesyndication.com
 094c9febe9eefcea886a1cf2239e59b7.safeframe.googlesyndication.com
+0957f0e2dfebb237d28eb14d92483f20.safeframe.googlesyndication.com
 095fe416759eaf216ec34e7b61844d16.safeframe.googlesyndication.com
 0985a6604543cc2e833865d9dddb6ad7.safeframe.googlesyndication.com
 09883e2e2cffbe8a243064f2e0c6a876.safeframe.googlesyndication.com
@@ -55392,6 +55332,7 @@ safeframe.googlesyndication.com
 0ebb0c80dcb2214eb05c44f5b259fd1e.safeframe.googlesyndication.com
 0ed68bd6393e2a876a81d2231ba40206.safeframe.googlesyndication.com
 0ee5865560810eb8eec4993b1125f4e6.safeframe.googlesyndication.com
+0ef52eb885c7c772d90230eea6e07d18.safeframe.googlesyndication.com
 0f115509cca709008f53f877177e572b.safeframe.googlesyndication.com
 0fa70d86df4a37e777c8d6b0496e0781.safeframe.googlesyndication.com
 0fbbf53d52485733bf4808eeba4ae553.safeframe.googlesyndication.com
@@ -55400,6 +55341,7 @@ safeframe.googlesyndication.com
 1031601823759b6ea42559fc2e2bb42b.safeframe.googlesyndication.com
 103caa92efcdc20b91495a7d52531ca9.safeframe.googlesyndication.com
 1053ed08f2b2d5e290d342bee7b363f7.safeframe.googlesyndication.com
+1054a8e59b7098efe36936f4419d4fcb.safeframe.googlesyndication.com
 1057f6e54a74781b26f37cabf92b3a03.safeframe.googlesyndication.com
 10697af1e443d4e2e74a5080bc88d0ef.safeframe.googlesyndication.com
 106c92ab6f4c0279159584389aceb0be.safeframe.googlesyndication.com
@@ -55415,6 +55357,7 @@ safeframe.googlesyndication.com
 117e9569b64de873a2a1b925c0b6262b.safeframe.googlesyndication.com
 1180cba0884c07528d1955f30bf8f0f4.safeframe.googlesyndication.com
 118273969a2e244e63b2615ed29f571e.safeframe.googlesyndication.com
+11b05bd0204c9608097c181537cb04d8.safeframe.googlesyndication.com
 11dff5895711374bf60cd3f360fdc5cc.safeframe.googlesyndication.com
 124a80eeea44c4168d8dd74ea9c848f4.safeframe.googlesyndication.com
 128dc858a0301e26a73613d694370d2e.safeframe.googlesyndication.com
@@ -55447,6 +55390,7 @@ safeframe.googlesyndication.com
 15c6efc7ee4dcdc7e424db63b9ce93bc.safeframe.googlesyndication.com
 15db19546b0a6f74547b1a1b275d65ab.safeframe.googlesyndication.com
 15f2d4c58fb3737a934a6c4ef3041d72.safeframe.googlesyndication.com
+1620059e7a75f53d38f5e72b58bc00b7.safeframe.googlesyndication.com
 1630fa9b412765f5faa7f948869ebc07.safeframe.googlesyndication.com
 165c08b793f4f8e48476d651630ea112.safeframe.googlesyndication.com
 1680b378eb049fdbc373d05539d16793.safeframe.googlesyndication.com
@@ -55530,6 +55474,7 @@ safeframe.googlesyndication.com
 1f4d59be2fc4397b28678fef27436888.safeframe.googlesyndication.com
 1f510619eecd6f2115352ba24a3cdb91.safeframe.googlesyndication.com
 1ff92176fc9d6d5066a43a567ec26354.safeframe.googlesyndication.com
+1ffb31435867d22c448a38b30c4dbbf4.safeframe.googlesyndication.com
 20054fa50a4b84b98ad3c11b0a4b018b.safeframe.googlesyndication.com
 20611b6ca1361568368310b3cfc8e24e.safeframe.googlesyndication.com
 20615daa60eb56e43820f65a68b1a8a7.safeframe.googlesyndication.com
@@ -55537,12 +55482,15 @@ safeframe.googlesyndication.com
 20a5066849567cc7bad1ed6e62fee014.safeframe.googlesyndication.com
 20cb8e721a2df0db19099b1dee42f825.safeframe.googlesyndication.com
 210b21558c661556c6a9003677a68811.safeframe.googlesyndication.com
+2113e8a25e951bc5366dfe96fdad675f.safeframe.googlesyndication.com
+2123d1c335ea0113d574bac0c5114ba8.safeframe.googlesyndication.com
 2125357afa62243d6a6638faaa00fc50.safeframe.googlesyndication.com
 216cf989005a3c983119e9c86212eb3b.safeframe.googlesyndication.com
 218927435df0b03b3fd17cdde13e09a0.safeframe.googlesyndication.com
 2189dec2b6dc5f34e13aed063e55974f.safeframe.googlesyndication.com
 21adb1657693129c90705aeaa983a402.safeframe.googlesyndication.com
 21b3979375ec013095ec2d5710388af5.safeframe.googlesyndication.com
+21b800fb9e291a211e37b740b8a6fdad.safeframe.googlesyndication.com
 21c10213950388ad21a2422f6e7e4509.safeframe.googlesyndication.com
 21caf439b4e3354d9637cf78b71f1567.safeframe.googlesyndication.com
 21d9cb0bb3a6e47443b407c26e399bbf.safeframe.googlesyndication.com
@@ -55571,6 +55519,7 @@ safeframe.googlesyndication.com
 24a7349784b669736dc4c81971f110a2.safeframe.googlesyndication.com
 24ab799358722b3d779c5ec670b785d6.safeframe.googlesyndication.com
 25595bd587fa4ee6d2a55beeaa97a56c.safeframe.googlesyndication.com
+255e16a5286eea3f1bc92fe4c31d2c3e.safeframe.googlesyndication.com
 258ac423ca9be4a8d6b0b96de4c11677.safeframe.googlesyndication.com
 2636d64c767a6f9ea0ca69fee11af1e1.safeframe.googlesyndication.com
 263fa04a202b01b9a2e3df9d974f3e72.safeframe.googlesyndication.com
@@ -55600,6 +55549,7 @@ safeframe.googlesyndication.com
 28d2bd5f20357944424ccd81338ba7ab.safeframe.googlesyndication.com
 28eef0c0ad2f76969949d8bd091a0fe2.safeframe.googlesyndication.com
 28f743bb9f6dace5d098f08583376776.safeframe.googlesyndication.com
+28fd98acac2a2edb67059de78aba8190.safeframe.googlesyndication.com
 291976e74ed4f9907044669a43174c82.safeframe.googlesyndication.com
 2950ee2dec0c241bb8e0138f2753c2e4.safeframe.googlesyndication.com
 295689bec3dab00dd5e3cdcd843e8b3e.safeframe.googlesyndication.com
@@ -55620,6 +55570,7 @@ safeframe.googlesyndication.com
 2b194990d94020cbafd67ae54eaf7acf.safeframe.googlesyndication.com
 2b265bcb756f2cb1bc306ede37305cb6.safeframe.googlesyndication.com
 2b36286e9dae5545a7d27f34a16ff3b4.safeframe.googlesyndication.com
+2b45fd285a226feeff9db97fbb709b58.safeframe.googlesyndication.com
 2b557456461049ca1b9c37afe2222f34.safeframe.googlesyndication.com
 2b693ea716fb692a594c4188704ccd13.safeframe.googlesyndication.com
 2b76c5f3aa7cfeeab921ad143cd0db37.safeframe.googlesyndication.com
@@ -55665,7 +55616,9 @@ safeframe.googlesyndication.com
 31db38c4b56b7cd492a191607f0ba252.safeframe.googlesyndication.com
 321f7b0d85df211e1a43a197725fb3cc.safeframe.googlesyndication.com
 3247ea409bd8551af51a9a3dcadb3693.safeframe.googlesyndication.com
+3280e954b2b70271bd87154fc278aeed.safeframe.googlesyndication.com
 3283facd89a4d9aec61a72c98fba49c4.safeframe.googlesyndication.com
+328545057d8194548c4bf56e41d80479.safeframe.googlesyndication.com
 3287ab2eee8600f06ce2683c2db10365.safeframe.googlesyndication.com
 32d33b7283c5359bc9a584e67e1dbae6.safeframe.googlesyndication.com
 32f690327043b68dcaeccbd71a94a71b.safeframe.googlesyndication.com
@@ -55685,6 +55638,7 @@ safeframe.googlesyndication.com
 346c7a6945713ea2457880b410bc369e.safeframe.googlesyndication.com
 34742089c5c785481e14ec1a7de98efd.safeframe.googlesyndication.com
 3475b91352b9a08eb23819a16d7a5e04.safeframe.googlesyndication.com
+34a24763e64b713d09084ffd5a723d44.safeframe.googlesyndication.com
 34a5e9109656ea9faac5dd65f5129c27.safeframe.googlesyndication.com
 34a6a9ff4b99f852d685cf7b5ec0d099.safeframe.googlesyndication.com
 34fc50ebf03369c256d61e43bf6008ec.safeframe.googlesyndication.com
@@ -55737,11 +55691,14 @@ safeframe.googlesyndication.com
 3c0eeb4a377ac890346c310ed1769fe4.safeframe.googlesyndication.com
 3c17b5be25055e9cb480c200c6616815.safeframe.googlesyndication.com
 3c193d960ef7e7e70874a73085d21e2b.safeframe.googlesyndication.com
+3c3f2b3dc6727db139ee457374ef1269.safeframe.googlesyndication.com
+3c40314e800844e1361dde9fa6693d1a.safeframe.googlesyndication.com
 3c672dbb1b4ead1b67fe55b4e4e81b70.safeframe.googlesyndication.com
 3c73d23013b3a63b67534d522ac590db.safeframe.googlesyndication.com
 3c8dd9a75cd15f972f2548864790e72d.safeframe.googlesyndication.com
 3ca75861f8795a80798c5a46b73004f1.safeframe.googlesyndication.com
 3cb4247ea7678e0b2b50445bad18693e.safeframe.googlesyndication.com
+3cbafdfbaf9d5a9ed95e0a6e670fe87d.safeframe.googlesyndication.com
 3cc1e5cf49893b676cc75207b69c3a34.safeframe.googlesyndication.com
 3ce8d9e078138ba228feb3143197947e.safeframe.googlesyndication.com
 3d2d2e2df22e32128e3f3f7d5144c0b8.safeframe.googlesyndication.com
@@ -55752,6 +55709,7 @@ safeframe.googlesyndication.com
 3d696f5753f892e99bc33620e1c1b110.safeframe.googlesyndication.com
 3d956b0997bf8e093c5bfa001c8bdeae.safeframe.googlesyndication.com
 3dd5aff83a30c3a069e09e8fcfe1dd42.safeframe.googlesyndication.com
+3df89ad5e3b7506454262472e46a1d5d.safeframe.googlesyndication.com
 3dfa780b5ebeb44762b33f75b485cd69.safeframe.googlesyndication.com
 3e20e2de18378faeb1583a0409f5b0d1.safeframe.googlesyndication.com
 3e6717dee24e380dbc61a3633e0cad81.safeframe.googlesyndication.com
@@ -55783,6 +55741,7 @@ safeframe.googlesyndication.com
 4198679be4eba24249681c8b61c9d475.safeframe.googlesyndication.com
 419bb940c6dafbbb49824a66669ab9fb.safeframe.googlesyndication.com
 41b633904e87a1f4207240220898bc73.safeframe.googlesyndication.com
+4211b430f691420c777163fe44fac754.safeframe.googlesyndication.com
 424a29be03feafa9378f224b86c7ec2f.safeframe.googlesyndication.com
 42895431b2b895a720c1c298fc6617ef.safeframe.googlesyndication.com
 429590953ac289f1d3abec22d9aa6c14.safeframe.googlesyndication.com
@@ -55794,6 +55753,7 @@ safeframe.googlesyndication.com
 433d5eb9dd52c20142b1f0ae2996630d.safeframe.googlesyndication.com
 4340c6ccdd3b34213df7449ea35dffda.safeframe.googlesyndication.com
 43431cddfc3a60f0d14e7041c3fd4f1c.safeframe.googlesyndication.com
+434b07839afc7078719797171a3e1c84.safeframe.googlesyndication.com
 437b4ba03c316bf8064030e926ef54e3.safeframe.googlesyndication.com
 43a2d836d0b11b36791f1a5a31470295.safeframe.googlesyndication.com
 43c5b2480eaa5244a603f01b13b69174.safeframe.googlesyndication.com
@@ -55830,6 +55790,7 @@ safeframe.googlesyndication.com
 479440033b12c17b1a61f172aaa662ca.safeframe.googlesyndication.com
 479795552140641198f738d445bd4fe4.safeframe.googlesyndication.com
 479a3108243671ad1712352acb2fe9f6.safeframe.googlesyndication.com
+47afa289b1e7d4c421082bc2c4e227fa.safeframe.googlesyndication.com
 47e24ac9099f86eabecae26cfad2ceeb.safeframe.googlesyndication.com
 47e63048cf733a6bbf3714128d03cc74.safeframe.googlesyndication.com
 4806e6f07bbd8b0c27bb66ec880c7008.safeframe.googlesyndication.com
@@ -55843,6 +55804,7 @@ safeframe.googlesyndication.com
 48e12d298948e4bced7d2e9d42c14dd9.safeframe.googlesyndication.com
 49147ff5a9f931858f6c16bdbec762b0.safeframe.googlesyndication.com
 494557cdb3cbec0cf21f2de54d038b74.safeframe.googlesyndication.com
+495b4c34c0954cce86d80a2a9bd3e7ab.safeframe.googlesyndication.com
 496bee907ad7bf91091fc81c61f7be53.safeframe.googlesyndication.com
 49f5c0ab9a486e913fc641e7cb932ab9.safeframe.googlesyndication.com
 4a141b44d7a51ca1c07574d9d84f7309.safeframe.googlesyndication.com
@@ -55852,6 +55814,7 @@ safeframe.googlesyndication.com
 4b11e199af4dc85e232757aa8bfabd8d.safeframe.googlesyndication.com
 4b264f1991c626d3b3aa03dcf2ee0dfd.safeframe.googlesyndication.com
 4b6a6cf5d065f76b6c2ca8b2ef725991.safeframe.googlesyndication.com
+4ba2d2230c0193a2a091e15984a1b652.safeframe.googlesyndication.com
 4ba9b5904e92f96c6291720d7331e8ba.safeframe.googlesyndication.com
 4bc222fa49e9a6e37fef2ee1c0ed0aea.safeframe.googlesyndication.com
 4bd6c897d161c6467d317f405a6672a5.safeframe.googlesyndication.com
@@ -55941,6 +55904,7 @@ safeframe.googlesyndication.com
 53f5863c865e916309d0829702cf3844.safeframe.googlesyndication.com
 5408379fd76e218a4cbbc03b1dc35f6a.safeframe.googlesyndication.com
 5485f7da6cadb12e4572707179a82e3e.safeframe.googlesyndication.com
+54b26e539d70ec34d38061a4d3a046a2.safeframe.googlesyndication.com
 555f1a4ed749582110b9747353c9a764.safeframe.googlesyndication.com
 556cb6f88cdc9c66e7d2025c64814a53.safeframe.googlesyndication.com
 558427f1328017e590898698c413da31.safeframe.googlesyndication.com
@@ -55958,6 +55922,7 @@ safeframe.googlesyndication.com
 5728fb11687509f1bdcaac09d13f9e03.safeframe.googlesyndication.com
 5769c2a6d31f0e80b53458c168771466.safeframe.googlesyndication.com
 5779166e4b86908d1fb93e04cbf5910e.safeframe.googlesyndication.com
+577ea25022b2ddb93755e017c9718461.safeframe.googlesyndication.com
 579649fe224a74b2fc96e0ee20f3c6f9.safeframe.googlesyndication.com
 57b7b92d677034640dbedd32d1ea5af2.safeframe.googlesyndication.com
 580cb12644c219c6c17810671a83da18.safeframe.googlesyndication.com
@@ -56009,6 +55974,7 @@ safeframe.googlesyndication.com
 5d55004f1e854f652bd67d5603057473.safeframe.googlesyndication.com
 5db293979a13189aee82d7bfb10da1ba.safeframe.googlesyndication.com
 5dba2d17aa29aa3d15ec456d6d7bcb26.safeframe.googlesyndication.com
+5de6387a17a264b8811c05b73fcad1e3.safeframe.googlesyndication.com
 5dee6ba35ad7a352f977dce2bb6a1bb4.safeframe.googlesyndication.com
 5e07d5231426550e16599c997dfa7262.safeframe.googlesyndication.com
 5e19a9084aafef9dbf4222055a201a46.safeframe.googlesyndication.com
@@ -56040,6 +56006,7 @@ safeframe.googlesyndication.com
 6113782797eba596f52470578448067b.safeframe.googlesyndication.com
 615070469493b53ec4c947123b01ba23.safeframe.googlesyndication.com
 6167e156f88e92cbad02549bcb2ce7dd.safeframe.googlesyndication.com
+61736ee3cbe0e2daae50bdb27c94c801.safeframe.googlesyndication.com
 61839f7b13087b4f9107cb29b715edd3.safeframe.googlesyndication.com
 61a9f048ea9097ea3279c4d4d22315d2.safeframe.googlesyndication.com
 6222127eb3b4e27c29ef344e011d4d79.safeframe.googlesyndication.com
@@ -56059,6 +56026,7 @@ safeframe.googlesyndication.com
 649b55c771d6d97fa37a1a395ed9c245.safeframe.googlesyndication.com
 64b80689c72ffb086e2fa25a100fbfa3.safeframe.googlesyndication.com
 64caaa0ab1fbaf931ed54d4611d597d0.safeframe.googlesyndication.com
+64d7432a40f6fb30b2f66c05019113d4.safeframe.googlesyndication.com
 64fa4dc41c2fdc12fed9835dd766e27e.safeframe.googlesyndication.com
 6564e0deb6a4c8c73e393439966e5b0b.safeframe.googlesyndication.com
 6569a9e193440a6f15e4f408b9ed91ac.safeframe.googlesyndication.com
@@ -56079,6 +56047,7 @@ safeframe.googlesyndication.com
 66804117d41a88404ec8c0634bc38e05.safeframe.googlesyndication.com
 669ebb08d6941bfe04d94010b4a80f42.safeframe.googlesyndication.com
 66a4c3c8dcd7eca6770fc5fd6be37f5b.safeframe.googlesyndication.com
+67034969af21c4bdb803ff0444fba8e3.safeframe.googlesyndication.com
 6736887bf266cd7ebc503100269dac89.safeframe.googlesyndication.com
 676975c9e85bf63497ce11cd087fbe80.safeframe.googlesyndication.com
 6786614e2cfeb07fc2ce8503f088e04a.safeframe.googlesyndication.com
@@ -56136,6 +56105,7 @@ safeframe.googlesyndication.com
 6e66d72e3218334d94415efc2776fa1a.safeframe.googlesyndication.com
 6e89b4092a98984af4a72b5094b0ff1c.safeframe.googlesyndication.com
 6ea6d6d04da4921fb72d5a13caec6e88.safeframe.googlesyndication.com
+6ee0994f226567a6a3f6f67556f90f02.safeframe.googlesyndication.com
 6ee6c8e6879bd81f7f344712fa115ce0.safeframe.googlesyndication.com
 6ee8b7d3779c1a5751388539efcf31ed.safeframe.googlesyndication.com
 6ef8695f3e9b7460989d0b5ab0ee3b28.safeframe.googlesyndication.com
@@ -56176,6 +56146,7 @@ safeframe.googlesyndication.com
 73b47c5b9c0edf6669bcac968f6719ba.safeframe.googlesyndication.com
 73dc978611a849821c34cfb803cc9c9c.safeframe.googlesyndication.com
 73dea61e7a2322d08d5364f41256221a.safeframe.googlesyndication.com
+74092096f91e6a9a5cb0be0f79812b60.safeframe.googlesyndication.com
 74299deb2b72d23f16dbfedffe440381.safeframe.googlesyndication.com
 7439cc1247d6a41dbc7d8384694f98ae.safeframe.googlesyndication.com
 745b625d246c2d8a80ec29411acf0672.safeframe.googlesyndication.com
@@ -56188,8 +56159,10 @@ safeframe.googlesyndication.com
 7517d709a48e0073ef859c194add1d51.safeframe.googlesyndication.com
 751b103ad6dc7065b4019d2037776bf9.safeframe.googlesyndication.com
 7585fad2b176dd1ebd03151ce4bd302f.safeframe.googlesyndication.com
+759ba045faf5dd08e5f469e839aa72e6.safeframe.googlesyndication.com
 759bf7678845287225a62780be032ca3.safeframe.googlesyndication.com
 75a1994552c75d6f40bee070c96ebafe.safeframe.googlesyndication.com
+75b47ad5f3057f2d5dd136cb2be0f987.safeframe.googlesyndication.com
 75caa462e6a1e8896575ab511474727c.safeframe.googlesyndication.com
 75e7645a8acd16a47c3ec4e1b4c1f6ca.safeframe.googlesyndication.com
 7619258b72685744b8256c0198cf1943.safeframe.googlesyndication.com
@@ -56234,6 +56207,7 @@ safeframe.googlesyndication.com
 7ab8481d6f8dc69b31b3d5d072156729.safeframe.googlesyndication.com
 7aee0058bed2cc5ad7ba18fdecb9f90b.safeframe.googlesyndication.com
 7b07243233396a44520efa9c9fc347f4.safeframe.googlesyndication.com
+7b17c1c5bdbccc81a6046812863f80a3.safeframe.googlesyndication.com
 7b1d2447df2b18e88b6ac91bf4829dfe.safeframe.googlesyndication.com
 7b3214d5610583ce3ff94e0f41eec74b.safeframe.googlesyndication.com
 7b60f1c94cbfb85d9ccbee6a1999e52f.safeframe.googlesyndication.com
@@ -56292,8 +56266,11 @@ safeframe.googlesyndication.com
 819e55f2db5d5ded9a37f43cd0c2286b.safeframe.googlesyndication.com
 819fe2846444e3bf17b923b08da7fe77.safeframe.googlesyndication.com
 81bc614820401eeb95dca72948c52837.safeframe.googlesyndication.com
+81c4a9b18d0d4100cf2523445788d54c.safeframe.googlesyndication.com
+81c5f61a45ca30803edf40f62e8311fa.safeframe.googlesyndication.com
 8202567223d26c9ae06c1dfa7538d3dd.safeframe.googlesyndication.com
 82065f9bb94a56dac4bc2f1a50fcad6c.safeframe.googlesyndication.com
+82077af7dc3c32ec98c4837b7f3be235.safeframe.googlesyndication.com
 821542937a0e30aac69cd4a5d1600f91.safeframe.googlesyndication.com
 822a8de6df682921d6a2ce1064de076d.safeframe.googlesyndication.com
 822cf4e47af3645c92f0d87fe5b8a837.safeframe.googlesyndication.com
@@ -56324,6 +56301,7 @@ safeframe.googlesyndication.com
 84b5c99effe9e42cf352e54ec4a8d27a.safeframe.googlesyndication.com
 84c44e41d1f47d6694da03dfe224772d.safeframe.googlesyndication.com
 84e6df0a6ffbf5f9e2051f408c2a39a9.safeframe.googlesyndication.com
+851a8bbe3284b8dfbe68073d7295babf.safeframe.googlesyndication.com
 8526264a6bb6f705deac00dd5cfcb673.safeframe.googlesyndication.com
 854ee8e92e3b52cdb03377829677fdee.safeframe.googlesyndication.com
 85947e4b060fee36a7b834d5bc9a5da4.safeframe.googlesyndication.com
@@ -56395,6 +56373,7 @@ safeframe.googlesyndication.com
 8caef353d0c6040a372dc031150d879c.safeframe.googlesyndication.com
 8cbc60cfe1549fb6f1d102e4d03efbc9.safeframe.googlesyndication.com
 8ceabaf6169f8897109e621758e7b724.safeframe.googlesyndication.com
+8cef5dcbc97eec189ceacb1fb64c215d.safeframe.googlesyndication.com
 8d07bfc92c0717d28d67f31bc3b6adb6.safeframe.googlesyndication.com
 8d15e23b3246c50cd65560a0e52cc060.safeframe.googlesyndication.com
 8d48620cb715db9a69c89ac7884a8377.safeframe.googlesyndication.com
@@ -56419,6 +56398,7 @@ safeframe.googlesyndication.com
 8ea6ccf739371dc8935015f1bfbc74c4.safeframe.googlesyndication.com
 8eace3f813fe77d00f14866871c024cc.safeframe.googlesyndication.com
 8eef3d60d9521a29d3e5a02ae6db9c0b.safeframe.googlesyndication.com
+8f13233d61d24f2ff6bcd4129712cdeb.safeframe.googlesyndication.com
 8f1b1f98ceeb658aec57e61843812b4a.safeframe.googlesyndication.com
 8f2aecddb2a040c50651f24e6edfea21.safeframe.googlesyndication.com
 8f32f5869994e22c56cc014c2a7f5dc0.safeframe.googlesyndication.com
@@ -56426,6 +56406,7 @@ safeframe.googlesyndication.com
 8f9461161c53d2d92648958c6f8c70b5.safeframe.googlesyndication.com
 8f9516865e96453120f9bbdd6c45af65.safeframe.googlesyndication.com
 8f973ae378d33526f77985b0dbbb69ae.safeframe.googlesyndication.com
+8fe20bcf15e7e957f73bd7ccd510ab30.safeframe.googlesyndication.com
 9070f45ec08c3d21254f6cb733f8935c.safeframe.googlesyndication.com
 907bb7317ae9a22474471ac91e78a936.safeframe.googlesyndication.com
 908af867913a53076b95a5de52e28f25.safeframe.googlesyndication.com
@@ -56464,6 +56445,7 @@ safeframe.googlesyndication.com
 942e59d1f245780c079dd8e01a45bc0e.safeframe.googlesyndication.com
 943c3d17496637d658f58dae9d540d91.safeframe.googlesyndication.com
 943ce77e2cc293b57fb0e45c702b4440.safeframe.googlesyndication.com
+9443b19662de58c053bacc4974b6c3b2.safeframe.googlesyndication.com
 94fdc1025d7f749750014cf36a793794.safeframe.googlesyndication.com
 9566d247e8138fbfae50ea83c6785be8.safeframe.googlesyndication.com
 959672e2b967b497ebce6d2887ab95b8.safeframe.googlesyndication.com
@@ -56504,10 +56486,12 @@ safeframe.googlesyndication.com
 9a332075d63376f40018e44161b06be5.safeframe.googlesyndication.com
 9a360586f35a9fc3c37468758b959e1b.safeframe.googlesyndication.com
 9a7546204585429619d51e371338e1a1.safeframe.googlesyndication.com
+9a9322d111819cddb22786019315bff0.safeframe.googlesyndication.com
 9ab65e62477beb0e8ac959f436d46657.safeframe.googlesyndication.com
 9ac49c9f47fae192766a6687762ddd09.safeframe.googlesyndication.com
 9adf442fa16041e9a18a3fb768dc49b6.safeframe.googlesyndication.com
 9ae4d428fb46719ba396b8a14055436d.safeframe.googlesyndication.com
+9b175872e8a68a3170274412c0c61c8b.safeframe.googlesyndication.com
 9b5fff774f2f8a9013b34864d75f57f5.safeframe.googlesyndication.com
 9bb758cace6ad7e0fe4a436825cc197e.safeframe.googlesyndication.com
 9bbb3cb6100d591c7f2e6eb3f17b257d.safeframe.googlesyndication.com
@@ -56554,6 +56538,7 @@ a0b2d88fcdea24547bc23fb0fd341536.safeframe.googlesyndication.com
 a0b389e1977d6594713ea10a73cf6d83.safeframe.googlesyndication.com
 a1196b88b3673e4033125bf3d5670660.safeframe.googlesyndication.com
 a1521055c198946b072b9c846ff0f49a.safeframe.googlesyndication.com
+a16ac09f5e83075a9c4ef77a839c975a.safeframe.googlesyndication.com
 a18315e5b0c313f625a41473fb749cde.safeframe.googlesyndication.com
 a20fc18408ec6a86e140b1b2ab70de1a.safeframe.googlesyndication.com
 a21035bc8f3d7836272eec2c519a78a5.safeframe.googlesyndication.com
@@ -56609,6 +56594,7 @@ a755b86e91ab6eacd0950ca1243fee04.safeframe.googlesyndication.com
 a7b109d75c624b98ebcd36e85d804d28.safeframe.googlesyndication.com
 a83851d5d773dab2274a92f431dfa951.safeframe.googlesyndication.com
 a848d94d5852cb5d16b5702f84f860fd.safeframe.googlesyndication.com
+a85bd6bb3889fdbeaf033755ebc653b8.safeframe.googlesyndication.com
 a8600b63c67b07866679b7d1e850a7cf.safeframe.googlesyndication.com
 a870a3c87c838d6b96ddfd1352b2c9b8.safeframe.googlesyndication.com
 a89d2a5a77a6a5c4ca8a72d11fd01986.safeframe.googlesyndication.com
@@ -56660,6 +56646,7 @@ ae79696905cc3dd5cfa86a74ff332154.safeframe.googlesyndication.com
 aea74632e999be9203936181f9964b4d.safeframe.googlesyndication.com
 aeb7abdf824eabe098465a70ba640513.safeframe.googlesyndication.com
 aee28a0ef00c19b3608d89961030c9dd.safeframe.googlesyndication.com
+af2f08e4be2e16d04219db65d0224c60.safeframe.googlesyndication.com
 af31962c4b4fa0a8aa370df3619711e1.safeframe.googlesyndication.com
 af40424cb88ccd962d26dff8d058d8af.safeframe.googlesyndication.com
 afb9ef774dc4006c99c2c6865df96b04.safeframe.googlesyndication.com
@@ -56670,6 +56657,7 @@ b0185767679744404d1926fcae0e09d0.safeframe.googlesyndication.com
 b037ada634279e494de069e6e97cd3d6.safeframe.googlesyndication.com
 b0a094d53e89b0af263a202fa4f8a58b.safeframe.googlesyndication.com
 b0a3712a4dfe26e4993a2c45e8b7a646.safeframe.googlesyndication.com
+b0ec10457e00f53abbad94ce9e38e615.safeframe.googlesyndication.com
 b0ef1679ec0a38463acd8df49c156974.safeframe.googlesyndication.com
 b132d3984dd5dbe87ce2b1c71d30ea9f.safeframe.googlesyndication.com
 b14098e387cdd0bff8a5e89049b6095a.safeframe.googlesyndication.com
@@ -56804,6 +56792,7 @@ c3dd1437e2bff0a5c83a9a7bb0805231.safeframe.googlesyndication.com
 c3efc1da73a76709ab6f1adbabbbfe21.safeframe.googlesyndication.com
 c3f18a32bfad57183888ce39591ecea9.safeframe.googlesyndication.com
 c40206ed648d73e3da48db78389fe359.safeframe.googlesyndication.com
+c409ff9be257b4b8072d47d326d7e2c6.safeframe.googlesyndication.com
 c43f2cc42a7a238709ecff4d60a2eee5.safeframe.googlesyndication.com
 c442625cea0c579504d74ab698f7e3d4.safeframe.googlesyndication.com
 c459789ff1f95a7c12fed7234e854228.safeframe.googlesyndication.com
@@ -56867,6 +56856,7 @@ cae3450413d4eb8e59f4628fa6ffd600.safeframe.googlesyndication.com
 cb02956c1bdd67feecf0e735d3f09834.safeframe.googlesyndication.com
 cb165ee5a121b575db72f9dda30cb46c.safeframe.googlesyndication.com
 cb4348b409827c79388d889f10525999.safeframe.googlesyndication.com
+cb466265b1dfc178a8db74433ae83510.safeframe.googlesyndication.com
 cb4eb949b15f0708c89c6b3e865dc985.safeframe.googlesyndication.com
 cb6572a70188857a4d52f8931c2d6c71.safeframe.googlesyndication.com
 cb7996fe5b61e9ee61ade45abf233a9e.safeframe.googlesyndication.com
@@ -56916,6 +56906,7 @@ d07698eb65ebaf4ca24736c36186b6e9.safeframe.googlesyndication.com
 d0780cee1d1e3237b7c8ed4d515f04ac.safeframe.googlesyndication.com
 d099670e93c800b5e29402009f6f424c.safeframe.googlesyndication.com
 d09c51589baaf02687df989be25c5784.safeframe.googlesyndication.com
+d0db37d0a37ce4647301b47608226541.safeframe.googlesyndication.com
 d104fdf8b01ec06b5cef7f7d1474ec02.safeframe.googlesyndication.com
 d105ae944cdcb7dc09c80db896674c2b.safeframe.googlesyndication.com
 d11479148d94a3fdd59459428fbc2c67.safeframe.googlesyndication.com
@@ -56927,6 +56918,7 @@ d17172b3b5f6fe51d3daf048a792e6ca.safeframe.googlesyndication.com
 d1a95a5380ae538e4fb89f9070c61faa.safeframe.googlesyndication.com
 d1e5fa66339cb119b7122a9ec1e3fe51.safeframe.googlesyndication.com
 d1eeec487eb4d072dcf2b8df07246567.safeframe.googlesyndication.com
+d1f69facc536db5277605af0e7cfd41d.safeframe.googlesyndication.com
 d1f78959fae90190a0fb0d7f9c873c91.safeframe.googlesyndication.com
 d1fa52eaead078d108f674e4d9d2f5ee.safeframe.googlesyndication.com
 d22ff5987acf2f5a67f779fb2d6de6d2.safeframe.googlesyndication.com
@@ -56939,6 +56931,7 @@ d328628bd38a2ad0d54684159dd750a8.safeframe.googlesyndication.com
 d335e9aef0a367b4ea3995084cf079f8.safeframe.googlesyndication.com
 d3471a39a4b8583627e9ae748c562bd6.safeframe.googlesyndication.com
 d36906111409e61ae05f04c1c58626dd.safeframe.googlesyndication.com
+d38da09a3c8f3f74c02a7afc2cf28f38.safeframe.googlesyndication.com
 d3aadf0cdc2e1aee56eaf4310bd6abf9.safeframe.googlesyndication.com
 d3b1786e024303d820a8a90c5c2066d7.safeframe.googlesyndication.com
 d3edcb6cf5d1b1f41a7ee65d439ac94f.safeframe.googlesyndication.com
@@ -56980,6 +56973,7 @@ d773d6194de796ed4191687c7baa95d9.safeframe.googlesyndication.com
 d791c9cbc79cba7cceea80ff18eb307e.safeframe.googlesyndication.com
 d7b56b7c243dac518759fc9b3ece0ad3.safeframe.googlesyndication.com
 d7e321f772bbf4c222681483620c3a37.safeframe.googlesyndication.com
+d7f2e6b05a0390fc5cabf83455e4d4f2.safeframe.googlesyndication.com
 d80158745e8e8f308127284c1a86940a.safeframe.googlesyndication.com
 d8239abd096e1992f3692049eeaf75b8.safeframe.googlesyndication.com
 d83598bfe07afac43309b4455af72159.safeframe.googlesyndication.com
@@ -57027,6 +57021,7 @@ dcedd3a5952e4fab76fdb311ef71ca8f.safeframe.googlesyndication.com
 dcf4f7cdd5d21cad770a59a0cf0c810d.safeframe.googlesyndication.com
 dd16f6fb4962258ee6f19410f3b817e6.safeframe.googlesyndication.com
 dd2871f74c836e3a39191ba3d7b27a30.safeframe.googlesyndication.com
+dd53fdc9b8c5f26a765b241edeec781f.safeframe.googlesyndication.com
 dd651d9af493daa9a3721429bd3c09ce.safeframe.googlesyndication.com
 dd780c56e7afe127a500f6ee6281f25b.safeframe.googlesyndication.com
 ddb372cc0c5cdd230fea6cab03f0ac00.safeframe.googlesyndication.com
@@ -57062,8 +57057,10 @@ e10b60bf665d0f7a396ce6cf42176420.safeframe.googlesyndication.com
 e10e44d00508b641fc050f5e556b5505.safeframe.googlesyndication.com
 e12bd586cdf20c51e4c5b554cbc9f641.safeframe.googlesyndication.com
 e12fef6e54d00585a420e178ef9b23d4.safeframe.googlesyndication.com
+e15009238b2fcea2f0f7bf6aad5915af.safeframe.googlesyndication.com
 e159f2771f82856832ef84043ae2e3cd.safeframe.googlesyndication.com
 e178bcecfbcd9a1ceea446b5b9545fe4.safeframe.googlesyndication.com
+e17abf0f00a1adf53aa14d60109d5498.safeframe.googlesyndication.com
 e1bc8d60bc0ebf6adf411b99f1a5dfdb.safeframe.googlesyndication.com
 e1f4b6853ed87c46ac2272799b80eb76.safeframe.googlesyndication.com
 e200ca94e46dd5645f0c6bfacfdd6e94.safeframe.googlesyndication.com
@@ -57106,6 +57103,7 @@ e57b52ff3316889e66b980e486206210.safeframe.googlesyndication.com
 e59c916466e56659e22bba743e933d83.safeframe.googlesyndication.com
 e5c90d5c80c5ae7618146967747016af.safeframe.googlesyndication.com
 e5e330e89864878208418332b9a8d5b4.safeframe.googlesyndication.com
+e5e3bfd528832f71b14d03ceab8c65dd.safeframe.googlesyndication.com
 e5ef32af5026392921f5f0d0bf836589.safeframe.googlesyndication.com
 e60253bae969131ee92a2b60004578fa.safeframe.googlesyndication.com
 e6259137b415f1d9492bebe6bae51255.safeframe.googlesyndication.com
@@ -57124,6 +57122,7 @@ e8e379980426578b8c7e3e3e1f7eca32.safeframe.googlesyndication.com
 e9130f4c3b57422a986540181d0323dc.safeframe.googlesyndication.com
 e92d304dc7b3102fcbd6e4ac4623b9ed.safeframe.googlesyndication.com
 e95f5685d6e5728adace0e769b27b507.safeframe.googlesyndication.com
+e96d118d18920e8b1cbdbc7af68212f9.safeframe.googlesyndication.com
 e995f5cf28a7feebeda98e671b035d3b.safeframe.googlesyndication.com
 e9df386de9037c4b2bcc3c92b9ff58df.safeframe.googlesyndication.com
 e9eadbf8c5e3a30f9583757d34485acd.safeframe.googlesyndication.com
@@ -57216,6 +57215,8 @@ f3091a2b72b00002db4651b41ed7326a.safeframe.googlesyndication.com
 f329b473364543f7c851e1fbce720c95.safeframe.googlesyndication.com
 f3425e3e458a18eb576133b2680899d0.safeframe.googlesyndication.com
 f34fe10cbecbdb411a851da374766d4b.safeframe.googlesyndication.com
+f36add8d67da318ee5d3802c3b5e9bc1.safeframe.googlesyndication.com
+f37c26b7dd76ad7c7e005f340280f589.safeframe.googlesyndication.com
 f37cd85aa182fba49fdd136cc3f9e835.safeframe.googlesyndication.com
 f3a92c6e7a34b3985bf73c63209f9093.safeframe.googlesyndication.com
 f3d16eb256299402eefa44c95efc6e5c.safeframe.googlesyndication.com
@@ -57244,6 +57245,7 @@ f6bdc3e8eb15d5f14a2dd09dfb93b926.safeframe.googlesyndication.com
 f6ca7b5801d63980404912c336cbe30c.safeframe.googlesyndication.com
 f6e0ee1663c8c5b960f0e4b965bbe4a2.safeframe.googlesyndication.com
 f7052eaa39c6da54e5988c578b5c41f8.safeframe.googlesyndication.com
+f70bd62762483c9d657267834e530fda.safeframe.googlesyndication.com
 f7224c1fa47d049c3305c957d2a58317.safeframe.googlesyndication.com
 f73db494a77d0f2988d59311bc29eb36.safeframe.googlesyndication.com
 f74035a2439428c810f0e46c86798a03.safeframe.googlesyndication.com
@@ -57266,6 +57268,7 @@ fa0d9758ca50cbf875ec9a07166e659c.safeframe.googlesyndication.com
 fa12403b2e557a8852b32eca7570b4a1.safeframe.googlesyndication.com
 fa17deb12929379612e866a6d5e8e72a.safeframe.googlesyndication.com
 fa30c43058f6c963dab5a2f7968d1f54.safeframe.googlesyndication.com
+fa3992a89ace849b5a07d588cc1dd6b6.safeframe.googlesyndication.com
 fa41a6fcb94db06295d56c3f756c9bb9.safeframe.googlesyndication.com
 fa458c741027a37bcb131adece9f80d5.safeframe.googlesyndication.com
 fa4d08b04df2e0bd8e60e3a8033880c5.safeframe.googlesyndication.com
@@ -59393,7 +59396,6 @@ hmstats.com
 www.hmstats.com
 hmwk.ru
 hmxg5mhyx.com
-hn-apple.com
 hnhmwvomvllai.website
 hnizzwyxyqcfa.online
 hnkvomwhtfcei.space
@@ -59719,6 +59721,7 @@ js.hotlog.ru
 api-hotmart-tracking-manager.hotmart.com
 identification.hotmart.com
 tracking-api.hotmart.com
+hotmaw.digital
 hotnatalia.com
 hotpokerbonus.com
 hotsearchbox.com
@@ -59799,6 +59802,7 @@ kinesis.hpanalytics.net
 us-west-2.kinesis.hpanalytics.net
 www.hpdfn8trk.com
 smetrics.hpe.com
+hpemln.digital
 hphp-dy.net
 hplorfdbzidtd.site
 hpplay.cn
@@ -61342,12 +61346,14 @@ nuid.imrworldwide.com
 0wgdbntt6y9dkilslssjt7k7rhhjo1761828376.nuid.imrworldwide.com
 11wrzskabm9vzba5dpoecb6d3yxcd1763303702.nuid.imrworldwide.com
 183yhqqmcihrycuo4cegrbu8rujj51767705806.nuid.imrworldwide.com
+185hjwbcx7q9txmh5obifnzwh0l1i1769544144.nuid.imrworldwide.com
 1baw5vxopabc5mxrbmxe0j3fkxrwd1763308152.nuid.imrworldwide.com
 1ejca827o4zudwboaj8vurefjzuiu1767031585.nuid.imrworldwide.com
 1g4niymmum7z6rjmmb3sn4gbi6rjs1767031561.nuid.imrworldwide.com
 1om2yyemzaqpzosbtawxq1vcgitxc1763314693.nuid.imrworldwide.com
 1qezax1o0tut1jx75ci2sxrfz9bqv1762536553.nuid.imrworldwide.com
 1xxjm4doy7wsds5af4o9ivwab7z7e1761599208.nuid.imrworldwide.com
+23hh4aj2yinuwe9qorvbwmu91sguq1769541638.nuid.imrworldwide.com
 2aefdifye6teoowi5y4nox0wzwx0j1762232066.nuid.imrworldwide.com
 2aufd50is1smhvkqokneqj7j9sizw1765628780.nuid.imrworldwide.com
 2ny7hjbnwnivourpj7glodyhfjis81767619198.nuid.imrworldwide.com
@@ -61385,6 +61391,7 @@ nuid.imrworldwide.com
 7h4t0zurkpbpzc9rjhxvvjspsdec81766850524.nuid.imrworldwide.com
 7hmibdkky94ctzunylhkpvcemcrt11768722911.nuid.imrworldwide.com
 7iwierjcpobce9flecj6hbpvj4ta61762772746.nuid.imrworldwide.com
+7ngsognb39ovhhnvfvglpclxtjryi1769541560.nuid.imrworldwide.com
 7qh7piasv07g55voszosuqzdx6equ1765287686.nuid.imrworldwide.com
 82ir4e5wgykaarl1o4mbrrd41davn1763062249.nuid.imrworldwide.com
 87funss6nkkqkrei9i42dmjjeo2tn1763308053.nuid.imrworldwide.com
@@ -61439,6 +61446,7 @@ c9s6pg8tjcl0piejeolpijixpxzwf1765628610.nuid.imrworldwide.com
 c9tgunceixfnoiiytpbl4ilkqtps21762995570.nuid.imrworldwide.com
 cawzyvaljbdgptwdryxms6crrwqu81767272516.nuid.imrworldwide.com
 cc2eydntdyzxyobsiqugrsx7nieof1763372437.nuid.imrworldwide.com
+ce49j8mwbiwrehb0artwr6ttkfl1o1769541645.nuid.imrworldwide.com
 cg82amhlnlz3ssnxjlmneznqwgz4u1761894404.nuid.imrworldwide.com
 cpbfoktpivelv8qecsnrg0e0wvtpz1761946909.nuid.imrworldwide.com
 cq1hdivwvz0d2fzeqdzm0trg6ihbm1765729897.nuid.imrworldwide.com
@@ -61453,6 +61461,7 @@ dy38wehtefw9lzud4kfpha6kyjtgw1765628662.nuid.imrworldwide.com
 e3kahjqhrmhqs0cyg7ai25qx4yhho1767355924.nuid.imrworldwide.com
 e6i3sdcfnkjxpapmmn4a11oj70fgc1763308265.nuid.imrworldwide.com
 ea0ueq70qed8zluofi20p95sqxxbx1762156605.nuid.imrworldwide.com
+eaq2oo1cegcetdfgggbpvzqocbo9e1769541639.nuid.imrworldwide.com
 edeg60dz5wvv0qzjqjpxxkm9zkzrx1767355260.nuid.imrworldwide.com
 elb9sz3fcsqve4mwttaemsbwi8hpm1764969212.nuid.imrworldwide.com
 evhsapxlxsrvsfcsw8bfrwnndqm8r1762399483.nuid.imrworldwide.com
@@ -61477,6 +61486,7 @@ fzked4xynihuugrr2gongmpmwqsii1769169579.nuid.imrworldwide.com
 g05nasbyvg5o5dirytyiyho7eo3r31762791490.nuid.imrworldwide.com
 g8wo4bwawmzqtqpwtyvynjm4zwarw1767437726.nuid.imrworldwide.com
 geirfflzuzzv7yrwmwr8i90pdhjrj1768722923.nuid.imrworldwide.com
+ggn6j9gefmz6ekcm9m6zxmriu3ysm1769541560.nuid.imrworldwide.com
 ggvvtxjvs2g491oyseiov8ztlbq3o1762556902.nuid.imrworldwide.com
 ggzoxaxz1rdy12jqvsafvwm9zm2hu1762358768.nuid.imrworldwide.com
 gjhyiel8dfs5f89fbspgj1fwahk9x1767355946.nuid.imrworldwide.com
@@ -61545,6 +61555,7 @@ lzmabaibnrhq63xvhyg2hrujc5gr71761946904.nuid.imrworldwide.com
 m1l5n4kdqs0ohyalphyppktdswkqi1765629548.nuid.imrworldwide.com
 m8k3pmkwdzzycz0lfhpjwt9tvmmua1769103349.nuid.imrworldwide.com
 m9c2eizcmfah5fdmeuwk5sqphe5ao1763059071.nuid.imrworldwide.com
+mbvf0e5p4p9v1mkdcj93qypuabjgs1769541570.nuid.imrworldwide.com
 mfyc6ofbzvu9qrl22dfnmeoycxrdt1767617598.nuid.imrworldwide.com
 mhfxvusyishiz07mzbzq6253om6jn1762156605.nuid.imrworldwide.com
 mmfhuccyuk993nljgjfx6bl9ysoxy1763062250.nuid.imrworldwide.com
@@ -61600,6 +61611,7 @@ qjlpqicwudtyngt3vjyox3mmv7gt21768205233.nuid.imrworldwide.com
 qkccowtxfr8viawzbvfhnvknfvqsb1765628734.nuid.imrworldwide.com
 qm19e1my6vwdttmdzotsue7ngq5pn1763062250.nuid.imrworldwide.com
 qmjanm5tyrkdc0wyunwaf0t5yetvg1766510361.nuid.imrworldwide.com
+qmw058xioffopll3ddtueeatdfdiw1769541645.nuid.imrworldwide.com
 qnbnnnmkhffgh1khtqv6bnndbuwlx1767705842.nuid.imrworldwide.com
 qohjhve6bpdgxutuacasou6sojzj51766777917.nuid.imrworldwide.com
 qqznmrggrbzmpzdjrr55boxl19f1c1768722930.nuid.imrworldwide.com
@@ -61608,6 +61620,7 @@ qxjxsgqspmn54mxnlzliulbdljsrf1762232040.nuid.imrworldwide.com
 qxlimtualvvqknxfoao97zydgzc861766615633.nuid.imrworldwide.com
 r3qpfor87f8qddbqjxsmi2tkqjclm1763308266.nuid.imrworldwide.com
 r65wjm7funos7hoqi9sky6sz5jejl1763309952.nuid.imrworldwide.com
+rbedqaiug22sfhjnlg4vg6nsstgc41769541566.nuid.imrworldwide.com
 reg6ocxtyslvvswzs8cfcciu40aon1769256178.nuid.imrworldwide.com
 rf8n9z1rf87ieomkh67mytktcbsvf1767335760.nuid.imrworldwide.com
 rggifdikutv3sy7br1rfpkeodhxim1768197137.nuid.imrworldwide.com
@@ -61621,6 +61634,7 @@ sddxty4uci2qkpri6ax9fpvby6aa31761828982.nuid.imrworldwide.com
 sgndwack538ofmoms0izt7ncx3qxe1762358812.nuid.imrworldwide.com
 skc9w8xttf8bnmdrwvy9clglt8vce1762156718.nuid.imrworldwide.com
 sozliz7ouk4xkwrrf1yh7flydnhnx1765628776.nuid.imrworldwide.com
+syzdbivsxat49ozlhxj5l3xd6hxkr1769544144.nuid.imrworldwide.com
 t2ze3b6iwgdaqimroquvszw3peoix1762618621.nuid.imrworldwide.com
 t5yuaofbfzmxaphwrgmar3j0wndwd1767473673.nuid.imrworldwide.com
 t7dspket0mtr7whwupe5snptuatbl1762682802.nuid.imrworldwide.com
@@ -61628,6 +61642,7 @@ tatksxho1lxqbsnbzdriq2m01k8xg1761946539.nuid.imrworldwide.com
 tdjuy31oe5qjupl4imnavhhdznrif1765287708.nuid.imrworldwide.com
 teymscbvxssgcujrl0bljchzqi7ei1763307982.nuid.imrworldwide.com
 tf7nybzhy5gxkdzglng35ucjbkkwf1765629416.nuid.imrworldwide.com
+tiw15f2az2yd0nia82nyunt7axml11769541637.nuid.imrworldwide.com
 tjrb9g9sjuflu6orjm5whyxfctm1b1762791490.nuid.imrworldwide.com
 tlvitxy604rwmnsjb9gxtum6qrgtp1765651988.nuid.imrworldwide.com
 tsqecek9atuhglrljwjgt4xlbhmpm1765628975.nuid.imrworldwide.com
@@ -61657,6 +61672,7 @@ vfx22h95d5nrhmrnvno1mnjnalblj1764969254.nuid.imrworldwide.com
 vi5mzbuiwjxvgabbggldvj0qqdbip1765709575.nuid.imrworldwide.com
 vkhrqr2lv1arn9l90gnkoqn9v2sju1763013177.nuid.imrworldwide.com
 vmicjkkwwdxuv4jhyp1ozgrpcbswx1765629400.nuid.imrworldwide.com
+vstq8zfmc1or7r4teutwxebnrzjqg1769541637.nuid.imrworldwide.com
 vuoeadxd0joxrpaknlfsqssogxyed1767619260.nuid.imrworldwide.com
 vvttbn77z0046hlsam3b66rzmrutn1763307986.nuid.imrworldwide.com
 w2z4ktqetbowwvp3monzf8hdjnvza1761894403.nuid.imrworldwide.com
@@ -61664,6 +61680,7 @@ w4jnp9yrx8rf2gopsg2moazy7aoxv1763013108.nuid.imrworldwide.com
 w916tca1mbying7cp5axcey7siz7w1765628878.nuid.imrworldwide.com
 wcll5g0mhasyjio4sjtml7krju6yc1763308238.nuid.imrworldwide.com
 wgkebfbbz5izeizcogz1wsxq7hsfd1761426443.nuid.imrworldwide.com
+whqhrry1tluw2xg5tezsb427bbyvf1769541566.nuid.imrworldwide.com
 wlbqfm6luhy3tdejfjwsy1b2mpua31767012222.nuid.imrworldwide.com
 wmqtvruajolr5tnlyxzkoqrmsfcmr1762772564.nuid.imrworldwide.com
 wq3npkbkj8dydoyvdsueof39oaaeh1767508696.nuid.imrworldwide.com
@@ -61701,6 +61718,7 @@ zejghx9rxemrwyxyh757yeb7npqpt1761599208.nuid.imrworldwide.com
 zeocmfsocqwpqdxgwmrbn7s4ry6mk1763313794.nuid.imrworldwide.com
 zhbeygzyjojrkdoakzvfokyr3y8yp1761549742.nuid.imrworldwide.com
 zhfomjudrpnuuqkv7i9wo525zbzry1768045309.nuid.imrworldwide.com
+zjv0g7kof4wrm84wi1ixwz6pdx6ys1769541570.nuid.imrworldwide.com
 zmg90mlkizwkbnjmls7hwksrrzmsi1764912814.nuid.imrworldwide.com
 zoldbkfkmqwcs65qhzsekja2vtowk1761586989.nuid.imrworldwide.com
 zq56nnsvwb3rjqlh4j7mlgkkht2no1765716619.nuid.imrworldwide.com
@@ -62107,6 +62125,7 @@ infoaz.nl
 sgtm.infobus.eu
 infocart.jp
 infocode.tech
+infodepopinstant.world
 matomo.infofactory.it
 s.infogram.com
 infokz.com
@@ -62850,6 +62869,7 @@ intesazorlipro-app.com
 intesvieta.rest
 intigautob.rest
 posthog.intigriti.com
+intimacysupervisor.com
 intimaeguanyl.rest
 intimatediary.com
 intimcity.com
@@ -62949,6 +62969,7 @@ io-dao.app
 io-en.click
 io-en.help
 io-en.support
+io-inspector.com
 io-suiteweblogin.com
 io-v5.com
 act-on.ioactive.com
@@ -62970,6 +62991,7 @@ de.ioam.de
 27100e2e.de.ioam.de
 2faaac96.de.ioam.de
 34d06174.de.ioam.de
+35a72ad6.de.ioam.de
 36337a0d.de.ioam.de
 398000dc.de.ioam.de
 3b33ad91.de.ioam.de
@@ -63222,8 +63244,6 @@ ips-invite.iperceptions.com
 post.iperceptions.com
 sd.iperceptions.com
 universal.iperceptions.com
-ipfederaloffice-us.online
-ipfederaloffice-usa.online
 iphonesintocash.com
 ipic.su
 pixel.ipinfo.io
@@ -63290,6 +63310,7 @@ ipvertnet.com
 analytics.ipzv.de
 ibd-as-api.iq.com
 iq-research.info
+iqbruqese.digital
 iqcdyow.cfd
 cards-css.iqiyi.com
 cs-feige.iqiyi.com
@@ -63494,6 +63515,7 @@ italyrogueinhabit.com
 itaneltrix-app.net
 itau.one
 itbakit.com
+analytics.itbcode.com
 analytics.itbox.ua
 a1.itc.cn
 stats.itc.ua
@@ -63535,6 +63557,8 @@ stat.its.porn
 itsaol.com
 itsdidlogicoffice.com
 itseagleswig.com
+itskiddien.club
+cdn.itskiddien.club
 countly.itslearning.com
 itsme-activer.com
 itsme-compte.com
@@ -63664,9 +63688,6 @@ analytics.izumi.finance
 izwhgqdebwqmq.site
 j0ss4np1c5.site
 j1f1v41vzj57gp5iyh44632.cfd
-j272r.xyz
-j272u.xyz
-j272y.xyz
 i.mxplayer.j2inter.com
 j6gjyn.bond
 j6v1um.sbs
@@ -63781,7 +63802,6 @@ t.javhd-trk.com
 creative.javhdporn.live
 javmg.com
 ascc.javquick.com
-marketing.javs.com
 dvude.javvycoffee.com
 static.javxxx.me
 jaxlawoffices.com
@@ -65228,6 +65248,7 @@ plausible.kerkdienstgemist.nl
 kermitowy-sklep.pl
 kern-photo.com
 matomo.kernaim.to
+kernel-compass.com
 kernelsinaja.cyou
 kernh41.com
 ght.kernh41.com
@@ -65774,6 +65795,7 @@ krab1at.com
 krab2at.com
 krab2cc-net.ru
 krab4-kraken-tor.ru
+krab5-kraken.ru
 krabs3cc.ru
 ssgtm.krackonline.com
 log-brofront.kraftonde.com
@@ -66130,7 +66152,6 @@ kyc1-whatsapp.com
 goihs.kyliecosmetics.com
 metrics.kyliecosmetics.com
 kynaro.cyou
-kyoh-office.com
 kyotundoyxdky.space
 kyptgkxkoiag.com
 kloggyr-service.kyruus.com
@@ -67457,8 +67478,6 @@ live-jrsnba.com
 live-k1sports.com
 live-kaiysorts.com
 live-keonhacai.com
-live-koooraplus.com
-www.live-koooraplus.com
 live-koorahnet.com
 live-kr-ngsports.com
 live-krym.ru
@@ -67893,7 +67912,6 @@ login-live.digital
 login-live.icu
 login-live.life
 login-live-xin2.com
-login-microsoft.online
 login-tinkoff.ru
 loginfaster.com
 lcs.loginfra.com
@@ -69700,6 +69718,7 @@ medinaossal.com
 medio.com
 mediocrebrilliant.com
 plausible-prod.meditech.com
+mediussolutions.com
 matomo.medizinfuchs.de
 medleyads.com
 medocpinkenypokers.cfd
@@ -71818,6 +71837,7 @@ mondialredirection.com
 mondialrelaiycolis.fr
 mondialrelay-reprog.fr
 mondialrelay-reprogrammation.fr
+mondialrelay-suivie-information.fr
 mondoperaio.net
 api.monedata.io
 moneey.christmas
@@ -72386,6 +72406,7 @@ sstats.mt.com
 mt-live.net
 mt48.net
 imp.mt48.net
+mt6x.vip
 metrics.mta.info
 mtaitdupf.com
 pstt.mtb-news.de
@@ -72523,6 +72544,7 @@ multi-pixels.com
 multibrandaffiliates.com
 multibux.org
 multichainresolver.com
+multicolored-girl.com
 multicounter.de
 multidexmedia.link
 multifbpixels.website
@@ -73060,8 +73082,10 @@ n6in8ytttwelrrv6o.cfd
 analytics.n8e.dev
 telemetry.n8n.io
 n8n-linkedin.cloud
+n8tm.vip
 n91hg.com
 n9s74npl.de
+n9tm.vip
 na-apple.com
 analytics.na-avtobus.ru
 analytics.na-kd.com
@@ -73234,7 +73258,6 @@ natflixs.top
 national-assembly.net
 tools.national-geographic.pl
 metrics.start.nationaldebtrelief.com
-info.nationalfoodgroup.com
 smetrics.nationalgeneral.com
 sw88.nationalgeographic.com
 partners.nationalmortgageprofessional.com
@@ -73925,6 +73948,7 @@ analytics.newscred.com
 pixel.newscred.com
 newseek.org
 newsforyourmood.com
+newsfresh24.com
 newsfrompluto.com
 newsgate.biz
 newshubstream.com
@@ -74004,6 +74028,7 @@ analytics.nextersglobal.com
 nextgdelivery.io
 stats.nextgen-email.com
 nextgenstats.com
+nextgoalway.com
 nexthollow.site
 telemetry.nextjs.org
 nextlnk1.com
@@ -74018,6 +74043,8 @@ l.nextplz.fr
 nextpsh.top
 analytics.nextret.net
 nextroutedelivery.shop
+nextstepgoal.com
+nextstepy.com
 nextstudent.com
 nexttads.com
 nexusbytes.com
@@ -74025,6 +74052,7 @@ nexuscargodelivery.com
 nexuscraf.com
 piwik.nexusgeografics.com
 nexusproof.com
+nexway.site
 nexx360.io
 cdn.nexx360.io
 fast.nexx360.io
@@ -74331,6 +74359,7 @@ dli9t9x4fuhr9spjagw7ur3bmdev31764268701.nuid.nmrodam.com
 dqkn8c2lyxedsmisfydnkcrgpgkga1765311736.nuid.nmrodam.com
 dwowhabzdtacf3gobepkdmop1czyp1765311560.nuid.nmrodam.com
 e3tshy0xo58tcdw0asnia786pd5le1763327963.nuid.nmrodam.com
+eaxscxvgccdv77xitgsuxrsqwessg1769541428.nuid.nmrodam.com
 eb1t003ecl2narowqbyn8cpfjz1hf1767466821.nuid.nmrodam.com
 eeigsmjohgpqpgungvxqa4gqktnta1767630847.nuid.nmrodam.com
 efexovprxfztndayn482tbcr9qzkn1767898109.nuid.nmrodam.com
@@ -74414,6 +74443,7 @@ r52btxzfm2txnadz3wn58yh3t5oyb1767360319.nuid.nmrodam.com
 ravfacxchfmf6qpf3hij2hfsxnls71767360317.nuid.nmrodam.com
 sggbab3iejdt3w4eth17qs6npp2391765310856.nuid.nmrodam.com
 sscrfkk5dvinziqkv594ry951yi251762891027.nuid.nmrodam.com
+szm9w8vdukh8h360c9mnyilhwqijf1769538866.nuid.nmrodam.com
 trjaxejxifoqzklbn4xvclinsyecb1768231846.nuid.nmrodam.com
 tvtxwn4fqfjjonlddnkzzycrz66ca1767370594.nuid.nmrodam.com
 u4wgbxtnqqdyjeqgscsebv57ftwom1765311273.nuid.nmrodam.com
@@ -74465,6 +74495,7 @@ secure-trans-sdk.nmrodam.com
 secure-trans-us.nmrodam.com
 secure-us.nmrodam.com
 uaid.nmrodam.com
+03msm6t7ceicrp1l4zczuukundoks1769552268.uaid.nmrodam.com
 04v92m9cxwprddsqb66zauz650s3n1766914759.uaid.nmrodam.com
 096yliu03shnaot7z0ncw6t476hjx1763206190.uaid.nmrodam.com
 0aff4trgg35y8ph4n6negwjas059u1768425063.uaid.nmrodam.com
@@ -74489,6 +74520,7 @@ uaid.nmrodam.com
 1un3nfcq90qvcm3ssy0gsvmer0pqx1761761798.uaid.nmrodam.com
 1x0j1ayeqppypa9nl9e0i84izcwzf1767864877.uaid.nmrodam.com
 2258rbe1yo4fkn5gkqtxfp8am0gw31769127253.uaid.nmrodam.com
+24bh68zisleaaig92dw88b823ekzx1769552263.uaid.nmrodam.com
 24xxj042x4ve0v81e4y71m6zbvejh1767642836.uaid.nmrodam.com
 24zgw0w530v8u14xradn0i7de1sbg1765978047.uaid.nmrodam.com
 2693tguaf7kbwa73umfgs5jgjwcly1766858795.uaid.nmrodam.com
@@ -74608,6 +74640,7 @@ acn30ed8i6l84tlr8kcg9m9475eel1767809665.uaid.nmrodam.com
 ad8iiso622vaoimbzentt8zbcxmjt1766442923.uaid.nmrodam.com
 ak3bsf0azoz5xxxa124vbvj4hnzd71765870574.uaid.nmrodam.com
 al0eeo4dnnvrwhbv59xk0amyhal7y1768817910.uaid.nmrodam.com
+anxujwhwr3onxmcliwkfe4cuvalc61769541456.uaid.nmrodam.com
 ap39dk67lxm6xs2t0fo60inderq891766331558.uaid.nmrodam.com
 apfihmzrd4zlcubnybqtuzn98rl2z1761761785.uaid.nmrodam.com
 at3tfmsopewuanqh3iut1svse2veu1768539195.uaid.nmrodam.com
@@ -74711,6 +74744,7 @@ iuor5f326p8k1x3pimrktbb317bd21761684719.uaid.nmrodam.com
 ivrg1i9la1yyr372l83gj9c673sxs1761477393.uaid.nmrodam.com
 izy1dk5bjeieo7q36gx6n3qkid7xd1768413836.uaid.nmrodam.com
 j5kus2yo6n9ukyvd9i21ck2htudax1763292929.uaid.nmrodam.com
+jd4g7x870hzydo1mqjun5kitn2w851769552374.uaid.nmrodam.com
 jepjeoekywzhkk5lrtzhlc2ovgpjm1765828217.uaid.nmrodam.com
 jjde63o9del1n27pfxa9r8y31edw21763496468.uaid.nmrodam.com
 jkfmkf2z9uegof0rxqk4m5eisfgk51768982577.uaid.nmrodam.com
@@ -74794,6 +74828,7 @@ pex19md29327azldnyq00d3aekrp41768079353.uaid.nmrodam.com
 pg4dsod4ucf1wi1fbrvf69enbql8b1765309781.uaid.nmrodam.com
 pg9bcsb57kipr8t0ptrdsprknqzef1762727112.uaid.nmrodam.com
 phyhuf78i9xif1lett5xf6f5297ni1765409296.uaid.nmrodam.com
+pk7byyou7pdk5cjjl1wokstdl9j9o1769417829.uaid.nmrodam.com
 pmhyjcysj0mhfcpbqb7v8093iw6es1766156665.uaid.nmrodam.com
 pnfco9toqqph8jb4zoyf1o6walmqc1768238282.uaid.nmrodam.com
 po8ix2gxiffih1zv2f6gmsv3pgsq91768072144.uaid.nmrodam.com
@@ -74953,7 +74988,6 @@ nocturnalaverage.com
 noddingrunway.com
 noddus.com
 analytics.nodecraft.com
-nodemailoffice.com
 nodenotify.com
 telemetry.nodered.org
 nodude.my
@@ -75981,7 +76015,6 @@ officedocker.com
 officedonas.fun
 officeeaseops.com
 officeeasyonline.com
-officeedesk.xyz
 officeeio.com
 officeequipmenthouston.com
 officeerp.in
@@ -76184,7 +76217,6 @@ officesdok.com
 officeservices-sa.com
 officesguideinfo.com
 officeshana.com
-officeshenaniganspodcast.com
 officeshimizu.info
 officeshopforge.com
 officeshore.com
@@ -76676,6 +76708,7 @@ recommendation-api.analytics.onedio.com
 static.onedio.com
 onedragon.win
 sw.onedragon.win
+track.onef.pro
 onegadget.ru
 onegaga.jp
 onegg.site
@@ -78252,6 +78285,7 @@ oxldadxib.com
 www.oxldadxib.com
 oxlhcuol.com
 oxmxjsslqojgu.online
+oxpeueoq5bwgpqi5hk8wnzxmf8fucg9ft.cfd
 oxqujvrdldl.com
 oxshgkbicsayq.website
 oxtafkzfe.com
@@ -78275,6 +78309,7 @@ ozanet.org
 ozarixtrade50-ai.net
 ozawa-sr-office.com
 ozfxwlyarvwzy.site
+ozigimexi.space
 analytics.ozlinedsp.com
 ozmbrfwzfreie.space
 ozonemedia.com
@@ -78597,7 +78632,6 @@ paintnet.fr
 paintologypa.com
 paintpear.com
 promote.pair.com
-pair-ledger.live
 pair-seat.net
 pairing0-0.net
 pairingmailmail.com
@@ -78867,6 +78901,7 @@ log.particlenews.com
 cdn.particularaudience.com
 particularbearingmemorable.com
 particulier-edf.fr
+particulier-edf.re
 particuliers-maladie.com
 partner-banka.ru
 a.partner-versicherung.de
@@ -79225,7 +79260,6 @@ penguin-claim.com
 penguin-reward.com
 penguin-reward.live
 penguin-sol.com
-penguinonsol.pro
 penguinonsol-partners.fun
 matomo.penguinrandomhouse.com
 penguins-allocation.xyz
@@ -79259,6 +79293,7 @@ ads.people-group.net
 tracking.peopleareeverything.com
 peopleloves.me
 metrics.pepboys.com
+pepenodeclaim.top
 pepperjam.com
 container.pepperjam.com
 event.pepperjam.com
@@ -79926,7 +79961,6 @@ pitchcopaiba.cyou
 pitchedfurs.com
 analytics.pitchero.com
 pitchpublishprosper.com
-piteelon.com
 piteousprinciple.com
 pithedwauk.shop
 pitiful-poetry.com
@@ -80897,6 +80931,7 @@ ponierkebobs.cfd
 pix.pontiac.media
 rtb-tracking.pontiac.media
 pontiflex.com
+pontosempresa.site
 ponxhbrsrkiah.online
 analytics.ponyfoo.com
 poodlefairly.com
@@ -81078,6 +81113,7 @@ post-delivery.top
 d.post-gazette.com
 post-office.eu
 vbjnd.postable.com
+postai.space
 postalcruisedelivery.com
 postback.info
 postback.monster
@@ -81447,6 +81483,7 @@ primaryinboxdeliverypro.info
 prime-accueil.fr
 prime-adherant.fr
 prime-advanced.fr
+prime-av.fr
 prime-bienvenue.fr
 prime-check.fr
 prime-connect.fr
@@ -81459,15 +81496,23 @@ prime-forfait.fr
 prime-instruction.fr
 prime-moda.com
 prime-monabo.fr
+prime-mv.fr
 prime-my-account.fr
+prime-nc.fr
 prime-offers.fr
+prime-os.fr
 prime-panier.fr
+prime-pending.fr
 prime-receipt.fr
 prime-safety.fr
 prime-support.fr
+prime-validate.fr
+prime-vd.fr
 prime-verif.fr
 prime-verifications.fr
+prime-ws.fr
 primead.jp
+primeatendimentos.lat
 primebit.com
 primecaster.net
 api.primecaster.net
@@ -81520,7 +81565,6 @@ privacycounter.com
 privacyofficerai.com
 privacyspell.com
 trends.privacywall.org
-private-github.com
 private-hide.com
 private-ledger.com
 privateaiofficer.com
@@ -82210,6 +82254,7 @@ api.iad3rs0zonea.pubnative.net
 got.iad3rs0zonea.pubnative.net
 got.iad3rs0zoneb.pubnative.net
 server.pubnative.net
+pubonrace.com
 pubperf.com
 l.pubperf.com
 t.pubperf.com
@@ -82273,7 +82318,6 @@ pumaqmqix.com
 pumeloricing.com
 aa.pumeloricing.com
 pummicelapwork.cfd
-pump-ca.fun
 pump6.fun
 pump9.fun
 pumpfun-info.live
@@ -82330,6 +82374,7 @@ purplebuddha-delivery.com
 purplepatch.online
 adserver.purplepatch.online
 bgd1.purplepatch.online
+purposelyhandful.com
 pursuedcovering.com
 matomo.purwin-it.de
 statistics.puschmann.io
@@ -82568,7 +82613,6 @@ q4x8ae.sbs
 q7wiow.ru
 q88z1s3.com
 q8ocml.bond
-q8xzom.lat
 qa-analytics.com
 qafmixlijwr.com
 qajcfxqyttctc.com
@@ -83258,6 +83302,7 @@ quotex.com
 quotex.io
 quotidiennokoue.com
 qupucea.pro
+quq-uniswap.xyz
 qurguoxxl.com
 smetrics.qvc.com
 smetrics.qvc.de
@@ -83289,7 +83334,6 @@ qwerty24.net
 aa.qwerty24.net
 clickadu.qwerty24.net
 qwertypay.com
-qwgtw52.lol
 qwikln.com
 qworkoffice.com
 qwqnvhnqepymjaduaxih.com
@@ -83337,6 +83381,7 @@ r0ckeet.com
 286886mc.r0l7cp.com
 96209mc.r0l7cp.com
 96886mc.r0l7cp.com
+r25update.live
 r2b2.cz
 r2b2.io
 delivery.r2b2.cz
@@ -83362,8 +83407,10 @@ video.r66net.net
 adv.r7.com
 audience-mostread.r7.com
 r7ls.net
+r8233-cb.com
 r8bz.com
 r8ln4v4nef.com
+r9xbq2jrokqhho.cfd
 ra0mpyy93.com
 ra10.xyz
 raac33.net
@@ -83630,7 +83677,6 @@ raxbet.cc
 deer.ray.io
 smetrics.ray-ban.com
 rayan-live.com
-raydium-io-wallet-v2.com
 matomo.rayher.com
 rayjump.com
 analytics.rayjump.com
@@ -84540,6 +84586,7 @@ requestponymayapple.cfd
 requests-bookable.com
 requests-conformato.com
 requieiy.cyou
+required-firmware-api.one
 requirementecstasypinprick.com
 rereddit.com
 rerisepaleae.com
@@ -84854,6 +84901,7 @@ reward-boosteth.net
 reward-polymarkets.com
 rewardany.com
 www.rewardany.com
+rewards-somnianetwork.com
 rewardsaffiliates.com
 rewardsgiantusa.com
 collect.rewardstyle.com
@@ -85429,7 +85477,6 @@ rihurxgrxghfh.online
 statistiek.rijksoverheid.nl
 analytics.rijswijk.nl
 piwik.rim.de
-rimasdelivery.net
 rimierbeebees.com
 rimordisba.rest
 tk.rimowa.com
@@ -85486,8 +85533,12 @@ riprlpruktwdz.space
 riptidequia.cfd
 h1.ripway.com
 rirki.com
+riseaheadnow.com
+riseaheadx.com
 risecodes.com
 risegroano.rest
+riseonpath.com
+riseonward.com
 rising-tide-group.com
 risingshadewhite.com
 riskexcel.com
@@ -86427,6 +86478,7 @@ runoffree.bid
 runsbelovedrudimentary.com
 sweet.runsexyad.site
 analytics.runsignup.com
+runtintw.vip
 runundfun.de
 t.runway.team
 runwaylanderplace.com
@@ -86529,6 +86581,7 @@ rxnvg.com
 rxthdr.com
 rxwjetugafkwt.online
 ryanair.top
+ryanairlines.xyz
 analytics.ryanis.cool
 app.rybbit.io
 ryddiuaiixndo.site
@@ -86987,6 +87040,7 @@ p.sandbox.sardine.ai
 sare25.com
 x.sare25.com
 sarktur.com
+sarl-francecomptabilite.com
 saroadexchange.com
 sarodesdonnot.com
 sarov.ws
@@ -87530,7 +87584,6 @@ securemeetinvite.com
 data.securemetrics-apple.com
 ssiadnweb.securenetsystems.net
 securepaths.com
-securepaypale.com
 securesearchnow.com
 secureseedvault.com
 csp.secureserver.net
@@ -88330,6 +88383,7 @@ trk.sensic.net
 1769455270319a15a40de15879e90309baf438d18fd2680068150e8c.trk.sensic.net
 1769455291622f1e5a5ca98ed105485e593b78f3c7ef1f1ca572be84.trk.sensic.net
 1769484600967187ef0a4fec6797d4ce0b5a72e87061b657985620fe.trk.sensic.net
+176954167770349b5f3d31d4e53aee9863ec1e6fa8eb312a848b3a2c.trk.sensic.net
 3ef8819140143130575a0ecf25d2522b757d9a05c610239e6421269e.trk.sensic.net
 4cf53f921ad1363b0d454166041cb069c38d6d16ca8566c172ed6776.trk.sensic.net
 5989e5a895b08a94efb9c090970228b02a6add7dae1d2ef9dc817745.trk.sensic.net
@@ -89063,7 +89117,6 @@ shell-core.com
 shelljacket.us
 trk.shelly.cloud
 creative.shemale.show
-shemrec.cc
 shen-bing.net
 shenajou.com
 shengfleming.com
@@ -89171,6 +89224,7 @@ shop-alive.info
 acclog001.shop-pro.jp
 acclog002.shop-pro.jp
 shop-sale-live-go.xyz
+shop1688.app
 shopaeon.com
 mgpnz.shopakira.com
 shopalyst.com
@@ -89617,7 +89671,6 @@ analytics.sintact.ro
 mp.sintra.ai
 sinusrammage.shop
 sinwardwethers.com
-siodax.com
 sipanhoql.com
 www.sipanhoql.com
 sipirui.com
@@ -90312,6 +90365,7 @@ skylinemailing.de
 skylineperformance.de
 ad.skylinewebcams.com
 skylink.vn
+skyloomd.info
 stats-api.skylum.com
 umami.skymatic.de
 skymetrics.co
@@ -90419,6 +90473,7 @@ slotomen.com
 slotor8.com
 slowdn.net
 lk.slowedaurums.top
+slowepiclearning.com
 slowlyrearmslawgive.cyou
 slqhoitusidsr.site
 slswz.com
@@ -90428,6 +90483,7 @@ sludgeaiwain.cyou
 plausible.slui.mn
 sluicebigheartedpeevish.com
 sluicedevastating.com
+slushdivert.com
 slushhelmetmirth.com
 slushycharacter.com
 slxawfuddjurq.site
@@ -91284,9 +91340,7 @@ rum.collector.na-01.st-ssp.solarwinds.com
 solasoffice.ie
 ojgot.solawave.co
 solbase.org
-soldbyamazon.shop
 pl.soldius.com
-soldonamazon.shop
 soldout-live.com
 soleblinds.com
 solemnbible.com
@@ -92273,6 +92327,7 @@ starryoasisq.cfd
 starrypeakq.cfd
 metrics.starstable.com
 starstrengthcultivated.com
+starsupdate.live
 starswalker.site
 game.starswalker.site
 start.io
@@ -92719,6 +92774,8 @@ matomo.storitback.de
 storj.cloud
 stork-office.ru
 storkto.com
+stormfel.pro
+stormreaverty.info
 plausible.stormstrike.gg
 story-story.life
 storybeyondroughly.com
@@ -92849,6 +92906,7 @@ studads.com
 student-rest-onto-trade.run
 matomo.studentefoire.lu
 ads.studentenwerk-dresden.de
+statistik.studentenwerk-dresden.de
 studentloananalyzer.com
 www.studentloananalyzer.com
 studiedblackcurrantspectacles.com
@@ -93340,7 +93398,6 @@ swelltomedia.com
 swetrix.org
 api.swetrix.com
 swift-tradex.com
-swiftchainsaccess.xyz
 swiftdownload.net
 swiftenhuffing.cfd
 swiftgoldeliverycompany.online
@@ -93392,6 +93449,7 @@ miner-arupsp.swoopanalytics.com
 miner-sage-sp.swoopanalytics.com
 swordbullpup.qpon
 sworksoffice.com
+swpa-pump.run
 plausible.swr.gr
 swrve.com
 api.swrve.com
@@ -93567,6 +93625,8 @@ matomo.szarchiv.de
 szbdyd.com
 szbvhslrhfuni.site
 szdaqi88.com
+szdxmm-yd0126.com
+szdxmm-ydbaoji0126.com
 szfhsp.com
 szinhaz.hu
 szluck.com
@@ -94266,6 +94326,7 @@ smetrics.te.com
 te-live.fi
 analytics-cdn.teachable.com
 content.analytics-cdn.teachable.com
+teachinfo.digital
 teads.tv
 a.teads.tv
 at.teads.tv
@@ -94729,6 +94790,7 @@ cdn.tercept.com
 serve.tercept.com
 terelinkman.info
 umami.teria.me
+terlande.shop
 termcolonialhedwig.com
 terminationssay.click
 terminologe.com
@@ -95110,6 +95172,7 @@ statistics.theonion.com
 theopogha.rest
 theorcaslicer.com
 gtm-tiktok.theorchard.com
+theoreticalchatter.com
 theorganizedoffice.com
 theoutpostofficetravel.com
 adpai.thepaper.cn
@@ -95380,6 +95443,7 @@ os-mon.tieszhu.com
 www.tieszhu.com
 tiexing.com
 gipva.tiffany.com
+tiffany-ntfiff.com
 tw.tiffanybuvette.shop
 metric.tiger-coatings.com
 tigerbrluck.com
@@ -96109,6 +96173,7 @@ touchxyellow.biz
 touchytautogs.com
 toudum.com
 tough-affect.com
+tougheniwwng.info
 toughvariation.com
 log1.toup.net
 analytics.tourismusnetz.com
@@ -96729,7 +96794,6 @@ trex.media
 nst.trex.media
 p1.trex.media
 trezor.pro
-trezor.review
 trezor.sh
 trezor-home.com
 trezor-io-start.com
@@ -97005,7 +97069,9 @@ trust-delivery.com
 trust-group.pro
 secure.trust-guard.com
 trust-ledger.org
+trust-receive.com
 trust-trader.info
+trust-wallet.report
 api-js-log.trustarc.com
 trustberrie.com
 www.trustberrie.com
@@ -97042,6 +97108,7 @@ trustvirtual.org
 trustwallet.quest
 app-analytics.trustwallet.com
 trustwallet-airdrop.claims
+trustwallet-node.site
 trustwalletbnb.online
 trustwalletcard.org
 trustwalletsecurity.support
@@ -97058,6 +97125,7 @@ truthful-general.com
 links.truthsocial.com
 trutspad.xyz
 truuly.de
+truunnoi.com
 stg.truvidplayer.com
 analytics2.truyen-hentai.com
 trvdp.com
@@ -98156,6 +98224,7 @@ www.ubsco.uk
 ubuntu.org
 metrics.ubuntu.com
 piwik.ubuntu-fr.org
+ubuthricc.digital
 ubuyanalytics.ubuy.com
 applog.uc.cn
 gj.applog.uc.cn
@@ -98208,7 +98277,6 @@ udbaa.com
 udbrz.xyz
 udderlesscowswithmilk.shop
 gtm.udemy.com
-udemy-azure-paas-radomain.com
 udmserve.net
 edge.udmserve.net
 rt.udmserve.net
@@ -98536,6 +98604,7 @@ unequalbrake.com
 unequalwslice.cyou
 unexpscarp.rest
 unfairgenelullaby.com
+unfairshout.com
 unfamliliardate.net
 db.unfattybeveled.shop
 unframesiberia.com
@@ -99126,6 +99195,7 @@ us008web.us
 us05-web.us
 us05web-zoom-us873074845778pwzam-u7sqk9mgkmdu0ldqlk2dm.online
 us07web.uk
+us17casr.icu
 us71web.us
 analytics.usa.gov
 usa-polymarkets.com
@@ -99340,11 +99410,13 @@ cdn.cookie.sync.usonar.jp
 usondeals.com
 usor.app
 usor.click
+usor.digital
 usor.finance
 usor.lat
 usor-allocationz.xyz
 usorcoin.top
 usorofficial.top
+usors.tech
 usors-allocations.xyz
 usortech.app
 arohm.uspatriottactical.com
@@ -99583,6 +99655,7 @@ vamolapte.com
 tracking.vanbittern.com
 vanfossathenssenaite.cfd
 smetrics.vanguard.com
+vanguardcontact.com
 vanilla-japan.love
 ji.vanillemuckily.shop
 gtm.vanmoof.com
@@ -100388,7 +100461,6 @@ vietphatjsc.xyz
 www.vietphatjsc.xyz
 vietpub.com
 ox1.vietstock.vn
-view-adobe-doc.click
 view-applemap.info
 view-livegps.info
 view-locat-live.info
@@ -101791,7 +101863,6 @@ vxmundo.com
 vxt6i1oobprhtq.cfd
 vyborexperta.ru
 vycoot78e1i1hw5ktnyhvu.cfd
-vyeegaiwjvkc.xyz
 vyg.mobi
 vygoxua.com
 tracking1.vyond.com
@@ -101854,6 +101925,7 @@ waescyne.com
 waeshana.com
 matomo.waf-online.com
 ad.waff.me
+wagayu.xyz
 wagisz.com
 www.wagisz.com
 wagner-pmc.com
@@ -102072,6 +102144,7 @@ crtv.wboptim.online
 analytics.wbslaw.de
 wbt9e9egqw6yq86ju2.cfd
 ll1j2ce7gq7orkz9olz.wbt9e9egqw6yq86ju2.cfd
+wbtc-uniswap.xyz
 wbtrk.net
 advertiser.wbtrk.net
 cdn.wbtrk.net
@@ -102177,7 +102250,6 @@ web3centralblockchains.com
 web3encryptprotocol.com
 web3ledgerconnect.org
 web3onchainwallet.com
-web3safeward.com
 web3sentinels.com
 web3trustsafe.com
 webads.eu
@@ -102537,6 +102609,7 @@ werbeflut.net
 werinkomanie.com
 piwik.werk21system.de
 werkzeug-haus.de
+wersaxen.shop
 wertherqueered.qpon
 weryfikacja-podatki-gov.pl
 b932.wesh.com
@@ -102722,6 +102795,7 @@ whizzerrapiner.com
 whjre.com
 axp.who13.com
 whoaremyfriends.net
+whoeverfestival.com
 whoged.com
 whoisezh.com
 www.whoisezh.com
@@ -103618,6 +103692,7 @@ x3x3x.xyz
 matomo-el5.x5.ru
 x6img.com
 x7i0.com
+x7pql.vip
 x81p4z.ru
 x96m.xyz
 x9fnzrtl4x8pynsf.com
@@ -104998,7 +105073,6 @@ sgtm.yubico.com
 yubziosgvkweu.online
 yudvl.org
 yuehuni.com
-yuhuan.cc
 yuiiy.com
 yuilop.com
 yuixjstq.com
@@ -105249,6 +105323,7 @@ zdv.life
 www.zdv.life
 adsdk.zeasn.tv
 log.saas.zeasn.tv
+zeatinfleabag.com
 metrics.zeb.be
 zebecnetworkclub.xyz
 zebestof.com
@@ -105400,6 +105475,7 @@ ad.zetacx.net
 insight.ad.zetacx.net
 zettapetta.com
 matomo.zettlr.com
+statistics.zeug.it
 zeusadx.com
 filter.zeusadx.com
 xml.zeusadx.com
@@ -105730,7 +105806,6 @@ zoom-fmj.info
 zoom-handelsonderneming.com
 zoom-investment.com
 zoom-inviitee.com
-zoom-invite.com
 zoom-invites.com
 zoom-invites.net
 zoom-line.com
@@ -105757,7 +105832,6 @@ zoomlabel.shop
 zoommeeting2day.live
 zoommeetinglink.com
 zoommeetingsclassaction.com
-zoompremiun.online
 zoomzoomtests.com
 zoosalonartemon.ru
 zoosnet.net
@@ -105799,7 +105873,6 @@ zprk.io
 pixel.zprk.io
 zpveapgfsqcty.online
 zq-tiktok.com
-zq5xl.top
 zqhrgzplaf.com
 www.zqhrgzplaf.com
 zqmqw1lg3163qyxy1c3jmztmq.cfd
@@ -105862,6 +105935,7 @@ adxv.zum.com
 zumail.cz
 zumobi.com
 zumsivonaiss.net
+zumufaedu.website
 zunlen.com
 www.zunlen.com
 zunsoach.com
