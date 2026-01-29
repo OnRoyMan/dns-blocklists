@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jan 2026 10:45 UTC
-# Version: 2026.0128.1045.10
+# Last modified: 29 Jan 2026 10:41 UTC
+# Version: 2026.0129.1041.24
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3960
+# Number of entries: 3982
 #
 ss.0001.xyz
 003153.xyz
@@ -129,6 +129,7 @@ ayman-dns.731my.com
 dns.73zls.com
 ns.77ll.ru
 dns.7vpn.com
+noad.800216.xyz
 ad.800801.xyz
 my.8484848.cn
 dns.853852.xyz
@@ -887,6 +888,7 @@ a5135324.csie.io
 dns.csswg.org
 webdav.cubecloud.win
 cubedns.com
+iux3-s.cuiy4trg8fmosya2iip3ci.name
 qual.cuprum.ru
 curser.dev
 dns.curser.dev
@@ -1128,6 +1130,7 @@ bne01.dnscry.pt
 bog01.dnscry.pt
 bom01.dnscry.pt
 bom02.dnscry.pt
+bre01.dnscry.pt
 bru01.dnscry.pt
 bts01.dnscry.pt
 bud01.dnscry.pt
@@ -1254,6 +1257,7 @@ tyo02.dnscry.pt
 tyo03.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
+vte01.dnscry.pt
 waw01.dnscry.pt
 waw02.dnscry.pt
 yhz01.dnscry.pt
@@ -1400,6 +1404,7 @@ yukito.duanzx.top
 adgrm.duckdns.org
 adguardpi.duckdns.org
 andryk111.duckdns.org
+andrykarcew.duckdns.org
 armm.duckdns.org
 baksabal.duckdns.org
 blamb.duckdns.org
@@ -1439,6 +1444,7 @@ sabeendns.duckdns.org
 salvadoserver.duckdns.org
 site-2.duckdns.org
 site-3.duckdns.org
+surviil.duckdns.org
 testapp-0-1-1.duckdns.org
 thaibksri.duckdns.org
 theadblocksg.duckdns.org
@@ -1446,6 +1452,7 @@ ts653d.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
 unixfox.duckdns.org
+vpich.duckdns.org
 wired-guardian.duckdns.org
 wisehomeguard.duckdns.org
 workcavestl.duckdns.org
@@ -1889,6 +1896,7 @@ cloud2.holzmannclouddns.de
 socolov.home.ro
 adguard.home-lab-network.com
 home-server.store
+home34.su
 pi.homeanywhere.org
 admin.homedns.uk
 isolacje.homeip.net
@@ -1912,6 +1920,7 @@ resolver1.hosting-cloud.net
 resolver2.hosting-cloud.net
 adg.hostingab.ru
 dns.hostingim.com
+adguard.hostingsignal.in
 dns.hostux.net
 dns.hotta.page
 dns.housedenolf.be
@@ -2047,6 +2056,7 @@ iij.jp
 public.dns.iij.jp
 ikarosalpha.xyz
 dns.ikataruto.com
+mnsvless.ikwb.com
 ilinhy.com
 ilmxs.com
 www.ilmxs.com
@@ -2140,6 +2150,7 @@ fvpn.jarvishome.ru
 hk.jason666.top
 adguard.jaydub.cloud
 aghome.jcconnell.com
+argus1.jcconnell.com
 dns.jcdn.site
 jcdns.fun
 dns.jd.com
@@ -2371,6 +2382,7 @@ dns.lildinosaur.com
 dns.lilith.cloud
 adgaurd.lingmont.net
 dns.linkr.ninja
+adg.lintasjrg.xyz
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 sers.lirlab.su
@@ -2422,6 +2434,7 @@ v971850.macloud.host
 dns.mafyuh.io
 guard.magic-pics.tk
 maherhost.uk
+dns.mahiro.online
 adhome.maige.fun
 dns.mailcastle.in
 dnsserver.mailchan.eu
@@ -2516,6 +2529,7 @@ mikezhang.xyz
 dns.mikopono.nl
 rwkdwpwsyv48.mikopono.nl
 dns.milkpie.one
+dns.millernetwork.uk
 aitkcrev.minhduc.pw
 minilla.store
 guard.miracloud.fr
@@ -2704,6 +2718,7 @@ us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
+vpn2.nathan4s.lol
 dns.native.cat
 dns.ndo.dev
 tk2-404-43267.vs.sakura.ne.jp
@@ -2977,6 +2992,7 @@ dns.pgnhatrang.com
 phantom3c.net
 dns.phantom3c.net
 mydns.phatna.net
+dns.phatnt.org
 dns.phillipjberry.net
 philqoo.com
 dns.philqoo.com
@@ -3010,6 +3026,7 @@ adguard.pmoebi.xyz
 dns.pmxu.link
 muppy.pnamae.com
 dns.pointless.chat
+dns.polarwinds.ru
 polisitogel.beauty
 polisitogel.hair
 polisitogel.show
@@ -3214,6 +3231,8 @@ dns.rogpurs.com
 adg.rokh.biz
 dns.romain.tech
 dns.ronc.ru
+vps1.rootax.org
+vps2.rootax.org
 dns.rotunneling.net
 adguard.rowdyengeesje.nl
 roycom.win
@@ -3574,6 +3593,7 @@ dns.timkevin.us
 timmes.nl
 adb.timnichollsphotography.com
 dns1.timothy-dev.com
+adguard.timoz.fr
 dns.tipsy.coffee
 adguard.titov.es
 dns.titov.cz
@@ -3698,6 +3718,7 @@ dns.vemo.cc
 dns.venclous.org
 securedns.vendorvista.xyz
 veraris.online
+vernikpro.ru
 dns.vietdns.vn
 kids.vietdns.vn
 tls.vietguards.cloud
@@ -3936,6 +3957,7 @@ dns.zarchbox.fr
 zaziss.com
 zburger.top
 zdn.ro
+register.zedzander.com
 dns.zemows.industries
 adguard-kartoffel.zernico.de
 oraclejp01.zerotorez.com

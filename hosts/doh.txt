@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jan 2026 10:45 UTC
-# Version: 2026.0128.1045.10
+# Last modified: 29 Jan 2026 10:41 UTC
+# Version: 2026.0129.1041.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3960
+# Number of entries: 3982
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -129,6 +129,7 @@
 0.0.0.0 dns.73zls.com
 0.0.0.0 ns.77ll.ru
 0.0.0.0 dns.7vpn.com
+0.0.0.0 noad.800216.xyz
 0.0.0.0 ad.800801.xyz
 0.0.0.0 my.8484848.cn
 0.0.0.0 dns.853852.xyz
@@ -887,6 +888,7 @@
 0.0.0.0 dns.csswg.org
 0.0.0.0 webdav.cubecloud.win
 0.0.0.0 cubedns.com
+0.0.0.0 iux3-s.cuiy4trg8fmosya2iip3ci.name
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 curser.dev
 0.0.0.0 dns.curser.dev
@@ -1128,6 +1130,7 @@
 0.0.0.0 bog01.dnscry.pt
 0.0.0.0 bom01.dnscry.pt
 0.0.0.0 bom02.dnscry.pt
+0.0.0.0 bre01.dnscry.pt
 0.0.0.0 bru01.dnscry.pt
 0.0.0.0 bts01.dnscry.pt
 0.0.0.0 bud01.dnscry.pt
@@ -1254,6 +1257,7 @@
 0.0.0.0 tyo03.dnscry.pt
 0.0.0.0 vie01.dnscry.pt
 0.0.0.0 vno01.dnscry.pt
+0.0.0.0 vte01.dnscry.pt
 0.0.0.0 waw01.dnscry.pt
 0.0.0.0 waw02.dnscry.pt
 0.0.0.0 yhz01.dnscry.pt
@@ -1400,6 +1404,7 @@
 0.0.0.0 adgrm.duckdns.org
 0.0.0.0 adguardpi.duckdns.org
 0.0.0.0 andryk111.duckdns.org
+0.0.0.0 andrykarcew.duckdns.org
 0.0.0.0 armm.duckdns.org
 0.0.0.0 baksabal.duckdns.org
 0.0.0.0 blamb.duckdns.org
@@ -1439,6 +1444,7 @@
 0.0.0.0 salvadoserver.duckdns.org
 0.0.0.0 site-2.duckdns.org
 0.0.0.0 site-3.duckdns.org
+0.0.0.0 surviil.duckdns.org
 0.0.0.0 testapp-0-1-1.duckdns.org
 0.0.0.0 thaibksri.duckdns.org
 0.0.0.0 theadblocksg.duckdns.org
@@ -1446,6 +1452,7 @@
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
+0.0.0.0 vpich.duckdns.org
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
@@ -1889,6 +1896,7 @@
 0.0.0.0 socolov.home.ro
 0.0.0.0 adguard.home-lab-network.com
 0.0.0.0 home-server.store
+0.0.0.0 home34.su
 0.0.0.0 pi.homeanywhere.org
 0.0.0.0 admin.homedns.uk
 0.0.0.0 isolacje.homeip.net
@@ -1912,6 +1920,7 @@
 0.0.0.0 resolver2.hosting-cloud.net
 0.0.0.0 adg.hostingab.ru
 0.0.0.0 dns.hostingim.com
+0.0.0.0 adguard.hostingsignal.in
 0.0.0.0 dns.hostux.net
 0.0.0.0 dns.hotta.page
 0.0.0.0 dns.housedenolf.be
@@ -2047,6 +2056,7 @@
 0.0.0.0 public.dns.iij.jp
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
+0.0.0.0 mnsvless.ikwb.com
 0.0.0.0 ilinhy.com
 0.0.0.0 ilmxs.com
 0.0.0.0 www.ilmxs.com
@@ -2140,6 +2150,7 @@
 0.0.0.0 hk.jason666.top
 0.0.0.0 adguard.jaydub.cloud
 0.0.0.0 aghome.jcconnell.com
+0.0.0.0 argus1.jcconnell.com
 0.0.0.0 dns.jcdn.site
 0.0.0.0 jcdns.fun
 0.0.0.0 dns.jd.com
@@ -2371,6 +2382,7 @@
 0.0.0.0 dns.lilith.cloud
 0.0.0.0 adgaurd.lingmont.net
 0.0.0.0 dns.linkr.ninja
+0.0.0.0 adg.lintasjrg.xyz
 0.0.0.0 africadns1.liquidtelecom.net
 0.0.0.0 africadns2.liquidtelecom.net
 0.0.0.0 sers.lirlab.su
@@ -2422,6 +2434,7 @@
 0.0.0.0 dns.mafyuh.io
 0.0.0.0 guard.magic-pics.tk
 0.0.0.0 maherhost.uk
+0.0.0.0 dns.mahiro.online
 0.0.0.0 adhome.maige.fun
 0.0.0.0 dns.mailcastle.in
 0.0.0.0 dnsserver.mailchan.eu
@@ -2516,6 +2529,7 @@
 0.0.0.0 dns.mikopono.nl
 0.0.0.0 rwkdwpwsyv48.mikopono.nl
 0.0.0.0 dns.milkpie.one
+0.0.0.0 dns.millernetwork.uk
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 minilla.store
 0.0.0.0 guard.miracloud.fr
@@ -2704,6 +2718,7 @@
 0.0.0.0 us-nyc-w-p-1.nashkan.net
 0.0.0.0 us-saj-w-f-1.nashkan.net
 0.0.0.0 us-saj-w-p-1.nashkan.net
+0.0.0.0 vpn2.nathan4s.lol
 0.0.0.0 dns.native.cat
 0.0.0.0 dns.ndo.dev
 0.0.0.0 tk2-404-43267.vs.sakura.ne.jp
@@ -2977,6 +2992,7 @@
 0.0.0.0 phantom3c.net
 0.0.0.0 dns.phantom3c.net
 0.0.0.0 mydns.phatna.net
+0.0.0.0 dns.phatnt.org
 0.0.0.0 dns.phillipjberry.net
 0.0.0.0 philqoo.com
 0.0.0.0 dns.philqoo.com
@@ -3010,6 +3026,7 @@
 0.0.0.0 dns.pmxu.link
 0.0.0.0 muppy.pnamae.com
 0.0.0.0 dns.pointless.chat
+0.0.0.0 dns.polarwinds.ru
 0.0.0.0 polisitogel.beauty
 0.0.0.0 polisitogel.hair
 0.0.0.0 polisitogel.show
@@ -3214,6 +3231,8 @@
 0.0.0.0 adg.rokh.biz
 0.0.0.0 dns.romain.tech
 0.0.0.0 dns.ronc.ru
+0.0.0.0 vps1.rootax.org
+0.0.0.0 vps2.rootax.org
 0.0.0.0 dns.rotunneling.net
 0.0.0.0 adguard.rowdyengeesje.nl
 0.0.0.0 roycom.win
@@ -3574,6 +3593,7 @@
 0.0.0.0 timmes.nl
 0.0.0.0 adb.timnichollsphotography.com
 0.0.0.0 dns1.timothy-dev.com
+0.0.0.0 adguard.timoz.fr
 0.0.0.0 dns.tipsy.coffee
 0.0.0.0 adguard.titov.es
 0.0.0.0 dns.titov.cz
@@ -3698,6 +3718,7 @@
 0.0.0.0 dns.venclous.org
 0.0.0.0 securedns.vendorvista.xyz
 0.0.0.0 veraris.online
+0.0.0.0 vernikpro.ru
 0.0.0.0 dns.vietdns.vn
 0.0.0.0 kids.vietdns.vn
 0.0.0.0 tls.vietguards.cloud
@@ -3936,6 +3957,7 @@
 0.0.0.0 zaziss.com
 0.0.0.0 zburger.top
 0.0.0.0 zdn.ro
+0.0.0.0 register.zedzander.com
 0.0.0.0 dns.zemows.industries
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 oraclejp01.zerotorez.com

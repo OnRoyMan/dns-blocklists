@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jan 2026 09:18 UTC
-# Version: 2026.0128.0918.04
+# Last modified: 29 Jan 2026 09:16 UTC
+# Version: 2026.0129.0916.32
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1818
+# Number of entries: 1820
 #
 1-aclk.net
 1aurl.io
@@ -751,6 +751,7 @@ image.s50.exacttarget.com
 mc.s50.exacttarget.com
 members.s50.exacttarget.com
 reply.s50.exacttarget.com
+click.virt.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
 click.s51.exacttarget.com
@@ -1306,6 +1307,7 @@ mkto-sj340004.com
 mkto-sj360076.com
 mkto-sj360142.com
 mkto-sj390015.com
+mkto-sj390079.com
 mkto-sjg0056.com
 mkto-sjp0267.com
 mkto-test.com

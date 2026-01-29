@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Jan 2026 10:45 UTC
-! Version: 2026.0128.1045.39
+! Last modified: 29 Jan 2026 10:41 UTC
+! Version: 2026.0129.1041.52
 ! Syntax: AdBlock
-! Number of entries: 866
+! Number of entries: 874
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -33,6 +33,7 @@
 ||vpn.4-the.win^
 ||doh.42l.fr^
 ||ns2.4netguides.org^
+||dns.52306.org^
 ||kids.5ososea.com^
 ||dns.7vpn.com^
 ||dns.853852.xyz^
@@ -251,6 +252,7 @@
 ||den01.dnscry.pt^
 ||dtw01.dnscry.pt^
 ||dub01.dnscry.pt^
+||dus01.dnscry.pt^
 ||fra01.dnscry.pt^
 ||geg01.dnscry.pt^
 ||gru01.dnscry.pt^
@@ -277,6 +279,7 @@
 ||pdx01.dnscry.pt^
 ||phl01.dnscry.pt^
 ||phx01.dnscry.pt^
+||rdd01.dnscry.pt^
 ||sea01.dnscry.pt^
 ||sgn01.dnscry.pt^
 ||sin03.dnscry.pt^
@@ -302,7 +305,6 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
-||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||dnspod.com^
 ||doh.asia.dnswarden.com^
@@ -372,6 +374,7 @@
 ||dns.floriantinney.de^
 ||dns.flymc.cc^
 ||biying.flymlc.com^
+||de-f1.foxyfy.net^
 ||dns.foxyfy.net^
 ||es-ma.foxyfy.net^
 ||jp-to.foxyfy.net^
@@ -390,7 +393,6 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
-||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -494,6 +496,7 @@
 ||adguard.kiboko.it^
 ||dns1.klcd.eu^
 ||ko-18948-tr.xyz^
+||adguard.konikoni428.com^
 ||korzhov.dev^
 ||dns.kosan.moe^
 ||dart.kpsn.org^
@@ -512,6 +515,7 @@
 ||doh.libredns.gr^
 ||dot.libredns.gr^
 ||loadlow.me^
+||dns.lobbygod.com^
 ||adguard.londonwebnerd.cloud^
 ||doh.phdns2.lonet.org^
 ||doh.phdns3.lonet.org^
@@ -534,6 +538,7 @@
 ||httpdnsmultiapivip.meituan.com^
 ||mendozasdelivery.com^
 ||testaghome.meshkov.info^
+||dns.mh4ckt3mh4ckt1c4s.xyz^
 ||muli.stusta.mhn.de^
 ||mikezhang.xyz^
 ||dns.milkpie.one^
@@ -579,6 +584,7 @@
 ||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
+||doh.nic.lv^
 ||odvr.nic.cz^
 ||dns.nick-slowinski.de^
 ||nickcan.xyz^
@@ -638,6 +644,7 @@
 ||dns.phillipjberry.net^
 ||adguard.piekacz.pl^
 ||dns.pierzchlewicz.pl^
+||dns1.pietjacobs.be^
 ||helios.plan9-dns.com^
 ||kronos.plan9-dns.com^
 ||pluton.plan9-dns.com^
@@ -763,6 +770,7 @@
 ||dns.surfsharkdns.com^
 ||surt.ovh^
 ||dns.switch.ch^
+||dns.syaifullah.com^
 ||ibksturm.synology.me^
 ||a-bld.sys-adm.in^
 ||doh.sz-dns.com^
