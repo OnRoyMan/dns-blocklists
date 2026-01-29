@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jan 2026 10:36 UTC
-# Version: 2026.0129.1036.14
+# Last modified: 29 Jan 2026 16:35 UTC
+# Version: 2026.0129.1635.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11636
+# Number of entries: 11642
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -7422,6 +7422,7 @@ local=/peersteers.org/
 local=/pegleg.it/
 local=/peliculaswarez.net/
 local=/pelis24.se/
+local=/pelisflix1.onl/
 local=/pelisflix20.at/
 local=/pelisflix20.bid/
 local=/pelisflix20.bio/
@@ -8189,6 +8190,7 @@ local=/romstation.fr/
 local=/romtohome.com/
 local=/romulation.net/
 local=/ronaldo7.me/
+local=/rookeyie-lordfilm.ru/
 local=/roomba.tv/
 local=/rooomba.tv/
 local=/roopert83.tv/
@@ -9141,6 +9143,7 @@ local=/streamingcommunityz.investments/
 local=/streamingcommunityz.irish/
 local=/streamingcommunityz.it/
 local=/streamingcommunityz.kim/
+local=/streamingcommunityz.kitchen/
 local=/streamingcommunityz.li/
 local=/streamingcommunityz.lol/
 local=/streamingcommunityz.me/
@@ -10798,6 +10801,7 @@ local=/vidsrc-embed.su/
 local=/vidsrcme.su/
 local=/vidstream.to/
 local=/vidstreaming.io/
+local=/vidstrm.cloud/
 local=/vidstrm.mom/
 local=/vidto.me/
 local=/vidtodo.com/
@@ -10835,6 +10839,7 @@ local=/viprow.nu/
 local=/vipstand.pm/
 local=/vipstream.tv/
 local=/vitorrent.org/
+local=/vivatops.top/
 local=/vivatv.io/
 local=/bbs.vivo.com/
 local=/viwlivehdplay.ru/
@@ -11548,6 +11553,7 @@ local=/zamunda.net/
 local=/zamunda.se/
 local=/zaniob.com/
 local=/forum.zannn.top/
+local=/zarbbin.info/
 local=/zaycev.net/
 local=/zbigz.com/
 local=/zbook.in/

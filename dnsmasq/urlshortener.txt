@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jan 2026 09:32 UTC
-# Version: 2026.0128.0932.16
+# Last modified: 29 Jan 2026 15:30 UTC
+# Version: 2026.0129.1530.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10055
+# Number of entries: 10056
 #
 local=/0.gp/
 local=/00m.in/
@@ -2886,6 +2886,7 @@ local=/forr.com/
 local=/forsakenx.live/
 local=/fortheinfo.net/
 local=/ll.fosscu.org/
+local=/fossibot.pro/
 local=/found.ee/
 local=/fourshort.com/
 local=/fox.tv/

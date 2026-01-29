@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jan 2026 10:35 UTC
-# Version: 2026.0129.1035.52
+# Last modified: 29 Jan 2026 16:35 UTC
+# Version: 2026.0129.1635.18
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 41110
+# Number of entries: 41058
 #
 *.000-online-casino.com
 *.0009casino.com
@@ -144,7 +144,6 @@
 *.1072.casino
 *.1072vaycasino.com
 *.1080vaycasino.com
-*.1085vaycasino.com
 *.108betsth.com
 *.108betsvip.com
 *.1097638.com
@@ -2488,7 +2487,6 @@
 *.53pgaa.com
 *.53pgee.com
 *.540.casino
-*.5412bets10.com
 *.5413bets10.com
 *.5454bets10.com
 *.547bets10.com
@@ -2690,6 +2688,7 @@
 *.5j3ej03.net
 *.5jili.ltd
 *.5k5k22.com
+*.5napp.com
 *.5o4di.com
 *.5sbetsport.com
 *.5starpokies.com
@@ -2996,7 +2995,6 @@
 *.74bet9.com
 *.74vincispin90.com
 *.751.casino
-*.751betsmove.com
 *.753betsmove.online
 *.754.casino
 *.755bet.com
@@ -3062,7 +3060,6 @@
 *.777bay.com
 *.777bet.io
 *.777bet-casinobr.com
-*.777betsmove.com
 *.777betso.com
 *.777bfbets.com
 *.777buffalocasino.com
@@ -4374,6 +4371,7 @@
 *.about-ggpoker.com
 *.aboutcasinoslots.com
 *.aboutgrow.com
+*.aboutslots.com
 *.aboutslots.org
 *.abs-zone.xyz
 *.absolut777.com
@@ -4619,7 +4617,6 @@
 *.aioumasteracademy.com
 *.aipoker88.com
 *.aipoker88.link
-*.aipokershark.com
 *.aipredictionbets.com
 *.ipv4.aipytreck.com
 *.ipv6.aipytreck.com
@@ -4734,7 +4731,6 @@
 *.alevcasino-login.digital
 *.alexa138.net
 *.alexandbetsy.com
-*.alexandbetsy.link
 *.alexander-casino-en-ligne.fr
 *.alexander-casinofr.net
 *.alexandercasino.com
@@ -5122,7 +5118,6 @@
 *.apelpoker.net
 *.apelsinich.com
 *.apexgaming88.org
-*.apexpokerai.com
 *.aphrodite.casino
 *.aphrodite-casinoer.com
 *.aphrodite1.casino
@@ -5397,7 +5392,6 @@
 *.arkadacasino-win77777.top
 *.arkadacasino149.buzz
 *.arkadacasino219.buzz
-*.arkadacasino220.buzz
 *.arkadacasino227.buzz
 *.arkadacasino228.top
 *.arkadacasino232.buzz
@@ -5723,7 +5717,6 @@
 *.atomcasino-10.com
 *.atomcasino-777.com
 *.atomcasino-87.com
-*.atomcasino-best.com
 *.atomcasino-bonus.com
 *.atomcasino-def.com
 *.atomcasino-games.com
@@ -6160,7 +6153,6 @@
 *.bahiscasino-ampgiris.vip
 *.bahiscasino-girisinizresmi.com
 *.bahiscasino-globaladresleri.vip
-*.bahiscasino-gunceladresleri.vip
 *.bahiscasino-guncelgirisleri.com
 *.bahiscasino-guncelgirisleri.vip
 *.bahiscasino-guvenliadresi.com
@@ -6186,7 +6178,6 @@
 *.bahiscasinogirisi2026.vip
 *.bahiscasinogirisler.com
 *.bahiscasinoguncelgiris.xyz
-*.bahiscasinoguncelgiris2026.vip
 *.bahiscasinoguvenligiris.vip
 *.bahiscasinomm.vip
 *.bahiscasinoo.live
@@ -6194,7 +6185,6 @@
 *.bahiscasinoorjinal.vip
 *.bahiscasinoorjinall.vip
 *.bahiscasinoresmiadres.vip
-*.bahiscasinoresmiadresleri.top
 *.bahiscasinotest.xyz
 *.bahiscasinotr26.vip
 *.bahiscasinotrgiris.vip
@@ -6256,7 +6246,6 @@
 *.banda-692.casino
 *.banda-765.casino
 *.banda-casino-oy9.ru
-*.banda-casino26.site
 *.banda-gold.casino
 *.banda0239.casino
 *.banda114.casino
@@ -6585,7 +6574,6 @@
 *.bayconticasino476.com
 *.bayconticasino477.com
 *.bayconticasino478.com
-*.bayconticasino479.com
 *.bayconticasino480.com
 *.bayconticasino481.com
 *.bayconticasino482.com
@@ -6670,6 +6658,7 @@
 *.bbrjogo001.com
 *.bbs7.bet
 *.bbsbet.com
+*.bbuz1kgs.com
 *.bbvv4.com
 *.bbwin.com
 *.bc.ai
@@ -7676,15 +7665,11 @@
 *.bets10-gir-mobil-app.vip
 *.bets10-guncelgirisadres.com
 *.bets10-guncelyenigiris.com
-*.bets10-mobiladres.com
-*.bets10-real.top
-*.bets10-resmiadres.com
 *.bets10-resmigunceladres.com
 *.bets10-resmiyeniadres.com
 *.bets10-resmiyenigiris.com
 *.bets10-turkiyeresmiadres.com
 *.bets10-turkiyeresmigiris.com
-*.bets10ekgiris.com
 *.bets24.io
 *.bets365.uk
 *.bets4days.com
@@ -7785,7 +7770,6 @@
 *.betsmartguide.uk
 *.betsmixer.com
 *.betsmove-bonus.vip
-*.betsmove-giris-yeni2026.vip
 *.betsmove-giris-yeri.vip
 *.betsmove-gnceltr.vip
 *.betsmove-guncelresmi.vip
@@ -7850,7 +7834,6 @@
 *.betsmove1956.com
 *.betsmove1957.com
 *.betsmove1958.com
-*.betsmove1959.com
 *.betsmove1960.com
 *.betsmove1961.com
 *.betsmove1962.com
@@ -7898,11 +7881,9 @@
 *.betsmovebet-login.vip
 *.betsmovebetslogin.vip
 *.betsmovebilgi-online.com
-*.betsmoveguncelgirisadresimiz.vip
 *.betsmovemobilestr.cc
 *.betsmoveresmigirisadresi.com
 *.betsmoveresmipro.com
-*.betsmovesgir.com
 *.betsmovetr2026-online.com
 *.betsnice10.games
 *.betsnice8.games
@@ -8220,7 +8201,6 @@
 *.bety.com
 *.bety-casino-dk.com
 *.betya.casino
-*.betycasino-dk.com
 *.betz.casino
 *.betze.win
 *.betze2.com
@@ -9128,7 +9108,6 @@
 *.booicasino-qac.top
 *.booicasino-rzw.top
 *.booicasino-sqx.top
-*.booicasino-tiq.top
 *.booicasino-tsq.top
 *.booicasino-vxb.top
 *.booicasino-wtm.top
@@ -9943,7 +9922,6 @@
 *.casasdeapuestas.io
 *.casasdeapuestasonline.net
 *.cascadescasino.ca
-*.cascadescasinoevents.com
 *.casdep.com
 *.casedrop.eu
 *.cases.gg
@@ -11357,7 +11335,6 @@
 *.casinodemadrid.es
 *.casinodemontecarlo.website
 *.casinodemontrealcanada.com
-*.casinodenemesiteleri.top
 *.casinodeniederbronn.com
 *.casinodeparis.fr
 *.casinodetective.nl
@@ -12446,7 +12423,6 @@
 *.casinoroyal-linkleri.vip
 *.casinoroyal-mobil-amp.vip
 *.casinoroyal-orjinalgirisleri.vip
-*.casinoroyal-resmilink.vip
 *.casinoroyal2026-ampgiris.vip
 *.casinoroyal2026adres.link
 *.casinoroyal2026adresi.link
@@ -14294,7 +14270,6 @@
 *.kenyanbets.co.ke
 *.kingbets.co.za
 *.kingcasino.co.za
-*.kingdomcasino-uk.co.uk
 *.kingsofsport-casino.co.uk
 *.kjmdesigns.co.uk
 *.kongslots.co.uk
@@ -17567,7 +17542,6 @@
 *.fairwin365.club
 *.faixamobi.com
 *.fajarslot88.org
-*.falabellslots.store
 *.falar777.bet
 *.fallsview-casino.online
 *.fallsviewcasinoresort.com
@@ -19284,7 +19258,6 @@
 *.gip7pokerdom.com
 *.gipsyteam.ru
 *.giris-glorycasino.com
-*.giris-pinup-casino.ink
 *.giriscomvdcasino.com
 *.girisler-bahiscasino2026.vip
 *.girisvaycasino.vip
@@ -20658,7 +20631,6 @@
 *.holeymoleydoughnuts.com
 *.holigan-bonanzacasino.com
 *.holiganbet.com
-*.holiganbetcasino.live
 *.hollandcasino.nl
 *.hollandscasino.amsterdam
 *.hollandslivecasino.nl
@@ -22642,7 +22614,6 @@
 *.katsubet11.casino
 *.katsubet12.casino
 *.katsubetcasino777.com
-*.kavbetsgirs.vip
 *.kawankedan.xyz
 *.kawanlamabintaro.xyz
 *.kawin77kk.com
@@ -23089,7 +23060,6 @@
 *.kometa-casino3495.sbs
 *.kometa1122.casino
 *.kometa452.casino
-*.kometa453.casino
 *.kometa721.casino
 *.kometacasino-idc.online
 *.kometacasino-uia.top
@@ -23535,6 +23505,7 @@
 *.ldp-sum.com
 *.leadingcasinosuk.com
 *.leafletcasino.com
+*.leah.bet
 *.leao77.com
 *.leaoagent1.com
 *.leaoapp.com
@@ -24929,7 +24900,6 @@
 *.m-pc-hhpoker.com
 *.m-piabellacasino573.com
 *.m-piabellacasino577.com
-*.m-vaycasino985.com
 *.m-x.onl
 *.img.m156b.com
 *.m167cw.com
@@ -25958,7 +25928,6 @@
 *.melbet-casino-kr.com
 *.melbet-casino-kr.net
 *.melbet-casino-kz.ru
-*.melbet-casino-login.top
 *.melbet-casino-news.com
 *.melbet-casino-uk.com
 *.melbet-cl.com
@@ -27168,7 +27137,6 @@
 *.nasa11.net
 *.nasa4dplay.com
 *.nasa4droket.com
-*.nasa87.vip
 *.nashbet.com
 *.nashpoint.poker
 *.nasijadibubur.com
@@ -27648,7 +27616,6 @@
 *.nodepositcasino.org
 *.nodepositcasino-spin.ru
 *.nodepositcasinobonuscodes.org
-*.nodepositcasinocodesizz.com
 *.nodepositcasinoonlinegambling.com
 *.nodepositfriend.com
 *.nodepositkings.com
@@ -28897,7 +28864,6 @@
 *.oyopoker.org
 *.oyzta.com
 *.oz-lotto-casino.com
-*.ozarkbets.com
 *.oze6868.com
 *.ozlotteries.com
 *.ozomate.com
@@ -29636,7 +29602,6 @@
 *.piabellacasino5574.online
 *.piabellacasino5575.com
 *.piabellacasino5575.online
-*.piabellacasino5770.com
 *.piabellacasino5770.online
 *.piabellacasino5831.com
 *.piabellacasinodeneme.vip
@@ -30069,7 +30034,6 @@
 *.pinko288.casino
 *.pinko290.casino
 *.pinko542.casino
-*.pinko544.casino
 *.pinko714.casino
 *.pinkocasino.monster
 *.pinkvenom.ph
@@ -30187,7 +30151,6 @@
 *.pinup41.casino
 *.pinup42.casino
 *.pinup43.casino
-*.pinup434.casino
 *.pinup44.casino
 *.pinup444.casino
 *.pinup45.casino
@@ -30685,7 +30648,6 @@
 *.poker-anapa.ru
 *.poker-bet-casino.com
 *.poker-bot.tech
-*.poker-days.com
 *.poker-dom-2026.ru
 *.poker-dom-casino.net
 *.poker-dom-com.ru
@@ -31253,6 +31215,7 @@
 *.pokieslab.net
 *.pokiesman.com
 *.pokiesman.net
+*.pokiesnet84.com
 *.pokiespins.com
 *.pokiespinscasino1.com
 *.pokiespros.com
@@ -31585,7 +31548,6 @@
 *.promoklikbets.online
 *.promoklikbets.shop
 *.promos.casino
-*.promos-casino.coupons
 *.promosirose.xyz
 *.promotioncoinplay.com
 *.pronosoft.com
@@ -32540,7 +32502,6 @@
 *.richcasinocanada.com
 *.riches666casino.co
 *.richgold88casino.com
-*.richieandcasinos.com
 *.richman98.com
 *.richpalms.com
 *.richplanningpoker.com
@@ -34210,6 +34171,7 @@
 *.slot10-casino.org
 *.slot10casino.net
 *.slot11.co
+*.slot1234.lol
 *.slot138online.com
 *.slot155h.xyz
 *.slot42.casino
@@ -36387,7 +36349,6 @@
 *.td88chat.com
 *.teamapart.com
 *.teammexico.mx
-*.teampoker.app
 *.teamsbo.com
 *.teapuesto.pe
 *.techgabit.com
@@ -36403,9 +36364,6 @@
 *.tehokasino.com
 *.tehpucuk99.com
 *.tehtoto.com
-*.tek-gercek-grandpashabets.com
-*.tek-gercek-pusulabets.com
-*.tek-resmis-matbets.com
 *.tek789.com
 *.tekgiris-vdcasino.com
 *.tekno88z.store
@@ -37011,7 +36969,6 @@
 *.top10-casino.buzz
 *.top10-casino-affiliate-programs.com
 *.top10-casino-dbh.top
-*.top10-casinos-rating.xyz
 *.top10-casinosites.net
 *.top100best.casino
 *.top100bookmakers.com
@@ -38094,18 +38051,13 @@
 *.vavecasinologin77.com
 *.vavegame.net
 *.vavepartners.com
-*.vay-casino.live
 *.vaycasino-2026girisi.vip
 *.vaycasino-2026yenigiris.vip
 *.vaycasino-adresgunceli.vip
 *.vaycasino-anlik-giris.vip
 *.vaycasino-casino-mobil.vip
 *.vaycasino-erisim-yeni.vip
-*.vaycasino-erisimlink.vip
-*.vaycasino-gir-guncel.com
-*.vaycasino-giriis-erisim.com
 *.vaycasino-giris-2026.com
-*.vaycasino-giris-yeni2026.vip
 *.vaycasino-girisadresin.vip
 *.vaycasino-girissadresim.com
 *.vaycasino-girisyilbasi.vip
@@ -38124,7 +38076,6 @@
 *.vaycasino-qiris.cc
 *.vaycasino-resmi-2026.com
 *.vaycasino-resmiguncegiris.com
-*.vaycasino-resmisitemiz.com
 *.vaycasino-tr-games.top
 *.vaycasino-tr-giris.top
 *.vaycasino-tr-play.digital
@@ -38141,9 +38092,7 @@
 *.vaycasino0172.com
 *.vaycasino071.com
 *.vaycasino073.com
-*.vaycasino074.com
 *.vaycasino1-giris.com
-*.vaycasino11074.com
 *.vaycasino1374.com
 *.vaycasino1476.com
 *.vaycasino1484.com
@@ -38156,7 +38105,6 @@
 *.vaycasino2075.com
 *.vaycasinoa8.org
 *.vaycasinoa9.org
-*.vaycasinoadres-2026.vip
 *.vaycasinobilgi-online.com
 *.vaycasinoersm2026.vip
 *.vaycasinogir-resmiyeni.vip
@@ -38172,7 +38120,6 @@
 *.vaycasinom.top
 *.vaycasinom-mobil-adresi.vip
 *.vaycasinomgirisiniz26.com
-*.vaycasinomobiladresim.vip
 *.vaycasinomobildadres.vip
 *.vaycasinonun-adresi.vip
 *.vaycasinonun-giris-adresi.vip
@@ -39085,6 +39032,7 @@
 *.vulcan-vegas-slots.com
 *.vulcan777-slot-casino.com
 *.vulcan777-slots-casino.com
+*.vulcan777casino.com
 *.vulcancasino.me
 *.vulcancasino-top.ru
 *.vulcanking-casino.info

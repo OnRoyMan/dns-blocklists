@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jan 2026 09:28 UTC
-# Version: 2026.0129.0928.24
+# Last modified: 29 Jan 2026 15:28 UTC
+# Version: 2026.0129.1528.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14182
+# Number of entries: 14181
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -12212,7 +12212,6 @@ local=/igzd.talentway-at.com/
 local=/metad.talentway-at.com/
 local=/talentxperts.com/
 local=/tallerfelix.com/
-local=/tandesamt-portal.de/
 local=/tandexo.com/
 local=/tangent-capital.pro/
 local=/tangobonn.de/

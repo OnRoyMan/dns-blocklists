@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Jan 2026 09:32 UTC
-! Version: 2026.0128.0932.16
+! Last modified: 29 Jan 2026 15:30 UTC
+! Version: 2026.0129.1530.15
 ! Syntax: AdBlock
-! Number of entries: 10055
+! Number of entries: 10056
 !
 ||0.gp^
 ||00m.in^
@@ -2887,6 +2887,7 @@
 ||forsakenx.live^
 ||fortheinfo.net^
 ||ll.fosscu.org^
+||fossibot.pro^
 ||found.ee^
 ||fourshort.com^
 ||fox.tv^

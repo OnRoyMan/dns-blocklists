@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769682840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769704440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - medium version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Jan 2026 10:34 UTC
-; Version: 2026.0129.1034.56
+; Last modified: 29 Jan 2026 16:34 UTC
+; Version: 2026.0129.1634.16
 ; Syntax: RPZ
-; Number of entries: 147610
+; Number of entries: 147482
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -736,8 +736,6 @@ sumobets.app CNAME .
 *.sumobets.app CNAME .
 taya365casino.app CNAME .
 *.taya365casino.app CNAME .
-teampoker.app CNAME .
-*.teampoker.app CNAME .
 teenpattiofficial.app CNAME .
 *.teenpattiofficial.app CNAME .
 tg777.app CNAME .
@@ -2460,6 +2458,8 @@ latestcasinobonuses.bet CNAME .
 *.latestcasinobonuses.bet CNAME .
 lcbets.bet CNAME .
 *.lcbets.bet CNAME .
+leah.bet CNAME .
+*.leah.bet CNAME .
 lehu02.bet CNAME .
 *.lehu02.bet CNAME .
 lehu03.bet CNAME .
@@ -4104,6 +4104,8 @@ slotsy.com.br CNAME .
 *.slotsy.com.br CNAME .
 sonic5k.com.br CNAME .
 *.sonic5k.com.br CNAME .
+spacy.com.br CNAME .
+*.spacy.com.br CNAME .
 spinbetter-casino.com.br CNAME .
 *.spinbetter-casino.com.br CNAME .
 streambets.com.br CNAME .
@@ -4226,8 +4228,6 @@ arkadacasino219.buzz CNAME .
 *.arkadacasino219.buzz CNAME .
 arkadacasino22.buzz CNAME .
 *.arkadacasino22.buzz CNAME .
-arkadacasino220.buzz CNAME .
-*.arkadacasino220.buzz CNAME .
 arkadacasino225.buzz CNAME .
 *.arkadacasino225.buzz CNAME .
 arkadacasino227.buzz CNAME .
@@ -11674,8 +11674,6 @@ kometa322.casino CNAME .
 *.kometa322.casino CNAME .
 kometa452.casino CNAME .
 *.kometa452.casino CNAME .
-kometa453.casino CNAME .
-*.kometa453.casino CNAME .
 kometa704.casino CNAME .
 *.kometa704.casino CNAME .
 kometa721.casino CNAME .
@@ -13024,8 +13022,6 @@ pinko290.casino CNAME .
 *.pinko290.casino CNAME .
 pinko542.casino CNAME .
 *.pinko542.casino CNAME .
-pinko544.casino CNAME .
-*.pinko544.casino CNAME .
 pinko714.casino CNAME .
 *.pinko714.casino CNAME .
 pinko813.casino CNAME .
@@ -13060,8 +13056,6 @@ pinup42.casino CNAME .
 *.pinup42.casino CNAME .
 pinup43.casino CNAME .
 *.pinup43.casino CNAME .
-pinup434.casino CNAME .
-*.pinup434.casino CNAME .
 pinup44.casino CNAME .
 *.pinup44.casino CNAME .
 pinup444.casino CNAME .
@@ -17524,8 +17518,6 @@ areaslots.cloud CNAME .
 *.areaslots.cloud CNAME .
 ax88.cloud CNAME .
 *.ax88.cloud CNAME .
-beringintotocasino.cloud CNAME .
-*.beringintotocasino.cloud CNAME .
 bespokerevenuelabs.cloud CNAME .
 *.bespokerevenuelabs.cloud CNAME .
 betstarters.cloud CNAME .
@@ -18730,6 +18722,8 @@ ginjabets.co CNAME .
 *.ginjabets.co CNAME .
 gmslot88.co CNAME .
 *.gmslot88.co CNAME .
+go123.co CNAME .
+*.go123.co CNAME .
 guiacasinoscolombia.co CNAME .
 *.guiacasinoscolombia.co CNAME .
 gunungpoker.co CNAME .
@@ -19208,8 +19202,6 @@ ga888vn.codes CNAME .
 *.107allrightcasino.com CNAME .
 1080vaycasino.com CNAME .
 *.1080vaycasino.com CNAME .
-1085vaycasino.com CNAME .
-*.1085vaycasino.com CNAME .
 108allrightcasino.com CNAME .
 *.108allrightcasino.com CNAME .
 108betsth.com CNAME .
@@ -22466,8 +22458,6 @@ images.484930494.com CNAME .
 *.53pgaa.com CNAME .
 53pgee.com CNAME .
 *.53pgee.com CNAME .
-5412bets10.com CNAME .
-*.5412bets10.com CNAME .
 5413bets10.com CNAME .
 *.5413bets10.com CNAME .
 5449x.com CNAME .
@@ -22934,6 +22924,8 @@ v.567440.com CNAME .
 *.5k5k22.com CNAME .
 5mbetsb.com CNAME .
 *.5mbetsb.com CNAME .
+5napp.com CNAME .
+*.5napp.com CNAME .
 5o4di.com CNAME .
 *.5o4di.com CNAME .
 5sbetsport.com CNAME .
@@ -23632,8 +23624,6 @@ assoff6.6ffoss.com CNAME .
 *.75089j.com CNAME .
 75089y.com CNAME .
 *.75089y.com CNAME .
-751betsmove.com CNAME .
-*.751betsmove.com CNAME .
 755bet.com CNAME .
 *.755bet.com CNAME .
 755betsc.com CNAME .
@@ -23790,8 +23780,6 @@ assoff6.6ffoss.com CNAME .
 *.777bet-onlinecasino-australia.com CNAME .
 777betcasinoespana.com CNAME .
 *.777betcasinoespana.com CNAME .
-777betsmove.com CNAME .
-*.777betsmove.com CNAME .
 777betso.com CNAME .
 *.777betso.com CNAME .
 777betsx.com CNAME .
@@ -25660,6 +25648,8 @@ aboutcasinostreamers.com CNAME .
 *.aboutcasinostreamers.com CNAME .
 aboutgrow.com CNAME .
 *.aboutgrow.com CNAME .
+aboutslots.com CNAME .
+*.aboutslots.com CNAME .
 abqcasino.com CNAME .
 *.abqcasino.com CNAME .
 absoluflash.com CNAME .
@@ -25862,8 +25852,6 @@ adssistem.com CNAME .
 *.adssistem.com CNAME .
 adultsbetcasino.com CNAME .
 *.adultsbetcasino.com CNAME .
-advancecasinos.com CNAME .
-*.advancecasinos.com CNAME .
 advantage-gambling.com CNAME .
 *.advantage-gambling.com CNAME .
 adventurecompanygames.com CNAME .
@@ -26076,8 +26064,6 @@ aipokermachine.com CNAME .
 *.aipokermachine.com CNAME .
 aipokermachines.com CNAME .
 *.aipokermachines.com CNAME .
-aipokershark.com CNAME .
-*.aipokershark.com CNAME .
 aipredictionbets.com CNAME .
 *.aipredictionbets.com CNAME .
 ipv4.aipytreck.com CNAME .
@@ -26922,8 +26908,6 @@ apelsinich.com CNAME .
 *.apelsinich.com CNAME .
 apexcasino365.com CNAME .
 *.apexcasino365.com CNAME .
-apexpokerai.com CNAME .
-*.apexpokerai.com CNAME .
 aphrodite-casinoer.com CNAME .
 *.aphrodite-casinoer.com CNAME .
 aphroditecasino-ca.com CNAME .
@@ -27480,8 +27464,6 @@ atomcasino-777.com CNAME .
 *.atomcasino-777.com CNAME .
 atomcasino-87.com CNAME .
 *.atomcasino-87.com CNAME .
-atomcasino-best.com CNAME .
-*.atomcasino-best.com CNAME .
 atomcasino-bonus.com CNAME .
 *.atomcasino-bonus.com CNAME .
 atomcasino-def.com CNAME .
@@ -28962,8 +28944,6 @@ bayconticasino477.com CNAME .
 *.bayconticasino477.com CNAME .
 bayconticasino478.com CNAME .
 *.bayconticasino478.com CNAME .
-bayconticasino479.com CNAME .
-*.bayconticasino479.com CNAME .
 bayconticasino480.com CNAME .
 *.bayconticasino480.com CNAME .
 bayconticasino481.com CNAME .
@@ -29126,6 +29106,8 @@ bbrjogo001.com CNAME .
 *.bbrjogo001.com CNAME .
 bbsbet.com CNAME .
 *.bbsbet.com CNAME .
+bbuz1kgs.com CNAME .
+*.bbuz1kgs.com CNAME .
 bbvv4.com CNAME .
 *.bbvv4.com CNAME .
 bbwin.com CNAME .
@@ -30730,12 +30712,8 @@ bets10-guncelyenigiris.com CNAME .
 *.bets10-guncelyenigiris.com CNAME .
 bets10-kayitlar.com CNAME .
 *.bets10-kayitlar.com CNAME .
-bets10-mobiladres.com CNAME .
-*.bets10-mobiladres.com CNAME .
 bets10-play.com CNAME .
 *.bets10-play.com CNAME .
-bets10-resmiadres.com CNAME .
-*.bets10-resmiadres.com CNAME .
 bets10-resmigunceladres.com CNAME .
 *.bets10-resmigunceladres.com CNAME .
 bets10-resmiguncelgiris.com CNAME .
@@ -30754,8 +30732,6 @@ bets10agir.com CNAME .
 *.bets10agir.com CNAME .
 bets10dominicdecoco.com CNAME .
 *.bets10dominicdecoco.com CNAME .
-bets10ekgiris.com CNAME .
-*.bets10ekgiris.com CNAME .
 bets10girisadresleri.com CNAME .
 *.bets10girisadresleri.com CNAME .
 bets10girisleri.com CNAME .
@@ -31564,8 +31540,6 @@ betsmove1223.com CNAME .
 *.betsmove1223.com CNAME .
 betsmove1224.com CNAME .
 *.betsmove1224.com CNAME .
-betsmove1225.com CNAME .
-*.betsmove1225.com CNAME .
 betsmove1226.com CNAME .
 *.betsmove1226.com CNAME .
 betsmove1227.com CNAME .
@@ -32046,8 +32020,6 @@ betsmove1468.com CNAME .
 *.betsmove1468.com CNAME .
 betsmove1469.com CNAME .
 *.betsmove1469.com CNAME .
-betsmove1470.com CNAME .
-*.betsmove1470.com CNAME .
 betsmove1471.com CNAME .
 *.betsmove1471.com CNAME .
 betsmove1472.com CNAME .
@@ -32528,8 +32500,6 @@ betsmove1713.com CNAME .
 *.betsmove1713.com CNAME .
 betsmove1714.com CNAME .
 *.betsmove1714.com CNAME .
-betsmove1715.com CNAME .
-*.betsmove1715.com CNAME .
 betsmove1716.com CNAME .
 *.betsmove1716.com CNAME .
 betsmove1717.com CNAME .
@@ -33010,8 +32980,6 @@ betsmove1957.com CNAME .
 *.betsmove1957.com CNAME .
 betsmove1958.com CNAME .
 *.betsmove1958.com CNAME .
-betsmove1959.com CNAME .
-*.betsmove1959.com CNAME .
 betsmove1960.com CNAME .
 *.betsmove1960.com CNAME .
 betsmove1961.com CNAME .
@@ -33300,8 +33268,6 @@ betsmoveresmigirisadresi.com CNAME .
 *.betsmoveresmigirisadresi.com CNAME .
 betsmoveresmipro.com CNAME .
 *.betsmoveresmipro.com CNAME .
-betsmovesgir.com CNAME .
-*.betsmovesgir.com CNAME .
 betsmovetr2026-online.com CNAME .
 *.betsmovetr2026-online.com CNAME .
 betsnips.com CNAME .
@@ -33660,8 +33626,6 @@ betsygoesantiquing.com CNAME .
 *.betsygoesantiquing.com CNAME .
 betsyhirsch.com CNAME .
 *.betsyhirsch.com CNAME .
-betsyjenkinslcpc.com CNAME .
-*.betsyjenkinslcpc.com CNAME .
 betsykdahl.com CNAME .
 *.betsykdahl.com CNAME .
 betsykleinsolnet.com CNAME .
@@ -33956,8 +33920,6 @@ bety-casino-nl.com CNAME .
 *.bety-casino-nl.com CNAME .
 bety-casino-no.com CNAME .
 *.bety-casino-no.com CNAME .
-betycasino-dk.com CNAME .
-*.betycasino-dk.com CNAME .
 betzardcasinoc.com CNAME .
 *.betzardcasinoc.com CNAME .
 betze2.com CNAME .
@@ -35258,8 +35220,6 @@ bonus-casino-free.com CNAME .
 *.bonus-casino-free.com CNAME .
 bonus-casinozer.com CNAME .
 *.bonus-casinozer.com CNAME .
-bonus-slots.com CNAME .
-*.bonus-slots.com CNAME .
 bonus345.com CNAME .
 *.bonus345.com CNAME .
 bonus365casino.com CNAME .
@@ -36740,8 +36700,6 @@ casagrandebets.com CNAME .
 *.casagrandebets.com CNAME .
 casasdeapuestas.com CNAME .
 *.casasdeapuestas.com CNAME .
-cascadescasinoevents.com CNAME .
-*.cascadescasinoevents.com CNAME .
 cascasinoonline.com CNAME .
 *.cascasinoonline.com CNAME .
 casdep.com CNAME .
@@ -58724,8 +58682,6 @@ m-tlcasino440.com CNAME .
 *.m-tlcasino440.com CNAME .
 m-tlcasino442.com CNAME .
 *.m-tlcasino442.com CNAME .
-m-vaycasino985.com CNAME .
-*.m-vaycasino985.com CNAME .
 m-wanmeilivecasino.com CNAME .
 *.m-wanmeilivecasino.com CNAME .
 m11mpokeren.com CNAME .
@@ -63036,8 +62992,6 @@ nodepositbonuscasino-au.com CNAME .
 *.nodepositbonuscasino-au.com CNAME .
 nodepositcasinobonuszondercruks.com CNAME .
 *.nodepositcasinobonuszondercruks.com CNAME .
-nodepositcasinocodesizz.com CNAME .
-*.nodepositcasinocodesizz.com CNAME .
 nodepositcasinoem.com CNAME .
 *.nodepositcasinoem.com CNAME .
 nodepositcasinoonlinegambling.com CNAME .
@@ -65066,8 +65020,6 @@ oz2wincasino-australia.com CNAME .
 *.oz2wincasino-australia.com CNAME .
 oz7pokerdom.com CNAME .
 *.oz7pokerdom.com CNAME .
-ozarkbets.com CNAME .
-*.ozarkbets.com CNAME .
 oze6868.com CNAME .
 *.oze6868.com CNAME .
 ozlotteries.com CNAME .
@@ -66418,8 +66370,6 @@ piabellacasino474.com CNAME .
 *.piabellacasino474.com CNAME .
 piabellacasino5575.com CNAME .
 *.piabellacasino5575.com CNAME .
-piabellacasino5770.com CNAME .
-*.piabellacasino5770.com CNAME .
 piabellacasino5831.com CNAME .
 *.piabellacasino5831.com CNAME .
 piabellacasino752.com CNAME .
@@ -67740,8 +67690,6 @@ poker-aurora.com CNAME .
 *.poker-aurora.com CNAME .
 poker-bet-casino.com CNAME .
 *.poker-bet-casino.com CNAME .
-poker-days.com CNAME .
-*.poker-days.com CNAME .
 poker-engine.com CNAME .
 *.poker-engine.com CNAME .
 poker-evolution.com CNAME .
@@ -68412,6 +68360,8 @@ pokieslab.com CNAME .
 *.pokieslab.com CNAME .
 pokiesman.com CNAME .
 *.pokiesman.com CNAME .
+pokiesnet84.com CNAME .
+*.pokiesnet84.com CNAME .
 pokiespins.com CNAME .
 *.pokiespins.com CNAME .
 pokiespinscasino1.com CNAME .
@@ -70436,8 +70386,6 @@ richcasinocanada.com CNAME .
 *.richcasinocanada.com CNAME .
 richgold88casino.com CNAME .
 *.richgold88casino.com CNAME .
-richieandcasinos.com CNAME .
-*.richieandcasinos.com CNAME .
 richman98.com CNAME .
 *.richman98.com CNAME .
 richmobileslots.com CNAME .
@@ -73224,6 +73172,8 @@ slotacasinomn.com CNAME .
 *.slotacasinomn.com CNAME .
 slotacasinoo.com CNAME .
 *.slotacasinoo.com CNAME .
+slotalarm.com CNAME .
+*.slotalarm.com CNAME .
 slotarcasino.com CNAME .
 *.slotarcasino.com CNAME .
 slotasian88.com CNAME .
@@ -76832,12 +76782,6 @@ tehrangrandhotelcasino.com CNAME .
 *.tehrangrandhotelcasino.com CNAME .
 tehtoto.com CNAME .
 *.tehtoto.com CNAME .
-tek-gercek-grandpashabets.com CNAME .
-*.tek-gercek-grandpashabets.com CNAME .
-tek-gercek-pusulabets.com CNAME .
-*.tek-gercek-pusulabets.com CNAME .
-tek-resmis-matbets.com CNAME .
-*.tek-resmis-matbets.com CNAME .
 tek789.com CNAME .
 *.tek789.com CNAME .
 tekgiris-vdcasino.com CNAME .
@@ -79954,10 +79898,6 @@ vavecasinologin77.com CNAME .
 *.vavecasinologin77.com CNAME .
 vavepartners.com CNAME .
 *.vavepartners.com CNAME .
-vaycasino-gir-guncel.com CNAME .
-*.vaycasino-gir-guncel.com CNAME .
-vaycasino-giriis-erisim.com CNAME .
-*.vaycasino-giriis-erisim.com CNAME .
 vaycasino-giris-2026.com CNAME .
 *.vaycasino-giris-2026.com CNAME .
 vaycasino-girissadresim.com CNAME .
@@ -79976,8 +79916,6 @@ vaycasino-resmiguncegiris.com CNAME .
 *.vaycasino-resmiguncegiris.com CNAME .
 vaycasino-resmiguncelgiris.com CNAME .
 *.vaycasino-resmiguncelgiris.com CNAME .
-vaycasino-resmisitemiz.com CNAME .
-*.vaycasino-resmisitemiz.com CNAME .
 vaycasino-sk.com CNAME .
 *.vaycasino-sk.com CNAME .
 vaycasino-yeni2026.com CNAME .
@@ -79996,14 +79934,10 @@ vaycasino071.com CNAME .
 *.vaycasino071.com CNAME .
 vaycasino073.com CNAME .
 *.vaycasino073.com CNAME .
-vaycasino074.com CNAME .
-*.vaycasino074.com CNAME .
 vaycasino1-giris.com CNAME .
 *.vaycasino1-giris.com CNAME .
 vaycasino10100.com CNAME .
 *.vaycasino10100.com CNAME .
-vaycasino11074.com CNAME .
-*.vaycasino11074.com CNAME .
 vaycasino1374.com CNAME .
 *.vaycasino1374.com CNAME .
 vaycasino1476.com CNAME .
@@ -81500,6 +81434,8 @@ vulcan777-slot-casino.com CNAME .
 *.vulcan777-slot-casino.com CNAME .
 vulcan777-slots-casino.com CNAME .
 *.vulcan777-slots-casino.com CNAME .
+vulcan777casino.com CNAME .
+*.vulcan777casino.com CNAME .
 vulcanrussia-casino.com CNAME .
 *.vulcanrussia-casino.com CNAME .
 vulcun.com CNAME .
@@ -85080,8 +85016,6 @@ xocdiaonline.cool CNAME .
 *.xocdiaonline.cool CNAME .
 yo88.cool CNAME .
 *.yo88.cool CNAME .
-promos-casino.coupons CNAME .
-*.promos-casino.coupons CNAME .
 1xbet.cr CNAME .
 *.1xbet.cr CNAME .
 mi-casino.cr CNAME .
@@ -87706,8 +87640,6 @@ bitcoin-casino.fi CNAME .
 *.bitcoin-casino.fi CNAME .
 boocasino.fi CNAME .
 *.boocasino.fi CNAME .
-booocasino.fi CNAME .
-*.booocasino.fi CNAME .
 casinacho-casino.fi CNAME .
 *.casinacho-casino.fi CNAME .
 casino-fambet.fi CNAME .
@@ -88004,8 +87936,6 @@ betsamuro.fr CNAME .
 *.betsamuro.fr CNAME .
 betsamuro-casino.fr CNAME .
 *.betsamuro-casino.fr CNAME .
-betsamurocasino.fr CNAME .
-*.betsamurocasino.fr CNAME .
 betsharks.fr CNAME .
 *.betsharks.fr CNAME .
 betsson.fr CNAME .
@@ -92382,8 +92312,6 @@ fragacasino-az.ink CNAME .
 *.fragacasino-az.ink CNAME .
 fun97.ink CNAME .
 *.fun97.ink CNAME .
-giris-pinup-casino.ink CNAME .
-*.giris-pinup-casino.ink CNAME .
 gmsdeluxe-casino.ink CNAME .
 *.gmsdeluxe-casino.ink CNAME .
 goatbets888.ink CNAME .
@@ -94332,8 +94260,6 @@ aipoker88.link CNAME .
 *.aipoker88.link CNAME .
 ajm789.link CNAME .
 *.ajm789.link CNAME .
-alexandbetsy.link CNAME .
-*.alexandbetsy.link CNAME .
 bahiscasinogiris.link CNAME .
 *.bahiscasinogiris.link CNAME .
 bansos188.link CNAME .
@@ -94792,8 +94718,6 @@ hipspincasino.live CNAME .
 *.hipspincasino.live CNAME .
 hoki62.live CNAME .
 *.hoki62.live CNAME .
-holiganbetcasino.live CNAME .
-*.holiganbetcasino.live CNAME .
 hwbet.live CNAME .
 *.hwbet.live CNAME .
 hypebet.live CNAME .
@@ -95102,8 +95026,6 @@ ukcasinos.live CNAME .
 *.ukcasinos.live CNAME .
 vachvoi.live CNAME .
 *.vachvoi.live CNAME .
-vay-casino.live CNAME .
-*.vay-casino.live CNAME .
 vaycasinom.live CNAME .
 *.vaycasinom.live CNAME .
 vegas11.live CNAME .
@@ -95434,6 +95356,8 @@ situs888.lol CNAME .
 *.situs888.lol CNAME .
 situsmantap.lol CNAME .
 *.situsmantap.lol CNAME .
+slot1234.lol CNAME .
+*.slot1234.lol CNAME .
 stickyhand.lol CNAME .
 *.stickyhand.lol CNAME .
 sultanjepara.lol CNAME .
@@ -96308,8 +96232,6 @@ betmexico-casinos.mx CNAME .
 *.betmexico-casinos.mx CNAME .
 betmexico-slots-casino.mx CNAME .
 *.betmexico-slots-casino.mx CNAME .
-betmexicoslotscasino.mx CNAME .
-*.betmexicoslotscasino.mx CNAME .
 betmotion-casino.mx CNAME .
 *.betmotion-casino.mx CNAME .
 www2.betsson.mx CNAME .
@@ -104910,8 +104832,6 @@ betsleigh.online CNAME .
 *.betsleigh.online CNAME .
 betslot.online CNAME .
 *.betslot.online CNAME .
-betsmove-giris2026.online CNAME .
-*.betsmove-giris2026.online CNAME .
 betsmove-hizligiris.online CNAME .
 *.betsmove-hizligiris.online CNAME .
 betspinocasino.online CNAME .
@@ -122782,12 +122702,8 @@ balap4dlaris.site CNAME .
 *.balap4dlaris.site CNAME .
 balipoker333prime.site CNAME .
 *.balipoker333prime.site CNAME .
-balotocasino.site CNAME .
-*.balotocasino.site CNAME .
 bambuemas88.site CNAME .
 *.bambuemas88.site CNAME .
-banda-casino26.site CNAME .
-*.banda-casino26.site CNAME .
 bangausilver.site CNAME .
 *.bangausilver.site CNAME .
 bansosbet.site CNAME .
@@ -125602,8 +125518,6 @@ atom-casino-amp04091.store CNAME .
 *.atom-casino-amp04091.store CNAME .
 atom-casino-amp04561.store CNAME .
 *.atom-casino-amp04561.store CNAME .
-atom-casino-amp121121.store CNAME .
-*.atom-casino-amp121121.store CNAME .
 atom-casino-amp181921.store CNAME .
 *.atom-casino-amp181921.store CNAME .
 atom-casino-amp484921.store CNAME .
@@ -125780,8 +125694,6 @@ evolutioncasino.store CNAME .
 *.evolutioncasino.store CNAME .
 fafa168.store CNAME .
 *.fafa168.store CNAME .
-falabellslots.store CNAME .
-*.falabellslots.store CNAME .
 fenix-casino.store CNAME .
 *.fenix-casino.store CNAME .
 fenixcasino.store CNAME .
@@ -128806,8 +128718,6 @@ azino888slots.top CNAME .
 *.azino888slots.top CNAME .
 bahiscasino623.top CNAME .
 *.bahiscasino623.top CNAME .
-bahiscasinoresmiadresleri.top CNAME .
-*.bahiscasinoresmiadresleri.top CNAME .
 baladatoto1.top CNAME .
 *.baladatoto1.top CNAME .
 banana5699.top CNAME .
@@ -128914,8 +128824,6 @@ betpascanlicasino.top CNAME .
 *.betpascanlicasino.top CNAME .
 bets10-guncel.top CNAME .
 *.bets10-guncel.top CNAME .
-bets10-real.top CNAME .
-*.bets10-real.top CNAME .
 betskgir.top CNAME .
 *.betskgir.top CNAME .
 bettycasino.top CNAME .
@@ -129056,8 +128964,6 @@ booicasino-rzw.top CNAME .
 *.booicasino-rzw.top CNAME .
 booicasino-sqx.top CNAME .
 *.booicasino-sqx.top CNAME .
-booicasino-tiq.top CNAME .
-*.booicasino-tiq.top CNAME .
 booicasino-tsq.top CNAME .
 *.booicasino-tsq.top CNAME .
 booicasino-vxb.top CNAME .
@@ -129700,8 +129606,6 @@ casinoclubonline.top CNAME .
 *.casinoclubonline.top CNAME .
 casinocut.top CNAME .
 *.casinocut.top CNAME .
-casinodenemesiteleri.top CNAME .
-*.casinodenemesiteleri.top CNAME .
 casinodivenezia.top CNAME .
 *.casinodivenezia.top CNAME .
 casinoel-dorado-play.top CNAME .
@@ -133534,8 +133438,6 @@ melbet-az-casino.top CNAME .
 *.melbet-az-casino.top CNAME .
 melbet-casino-bonysi1.top CNAME .
 *.melbet-casino-bonysi1.top CNAME .
-melbet-casino-login.top CNAME .
-*.melbet-casino-login.top CNAME .
 melbet-top1bk-casino.top CNAME .
 *.melbet-top1bk-casino.top CNAME .
 melbetaz-casino.top CNAME .
@@ -137438,8 +137340,6 @@ k138wincasino.co.uk CNAME .
 *.k138wincasino.co.uk CNAME .
 karamba.co.uk CNAME .
 *.karamba.co.uk CNAME .
-kingdomcasino-uk.co.uk CNAME .
-*.kingdomcasino-uk.co.uk CNAME .
 kingjohnniecasino.co.uk CNAME .
 *.kingjohnniecasino.co.uk CNAME .
 kingshillcasino.co.uk CNAME .
@@ -139582,8 +139482,6 @@ bahiscasino-giris2026.vip CNAME .
 *.bahiscasino-giris2026.vip CNAME .
 bahiscasino-globaladresleri.vip CNAME .
 *.bahiscasino-globaladresleri.vip CNAME .
-bahiscasino-gunceladresleri.vip CNAME .
-*.bahiscasino-gunceladresleri.vip CNAME .
 bahiscasino-guncelgirisleri.vip CNAME .
 *.bahiscasino-guncelgirisleri.vip CNAME .
 bahiscasino-hizligiris.vip CNAME .
@@ -139604,8 +139502,6 @@ bahiscasinogirisadresi.vip CNAME .
 *.bahiscasinogirisadresi.vip CNAME .
 bahiscasinogirisi2026.vip CNAME .
 *.bahiscasinogirisi2026.vip CNAME .
-bahiscasinoguncelgiris2026.vip CNAME .
-*.bahiscasinoguncelgiris2026.vip CNAME .
 bahiscasinoguvenligiris.vip CNAME .
 *.bahiscasinoguvenligiris.vip CNAME .
 bahiscasinomm.vip CNAME .
@@ -139714,8 +139610,6 @@ betsmove-2026giris.vip CNAME .
 *.betsmove-2026giris.vip CNAME .
 betsmove-bonus.vip CNAME .
 *.betsmove-bonus.vip CNAME .
-betsmove-giris-yeni2026.vip CNAME .
-*.betsmove-giris-yeni2026.vip CNAME .
 betsmove-giris-yeri.vip CNAME .
 *.betsmove-giris-yeri.vip CNAME .
 betsmove-gnceltr.vip CNAME .
@@ -139742,8 +139636,6 @@ betsmovebett.vip CNAME .
 *.betsmovebett.vip CNAME .
 betsmovegirisi.vip CNAME .
 *.betsmovegirisi.vip CNAME .
-betsmoveguncelgirisadresimiz.vip CNAME .
-*.betsmoveguncelgirisadresimiz.vip CNAME .
 betsmovehemengiris.vip CNAME .
 *.betsmovehemengiris.vip CNAME .
 betsmovelogin.vip CNAME .
@@ -139904,8 +139796,6 @@ casinoroyal-mobil-amp.vip CNAME .
 *.casinoroyal-mobil-amp.vip CNAME .
 casinoroyal-orjinalgirisleri.vip CNAME .
 *.casinoroyal-orjinalgirisleri.vip CNAME .
-casinoroyal-resmilink.vip CNAME .
-*.casinoroyal-resmilink.vip CNAME .
 casinoroyal-zeusseo7.vip CNAME .
 *.casinoroyal-zeusseo7.vip CNAME .
 casinoroyal-zeusseo8.vip CNAME .
@@ -140252,8 +140142,6 @@ k7642.vip CNAME .
 *.k7642.vip CNAME .
 k869.vip CNAME .
 *.k869.vip CNAME .
-kavbetsgirs.vip CNAME .
-*.kavbetsgirs.vip CNAME .
 kayacasino.vip CNAME .
 *.kayacasino.vip CNAME .
 kd555.vip CNAME .
@@ -140380,8 +140268,6 @@ n868.vip CNAME .
 *.n868.vip CNAME .
 nado777.vip CNAME .
 *.nado777.vip CNAME .
-nasa87.vip CNAME .
-*.nasa87.vip CNAME .
 nerobetslot.vip CNAME .
 *.nerobetslot.vip CNAME .
 nesinecasino-tr.vip CNAME .
@@ -140764,10 +140650,6 @@ vaycasino-erisim-yeni.vip CNAME .
 *.vaycasino-erisim-yeni.vip CNAME .
 vaycasino-erisimadresi.vip CNAME .
 *.vaycasino-erisimadresi.vip CNAME .
-vaycasino-erisimlink.vip CNAME .
-*.vaycasino-erisimlink.vip CNAME .
-vaycasino-giris-yeni2026.vip CNAME .
-*.vaycasino-giris-yeni2026.vip CNAME .
 vaycasino-girisadresin.vip CNAME .
 *.vaycasino-girisadresin.vip CNAME .
 vaycasino-girisyilbasi.vip CNAME .
@@ -140802,8 +140684,6 @@ vaycasino2026-gir-amp.vip CNAME .
 *.vaycasino2026-gir-amp.vip CNAME .
 vaycasino2026-girisi.vip CNAME .
 *.vaycasino2026-girisi.vip CNAME .
-vaycasinoadres-2026.vip CNAME .
-*.vaycasinoadres-2026.vip CNAME .
 vaycasinoadres-2026giris.vip CNAME .
 *.vaycasinoadres-2026giris.vip CNAME .
 vaycasinoenyeniguncel.vip CNAME .
@@ -140826,8 +140706,6 @@ vaycasinohemengirisyap.vip CNAME .
 *.vaycasinohemengirisyap.vip CNAME .
 vaycasinom-mobil-adresi.vip CNAME .
 *.vaycasinom-mobil-adresi.vip CNAME .
-vaycasinomobiladresim.vip CNAME .
-*.vaycasinomobiladresim.vip CNAME .
 vaycasinomobildadres.vip CNAME .
 *.vaycasinomobildadres.vip CNAME .
 vaycasinonun-adresi.vip CNAME .
@@ -142130,8 +142008,6 @@ xn--m3c5aon3k.world CNAME .
 *.xn--m3c5aon3k.world CNAME .
 yellowbetcasino.world CNAME .
 *.yellowbetcasino.world CNAME .
-bitcoincasino.ws CNAME .
-*.bitcoincasino.ws CNAME .
 coinsblog.ws CNAME .
 *.coinsblog.ws CNAME .
 mu88.ws CNAME .
@@ -142516,8 +142392,6 @@ amankurtp.xyz CNAME .
 *.amankurtp.xyz CNAME .
 amantotolink.xyz CNAME .
 *.amantotolink.xyz CNAME .
-amaz-slots.xyz CNAME .
-*.amaz-slots.xyz CNAME .
 amazonslots.xyz CNAME .
 *.amazonslots.xyz CNAME .
 ammagamma-newyear-casino.xyz CNAME .
@@ -147046,8 +146920,6 @@ top-casinos-25-26.xyz CNAME .
 *.top-casinos-25-26.xyz CNAME .
 top10-casinos.xyz CNAME .
 *.top10-casinos.xyz CNAME .
-top10-casinos-rating.xyz CNAME .
-*.top10-casinos-rating.xyz CNAME .
 topglobal.xyz CNAME .
 *.topglobal.xyz CNAME .
 topupgames.xyz CNAME .

@@ -53,7 +53,6 @@ https://hole.cert.pl/domains/domains.txt
 https://hole.cert.pl/domains/v2/domains.txt
 https://hosts.tweedge.net/malicious.txt
 https://lists.cyberhost.uk/malware.txt
-https://nsfw.oisd.nl
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phish.co.za/latest/phishing-domains-ACTIVE.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt

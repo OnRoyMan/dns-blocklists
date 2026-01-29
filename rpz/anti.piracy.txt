@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769682960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769704500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Jan 2026 10:36 UTC
-; Version: 2026.0129.1036.14
+; Last modified: 29 Jan 2026 16:35 UTC
+; Version: 2026.0129.1635.41
 ; Syntax: RPZ
-; Number of entries: 23272
+; Number of entries: 23284
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2050,6 +2050,8 @@ thouvenin.cloud CNAME .
 *.thouvenin.cloud CNAME .
 upvid.cloud CNAME .
 *.upvid.cloud CNAME .
+vidstrm.cloud CNAME .
+*.vidstrm.cloud CNAME .
 yesmovies.cloud CNAME .
 *.yesmovies.cloud CNAME .
 123files.club CNAME .
@@ -10694,6 +10696,8 @@ xcine.info CNAME .
 *.xcine.info CNAME .
 yeyemo.info CNAME .
 *.yeyemo.info CNAME .
+zarbbin.info CNAME .
+*.zarbbin.info CNAME .
 zonestreaming.info CNAME .
 *.zonestreaming.info CNAME .
 rlsbb.unblockit.ing CNAME .
@@ -11302,6 +11306,8 @@ newalbumreleases.unblockit.kim CNAME .
 *.newalbumreleases.unblockit.kim CNAME .
 cineblog01.kitchen CNAME .
 *.cineblog01.kitchen CNAME .
+streamingcommunityz.kitchen CNAME .
+*.streamingcommunityz.kitchen CNAME .
 hdmovie2.kiwi CNAME .
 *.hdmovie2.kiwi CNAME .
 megakino.kiwi CNAME .
@@ -15088,6 +15094,8 @@ moviesjoy.onl CNAME .
 *.moviesjoy.onl CNAME .
 multimovies.onl CNAME .
 *.multimovies.onl CNAME .
+pelisflix1.onl CNAME .
+*.pelisflix1.onl CNAME .
 putlocker.onl CNAME .
 *.putlocker.onl CNAME .
 putlockertv.onl CNAME .
@@ -18680,6 +18688,8 @@ gwp2-v19.rinet.ru CNAME .
 *.gwp2-v19.rinet.ru CNAME .
 rlsbb.ru CNAME .
 *.rlsbb.ru CNAME .
+rookeyie-lordfilm.ru CNAME .
+*.rookeyie-lordfilm.ru CNAME .
 rth77.ru CNAME .
 *.rth77.ru CNAME .
 ruswarez.ru CNAME .
@@ -21002,6 +21012,8 @@ veranime.top CNAME .
 *.veranime.top CNAME .
 vidify.top CNAME .
 *.vidify.top CNAME .
+vivatops.top CNAME .
+*.vivatops.top CNAME .
 wideiptv.top CNAME .
 *.wideiptv.top CNAME .
 share.xfapi.top CNAME .
