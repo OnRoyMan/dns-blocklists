@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jan 2026 16:35 UTC
-# Version: 2026.0129.1635.41
+# Last modified: 29 Jan 2026 22:41 UTC
+# Version: 2026.0129.2241.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11642
+# Number of entries: 11646
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -5655,6 +5655,7 @@ local=/kiwi-ip.tv/
 local=/kkiste.autos/
 local=/kkiste.boats/
 local=/kkiste.club/
+local=/kkiste-io.hair/
 local=/kkiste-io.top/
 local=/kkooralives.com/
 local=/kleanstorage.store/
@@ -5729,6 +5730,8 @@ local=/laola1.tv/
 local=/video.laola1.at/
 local=/lapache.info/
 local=/lapak21.com/
+local=/larooza.beauty/
+local=/larooza.boats/
 local=/larooza.skin/
 local=/latinbit.com/
 local=/pt.lax.mx/
@@ -7196,6 +7199,7 @@ local=/omgtorrent.com/
 local=/omgtorrent.cz/
 local=/omgtorrent.me/
 local=/omgwtfnzbs.me/
+local=/onalrie.app/
 local=/ddn.oncast.me/
 local=/onceddl.net/
 local=/onebigtorrent.org/
@@ -9144,6 +9148,7 @@ local=/streamingcommunityz.irish/
 local=/streamingcommunityz.it/
 local=/streamingcommunityz.kim/
 local=/streamingcommunityz.kitchen/
+local=/streamingcommunityz.land/
 local=/streamingcommunityz.li/
 local=/streamingcommunityz.lol/
 local=/streamingcommunityz.me/
@@ -9879,9 +9884,7 @@ local=/torrentialstorm.net/
 local=/torrenticity.com/
 local=/torrentigruha.ru/
 local=/torrenting.com/
-local=/tracker1.torrentino.com/
-local=/tracker2.torrentino.com/
-local=/tracker3.torrentino.com/
+local=/torrentino.com/
 local=/torrentit.com/
 local=/torrentkit.com/
 local=/torrentkitty.app/
@@ -11078,6 +11081,7 @@ local=/wayupload.com/
 local=/waz-warez.org/
 local=/wco.tv/
 local=/wcoforever.com/
+local=/wcofun.com/
 local=/wcofun.net/
 local=/wcostream.com/
 local=/wcostream.net/

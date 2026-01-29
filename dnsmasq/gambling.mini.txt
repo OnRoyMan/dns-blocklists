@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jan 2026 16:35 UTC
-# Version: 2026.0129.1635.18
+# Last modified: 29 Jan 2026 22:40 UTC
+# Version: 2026.0129.2240.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 41058
+# Number of entries: 41064
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -3056,7 +3056,6 @@ local=/777allslots.com/
 local=/777allslots.online/
 local=/777anavi.com/
 local=/777aplay.com/
-local=/777arc.casino/
 local=/777bay.com/
 local=/777bet.io/
 local=/777bet-casinobr.com/
@@ -3332,7 +3331,6 @@ local=/7k-834.casino/
 local=/7k-891.casino/
 local=/7k-902.casino/
 local=/7k-927.casino/
-local=/7k-939.casino/
 local=/7k-bets.online/
 local=/7k-bets.ru/
 local=/7k-casino.org/
@@ -3710,7 +3708,6 @@ local=/858.casino/
 local=/858-bets.com/
 local=/8587.casino/
 local=/859.casino/
-local=/85eslots.com/
 local=/85f.game/
 local=/85pg.tw/
 local=/85phcasino.com/
@@ -4617,6 +4614,7 @@ local=/ainternetcasino.com/
 local=/aioumasteracademy.com/
 local=/aipoker88.com/
 local=/aipoker88.link/
+local=/aipokershark.com/
 local=/aipredictionbets.com/
 local=/ipv4.aipytreck.com/
 local=/ipv6.aipytreck.com/
@@ -5118,6 +5116,7 @@ local=/apekslotrtp.xyz/
 local=/apelpoker.net/
 local=/apelsinich.com/
 local=/apexgaming88.org/
+local=/apexpokerai.com/
 local=/aphrodite.casino/
 local=/aphrodite-casinoer.com/
 local=/aphrodite1.casino/
@@ -5392,6 +5391,7 @@ local=/arkadacasino-registraciya-lcb.top/
 local=/arkadacasino-win77777.top/
 local=/arkadacasino149.buzz/
 local=/arkadacasino219.buzz/
+local=/arkadacasino220.buzz/
 local=/arkadacasino227.buzz/
 local=/arkadacasino228.top/
 local=/arkadacasino232.buzz/
@@ -5717,6 +5717,7 @@ local=/atomcasino-1.com/
 local=/atomcasino-10.com/
 local=/atomcasino-777.com/
 local=/atomcasino-87.com/
+local=/atomcasino-best.com/
 local=/atomcasino-bonus.com/
 local=/atomcasino-def.com/
 local=/atomcasino-games.com/
@@ -6153,6 +6154,7 @@ local=/bahiscasino-adresimtr.com/
 local=/bahiscasino-ampgiris.vip/
 local=/bahiscasino-girisinizresmi.com/
 local=/bahiscasino-globaladresleri.vip/
+local=/bahiscasino-gunceladresleri.vip/
 local=/bahiscasino-guncelgirisleri.com/
 local=/bahiscasino-guncelgirisleri.vip/
 local=/bahiscasino-guvenliadresi.com/
@@ -6574,6 +6576,7 @@ local=/bayconticasino475.com/
 local=/bayconticasino476.com/
 local=/bayconticasino477.com/
 local=/bayconticasino478.com/
+local=/bayconticasino479.com/
 local=/bayconticasino480.com/
 local=/bayconticasino481.com/
 local=/bayconticasino482.com/
@@ -7834,6 +7837,7 @@ local=/betsmove1955.com/
 local=/betsmove1956.com/
 local=/betsmove1957.com/
 local=/betsmove1958.com/
+local=/betsmove1959.com/
 local=/betsmove1960.com/
 local=/betsmove1961.com/
 local=/betsmove1962.com/
@@ -8201,6 +8205,7 @@ local=/betxchange.com/
 local=/bety.com/
 local=/bety-casino-dk.com/
 local=/betya.casino/
+local=/betycasino-dk.com/
 local=/betz.casino/
 local=/betze.win/
 local=/betze2.com/
@@ -9108,6 +9113,7 @@ local=/booicasino-nhv.top/
 local=/booicasino-qac.top/
 local=/booicasino-rzw.top/
 local=/booicasino-sqx.top/
+local=/booicasino-tiq.top/
 local=/booicasino-tsq.top/
 local=/booicasino-vxb.top/
 local=/booicasino-wtm.top/

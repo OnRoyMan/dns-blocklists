@@ -1,5 +1,10 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/6664
+# https://github.com/hagezi/dns-blocklists/issues/7579
+# https://github.com/hagezi/dns-blocklists/issues/8956
+fscdn.eppo.cloud
+
 # https://github.com/hagezi/dns-blocklists/issues/7276
 0.datadog.pool.ntp.org
 1.datadog.pool.ntp.org

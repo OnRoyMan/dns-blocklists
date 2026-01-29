@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769704500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769726460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Jan 2026 16:35 UTC
-; Version: 2026.0129.1635.41
+; Last modified: 29 Jan 2026 22:41 UTC
+; Version: 2026.0129.2241.27
 ; Syntax: RPZ
-; Number of entries: 23284
+; Number of entries: 23292
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -258,6 +258,8 @@ novatv.app CNAME .
 *.novatv.app CNAME .
 olamovies.app CNAME .
 *.olamovies.app CNAME .
+onalrie.app CNAME .
+*.onalrie.app CNAME .
 pirlotv.app CNAME .
 *.pirlotv.app CNAME .
 playmods.app CNAME .
@@ -636,6 +638,8 @@ filmapik.beauty CNAME .
 *.filmapik.beauty CNAME .
 hdmovie2.beauty CNAME .
 *.hdmovie2.beauty CNAME .
+larooza.beauty CNAME .
+*.larooza.beauty CNAME .
 seriesflix.beauty CNAME .
 *.seriesflix.beauty CNAME .
 streamingcommunityz.beauty CNAME .
@@ -992,6 +996,8 @@ hdmovie2.boats CNAME .
 *.hdmovie2.boats CNAME .
 kkiste.boats CNAME .
 *.kkiste.boats CNAME .
+larooza.boats CNAME .
+*.larooza.boats CNAME .
 seriesflix.boats CNAME .
 *.seriesflix.boats CNAME .
 streamingcommunity.boats CNAME .
@@ -7436,12 +7442,8 @@ torrenticity.com CNAME .
 *.torrenticity.com CNAME .
 torrenting.com CNAME .
 *.torrenting.com CNAME .
-tracker1.torrentino.com CNAME .
-*.tracker1.torrentino.com CNAME .
-tracker2.torrentino.com CNAME .
-*.tracker2.torrentino.com CNAME .
-tracker3.torrentino.com CNAME .
-*.tracker3.torrentino.com CNAME .
+torrentino.com CNAME .
+*.torrentino.com CNAME .
 torrentit.com CNAME .
 *.torrentit.com CNAME .
 torrentkit.com CNAME .
@@ -7994,6 +7996,8 @@ wayupload.com CNAME .
 *.wayupload.com CNAME .
 wcoforever.com CNAME .
 *.wcoforever.com CNAME .
+wcofun.com CNAME .
+*.wcofun.com CNAME .
 wcostream.com CNAME .
 *.wcostream.com CNAME .
 wdupload.com CNAME .
@@ -9942,6 +9946,8 @@ hdmovie2.hair CNAME .
 *.hdmovie2.hair CNAME .
 hdmovie20.hair CNAME .
 *.hdmovie20.hair CNAME .
+kkiste-io.hair CNAME .
+*.kkiste-io.hair CNAME .
 streamingcommunityz.hair CNAME .
 *.streamingcommunityz.hair CNAME .
 123movies.haus CNAME .
@@ -11378,6 +11384,8 @@ ppv.land CNAME .
 *.ppv.land CNAME .
 skymovieshd.land CNAME .
 *.skymovieshd.land CNAME .
+streamingcommunityz.land CNAME .
+*.streamingcommunityz.land CNAME .
 tantifilm.land CNAME .
 *.tantifilm.land CNAME .
 altadefinizione.lat CNAME .

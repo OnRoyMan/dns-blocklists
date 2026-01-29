@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Jan 2026 16:35 UTC
-! Version: 2026.0129.1635.18
+! Last modified: 29 Jan 2026 22:40 UTC
+! Version: 2026.0129.2240.52
 ! Syntax: AdBlock
-! Number of entries: 41058
+! Number of entries: 41064
 !
 ||000-online-casino.com^
 ||0009casino.com^
@@ -3057,7 +3057,6 @@
 ||777allslots.online^
 ||777anavi.com^
 ||777aplay.com^
-||777arc.casino^
 ||777bay.com^
 ||777bet.io^
 ||777bet-casinobr.com^
@@ -3333,7 +3332,6 @@
 ||7k-891.casino^
 ||7k-902.casino^
 ||7k-927.casino^
-||7k-939.casino^
 ||7k-bets.online^
 ||7k-bets.ru^
 ||7k-casino.org^
@@ -3711,7 +3709,6 @@
 ||858-bets.com^
 ||8587.casino^
 ||859.casino^
-||85eslots.com^
 ||85f.game^
 ||85pg.tw^
 ||85phcasino.com^
@@ -4618,6 +4615,7 @@
 ||aioumasteracademy.com^
 ||aipoker88.com^
 ||aipoker88.link^
+||aipokershark.com^
 ||aipredictionbets.com^
 ||ipv4.aipytreck.com^
 ||ipv6.aipytreck.com^
@@ -5119,6 +5117,7 @@
 ||apelpoker.net^
 ||apelsinich.com^
 ||apexgaming88.org^
+||apexpokerai.com^
 ||aphrodite.casino^
 ||aphrodite-casinoer.com^
 ||aphrodite1.casino^
@@ -5393,6 +5392,7 @@
 ||arkadacasino-win77777.top^
 ||arkadacasino149.buzz^
 ||arkadacasino219.buzz^
+||arkadacasino220.buzz^
 ||arkadacasino227.buzz^
 ||arkadacasino228.top^
 ||arkadacasino232.buzz^
@@ -5718,6 +5718,7 @@
 ||atomcasino-10.com^
 ||atomcasino-777.com^
 ||atomcasino-87.com^
+||atomcasino-best.com^
 ||atomcasino-bonus.com^
 ||atomcasino-def.com^
 ||atomcasino-games.com^
@@ -6154,6 +6155,7 @@
 ||bahiscasino-ampgiris.vip^
 ||bahiscasino-girisinizresmi.com^
 ||bahiscasino-globaladresleri.vip^
+||bahiscasino-gunceladresleri.vip^
 ||bahiscasino-guncelgirisleri.com^
 ||bahiscasino-guncelgirisleri.vip^
 ||bahiscasino-guvenliadresi.com^
@@ -6575,6 +6577,7 @@
 ||bayconticasino476.com^
 ||bayconticasino477.com^
 ||bayconticasino478.com^
+||bayconticasino479.com^
 ||bayconticasino480.com^
 ||bayconticasino481.com^
 ||bayconticasino482.com^
@@ -7835,6 +7838,7 @@
 ||betsmove1956.com^
 ||betsmove1957.com^
 ||betsmove1958.com^
+||betsmove1959.com^
 ||betsmove1960.com^
 ||betsmove1961.com^
 ||betsmove1962.com^
@@ -8202,6 +8206,7 @@
 ||bety.com^
 ||bety-casino-dk.com^
 ||betya.casino^
+||betycasino-dk.com^
 ||betz.casino^
 ||betze.win^
 ||betze2.com^
@@ -9109,6 +9114,7 @@
 ||booicasino-qac.top^
 ||booicasino-rzw.top^
 ||booicasino-sqx.top^
+||booicasino-tiq.top^
 ||booicasino-tsq.top^
 ||booicasino-vxb.top^
 ||booicasino-wtm.top^
