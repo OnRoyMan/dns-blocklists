@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jan 2026 15:30 UTC
-# Version: 2026.0129.1530.15
+# Last modified: 30 Jan 2026 09:30 UTC
+# Version: 2026.0130.0930.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10056
+# Number of entries: 10046
 #
 local=/0.gp/
 local=/00m.in/
@@ -122,7 +122,6 @@ local=/1stall.com/
 local=/1stgop.co/
 local=/1sturl.com/
 local=/1ta.kr/
-local=/1tk.us/
 local=/1tn.se/
 local=/1to3.link/
 local=/1ty.me/
@@ -1838,7 +1837,6 @@ local=/xmeets-ubabe.co.uk/
 local=/xx.co.nz/
 local=/yop.co.za/
 local=/coachingtree.com/
-local=/coachstudio.org/
 local=/coba.la/
 local=/s.coccoc.com/
 local=/cockroa.ch/
@@ -1854,7 +1852,6 @@ local=/coe.li/
 local=/cofe.io/
 local=/coil-forms.com/
 local=/coinbarlink.net/
-local=/coinbasesupports.live/
 local=/coinbot.kr/
 local=/coinclix.co/
 local=/coklat.vip/
@@ -1897,7 +1894,6 @@ local=/mpfi.com.ph/
 local=/nabio.com.br/
 local=/natura.com.vc/
 local=/salesadvisor.nazriproton.com.my/
-local=/onelink.com.do/
 local=/readystart.com.au/
 local=/red1.com.br/
 local=/redlight.com.br/
@@ -1917,7 +1913,6 @@ local=/used.com.ph/
 local=/useek.com.au/
 local=/vanlifediyfitouts.com.au/
 local=/bi.vitalmedbrasilia.com.br/
-local=/vm88.com.co/
 local=/xpol.com.tr/
 local=/youlinks.com.au/
 local=/parceiros.zerofuro.com.br/
@@ -3316,7 +3311,6 @@ local=/hanaco.jp/
 local=/handcounting.com/
 local=/hangeulplay.com/
 local=/short.happenn.com/
-local=/harapan777.love/
 local=/harisenin.link/
 local=/harounbillets.com/
 local=/has.coffee/
@@ -6995,7 +6989,6 @@ local=/s.sencrop.com/
 local=/sendgrid.net/
 local=/sendme.help/
 local=/sendurl.me/
-local=/sensasi777.love/
 local=/senseifarm.com/
 local=/intro.sentrystrategy.com/
 local=/seocantik.link/
@@ -7074,7 +7067,6 @@ local=/shlinks.site/
 local=/shln.io/
 local=/shln.me/
 local=/shlom.in/
-local=/shly.ink/
 local=/shme.io/
 local=/shmz.me/
 local=/sho.ae/
@@ -9026,7 +9018,6 @@ local=/urltamil.in/
 local=/urlth.me/
 local=/urltiger.com/
 local=/urltiger.li/
-local=/urltin.com/
 local=/urltiny.cc/
 local=/urltiny.one/
 local=/urltiny.xyz/
@@ -9586,7 +9577,6 @@ local=/witly.online/
 local=/wiwir.cc/
 local=/curt.wiz.co/
 local=/wizardsinvest.ru/
-local=/wjcf.co/
 local=/wkf.ms/
 local=/wkpwr.be/
 local=/wl.co/

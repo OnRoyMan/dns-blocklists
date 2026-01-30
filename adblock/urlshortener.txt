@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Jan 2026 15:30 UTC
-! Version: 2026.0129.1530.15
+! Last modified: 30 Jan 2026 09:30 UTC
+! Version: 2026.0130.0930.23
 ! Syntax: AdBlock
-! Number of entries: 10056
+! Number of entries: 10046
 !
 ||0.gp^
 ||00m.in^
@@ -123,7 +123,6 @@
 ||1stgop.co^
 ||1sturl.com^
 ||1ta.kr^
-||1tk.us^
 ||1tn.se^
 ||1to3.link^
 ||1ty.me^
@@ -1839,7 +1838,6 @@
 ||xx.co.nz^
 ||yop.co.za^
 ||coachingtree.com^
-||coachstudio.org^
 ||coba.la^
 ||s.coccoc.com^
 ||cockroa.ch^
@@ -1855,7 +1853,6 @@
 ||cofe.io^
 ||coil-forms.com^
 ||coinbarlink.net^
-||coinbasesupports.live^
 ||coinbot.kr^
 ||coinclix.co^
 ||coklat.vip^
@@ -1898,7 +1895,6 @@
 ||nabio.com.br^
 ||natura.com.vc^
 ||salesadvisor.nazriproton.com.my^
-||onelink.com.do^
 ||readystart.com.au^
 ||red1.com.br^
 ||redlight.com.br^
@@ -1918,7 +1914,6 @@
 ||useek.com.au^
 ||vanlifediyfitouts.com.au^
 ||bi.vitalmedbrasilia.com.br^
-||vm88.com.co^
 ||xpol.com.tr^
 ||youlinks.com.au^
 ||parceiros.zerofuro.com.br^
@@ -3317,7 +3312,6 @@
 ||handcounting.com^
 ||hangeulplay.com^
 ||short.happenn.com^
-||harapan777.love^
 ||harisenin.link^
 ||harounbillets.com^
 ||has.coffee^
@@ -6996,7 +6990,6 @@
 ||sendgrid.net^
 ||sendme.help^
 ||sendurl.me^
-||sensasi777.love^
 ||senseifarm.com^
 ||intro.sentrystrategy.com^
 ||seocantik.link^
@@ -7075,7 +7068,6 @@
 ||shln.io^
 ||shln.me^
 ||shlom.in^
-||shly.ink^
 ||shme.io^
 ||shmz.me^
 ||sho.ae^
@@ -9027,7 +9019,6 @@
 ||urlth.me^
 ||urltiger.com^
 ||urltiger.li^
-||urltin.com^
 ||urltiny.cc^
 ||urltiny.one^
 ||urltiny.xyz^
@@ -9587,7 +9578,6 @@
 ||wiwir.cc^
 ||curt.wiz.co^
 ||wizardsinvest.ru^
-||wjcf.co^
 ||wkf.ms^
 ||wkpwr.be^
 ||wl.co^

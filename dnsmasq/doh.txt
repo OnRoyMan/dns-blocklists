@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jan 2026 10:41 UTC
-# Version: 2026.0129.1041.24
+# Last modified: 30 Jan 2026 10:40 UTC
+# Version: 2026.0130.1040.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3502
+# Number of entries: 3493
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1185,7 +1185,6 @@ local=/dorkanddoodle.duckdns.org/
 local=/eweyo.duckdns.org/
 local=/gcpddns.duckdns.org/
 local=/genielee.duckdns.org/
-local=/home27.duckdns.org/
 local=/homejerem.duckdns.org/
 local=/hrsm12181.duckdns.org/
 local=/jfeoks.duckdns.org/
@@ -1197,15 +1196,12 @@ local=/kolobok2.duckdns.org/
 local=/krafty31.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/ldaman.duckdns.org/
-local=/leoadguard.duckdns.org/
 local=/mipelinusa.duckdns.org/
 local=/morgenegg.duckdns.org/
 local=/nas1403.duckdns.org/
 local=/naujas123.duckdns.org/
 local=/nikamurs.duckdns.org/
-local=/nqh-dns.duckdns.org/
 local=/o--o.duckdns.org/
-local=/osefcorp.duckdns.org/
 local=/pitchforkwaydns.duckdns.org/
 local=/punono.duckdns.org/
 local=/rcpc2.duckdns.org/
@@ -1217,14 +1213,10 @@ local=/site-3.duckdns.org/
 local=/surviil.duckdns.org/
 local=/testapp-0-1-1.duckdns.org/
 local=/thaibksri.duckdns.org/
-local=/theadblocksg.duckdns.org/
 local=/ts653d.duckdns.org/
 local=/tuandns.duckdns.org/
-local=/tungdnsne.duckdns.org/
 local=/unixfox.duckdns.org/
-local=/vpich.duckdns.org/
 local=/wired-guardian.duckdns.org/
-local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
 local=/x-o-x.duckdns.org/
 local=/x861g.duckdns.org/
@@ -1808,7 +1800,6 @@ local=/dns.itcosc.com/
 local=/dns.itdata.ro/
 local=/dns.iteo.pw/
 local=/itlikehell.ru/
-local=/diy.itsa.top/
 local=/adguardhome.ittoolman.top/
 local=/dns.itwht.com/
 local=/itworks4u.nl/

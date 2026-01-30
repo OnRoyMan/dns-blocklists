@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jan 2026 10:00 UTC
-# Version: 2026.0128.1000.30
+# Last modified: 30 Jan 2026 09:57 UTC
+# Version: 2026.0130.0957.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1313
+# Number of entries: 1312
 #
 local=/000a.de/
 local=/000space.com/
@@ -1130,7 +1130,6 @@ local=/totalh.net/
 local=/ftp.totallyanonymous.com/
 local=/tr.gg/
 local=/tr.gp/
-local=/track-app1e.live/
 local=/trackfinanceworld.com/
 local=/trend.in/
 local=/tribalpages.com/

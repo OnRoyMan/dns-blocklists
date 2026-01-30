@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jan 2026 10:44 UTC
-# Version: 2026.0128.1044.42
+# Last modified: 30 Jan 2026 10:39 UTC
+# Version: 2026.0130.1039.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1421
+# Number of entries: 1420
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -1265,7 +1265,6 @@ local=/stfu-kthx.net/
 local=/stocktester.ru/
 local=/stoupin.ru/
 local=/strangled.net/
-local=/stroyexpert.org/
 local=/stuff-4-sale.org/
 local=/stuff-4-sale.us/
 local=/stufftoread.com/

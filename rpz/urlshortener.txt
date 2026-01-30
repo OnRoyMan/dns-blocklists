@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769700600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769765400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Jan 2026 15:30 UTC
-; Version: 2026.0129.1530.15
+; Last modified: 30 Jan 2026 09:30 UTC
+; Version: 2026.0130.0930.23
 ; Syntax: RPZ
-; Number of entries: 20112
+; Number of entries: 20092
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2443,8 +2443,6 @@ coinclix.co CNAME .
 *.coinclix.co CNAME .
 tinyurl.smart-home.com.co CNAME .
 *.tinyurl.smart-home.com.co CNAME .
-vm88.com.co CNAME .
-*.vm88.com.co CNAME .
 cplink.co CNAME .
 *.cplink.co CNAME .
 crdrv.co CNAME .
@@ -3053,8 +3051,6 @@ wfly.co CNAME .
 *.wfly.co CNAME .
 curt.wiz.co CNAME .
 *.curt.wiz.co CNAME .
-wjcf.co CNAME .
-*.wjcf.co CNAME .
 wl.co CNAME .
 *.wl.co CNAME .
 wm0.co CNAME .
@@ -7491,8 +7487,6 @@ urltake.com CNAME .
 *.urltake.com CNAME .
 urltiger.com CNAME .
 *.urltiger.com CNAME .
-urltin.com CNAME .
-*.urltin.com CNAME .
 urltools.com CNAME .
 *.urltools.com CNAME .
 urltrax.com CNAME .
@@ -8389,8 +8383,6 @@ bit.do CNAME .
 *.bit.do CNAME .
 biolink.com.do CNAME .
 *.biolink.com.do CNAME .
-onelink.com.do CNAME .
-*.onelink.com.do CNAME .
 dad.do CNAME .
 *.dad.do CNAME .
 eb.do CNAME .
@@ -10633,8 +10625,6 @@ rpd.ink CNAME .
 *.rpd.ink CNAME .
 shavel.ink CNAME .
 *.shavel.ink CNAME .
-shly.ink CNAME .
-*.shly.ink CNAME .
 shre.ink CNAME .
 *.shre.ink CNAME .
 shrinkme.ink CNAME .
@@ -13275,8 +13265,6 @@ cgvoice.live CNAME .
 *.cgvoice.live CNAME .
 clotplaynews.live CNAME .
 *.clotplaynews.live CNAME .
-coinbasesupports.live CNAME .
-*.coinbasesupports.live CNAME .
 conviva.live CNAME .
 *.conviva.live CNAME .
 daftarhoki.live CNAME .
@@ -13515,10 +13503,6 @@ sm.lol CNAME .
 *.sm.lol CNAME .
 tik.lol CNAME .
 *.tik.lol CNAME .
-harapan777.love CNAME .
-*.harapan777.love CNAME .
-sensasi777.love CNAME .
-*.sensasi777.love CNAME .
 your.ls CNAME .
 *.your.ls CNAME .
 abso.lt CNAME .
@@ -16177,8 +16161,6 @@ link.chanrobotics.org CNAME .
 *.link.chanrobotics.org CNAME .
 go.circex.org CNAME .
 *.go.circex.org CNAME .
-coachstudio.org CNAME .
-*.coachstudio.org CNAME .
 convertcase.org CNAME .
 *.convertcase.org CNAME .
 coreprob.coreprobation.org CNAME .
@@ -19157,8 +19139,6 @@ purdue.university CNAME .
 *.1fi.us CNAME .
 1ll.us CNAME .
 *.1ll.us CNAME .
-1tk.us CNAME .
-*.1tk.us CNAME .
 2pl.us CNAME .
 *.2pl.us CNAME .
 2tu.us CNAME .
