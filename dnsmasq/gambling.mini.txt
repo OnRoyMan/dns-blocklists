@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jan 2026 16:12 UTC
-# Version: 2026.0130.1612.49
+# Last modified: 30 Jan 2026 22:36 UTC
+# Version: 2026.0130.2236.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 40476
+# Number of entries: 40473
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -3489,6 +3489,7 @@ local=/7k9175.casino/
 local=/7ka-casino-ru2026.com/
 local=/7kbet7.com/
 local=/7kcasino.sbs/
+local=/7kcasino-bek.top/
 local=/7kcasino-bmn.top/
 local=/7kcasino-cah.top/
 local=/7kcasino-ceh.top/
@@ -4507,6 +4508,7 @@ local=/adsparisnaik.xyz/
 local=/adssistem.com/
 local=/advantage-gambling.com/
 local=/adventurecompanygames.com/
+local=/advisercasinospl.com/
 local=/adw500casino.org/
 local=/ae888.com/
 local=/ae888.io/
@@ -5121,6 +5123,7 @@ local=/apelsinich.com/
 local=/apexgaming88.org/
 local=/apexpokerai.com/
 local=/aphrodite.casino/
+local=/aphrodite-casinoer.com/
 local=/aphrodite1.casino/
 local=/aphrodite9.casino/
 local=/aphroditecasino-france.com/
@@ -5338,7 +5341,6 @@ local=/arkada-casino-oim.top/
 local=/arkada-casino-oxh.top/
 local=/arkada-casino-piz.top/
 local=/arkada-casino-play.click/
-local=/arkada-casino-ppb.top/
 local=/arkada-casino-qvj.top/
 local=/arkada-casino-rah.top/
 local=/arkada-casino-rgz.top/
@@ -5383,6 +5385,7 @@ local=/arkadacasino220.buzz/
 local=/arkadacasino227.buzz/
 local=/arkadacasino228.top/
 local=/arkadacasino232.buzz/
+local=/arkadacasino249.buzz/
 local=/arkadacasino3.com/
 local=/arkadacasino69.com/
 local=/arkadacasino76.com/
@@ -5604,7 +5607,6 @@ local=/atom238.casino/
 local=/atom240.casino/
 local=/atom2400.casino/
 local=/atom241.casino/
-local=/atom244.casino/
 local=/atom246.casino/
 local=/atom249.casino/
 local=/atom252.casino/
@@ -6020,7 +6022,6 @@ local=/azino777-casino-lh2.ru/
 local=/azino777-casino-mx6.ru/
 local=/azino777-casino-nb7.ru/
 local=/azino777-casino-nd1.ru/
-local=/azino777-casino-nm0.ru/
 local=/azino777-casino-nz1.ru/
 local=/azino777-casino-oi6.ru/
 local=/azino777-casino-qf0.ru/
@@ -6361,7 +6362,6 @@ local=/barpokermanager.com/
 local=/barrasports.net/
 local=/barroulette.cool/
 local=/barstoolsportsbook.com/
-local=/barterbets.co/
 local=/barterbets.com/
 local=/feb.barunatoto.net/
 local=/barz.com/
@@ -6494,7 +6494,6 @@ local=/bayconticasino395.com/
 local=/bayconticasino396.com/
 local=/bayconticasino397.com/
 local=/bayconticasino398.com/
-local=/bayconticasino399.com/
 local=/bayconticasino400.com/
 local=/bayconticasino401.com/
 local=/bayconticasino402.com/
@@ -6742,7 +6741,6 @@ local=/beef-111.casino/
 local=/beef-casino-barracuda3.top/
 local=/beef-casino-cristal3.top/
 local=/beef-casino-cup3.top/
-local=/beef-casino-lenny3.top/
 local=/beef-casino-parallel3.top/
 local=/beef-casino-smile3.top/
 local=/beef-casino-uk.com/
@@ -9179,7 +9177,6 @@ local=/bra88.bet/
 local=/brabet.com/
 local=/brabetpoker.com/
 local=/brabets.vip/
-local=/brabetsg.com/
 local=/brabetwins.com/
 local=/brabetxl4oq.com/
 local=/bracasinopg.com/

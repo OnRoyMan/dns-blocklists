@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jan 2026 16:12 UTC
-# Version: 2026.0130.1612.01
+# Last modified: 30 Jan 2026 22:35 UTC
+# Version: 2026.0130.2235.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 73714
+# Number of entries: 73702
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -3016,7 +3016,6 @@
 *.22bets018.info
 *.22bets019.info
 *.22bets020.info
-*.22bets021.info
 *.22bets023.info
 *.22bets024.info
 *.22bets025.info
@@ -5983,7 +5982,6 @@
 *.7k0171.casino
 *.7k0172.casino
 *.7k0401.casino
-*.7k0770.casino
 *.7k0909.casino
 *.7k100.casino
 *.7k1009.casino
@@ -6150,6 +6148,7 @@
 *.7kcasino-7a7.online
 *.7kcasino-7a7.ru
 *.7kcasino-acm.top
+*.7kcasino-bek.top
 *.7kcasino-bhh.top
 *.7kcasino-bmn.top
 *.7kcasino-cah.top
@@ -6248,7 +6247,6 @@
 *.7kcasino-vpb.top
 *.7kcasino-vpx.top
 *.7kcasino-vyv.top
-*.7kcasino-wfr.top
 *.7kcasino-xko.top
 *.7kcasino-xln.top
 *.7kcasino-xop.top
@@ -6332,6 +6330,7 @@
 *.7slots-game-online.digital
 *.7slots-games-best.live
 *.7slots-games2026-player.digital
+*.7slots-giris1.com
 *.7slots-giris2026-online.digital
 *.7slots-mexico.com
 *.7slots-partner-games.digital
@@ -7758,6 +7757,7 @@
 *.actionbets.com
 *.actioncasino-online.com
 *.actionisle.com
+*.actionjoyslots.com
 *.actionnetwork.com
 *.actionpoker.su
 *.actionunionxpoker.com
@@ -7900,6 +7900,7 @@
 *.advancecasinos.com
 *.advantage-gambling.com
 *.adventurecompanygames.com
+*.advisercasinospl.com
 *.adw500casino.org
 *.ae-kypoker.com
 *.ae788.bet
@@ -8543,6 +8544,7 @@
 *.allstarslots.com
 *.allstarz-casino.org
 *.allstarzcasino.com
+*.allstarzcasino.xyz
 *.app-download.alltocon.com
 *.img.alltocon.com
 *.alltop100casino.site
@@ -8618,7 +8620,6 @@
 *.alt1betspin138.info
 *.alt2betspin138.info
 *.alt3betspin138.info
-*.alt4betspin138.info
 *.alt5betspin138.info
 *.altaybets.net
 *.altbetspin138.info
@@ -8689,6 +8690,7 @@
 *.amazing-slots.website
 *.amazingalphabets.com
 *.amazingalphabets.info
+*.amazingalphabets.online
 *.amazingbet.it
 *.amazingcasinocardgamez.com
 *.amazingslots-tr.store
@@ -9100,6 +9102,7 @@
 *.apexpokerai.com
 *.apexslot.co
 *.aphrodite.casino
+*.aphrodite-casinoer.com
 *.aphrodite-casinos.org
 *.aphrodite-casinos.uk
 *.aphrodite1.casino
@@ -9226,6 +9229,7 @@
 *.april-ssa.com
 *.apuesta-total-casino.mx
 *.apuesta24.com
+*.apuesta24casino.com
 *.apuesta360.com
 *.apuestacity.com
 *.apuestaes.net
@@ -9375,6 +9379,7 @@
 *.argcasino.online
 *.argcasino.site
 *.argcasinosapuestas.space
+*.argentina-1xslots.online
 *.argentina1casino.site
 *.argentmania.com
 *.argo-casino.biz
@@ -9449,7 +9454,6 @@
 *.arkada-casino-oxh.top
 *.arkada-casino-piz.top
 *.arkada-casino-play.click
-*.arkada-casino-ppb.top
 *.arkada-casino-pty.top
 *.arkada-casino-puf.top
 *.arkada-casino-qvh.top
@@ -9549,6 +9553,7 @@
 *.arkadacasino227.buzz
 *.arkadacasino228.top
 *.arkadacasino232.buzz
+*.arkadacasino249.buzz
 *.arkadacasino25.buzz
 *.arkadacasino28.buzz
 *.arkadacasino3.com
@@ -9840,6 +9845,7 @@
 *.atom-casino-amp121121.store
 *.atom-casino-amp181921.ru
 *.atom-casino-amp181921.store
+*.atom-casino-amp484921.ru
 *.atom-casino-amp484921.store
 *.atom-casino-best.ru
 *.atom-casino-bet.ru
@@ -9951,7 +9957,6 @@
 *.atom2400.casino
 *.atom241.casino
 *.atom242.casino
-*.atom244.casino
 *.atom245.casino
 *.atom246.casino
 *.atom247.casino
@@ -10593,7 +10598,6 @@
 *.azino777-casino-mx6.ru
 *.azino777-casino-nb7.ru
 *.azino777-casino-nd1.ru
-*.azino777-casino-nm0.ru
 *.azino777-casino-nz1.ru
 *.azino777-casino-oi6.ru
 *.azino777-casino-pf2.ru
@@ -10769,7 +10773,6 @@
 *.baanphanan.com
 *.baaz.casino
 *.babacasino.com
-*.babacasinofreeslots.com
 *.babacasinok.com
 *.babacasinom.com
 *.babacasinou.com
@@ -11119,7 +11122,6 @@
 *.banda712.casino
 *.banda76.casino
 *.banda812.casino
-*.banda8787.casino
 *.banda887.casino
 *.banda888.casino
 *.banda9298.casino
@@ -11266,7 +11268,6 @@
 *.barronbets.com
 *.barroulette.cool
 *.barstoolsportsbook.com
-*.barterbets.co
 *.barterbets.com
 *.feb.barunatoto.net
 *.barz.com
@@ -11435,7 +11436,6 @@
 *.bayconticasino396.com
 *.bayconticasino397.com
 *.bayconticasino398.com
-*.bayconticasino399.com
 *.bayconticasino400.com
 *.bayconticasino401.com
 *.bayconticasino402.com
@@ -11771,7 +11771,6 @@
 *.beef-casino-dk.com
 *.beef-casino-games4.top
 *.beef-casino-it.com
-*.beef-casino-lenny3.top
 *.beef-casino-nl.com
 *.beef-casino-no.com
 *.beef-casino-online.com
@@ -12154,7 +12153,6 @@
 *.bestecasinonl.com
 *.bestecasinonorge.net
 *.bestecasinorezensionen.com
-*.bestecasinos.org
 *.bestecasinosonline.eu
 *.bestecasinosschweiz.ch
 *.bestecasinoutenomsetningskrav.org
@@ -13495,7 +13493,6 @@
 *.betsilin-online.vip
 *.betsilin-resmi.net
 *.betsilin-resmigirisi.com
-*.betsilin-resmigirisleri.com
 *.betsilin1028.com
 *.betsilingiris-net.com
 *.betsilinn-girisadresleri.com
@@ -13724,7 +13721,6 @@
 *.betsmove1125.com
 *.betsmove1126.com
 *.betsmove1127.com
-*.betsmove1128.com
 *.betsmove1129.com
 *.betsmove1130.com
 *.betsmove1131.com
@@ -13965,7 +13961,6 @@
 *.betsmove1370.com
 *.betsmove1371.com
 *.betsmove1372.com
-*.betsmove1373.com
 *.betsmove1374.com
 *.betsmove1375.com
 *.betsmove1376.com
@@ -14206,7 +14201,6 @@
 *.betsmove1613.com
 *.betsmove1614.com
 *.betsmove1615.com
-*.betsmove1616.com
 *.betsmove1617.com
 *.betsmove1618.com
 *.betsmove1619.com
@@ -14447,7 +14441,6 @@
 *.betsmove1859.com
 *.betsmove1860.com
 *.betsmove1861.com
-*.betsmove1862.com
 *.betsmove1863.com
 *.betsmove1864.com
 *.betsmove1865.com
@@ -14691,7 +14684,6 @@
 *.betsmovefirsat.com
 *.betsmovegirisi.vip
 *.betsmoveguncelerisim.vip
-*.betsmovehemengiris.vip
 *.betsmovelogin.vip
 *.betsmovem725.com
 *.betsmovemobilestr.cc
@@ -15100,7 +15092,6 @@
 *.bettycasino-canada.win
 *.bettycasino-play.ca
 *.bettycasino24.com
-*.bettycasino24.net
 *.bettycasinocanada.org
 *.bettycasinoonline.com
 *.bettycasinos.ca
@@ -16687,7 +16678,6 @@
 *.bonussenzadepositocasino.net
 *.bonussiti.casino
 *.bonusspid.casino
-*.bonusstar.casino
 *.bonustime.live
 *.bonusuteninnskudd.casino
 *.bonusutenomsetning.casino
@@ -17074,7 +17064,6 @@
 *.brabet.com
 *.brabetpoker.com
 *.brabets.vip
-*.brabetsg.com
 *.brabetwins.com
 *.brabetxl4oq.com
 *.bracasinoapp.com
@@ -17610,7 +17599,6 @@
 *.c333betcasino.com
 *.c333navi.com
 *.c365play.com
-*.c3t3-casino.com
 *.c4ll7wmb.com
 *.c54.lat
 *.c5hbet.com

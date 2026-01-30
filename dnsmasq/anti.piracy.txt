@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jan 2026 10:35 UTC
-# Version: 2026.0130.1035.16
+# Last modified: 30 Jan 2026 22:36 UTC
+# Version: 2026.0130.2236.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11613
+# Number of entries: 11629
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -2439,7 +2439,6 @@ local=/damedesuyo.com/
 local=/danger.lv/
 local=/danimados.com/
 local=/danishbits.org/
-local=/daoodasdldldl.com/
 local=/dark-angel.ws/
 local=/darkanime.stream/
 local=/darkarea.pl/
@@ -3261,17 +3260,29 @@ local=/eurostreaming.ws/
 local=/eurostreaming.xyz/
 local=/eurostreaming.yachts/
 local=/eurostreaming.zone/
+local=/eurostreamings.art/
+local=/eurostreamings.autos/
 local=/eurostreamings.bar/
+local=/eurostreamings.best/
 local=/eurostreamings.casa/
+local=/eurostreamings.cfd/
 local=/eurostreamings.com/
 local=/eurostreamings.fun/
+local=/eurostreamings.hair/
+local=/eurostreamings.link/
 local=/eurostreamings.lol/
+local=/eurostreamings.mom/
+local=/eurostreamings.one/
 local=/eurostreamings.online/
 local=/eurostreamings.org/
 local=/eurostreamings.pics/
+local=/eurostreamings.run/
+local=/eurostreamings.sbs/
+local=/eurostreamings.shop/
 local=/eurostreamings.site/
 local=/eurostreamings.space/
 local=/eurostreamings.store/
+local=/eurostreamings.top/
 local=/eurostreamings.vip/
 local=/bt.eutorrents.com/
 local=/ev01.net/
@@ -3475,6 +3486,10 @@ local=/filetracker.pl/
 local=/filetram.com/
 local=/fileupload.pw/
 local=/film-francais-vf.com/
+local=/film-pertutti.click/
+local=/film-pertutti.homes/
+local=/film-pertutti.my/
+local=/film-pertutti.site/
 local=/film-streaming.com/
 local=/film-streaming-ita.cam/
 local=/film-streaming-ita.fm/
@@ -10240,6 +10255,7 @@ local=/ultramovies.net/
 local=/websites.umich.edu/
 local=/ummagurau.com/
 local=/umq.me/
+local=/tracker.umunu.ru/
 local=/unbl0ck.fun/
 local=/unbl0ck.online/
 local=/unbl4you.lol/
