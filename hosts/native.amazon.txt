@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jan 2026 18:20 UTC
-# Version: 2026.0123.1820.07
+# Last modified: 30 Jan 2026 16:14 UTC
+# Version: 2026.0130.1614.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 623
+# Number of entries: 625
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -75,6 +75,7 @@
 0.0.0.0 aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-mobile.us-west.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-pdns-wt.us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-wt.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-wt.us-west.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-fe-rtb.amazon-adsystem.com
@@ -270,6 +271,7 @@
 0.0.0.0 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8004.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8004.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 client.rum.us-east-1.amazonaws.com

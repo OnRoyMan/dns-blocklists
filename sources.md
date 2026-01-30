@@ -60,7 +60,6 @@ https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://phish.sinking.yachts/v2/text
 https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv
 https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/refs/heads/master/month.csv
-https://raw.githubusercontent.com/2004gixxer600/BlockLists/refs/heads/main/MaliciousDomain.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/src/adult/adult_thirdparty.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt

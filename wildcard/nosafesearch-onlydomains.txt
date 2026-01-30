@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:31 UTC
-# Version: 2026.0121.1431.22
+# Last modified: 30 Jan 2026 16:06 UTC
+# Version: 2026.0130.1606.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 210
+# Number of entries: 212
 #
 search.0xcb.dev
 search.0xgingi.com
@@ -66,7 +66,6 @@ dogpile.com
 search.dojoro.de
 searx.doofpot.nl
 search.dr460nf1r3.org
-wgl.frail.duckdns.org
 dynabyte.ca
 searx.elukerio.org
 searx.ericaftereric.top
@@ -124,6 +123,7 @@ mojeek.com
 searx.monicz.pl
 monstercrawler.com
 mwmbl.org
+librex.myroware.eu
 searx.nakhan.net
 search.nebulacentre.net
 neeva.com
@@ -138,6 +138,7 @@ whoogle.no-logs.com
 librex.nohost.network
 timdor.noip.me
 null.media
+o5.gg
 offtheradar.info
 search.oh64.moe
 searx.openhoofd.nl
@@ -211,6 +212,7 @@ h4g3z1-nosafesearch.web.app
 webcrawler.com
 searx.wegeeks.win
 wiby.me
+search.xcloud.live
 find.xenorio.xyz
 xo.wtf
 yep.com

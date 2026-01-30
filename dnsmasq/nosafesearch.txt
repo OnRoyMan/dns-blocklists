@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:31 UTC
-# Version: 2026.0121.1431.22
+# Last modified: 30 Jan 2026 16:06 UTC
+# Version: 2026.0130.1606.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 210
+# Number of entries: 212
 #
 local=/search.0xcb.dev/
 local=/search.0xgingi.com/
@@ -66,7 +66,6 @@ local=/dogpile.com/
 local=/search.dojoro.de/
 local=/searx.doofpot.nl/
 local=/search.dr460nf1r3.org/
-local=/wgl.frail.duckdns.org/
 local=/dynabyte.ca/
 local=/searx.elukerio.org/
 local=/searx.ericaftereric.top/
@@ -124,6 +123,7 @@ local=/mojeek.com/
 local=/searx.monicz.pl/
 local=/monstercrawler.com/
 local=/mwmbl.org/
+local=/librex.myroware.eu/
 local=/searx.nakhan.net/
 local=/search.nebulacentre.net/
 local=/neeva.com/
@@ -138,6 +138,7 @@ local=/whoogle.no-logs.com/
 local=/librex.nohost.network/
 local=/timdor.noip.me/
 local=/null.media/
+local=/o5.gg/
 local=/offtheradar.info/
 local=/search.oh64.moe/
 local=/searx.openhoofd.nl/
@@ -211,6 +212,7 @@ local=/h4g3z1-nosafesearch.web.app/
 local=/webcrawler.com/
 local=/searx.wegeeks.win/
 local=/wiby.me/
+local=/search.xcloud.live/
 local=/find.xenorio.xyz/
 local=/xo.wtf/
 local=/yep.com/

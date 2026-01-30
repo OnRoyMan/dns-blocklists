@@ -330,6 +330,13 @@
       }
     },
     {
+      "PK": "azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "azurewatson.microsoft.com",
       "action": {
         "do": 0,

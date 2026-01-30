@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Jan 2026 10:34 UTC
-! Version: 2026.0130.1034.42
+! Last modified: 30 Jan 2026 16:12 UTC
+! Version: 2026.0130.1612.49
 ! Syntax: AdBlock
-! Number of entries: 40501
+! Number of entries: 40476
 !
 ||000-online-casino.com^
 ||0009casino.com^
@@ -3028,7 +3028,6 @@
 ||755bet.net^
 ||755betsv.com^
 ||755lovejili.cc^
-||757betsmove.com^
 ||758betsmove.com^
 ||75plusph.net^
 ||760betsmove.com^
@@ -3491,7 +3490,6 @@
 ||7ka-casino-ru2026.com^
 ||7kbet7.com^
 ||7kcasino.sbs^
-||7kcasino-bek.top^
 ||7kcasino-bmn.top^
 ||7kcasino-cah.top^
 ||7kcasino-ceh.top^
@@ -4196,6 +4194,7 @@
 ||999slotsp.com^
 ||999xpslots.com^
 ||999yes.com^
+||99alfa.bet^
 ||99alfa.casino^
 ||99bet.co^
 ||99bet999.bet^
@@ -4509,7 +4508,6 @@
 ||adssistem.com^
 ||advantage-gambling.com^
 ||adventurecompanygames.com^
-||advisercasinospl.com^
 ||adw500casino.org^
 ||ae888.com^
 ||ae888.io^
@@ -4630,6 +4628,7 @@
 ||airgo.mx^
 ||airgorilla.com^
 ||airmaxpascheros.biz^
+||aiscore.com^
 ||aitprich.org^
 ||aivexcasino.com^
 ||ajaib3d.org^
@@ -5123,7 +5122,6 @@
 ||apexgaming88.org^
 ||apexpokerai.com^
 ||aphrodite.casino^
-||aphrodite-casinoer.com^
 ||aphrodite1.casino^
 ||aphrodite9.casino^
 ||aphroditecasino-france.com^
@@ -5386,7 +5384,6 @@
 ||arkadacasino227.buzz^
 ||arkadacasino228.top^
 ||arkadacasino232.buzz^
-||arkadacasino249.buzz^
 ||arkadacasino3.com^
 ||arkadacasino69.com^
 ||arkadacasino76.com^
@@ -5694,7 +5691,6 @@
 ||atom399.casino^
 ||atom405.casino^
 ||atom410.casino^
-||atom416.casino^
 ||atom421.casino^
 ||atom428.casino^
 ||atom449.casino^
@@ -7780,8 +7776,6 @@
 ||betslotsclub.com^
 ||betsmartguide.uk^
 ||betsmixer.com^
-||betsmove-2026-adresim.vip^
-||betsmove-2026-girisim.vip^
 ||betsmove-bonus.vip^
 ||betsmove-enguncelgiris.vip^
 ||betsmove-giris-yeri.vip^
@@ -8082,6 +8076,7 @@
 ||betwinner.com^
 ||betwinner.ke^
 ||betwinner.ng^
+||betwinner-17253.bar^
 ||betwinner1.com^
 ||betwinner2.com^
 ||betwinner3.com^
@@ -9185,6 +9180,7 @@
 ||brabet.com^
 ||brabetpoker.com^
 ||brabets.vip^
+||brabetsg.com^
 ||brabetwins.com^
 ||brabetxl4oq.com^
 ||bracasinopg.com^
@@ -9602,6 +9598,7 @@
 ||cairbos789.com^
 ||cairmiliar.xyz^
 ||cairnscasinoaustralia.com^
+||caixa777.bet^
 ||caixa777.casino^
 ||cakarbetsetia.com^
 ||cakarnaga-1.com^
@@ -10092,7 +10089,6 @@
 ||casino-crazytime.com^
 ||casino-cresus.com^
 ||casino-crowngreen.ca^
-||casino-cz.top^
 ||casino-dana.com^
 ||casino-day.shop^
 ||casino-days-login.com^
@@ -11206,7 +11202,6 @@
 ||casinodior307.com^
 ||casinodior308.com^
 ||casinodior309.com^
-||casinodior310.com^
 ||casinodirekt.net^
 ||casinodivenezia.top^
 ||casinodivonnesuisse.com^
@@ -12116,7 +12111,6 @@
 ||casinopulpo.com^
 ||casinopulsefocus.us^
 ||casinopunkz.io^
-||casinopure.com^
 ||casinopurple-casino.com^
 ||casinoqueen88.com^
 ||casinoquest.online^
@@ -12866,7 +12860,6 @@
 ||casinoworld.com^
 ||casinoworld-play.uk^
 ||casinoworldreport.com^
-||casinoworldtours.xyz^
 ||casinowullowitzaustria.com^
 ||casinowyns-canada.com^
 ||casinox.pro^
@@ -12925,7 +12918,6 @@
 ||casinoz-goldy.xyz^
 ||casinoza.com^
 ||casinozaragoza.es^
-||casinozclubnika.xyz^
 ||casinozdeluxe.com^
 ||casinozellamseeaustria.com^
 ||casinozer.co^
@@ -15356,7 +15348,6 @@
 ||daddy-casinos.online^
 ||daddy-casinoz.hair^
 ||daddy034.casino^
-||daddy039.casino^
 ||daddy1241.casino^
 ||daddy1248.casino^
 ||daddy1271.casino^
@@ -17126,7 +17117,6 @@
 ||ezcahs-casino.ru^
 ||ezcash212.casino^
 ||ezcash349.casino^
-||ezcash350.casino^
 ||ezcash667.casino^
 ||ezcash71casino.online^
 ||ezcash72casino.online^
@@ -18353,7 +18343,6 @@
 ||gama-casinos-best.top^
 ||gama121.casino^
 ||gama123.casino^
-||gama202.casino^
 ||gama23.casino^
 ||gama235.casino^
 ||gama2701.casino^
@@ -19103,6 +19092,7 @@
 ||glory-casino-yorumlar.com^
 ||glory-casinoapp.com^
 ||glory-casinom.com^
+||glory777master.xyz^
 ||glorycasino.online^
 ||glorycasino.world^
 ||glorycasino-apk.com^
@@ -21382,7 +21372,6 @@
 ||jasminslots66.com^
 ||jasminslots72.com^
 ||jasminslots82.com^
-||jasminslots92.com^
 ||jasus.bot^
 ||jatengapril.xyz^
 ||jatengbokep.xyz^
@@ -22437,7 +22426,6 @@
 ||kent49.casino^
 ||kent52.casino^
 ||kent53.casino^
-||kent545.casino^
 ||kent60.casino^
 ||kent61.casino^
 ||kent63.casino^
@@ -23213,7 +23201,6 @@
 ||lcrestaurants.com^
 ||ldail.org^
 ||ldp-sum.com^
-||le-poker-gagnant.com^
 ||leadingcasinosuk.com^
 ||leafletcasino.com^
 ||leah.bet^
@@ -25226,7 +25213,6 @@
 ||matiasbonfanti.xyz^
 ||matka.cool^
 ||matrixslotjaya.xyz^
-||matsbetsadres.com^
 ||mattch.shop^
 ||mattesonellislaw.com^
 ||matthewsmith.cc^
@@ -25472,7 +25458,6 @@
 ||meechockdee.com^
 ||meet2gama.com^
 ||meet7000offer.com^
-||meetcasino.com^
 ||meeturplanet.com^
 ||mega.bet^
 ||mega-casino.pl^
@@ -25563,7 +25548,6 @@
 ||meilleurcasinoenligne-ch.ch^
 ||meilleurpronostic.fr^
 ||meingebets.com^
-||meisterslots.com^
 ||mejadewa.com^
 ||mejorcasadeapuesta.com^
 ||mejorcasinos-peru.com^
@@ -27430,7 +27414,6 @@
 ||novibet.mx^
 ||novibet.partners^
 ||novibetcasino.pro^
-||novibetcasino-online.click^
 ||novibetcasinoecu.com^
 ||novibetmxcasino.top^
 ||novibets.bet^
@@ -27920,7 +27903,6 @@
 ||olympusbet.com^
 ||olympusx1000.com^
 ||olympys-onlineslots.com^
-||olyplay.casino^
 ||om987.com^
 ||ombak-stars.xyz^
 ||ombak126.host^
@@ -29216,7 +29198,6 @@
 ||piabeellacasino-resmi.net^
 ||piabelacasino-resmi.com^
 ||piabelacasino580.com^
-||piabelacasinoo558.com^
 ||piabella-casino-giris2026.vip^
 ||piabellacasino-2026.vip^
 ||piabellacasino-adresonline.com^
@@ -29792,7 +29773,6 @@
 ||pinup2701.casino^
 ||pinup42.casino^
 ||pinup43.casino^
-||pinup436.casino^
 ||pinup44.casino^
 ||pinup444.casino^
 ||pinup45.casino^
@@ -31579,7 +31559,6 @@
 ||radiante777casino.com^
 ||radico.store^
 ||radiowesley.com^
-||radyoart.net^
 ||raggingbull-casino.com^
 ||raging-bull-casino.ca^
 ||raging-bull-casino.org^
@@ -32516,7 +32495,6 @@
 ||robycasinodeutschland.com^
 ||roccobuonvinoproductions.com^
 ||rochesterkali.com^
-||rock-poker.com^
 ||rock7.art^
 ||rockbet.com^
 ||rockcasino.net^
@@ -36910,6 +36888,7 @@
 ||tuktuk123.com^
 ||tulalipcasino.com^
 ||tulalipresortcasino.com^
+||tulennagakdm.cfd^
 ||tulip389.net^
 ||tulip389.org^
 ||tulizan.com^
@@ -37587,7 +37566,6 @@
 ||vaycasino-casino-mobil.vip^
 ||vaycasino-erisim-yeni.vip^
 ||vaycasino-giris.live^
-||vaycasino-giris.net^
 ||vaycasino-girisadresin.vip^
 ||vaycasino-girissadresim.com^
 ||vaycasino-guncel-adres2026.com^
@@ -37603,7 +37581,6 @@
 ||vaycasino-qiris.cc^
 ||vaycasino-resmi-2026.com^
 ||vaycasino-resmiguncegiris.com^
-||vaycasino-resmii.net^
 ||vaycasino-tr-games.top^
 ||vaycasino-tr-giris.top^
 ||vaycasino-tr-play.digital^
@@ -37616,7 +37593,6 @@
 ||vaycasino-yeniadress.com^
 ||vaycasino-yenigiris2026.com^
 ||vaycasino-yenisite2026.com^
-||vaycasino-yuksekoran.vip^
 ||vaycasino0172.com^
 ||vaycasino071.com^
 ||vaycasino073.com^
@@ -38357,7 +38333,6 @@
 ||vodka704.casino^
 ||vodka7177.casino^
 ||vodka876x.casino^
-||vodka922.casino^
 ||vodkaacasino.bet^
 ||vodkabestcasino.ru^
 ||vodkabet-casino.mom^
