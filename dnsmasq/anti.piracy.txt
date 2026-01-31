@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jan 2026 22:36 UTC
-# Version: 2026.0130.2236.34
+# Last modified: 31 Jan 2026 04:33 UTC
+# Version: 2026.0131.0433.24
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 11629
 #
@@ -3271,7 +3271,6 @@ local=/eurostreamings.fun/
 local=/eurostreamings.hair/
 local=/eurostreamings.link/
 local=/eurostreamings.lol/
-local=/eurostreamings.mom/
 local=/eurostreamings.one/
 local=/eurostreamings.online/
 local=/eurostreamings.org/
@@ -8496,6 +8495,7 @@ local=/shanaproject.com/
 local=/share2downloads.com/
 local=/shareappscrack.com/
 local=/sharebb.me/
+local=/tracker.sharebro.in/
 local=/sharedtutor.com/
 local=/sharego.net/
 local=/sharegroundz.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769812560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769833920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Jan 2026 22:36 UTC
-; Version: 2026.0130.2236.13
+; Last modified: 31 Jan 2026 04:32 UTC
+; Version: 2026.0131.0432.47
 ; Syntax: RPZ
-; Number of entries: 80946
+; Number of entries: 80952
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -2650,8 +2650,6 @@ arkadacasino227.buzz CNAME .
 *.arkadacasino227.buzz CNAME .
 arkadacasino232.buzz CNAME .
 *.arkadacasino232.buzz CNAME .
-arkadacasino249.buzz CNAME .
-*.arkadacasino249.buzz CNAME .
 arkadacasino82.buzz CNAME .
 *.arkadacasino82.buzz CNAME .
 aurora-casino219.buzz CNAME .
@@ -5288,6 +5286,8 @@ atom2400.casino CNAME .
 *.atom2400.casino CNAME .
 atom241.casino CNAME .
 *.atom241.casino CNAME .
+atom244.casino CNAME .
+*.atom244.casino CNAME .
 atom246.casino CNAME .
 *.atom246.casino CNAME .
 atom249.casino CNAME .
@@ -9934,6 +9934,8 @@ auwin.co CNAME .
 *.auwin.co CNAME .
 axelcasinos.co CNAME .
 *.axelcasinos.co CNAME .
+barterbets.co CNAME .
+*.barterbets.co CNAME .
 bbpoker.co CNAME .
 *.bbpoker.co CNAME .
 bc.co CNAME .
@@ -14360,8 +14362,6 @@ advantage-gambling.com CNAME .
 *.advantage-gambling.com CNAME .
 adventurecompanygames.com CNAME .
 *.adventurecompanygames.com CNAME .
-advisercasinospl.com CNAME .
-*.advisercasinospl.com CNAME .
 ae888.com CNAME .
 *.ae888.com CNAME .
 aerobet-casino-uk.com CNAME .
@@ -14944,8 +14944,6 @@ apelsinich.com CNAME .
 *.apelsinich.com CNAME .
 apexpokerai.com CNAME .
 *.apexpokerai.com CNAME .
-aphrodite-casinoer.com CNAME .
-*.aphrodite-casinoer.com CNAME .
 aphroditecasino-france.com CNAME .
 *.aphroditecasino-france.com CNAME .
 aphroditecasino-greece.com CNAME .
@@ -16134,6 +16132,8 @@ bayconticasino397.com CNAME .
 *.bayconticasino397.com CNAME .
 bayconticasino398.com CNAME .
 *.bayconticasino398.com CNAME .
+bayconticasino399.com CNAME .
+*.bayconticasino399.com CNAME .
 bayconticasino400.com CNAME .
 *.bayconticasino400.com CNAME .
 bayconticasino401.com CNAME .
@@ -19028,6 +19028,8 @@ brabet.com CNAME .
 *.brabet.com CNAME .
 brabetpoker.com CNAME .
 *.brabetpoker.com CNAME .
+brabetsg.com CNAME .
+*.brabetsg.com CNAME .
 brabetwins.com CNAME .
 *.brabetwins.com CNAME .
 brabetxl4oq.com CNAME .
@@ -65262,6 +65264,8 @@ azino777-casino-nb7.ru CNAME .
 *.azino777-casino-nb7.ru CNAME .
 azino777-casino-nd1.ru CNAME .
 *.azino777-casino-nd1.ru CNAME .
+azino777-casino-nm0.ru CNAME .
+*.azino777-casino-nm0.ru CNAME .
 azino777-casino-nz1.ru CNAME .
 *.azino777-casino-nz1.ru CNAME .
 azino777-casino-oi6.ru CNAME .
@@ -70426,8 +70430,6 @@ pejuangsubur88.tokyo CNAME .
 *.7k-casino676.top CNAME .
 7k-online-casino9908.top CNAME .
 *.7k-online-casino9908.top CNAME .
-7kcasino-bek.top CNAME .
-*.7kcasino-bek.top CNAME .
 7kcasino-bmn.top CNAME .
 *.7kcasino-bmn.top CNAME .
 7kcasino-cah.top CNAME .
@@ -70662,6 +70664,8 @@ arkada-casino-oxh.top CNAME .
 *.arkada-casino-oxh.top CNAME .
 arkada-casino-piz.top CNAME .
 *.arkada-casino-piz.top CNAME .
+arkada-casino-ppb.top CNAME .
+*.arkada-casino-ppb.top CNAME .
 arkada-casino-qvj.top CNAME .
 *.arkada-casino-qvj.top CNAME .
 arkada-casino-rah.top CNAME .
@@ -70750,6 +70754,8 @@ beef-casino-cristal3.top CNAME .
 *.beef-casino-cristal3.top CNAME .
 beef-casino-cup3.top CNAME .
 *.beef-casino-cup3.top CNAME .
+beef-casino-lenny3.top CNAME .
+*.beef-casino-lenny3.top CNAME .
 beef-casino-parallel3.top CNAME .
 *.beef-casino-parallel3.top CNAME .
 beef-casino-smile3.top CNAME .

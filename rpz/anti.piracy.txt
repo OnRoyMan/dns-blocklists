@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1769812560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1769833980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Jan 2026 22:36 UTC
-; Version: 2026.0130.2236.34
+; Last modified: 31 Jan 2026 04:33 UTC
+; Version: 2026.0131.0433.24
 ; Syntax: RPZ
 ; Number of entries: 23258
 ;
@@ -10320,6 +10320,8 @@ serialnumber.in CNAME .
 *.serialnumber.in CNAME .
 seriesflix.in CNAME .
 *.seriesflix.in CNAME .
+tracker.sharebro.in CNAME .
+*.tracker.sharebro.in CNAME .
 simplestream.in CNAME .
 *.simplestream.in CNAME .
 softwarehomes.in CNAME .
@@ -12666,8 +12668,6 @@ altadefinizionegratis.mom CNAME .
 *.altadefinizionegratis.mom CNAME .
 cineblog01.mom CNAME .
 *.cineblog01.mom CNAME .
-eurostreamings.mom CNAME .
-*.eurostreamings.mom CNAME .
 flemmix.mom CNAME .
 *.flemmix.mom CNAME .
 fullymaza.mom CNAME .
